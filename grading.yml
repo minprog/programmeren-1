@@ -49,50 +49,46 @@ grades:
     recover: *automatic
     speller: *automatic
 
+modules:
+    m0:
+        - scratch
+    m1:
+        - hello
+        - water
+        - mario_less
+        - mario_more
+        - cash
+        - credit
+    m2:
+        - caesar
+        - vigenere
+        - crack
+    m3:
+        - fifteen
+        - find
+    m4:
+        - whodunit
+        - resize
+        - recover
+    m5:
+        - speller
+
 calculation:
     final:
         tests: 0
-        modules: 100
+        mods: 100
 # resit:
 #     tests: 0
 #     modules: 100
 
-modules:
-    grades:
-        m0:
-            weight: 0
-            submits:
-                - scratch
-        m1:
-            weight: 1
-            submits:
-                - hello
-                - water
-                - mario_less
-                - mario_more
-                - cash
-                - credit
-        m2:
-            weight: 1
-            submits:
-                - caesar
-                - vigenere
-                - crack
-        m3:
-            weight: 1
-            submits:
-                - fifteen
-                - find
-        m4:
-            weight: 1
-            submits:
-                - whodunit
-                - resize
-                - recover
-        m5:
-            weight: 1
-            submits:
-                - speller
+mods:
+    submits:
+        m0: 0
+        m1: 1
+        m2: 1
+        m3: 1
+        m4: 1
+        m5: 1
 
 tests:
     required: true
