@@ -7,17 +7,17 @@ templates:
             correctness: (check_score * 5).floor
         calculation: -(correctness/5)
         hide_calculated: true
-    2: &automatic
-        type: float
-        subgrades:
-            correctness: integer
-            design: integer
-            style: integer
-        automatic:
-            correctness: (check_score * 5).floor
-            style: style_score
-        calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
-        hide_calculated: true
+    # 2: &automatic
+    #     type: float
+    #     subgrades:
+    #         correctness: integer
+    #         design: integer
+    #         style: integer
+    #     automatic:
+    #         correctness: (check_score * 5).floor
+    #         style: style_score
+    #     calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
+    #     hide_calculated: true
     3: &manual
         type: float
         subgrades:
@@ -27,34 +27,32 @@ templates:
         calculation: ((points + hacker - late) / 5 * 9 + 1).round(1)
 
 grades:
-    scratch:
-        <<: *fullyauto
-        calculation: -((correctness+1)/5)
+    scratch: *fullyauto
     hello: *fullyauto
     water: *fullyauto
-    mario_less: *automatic
-    mario_more: *automatic
-    cash: *automatic
-    credit: *automatic
+    mario_less: *fullyauto
+    mario_more: *fullyauto
+    cash: *fullyauto
+    credit: *fullyauto
     initials_less: *fullyauto
     initials_more: *fullyauto
-    caesar: *automatic
-    vigenere: *automatic
-    crack: *automatic
-    music: *automatic
-    fifteen: *automatic
-    find_less: *automatic
-    find_more: *automatic
+    caesar: *fullyauto
+    vigenere: *fullyauto
+    crack: *fullyauto
+    music: *fullyauto
+    fifteen: *fullyauto
+    find_less: *fullyauto
+    find_more: *fullyauto
     whodunit:
         type: float
         subgrades:
             correctness: integer
         calculation: (correctness / 5.0 * 9 + 1).round(1)
         hide_calculated: true
-    resize_less: *automatic
-    resize_more: *automatic
-    recover: *automatic
-    speller: *automatic
+    resize_less: *fullyauto
+    resize_more: *fullyauto
+    recover: *fullyauto
+    speller: *fullyauto
     m0: *manual
     m1: *manual
     m2: *manual
