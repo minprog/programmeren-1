@@ -1,10 +1,10 @@
 ---
 title: for
 description: A first example of a for-loop
-keywords:
-  - for
-  - repeat
-  - loop
+# keywords:
+#   - for
+#   - repeat
+#   - loop
 ---
 
 * To `repeat` something a certain number of times, we can use this:

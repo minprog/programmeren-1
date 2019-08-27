@@ -1,12 +1,12 @@
 ---
 title: Scratch
 description: Introduction to Scratch and explanation of many Scratch elements.
-keywords:
-  - scratch
-  - functions
-  - conditions
-  - loops
-  - booleans
+# keywords:
+#   - scratch
+#   - functions
+#   - conditions
+#   - loops
+#   - booleans
 ---
 
 ## Scratch

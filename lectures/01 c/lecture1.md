@@ -1,8 +1,8 @@
 ---
 title: main
 description: A first example of the main function
-keywords:
-  - main
+#keywords:
+#  - main
 ---
 
 * To make this a complete program, we can add the following:

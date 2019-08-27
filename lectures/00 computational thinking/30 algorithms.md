@@ -1,9 +1,9 @@
 ---
 title: Algorithms
 description: Explanation of algorithms as step-by-step instructions, as well as pseudocode.
-keywords:
-  - algorithms
-  - pseudocode
+# keywords:
+#   - algorithms
+#   - pseudocode
 ---
 
 ## Algorithms

@@ -1,9 +1,9 @@
 ---
 title: Functions
 description: A first example of defining a function
-keywords:
-  - function
-  - return
+#keywords:
+#  - function
+#  - return
 ---
 
 * Let's write our own function that returns a value:

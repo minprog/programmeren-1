@@ -1,11 +1,11 @@
 ---
 title: Conditions
 description: A first example of if-conditions
-keywords:
-  - if
-  - else
-  - else if
-  - conditions
+#keywords:
+#  - if
+#  - else
+#  - else if
+#  - conditions
 ---
 
 * Last time, we also created a nested set of conditions in Scratch:

@@ -1,10 +1,10 @@
 ---
 title: while(true)
 description: A first example of while(true)
-keywords:
-  - forever
-  - while
-  - loop
+#keywords:
+#  - forever
+#  - while
+#  - loop
 ---
 
 * A `forever` block can be translated to C like this:

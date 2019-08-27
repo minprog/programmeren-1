@@ -1,10 +1,10 @@
 ---
 title: Binary
 description: Explanation of binary as a means of encoding information in computers.
-keywords:
-  - binary
-  - ASCII
-  - RGB
+# keywords:
+#  - binary
+#  - ASCII
+#  - RGB
 ---
 
 ## Binary
