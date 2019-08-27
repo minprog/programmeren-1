@@ -83,13 +83,13 @@ modules:
             submits:
                 - fifteen
                 - find
-        m4: 1
+        m4:
             weight: 1
             submits:
                 - whodunit
                 - resize
                 - recover
-        m5: 1
+        m5:
             weight: 1
             submits:
                 - speller
