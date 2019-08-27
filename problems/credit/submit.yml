@@ -1,0 +1,7 @@
+name: credit
+files:
+    required:
+        - credit.c
+check:
+    tool: check50v2
+    slug: credit@minprog/checks

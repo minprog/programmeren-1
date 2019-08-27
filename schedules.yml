@@ -1,0 +1,100 @@
+Parttime:
+    Module 0:
+        Introduction: /overviews/scratch
+        "Lecture: Computational Thinking": /lectures/computational-thinking
+        Implement Scratch: /problems/scratch
+    Module 1:
+        Introduction: /overviews/c
+        Hello:
+            "Lecture: C": /lectures/c
+            Create a GitHub account: https://github.com/join
+            Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
+        Water:
+            Create your own CS50 IDE: https://ide.cs50.io/
+            Learn about the Command Line: /shorts/command-line
+            Implement Water: /problems/water
+        Greedy:
+            "Implement either of:":
+                Greedy: /problems/greedy
+                Credit (very hard): /problems/credit
+        Mario:
+            "Lecture: Tools": /lectures/tools
+            "Implement either of:":
+                Mario: /problems/mario-less
+                Mario (harder): /problems/mario-more
+        Thursday exercises:
+            Variables: /exercises/variables
+            Control flow: /exercises/control-flow
+    Module 2:
+        Introduction: /overviews/crypto
+        "Lecture: Arrays": /lectures/arrays
+        "Implement either of:":
+            Initials: /problems/initials-less
+            Initials (harder): /problems/initials-more
+        "Implement:":
+            Caesar: /problems/caesar
+        "Implement either  of:":
+            Vigenere: /problems/vigenere
+            Crack (darn hard!): /problems/crack
+        Thursday exercises:
+            Unscratch: /exercises/unscratch
+            Sequences: /exercises/sequences
+    Module 3:
+        Introduction: /overviews/fifteen
+        "Lecture: Algorithms": /lectures/algorithms
+        "Implement either  of:":
+            Find: /problems/find-less
+            Find (harder): /problems/find-more
+        "Implement:":
+            Fifteen: /problems/fifteen
+        Thursday exercises:
+            Arrays: /exercises/arrays
+            Nested loops: /exercises/nested-loops
+    Module 4:
+        Introduction: /overviews/forensics
+        "Lecture: Memory": /lectures/memory
+        "Implement:":
+            Whodunit: /problems/whodunit
+        "Implement either  of:":
+            Resize: /problems/resize-less
+            Resize (harder): /problems/resize-more
+        "Implement: ":
+            Recover: /problems/recover
+        Thursday exercises:
+            Functions: /exercises/functions
+            Algorithms: /exercises/algorithms
+    Module 5:
+        Mispellings: /overviews/mispellings
+
+Fulltime:
+    Module 0:
+        Watch lecture 0: /lectures/lecture-0
+        Implement Scratch: /overviews/scratch
+    Module 1:
+        Preparation:
+            Watch Lecture 1: /lectures/lecture-1
+            Create a GitHub account: https://github.com/join
+            Implement Hello: https://lab.cs50.io/cs50/labs/2019/x/hello/
+            Create a CS50 IDE: https://ide.cs50.io/
+            Learn about the Terminal: https://www.youtube.com/embed/BnJ013X02b8?autoplay=1&rel=0
+            Implement Water: /problems/water
+        Greedy:
+            "Implement either of:":
+                Greedy: /problems/greedy
+                Credit (very hard): /problems/credit
+        Mario:
+            Watch Lecture 2a: /lectures/lecture-2a
+            "Implement either of:":
+                Mario: /problems/mario-less
+                Mario (harder): /problems/mario-more
+        Thursday exercises:
+            Variables: /exercises/variables
+            Control flow: /exercises/control-flow
+    Module 2:
+        Crypto: /overviews/crypto
+    Module 3:
+        Fifteen: /overviews/fifteen
+    Module 4:
+        Forensics: /overviews/forensics
+    Module 5:
+        Mispellings: /overviews/mispellings

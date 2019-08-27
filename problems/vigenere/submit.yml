@@ -1,0 +1,7 @@
+name: vigenere
+files:
+    required:
+        - vigenere.c
+check:
+    tool: check50v2
+    slug: vigenere@minprog/checks

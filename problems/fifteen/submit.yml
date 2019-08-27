@@ -1,0 +1,9 @@
+name: fifteen
+files:
+    required:
+        - fifteen.c
+        - Makefile
+        - questions.txt
+check:
+    tool: check50v2
+    slug: fifteen@minprog/checks

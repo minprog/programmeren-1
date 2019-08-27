@@ -1,0 +1,7 @@
+name: find_more
+files:
+    required:
+        - helpers.c
+check:
+    tool: check50v2
+    slug: find/more@minprog/checks

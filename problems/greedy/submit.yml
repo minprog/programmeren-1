@@ -1,0 +1,7 @@
+name: cash
+files:
+    required:
+        - cash.c
+check:
+    tool: check50v2
+    slug: cash@minprog/checks

@@ -1,0 +1,7 @@
+name: resize_more
+files:
+    required:
+        - resize.c
+check:
+    tool: check50v2
+    slug: resize/more@minprog/checks

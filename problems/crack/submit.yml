@@ -1,0 +1,7 @@
+name: crack
+files:
+    required:
+        - crack.c
+check:
+    tool: check50v2
+    slug: crack@minprog/checks

@@ -1,0 +1,97 @@
+templates:
+    1: &fullyauto
+        type: pass
+        subgrades:
+            correctness: integer
+        automatic:
+            correctness: (check_score * 5).floor
+        calculation: -(correctness/5)
+        hide_calculated: true
+    2: &automatic
+        type: float
+        subgrades:
+            correctness: integer
+            design: integer
+            style: integer
+        automatic:
+            correctness: (check_score * 5).floor
+            style: style_score
+        calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
+        hide_calculated: true
+
+grades:
+    scratch:
+        <<: *fullyauto
+        calculation: -((correctness+1)/5)
+    hello: *fullyauto
+    water: *fullyauto
+    mario_less: *automatic
+    mario_more: *automatic
+    cash: *automatic
+    credit: *automatic
+    initials_less: *fullyauto
+    initials_more: *fullyauto
+    caesar: *automatic
+    vigenere: *automatic
+    crack: *automatic
+    music: *automatic
+    fifteen: *automatic
+    find_less: *automatic
+    find_more: *automatic
+    whodunit:
+        type: float
+        subgrades:
+            correctness: integer
+        calculation: (correctness / 5.0 * 9 + 1).round(1)
+        hide_calculated: true
+    resize_less: *automatic
+    resize_more: *automatic
+    recover: *automatic
+
+calculation:
+    p1normal:
+        quiz1: 0
+        psets1: 100
+    p1resit:
+        resit1: 0
+        psets1: 100
+
+psets1:
+    drop: correctness
+    submits:
+        scratch: 0
+        hello: 0
+        water: 0
+        mario: [12.5, mario, mario_more]
+        cash-credit: [12.5, cash, credit]
+        # initials weggelaten ivm problemen met "max" van pass/fail cijfer berekenen
+        # initials: [0, initials-less, initials_more]
+        caesar: 12.5
+        vigenere-crack: [12.5, vigenere, crack]
+        # accepteert nu nog music als alternatief
+        fifteen: [12.5, fifteen, music]
+        find: [12.5, find_less, find_more]
+        whodunit: 0
+        resize: [12.5, resize_less, resize_more]
+        recover: 12.5
+
+
+modules:
+    submits:
+        module1: 0
+        module2: 1
+        module3: 1
+        module4: 1
+        module5: 1
+
+tests:
+    required: true
+    submits:
+        t1: 1
+        t2: 1
+        t3: 1
+        t4: 1
+        t5: 1
+        t6: 1
+        t7: 1
+        t8: 1

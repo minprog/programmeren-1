@@ -1,0 +1,9 @@
+name: whodunit
+files:
+    required:
+        - whodunit.c
+        - verdict.bmp
+        - README.md
+check:
+    tool: check50v2
+    slug: whodunit@minprog/checks

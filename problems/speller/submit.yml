@@ -1,0 +1,9 @@
+name: speller
+files:
+    required:
+        - dictionary.c
+        - dictionary.h
+        - Makefile
+check:
+    tool: check50v2
+    slug: speller@minprog/checks
