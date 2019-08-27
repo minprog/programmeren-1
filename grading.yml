@@ -18,6 +18,13 @@ templates:
             style: style_score
         calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
         hide_calculated: true
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+            hacker: integer
+            late: integer
+        calculation: ((points + hacker - late) / 5 * 9 + 1).round(1)
 
 grades:
     scratch:
@@ -48,6 +55,12 @@ grades:
     resize_more: *automatic
     recover: *automatic
     speller: *automatic
+    m0: *manual
+    m1: *manual
+    m2: *manual
+    m3: *manual
+    m4: *manual
+    m5: *manual
 
 modules:
     m0:
