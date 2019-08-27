@@ -65,10 +65,12 @@ modules:
         - crack
     m3:
         - fifteen
-        - find
+        - find_less
+        - find_more
     m4:
         - whodunit
-        - resize
+        - resize_less
+        - resize_more
         - recover
     m5:
         - speller
