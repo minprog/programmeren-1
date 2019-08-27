@@ -49,40 +49,49 @@ grades:
     recover: *automatic
 
 calculation:
-    p1normal:
-        quiz1: 0
-        psets1: 100
-    p1resit:
-        resit1: 0
-        psets1: 100
-
-psets1:
-    drop: correctness
-    submits:
-        scratch: 0
-        hello: 0
-        water: 0
-        mario: [12.5, mario, mario_more]
-        cash-credit: [12.5, cash, credit]
-        # initials weggelaten ivm problemen met "max" van pass/fail cijfer berekenen
-        # initials: [0, initials-less, initials_more]
-        caesar: 12.5
-        vigenere-crack: [12.5, vigenere, crack]
-        # accepteert nu nog music als alternatief
-        fifteen: [12.5, fifteen, music]
-        find: [12.5, find_less, find_more]
-        whodunit: 0
-        resize: [12.5, resize_less, resize_more]
-        recover: 12.5
-
+    final:
+        tests: 0
+        modules: 100
+# resit:
+#     tests: 0
+#     modules: 100
 
 modules:
-    submits:
-        module1: 0
-        module2: 1
-        module3: 1
-        module4: 1
-        module5: 1
+    grades:
+        m0:
+            weight: 0
+            submits:
+                - scratch
+        m1:
+            weight: 1
+            submits:
+                - hello
+                - water
+                - mario_less
+                - mario_more
+                - cash
+                - credit
+        m2:
+            weight: 1
+            submits:
+                - caesar
+                - vigenere
+                - crack
+        m3:
+            weight: 1
+            submits:
+                - fifteen
+                - find
+        m4: 1
+            weight: 1
+            submits:
+                - whodunit
+                - resize
+                - recover
+        m5: 1
+            weight: 1
+            submits:
+                - speller
 
 tests:
     required: true
