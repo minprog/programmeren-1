@@ -47,6 +47,7 @@ grades:
     resize_less: *automatic
     resize_more: *automatic
     recover: *automatic
+    speller: *automatic
 
 calculation:
     final:
