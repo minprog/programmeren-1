@@ -35,7 +35,7 @@ Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht i
 
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
-5. uitzonderlijke goed resultaat met doordacht ontwerp
+5. uitzonderlijk goed resultaat met doordacht ontwerp
 4. goed resultaat op alle aangegeven aspecten
 3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
 2. zichtbare aandacht voor de meeste aspecten
