@@ -35,11 +35,11 @@ Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht i
 
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
-5. uitzonderlijke kwaliteit op alle genoemde aspecten en vele niet-genoemde aspecten
-4. gedegen kwaliteit op vrijwel alle aspecten, inclusief aspecten van eerdere modules
-3. goede kwaliteit op sommige genoemde aspecten, met zichtbare aandacht voor de andere aspecten
-2. zichtbare aandacht voor diverse aspecten van kwaliteit
-1. minimale aandacht voor kwaliteit zoals zichtbaar in de code
+5. uitzonderlijke goed resultaat met doordacht ontwerp
+4. goed resultaat op alle aangegeven aspecten
+3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
+2. zichtbare aandacht voor de meeste aspecten
+1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
 Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten), die wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes en het tentamen leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
