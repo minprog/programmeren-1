@@ -17,8 +17,6 @@ For information on (or help with) this module:
 
 ## Grading
 
-Below, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
 - Use of comments
