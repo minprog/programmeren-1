@@ -39,9 +39,11 @@ Don't know where to start? Ask a question!
 
 ## Specification
 
-Now if you *think* you're finished with the program, the specification, together with the examples of running the program, provide you with guidelines as to how your program should work _exactly_. You will probably read them before starting to program, so as to take into account the requirements and design a solution. But more importantly, when you think you are finished, have another look and check if you haven't forgotten anything!
+Now if you *think* you're finished with the program, the specification, together with the examples of running the program, provide you with guidelines as to how your program should work _exactly_. 
 
-Here are the requirements for `water`:
+Normally, you will probably read them before starting to program, so as to take into account the requirements and design a solution even before you start coding. But more importantly, when you think you are finished, have another look and check if you haven't forgotten anything!
+
+Here are the requirements for `water.c`:
 
 * Write, in a file called `water.c` in your `~/module1/` directory, a program that prompts the user for the length of his or her shower in minutes (as a positive integer) and then prints the equivalent number of bottles of water (as an integer)
 
