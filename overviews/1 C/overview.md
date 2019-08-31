@@ -15,6 +15,27 @@ For information on (or help with) this module:
 {: start="0"}
 
 
+## Getting Started
+
+Your first program will be a classic. The goal is to try out compiling your program, maybe fixing a typo and getting used to the editor. No need to submit!
+
+- Watch the lecture on [C](/lectures/c)
+
+- Create an account on [GitHub](https://github.com/join){:.external}
+
+- Write your first program: [Hello](https://lab.cs50.io/uva/cs50x/master/problems/hello/){:.external}
+
+Next up, you'll create an account on the CS50 IDE, which will be your code editor for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`.
+
+- Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account (this currently only works in Chrome and Firefox!)
+
+- Learn about using the [Command Line](/shorts/command-line) in the IDE
+
+  (Note that in the current version of the IDE, your main directory isn't `workspace` but `~` instead.)
+
+- Implement [Water](/problems/water)
+
+
 ## Grading
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
@@ -26,22 +47,6 @@ As soon as you have submitted working solutions for all problems below, your men
 
 
 ## What to Do
-
-#### Hello
-
-- Watch the lecture on [C](/lectures/c)
-
-- Create an account on [GitHub](https://github.com/join){:.external}
-
-- Write your first program: [Hello](https://lab.cs50.io/uva/cs50x/master/problems/hello/){:.external}
-
-#### Water
-
-- Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account (this currently only works in Chrome and Firefox!)
-
-- Learn about using the [Command Line](/shorts/command-line) in the IDE
-
-- Implement [Water](/problems/water)
 
 #### Greedy
 
