@@ -25,7 +25,7 @@ Your first program will be a classic. The goal of this exercise is to try out co
 
 - Write your first program: [Hello](https://lab.cs50.io/uva/cs50x/master/problems/hello/){:.external}
 
-Next up, you'll create an account on the CS50 IDE, which will be your code editor for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
+Next up, you'll create an instance of the CS50 IDE, which will be your "code editor" for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
 
 - Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account
 
@@ -50,9 +50,9 @@ As soon as you have submitted working solutions for all problems below, your men
 
 Implement and submit either of:
 
-- [Greedy](/problems/greedy), for most students
+- [Greedy](/problems/greedy), which we expect most students to solve
 
-- [Credit](/problems/credit), for those more comfortable
+- [Credit](/problems/credit), aimed at students who already have quite some experience with programming
 
 #### Mario
 
