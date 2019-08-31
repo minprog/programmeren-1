@@ -16,12 +16,12 @@ Parttime:
         Greedy:
             "Implement either of:":
                 Greedy: /problems/greedy
-                Credit (very hard): /problems/credit
+                Credit (hacker): /problems/credit
         Mario:
             "Lecture: Tools": /lectures/tools
             "Implement either of:":
                 Mario: /problems/mario-less
-                Mario (harder): /problems/mario-more
+                Mario (hacker): /problems/mario-more
         Thursday exercises:
             Variables: /exercises/variables
             Control flow: /exercises/control-flow
@@ -31,13 +31,13 @@ Parttime:
         Initials:
             "Implement either of:":
                 Initials: /problems/initials-less
-                Initials (harder): /problems/initials-more
+                Initials (hacker): /problems/initials-more
         Caesar:
             Implement Caesar: /problems/caesar
         Vigenere:
             "Implement either  of:":
                 Vigenere: /problems/vigenere
-                Crack (darn hard!): /problems/crack
+                Crack (hacker): /problems/crack
         Thursday exercises:
             Unscratch: /exercises/unscratch
             Sequences: /exercises/sequences
@@ -47,7 +47,7 @@ Parttime:
         Find:
             "Implement either of:":
                 Find: /problems/find-less
-                Find (harder): /problems/find-more
+                Find (hacker): /problems/find-more
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Thursday exercises:
@@ -61,7 +61,7 @@ Parttime:
         Resize:
             "Implement either of:":
                 Resize: /problems/resize-less
-                Resize (harder): /problems/resize-more
+                Resize (hacker): /problems/resize-more
         Recover:
             Implement Recover: /problems/recover
         Thursday exercises:
@@ -90,12 +90,12 @@ Fulltime:
         Greedy:
             "Implement either of:":
                 Greedy: /problems/greedy
-                Credit (very hard): /problems/credit
+                Credit (hacker): /problems/credit
         Mario:
             "Lecture: Tools": /lectures/tools
             "Implement either of:":
                 Mario: /problems/mario-less
-                Mario (harder): /problems/mario-more
+                Mario (hacker): /problems/mario-more
         Thursday exercises:
             Variables: /exercises/variables
             Control flow: /exercises/control-flow
@@ -105,13 +105,13 @@ Fulltime:
         Initials:
             "Implement either of:":
                 Initials: /problems/initials-less
-                Initials (harder): /problems/initials-more
+                Initials (hacker): /problems/initials-more
         Caesar:
             Implement Caesar: /problems/caesar
         Vigenere:
             "Implement either  of:":
                 Vigenere: /problems/vigenere
-                Crack (darn hard!): /problems/crack
+                Crack (hacker): /problems/crack
         Thursday exercises:
             Unscratch: /exercises/unscratch
             Sequences: /exercises/sequences
@@ -121,7 +121,7 @@ Fulltime:
         Find:
             "Implement either of:":
                 Find: /problems/find-less
-                Find (harder): /problems/find-more
+                Find (hacker): /problems/find-more
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Thursday exercises:
@@ -135,7 +135,7 @@ Fulltime:
         Resize:
             "Implement either of:":
                 Resize: /problems/resize-less
-                Resize (harder): /problems/resize-more
+                Resize (hacker): /problems/resize-more
         Recover:
             Implement Recover: /problems/recover
         Thursday exercises:
