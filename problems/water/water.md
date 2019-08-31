@@ -41,7 +41,7 @@ Don't know where to start? Ask a question!
 
 Now if you *think* you're finished with the program, the specification, together with the examples of running the program, provide you with guidelines as to how your program should work _exactly_. 
 
-Normally, you will probably read them before starting to program, so as to take into account the requirements and design a solution even before you start coding. But more importantly, when you think you are finished, have another look and check if you haven't forgotten anything!
+Normally, you will probably read them before starting to program, so as to take into account the requirements and design a solution even **before you start coding** (unlike now!). But more importantly, when you think you are finished, have another look and check if you haven't forgotten anything!
 
 Here are the requirements for `water.c`:
 
