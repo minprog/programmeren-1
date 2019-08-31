@@ -16,7 +16,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 - alle hoorcolleges bekijkt,
 - alle werkgroepen bijwoont,
-- alle uren aanwezig bent in het lab,
+- voldoende uren aanwezig bent in het lab,
 - alle opdrachten volledig uitgewerkt instuurt,
 - alle toetsjes maakt en haalt, en
 - het tentamen maakt en haalt.
@@ -36,7 +36,7 @@ Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht i
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
 5. uitzonderlijk goed resultaat met doordacht ontwerp
-4. goed resultaat op alle aangegeven aspecten
+4. goed resultaat op alle aspecten
 3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
 2. zichtbare aandacht voor de meeste aspecten
 1. zichtbare aandacht voor een beperkt aantal aspecten
@@ -97,7 +97,7 @@ Locatie: A1.22
 
 ## Toetsjes
 
-Wekelijks op donderdag vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
+Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
 
 Alle toetsjes moeten gehaald worden om de cursus te voltooien, maar alle toetsjes kunnen zonodig binnen enkele dagen herkanst worden. Meer informatie krijg je bij het afnemen van de toetsjes.
 
