@@ -68,7 +68,7 @@ Implement and submit either of:
 
 #### Exercises
 
-Study and take the test on Thursday:
+Study and take the test:
 
 - [Variables](/exercises/variables)
 
