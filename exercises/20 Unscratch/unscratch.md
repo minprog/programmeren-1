@@ -8,12 +8,12 @@ Your objective is to translate the following scratch programs into C. Interpret 
 
 If you haven't done so yet, create a directory called `practice` in your workspace:
 
-    mkdir ~/workspace/practice
+    mkdir ~/practice
 
 Create a directory `unscratch` in `practice` and step into it:
 
-    mkdir ~/workspace/practice/unscratch
-    cd ~/workspace/practice/unscratch
+    mkdir ~/practice/unscratch
+    cd ~/practice/unscratch
 
 ## Counter
 
