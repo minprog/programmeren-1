@@ -54,7 +54,7 @@ Implement and submit either of:
 
 - [Greedy](/problems/greedy), which we expect most students to solve
 
-- [Credit](/problems/credit), aimed at students who already have quite some experience with programming
+- [Credit](/problems/credit), the "hacker edition" aimed at students who already have quite some experience with programming
 
 #### Mario
 
@@ -64,7 +64,7 @@ Implement and submit either of:
 
     - [Mario](/problems/mario-less), for most students
 
-    - [Mario](/problems/mario-more), for those more comfortable
+    - [Mario](/problems/mario-more), the hacker edition
 
 #### Exercises
 
