@@ -15,7 +15,7 @@ description: An introduction to overflow
 
 * If we added `1` to that, we'll get `1 1 1 1 1 1 1 1`, but what happens if we add another `1` to that? We'll start carrying over all the ``0``s to get `0 0 0 0 0 0 0 0`, but we don't have an extra bit to the left to actually store that larger value.
 
-* We can see this in a program, [overflow.c](http://cdn.cs50.net/2017/fall/lectures/1/src1/overflow.c.src):
+* We can see this in a program, [overflow.c](http://cdn.cs50.net/2017/fall/lectures/1/src1/overflow.c):
 
 		// Integer overflow
 

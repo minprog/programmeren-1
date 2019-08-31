@@ -46,7 +46,7 @@
 
 		| S | t | e | l | i | o | s |
 
-* Indeed, a string is just an abstraction for a sequence of characters. Let's experiment with [`string0.c`](http://cdn.cs50.net/2017/fall/lectures/2/src2/string0.c.src):
+* Indeed, a string is just an abstraction for a sequence of characters. Let's experiment with [`string0.c`](http://cdn.cs50.net/2017/fall/lectures/2/src2/string0.c):
 
 		#include <cs50.h>
 		#include <stdio.h>
@@ -204,7 +204,7 @@
 
 * We can change that so our program takes input not when it runs, but before it runs, at the command-line, as does `clang` or `style50`, so we avoid having to wait for prompts.
 
-* We can try the following with [`argv0.c`](http://cdn.cs50.net/2017/fall/lectures/2/src2/argv0.c.src):
+* We can try the following with [`argv0.c`](http://cdn.cs50.net/2017/fall/lectures/2/src2/argv0.c):
 
 		#include <cs50.h>
 		#include <stdio.h>

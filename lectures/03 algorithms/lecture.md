@@ -230,7 +230,7 @@
 
 * We take a look at [this visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) of how sorting differs between algorithms. We see each number represented as bars, and the larger numbers (taller bars) move to the right for bubble sort, as we'd expect. For selection sort, we see the smaller numbers move to the left, one at a time. And for insertion sort, we can see a sorted list built by taking one element at a time from the rest of the list, by shifting the elements in the sorted side of the list.
 
-* Before we can implement merge sort, let's look at [`sigma0.c`](http://cdn.cs50.net/2017/fall/lectures/3/src3/sigma0.c.src):
+* Before we can implement merge sort, let's look at [`sigma0.c`](http://cdn.cs50.net/2017/fall/lectures/3/src3/sigma0.c):
 
 		#include <cs50.h>
 		#include <stdio.h>
