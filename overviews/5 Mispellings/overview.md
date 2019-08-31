@@ -26,7 +26,7 @@ This problem is **optional**. You can earn up to 2 points by submitting a effici
 
 - Watch [Lecture 5](/lectures/lecture-5)
 
-- Implement [Speller](/problems/speller) [100%]
+- Implement [Speller](/problems/speller)
 
 
 ## Reference
