@@ -185,7 +185,7 @@ Before submitting, we expect you to take care that your program is as well-polis
 ### Correctness
 
 ~~~~
-check50 mario/less@minprog/checks
+check50 minprog/cs50x/2019/mario/less
 ~~~~
 
 

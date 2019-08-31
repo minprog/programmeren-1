@@ -26,8 +26,8 @@ Log into <https://ide.cs50.io/> and execute the below in a terminal window.
 [source, c]
 ----
 update50
-mkdir ~/workspace/pset1/
-cd ~/workspace/pset1/
+mkdir ~/pset1/
+cd ~/pset1/
 ----
 
 Then, to start implementing this problem, create a new file called "water.c" and proceed below.
@@ -69,5 +69,5 @@ To check whether your program is running well according to specifications, you m
 
 [source,text]
 ----
-check50 water@minprog/checks
+check50 minprog/cs50x/2019/water
 ----

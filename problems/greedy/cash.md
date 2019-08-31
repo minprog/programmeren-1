@@ -123,7 +123,7 @@ Before submitting, we expect you to take care that your program is as well-polis
 ### Correctness
 
 ~~~~
-check50 greedy@minprog/checks
+check50 minprog/cs50x/2019/greedy
 ~~~~
 
 ### Style

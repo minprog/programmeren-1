@@ -3,5 +3,5 @@ files:
     required:
         - credit.c
 check:
-    tool: check50v2
-    slug: credit@minprog/checks
+    tool: check50v3
+    slug: minprog/cs50x/2019/credit

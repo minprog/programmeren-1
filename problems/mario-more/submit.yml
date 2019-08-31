@@ -3,5 +3,5 @@ files:
     everyone:
         - mario.c
 check:
-    tool: check50v2
-    slug: mario/more@minprog/checks
+    tool: check50v3
+    slug: minprog/cs50x/2019/mario/more
