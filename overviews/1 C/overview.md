@@ -31,7 +31,7 @@ Next up, you'll create an instance of the CS50 IDE, which will be your "code edi
 
 - Learn about using the [Command Line](/shorts/command-line) in the IDE
 
-- Create a "`module1`" directory in the IDE as by `mkdir ~/module1` and `cd` into it.
+- Create a "`module1`" directory in the IDE as by `mkdir ~/module1` and `cd` into it
 
 - Implement [Water](/problems/water)
 
