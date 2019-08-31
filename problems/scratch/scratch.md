@@ -44,6 +44,8 @@ Once finished with your project:
 
 - Select **File > Save to your computer** at the top of the scratch website. This should download a file whose name ends in `.sb3`.
 
-- Click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website, and you'll need to paste that URL in the form below.
+- Click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website.
+
+- Below, you should find a form where you can attach your `.sb3` file and paste your project's URL. If there is no form, you might have forgotten to logon to this website and register your name!
 
 If you have any questions or issues with the above steps, reach out to the TAs!
