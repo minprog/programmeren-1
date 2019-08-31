@@ -21,6 +21,8 @@ It's time to choose your own adventure! Your assignment, quite simply, is to imp
 
 Head to [the Scratch website](https://scratch.mit.edu/) and sign up for an account on MIT's website by clicking **Join Scratch** atop the page. Any username (that's available) is fine, but take care to remember it and your choice of password.  After registering and confirming your email address, click the orange "**Start Creating**" button to begin.
 
+## Help and ideas
+
 You might find these resources helpful (note that they show an earlier version of Scratch, although the blocks haven't changed much since!):
 
 1. [David's examples from lecture](https://scratch.mit.edu/studios/25128634/)
@@ -36,12 +38,12 @@ If, along the way, you find it too difficult to implement some feature, try not 
 
 Alright, off you go. Make us proud! 
 
-Once finished with your project, select **File > Save to your computer**  and keep that file so that you can submit it below.  (That should download a file whose name ends in `.sb3`.) 
-
 ## How to Submit
 
-Once finished with your project, click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website, and you'll need to paste that URL in the form below.
+Once finished with your project:
 
-If you have any questions or issues with the above steps, reach out to the TAs or Heads!
+- Select **File > Save to your computer** at the top of the scratch website. This should download a file whose name ends in `.sb3`.
 
-This was Scratch!
+- Click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website, and you'll need to paste that URL in the form below.
+
+If you have any questions or issues with the above steps, reach out to the TAs!
