@@ -1,6 +1,6 @@
 name: Programmeren 1
 short_name: Prog1
-language: nl
+language: en
 
 links:
     "<i class='fa fa-book'></i> CS50 Reference": https://man.cs50.io/
