@@ -17,7 +17,7 @@ For information on (or help with) this module:
 
 ## Getting Started
 
-Your first program will be a classic. The goal is to try out compiling your program, maybe fixing a typo and getting used to the editor. No need to submit!
+Your first program will be a classic. The goal of this exercise is to try out compiling your program, maybe fixing a typo and getting used to the editor. No need to submit!
 
 - Watch the lecture on [C](/lectures/c)
 
