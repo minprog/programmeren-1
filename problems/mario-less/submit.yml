@@ -3,5 +3,5 @@ files:
     required:
         - mario.c
 check:
-    tool: check50v3
+    tool: check50
     slug: minprog/cs50x/2019/water
