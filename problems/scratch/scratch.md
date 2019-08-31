@@ -23,11 +23,10 @@ Head to [the Scratch website](https://scratch.mit.edu/) and sign up for an accou
 
 You might find these resources helpful (note that they show an earlier version of Scratch, although the blocks haven't changed much since!):
 
+1. [David's examples from lecture](https://scratch.mit.edu/studios/25128634/)
 1. [Scratch for Budding Computer Scientists](https://cs.harvard.edu/malan/scratch/)
-1. [Getting Started with Scratch](https://resources.scratch.mit.edu/www/guides/en/Getting-Started-Guide-Scratch2.pdf)
-1. [Scratch Cards](https://scratch.mit.edu/info/cards/)
 
-Need to understand Scratch better? Don't forget to just play around and experiment! If time permits, take a look at Zamyla's walkthrough of Scratch blocks:
+And last but not least, Zamyla's walkthrough of Scratch blocks:
 
 ![embed](https://www.youtube.com/embed/697pD31GCZg)
 
