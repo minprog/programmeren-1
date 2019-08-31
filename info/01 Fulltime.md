@@ -1,6 +1,6 @@
 # CS50x University of Amsterdam
 
-## Studiewijzer, herfst 2019<br><small>Programmeren 1 fulltime</small>
+## Studiewijzer, herfst 2019<br><small>Programmeren 1 Fulltime</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
@@ -49,23 +49,25 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4
 
 Elke module moet op de vooraf bepaalde deadline ingeleverd zijn. Een voorlopig schema van deadlines vind je hieronder. Alle deadlines zijn om 23:59 op de genoemde datum.
 
-| deadline | fulltime  | parttime  |
-| ---------| --------- | --------- |
-| Module 0 | ma  2 sep | do  5 sep |
-| Module 1 | vr  6 sep | do 12 sep |
-| Module 2 | vr 13 sep | do 19 sep |
-| Module 3 | vr 20 sep | do  3 okt |
-| Module 4 | vr 27 sep | do 17 okt |
-| Module 5 | vr 27 sep | do 17 okt |
+| deadline | fulltime  |  
+| -------- | --------- |  
+| Module 0 | ma  2 sep |  
+| Module 1 | vr  6 sep |  
+| Module 2 | vr 13 sep |  
+| Module 3 | vr 20 sep |  
+| Module 4 | vr 27 sep |  
+| Module 5 | vr 27 sep |  
 
 Module 5 is een optionele extra uitdaging voor studenten die erg snel door de cursus heen gaan.
 
-In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines. Voor module 0 en 5 is geen uitstel mogelijk.
+In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
 | uitstel          | aftrek   |  
 | ---------------- | -------- |  
 | maximaal 1 dag   | 1/2 punt |  
 | maximaal 3 dagen | 1 punt   |  
+
+Voor modules 0 en 5 is geen uitstel mogelijk.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in gevallen van medische noodgevallen. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar in ieder geval vóór je doorgaat met werken aan de opdrachten.
 
