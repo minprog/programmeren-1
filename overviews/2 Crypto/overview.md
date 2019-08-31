@@ -17,9 +17,14 @@ For information on (or help with) this module:
 {: start="0"}
 
 
-## Academic Honesty
+## Grading
 
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
+
+- Use of comments
+- Naming of variables
+- Use of indentation
+- Use of whitespace
 
 
 ## What to Do
@@ -32,17 +37,17 @@ Do keep in mind the course's policy on [academic honesty](/syllabus#academic_hon
 
     - [Initials](/problems/initials-more), for those more comfortable
 
-- Implement: [50%]
+- Implement:
 
     - [Caesar](/problems/caesar)
 
-- Implement either of: [50%]
+- Implement either of:
 
     - [Vigenere](/problems/vigenere), for most students
 
     - [Crack](/problems/crack), for those more comfortable
 
-### Exercises
+#### Exercises
 
 Study and take the test on Thursday:
 
@@ -59,13 +64,6 @@ Study and take the test on Thursday:
 - Learn more about [Variables and scope](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0) and [Command line arguments](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0).
 
 
-## How to Submit
+## Submitting
 
-Instructions for submitting are included in the problem specifications as linked above.
-
-
-## Grading
-
-Above, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
-Your tutor will assess your programs as soon as every student has finished the module, and assign a grade for "style" and "design" for your programs. Together with the `check50` results, this will add up to a grade for this assignment.
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

@@ -9,34 +9,24 @@ For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
 
-2. Use `help50` (if unsure what an error message means) and `debug50` (if your code is buggy).
+1. Use `help50`, `eprintf` and `debug50` as needed.
 
-3. Ask questions during office hours using the "Ask" tool on this website.
+1. Ask questions during office hours using the "Ask" tool on this website.
 
-4. Visit (or e-mail) the course's heads in cases of emergency.
-
-
-## Academic Honesty
-
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
+1. Visit (or e-mail) the course's heads.
+{: start="0"}
 
 
-## Getting Started
+## Grading
 
-Alright, here we go again!
-
-Log into <https://cs50.io/> and execute the below in a terminal window.
-
-    update50
-    mkdir ~/workspace/pset4/
-    cd ~/workspace/pset4/
+This problem is **optional**. You can earn up to 2 points by submitting a efficient and good quality solution.
 
 
 ## What to Do
 
-1. Watch [Lecture 5](/lectures/lecture-5)
+- Watch [Lecture 5](/lectures/lecture-5)
 
-2. Implement [Speller](/problems/speller) [100%]
+- Implement [Speller](/problems/speller) [100%]
 
 
 ## Reference
@@ -55,15 +45,6 @@ For more in-depth reference for this problem, check out:
 - [Hash tables](https://www.youtube.com/embed/2wyCY1sX9II?autoplay=1&rel=0)
 
 
-## How to Submit
+## Submitting
 
-Instructions for submitting are included in the problem specifications as linked above.
-
-
-## Grading
-
-**Note:** this problem is optional. You can earn up to 1 point on your final grade by submitting a good solution.
-
-Above, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
-Your tutor will assess your programs as soon as every student has finished the module, and assign a grade for "style" and "design" for your programs. Together with the `check50` results, this will add up to a grade for this assignment.
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

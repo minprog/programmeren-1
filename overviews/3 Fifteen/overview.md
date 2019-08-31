@@ -2,57 +2,48 @@
 
 In this module, you'll learn about arrays and about algorithms that you might implement in C. Searching and sorting algorithms will be part of many programs that you write!
 
+
 ## Help
 
 For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
 
-2. Use `help50` (if unsure what an error message means) and `debug50` (if your code is buggy).
+1. Use `help50`, `eprintf` and `debug50` as needed.
 
-3. Ask questions during office hours using the "Ask" tool on this website.
+1. Ask questions during office hours using the "Ask" tool on this website.
 
-4. Visit (or e-mail) the course's heads in cases of emergency.
-
-
-## Academic Honesty
-
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
+1. Visit (or e-mail) the course's heads.
+{: start="0"}
 
 
-## Reminders
+## Grading
 
-Per the lecture on [Tools](/lectures/tools):
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-* Use `help50` as needed.
+- Use of comments
+- Naming of variables
+- Use of indentation
+- Use of whitespace
 
-* Use `eprintf` as needed.
-
-* Use `debug50` as needed.
-
-## Getting Started
-
-Alright, here we go again!
-
-Log into <https://cs50.io/> and execute the below in a terminal window.
-
-    update50
-    mkdir ~/workspace/pset3/
-    cd ~/workspace/pset3/
 
 ## What to Do
 
-1. Watch the lecture on [Algorithms](/lectures/algorithms)
+- Watch the lecture on [Algorithms](/lectures/algorithms)
 
-5. Implement either of: [50%]
+- Implement either of:
 
     - [Find](/problems/find-less), for those less comfortable
 
     - [Find](/problems/find-more), for those more comfortable
 
-4. Implement [Fifteen](/problems/fifteen) [50%]
+- Implement [Fifteen](/problems/fifteen)
 
-5. Learn more about [Arrays](https://www.youtube.com/embed/K1yC1xshF40?autoplay=1&rel=0), practice with book chapters 7, 8 and 9, and take the test.
+#### Exercises
+
+Study and take the test on Thursday:
+
+- Learn more about [Arrays](https://www.youtube.com/embed/K1yC1xshF40?autoplay=1&rel=0), practice with book chapters 7, 8 and 9, and take the test.
 
 
 ## Reference
@@ -66,13 +57,7 @@ Log into <https://cs50.io/> and execute the below in a terminal window.
 - [Merge sort](https://www.youtube.com/embed/yF3hMKmCk1A?autoplay=1&rel=0)
 - [Computational complexity](https://www.youtube.com/embed/YoZPTyGL2IQ?autoplay=1&rel=0)
 
-## How to Submit
 
-Instructions for submitting are included in the problem specifications as linked above.
+## Submitting
 
-
-## Grading
-
-Above, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
-Your tutor will assess your programs as soon as every student has finished the module, and assign a grade for "style" and "design" for your programs. Together with the `check50` results, this will add up to a grade for this assignment.
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

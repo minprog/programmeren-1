@@ -5,8 +5,8 @@ Parttime:
         Implement Scratch: /problems/scratch
     Module 1:
         Overview & Grading: /overviews/c
+        "Lecture: C": /lectures/c
         Hello:
-            "Lecture: C": /lectures/c
             Create a GitHub account: https://github.com/join
             Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
         Water:
@@ -26,9 +26,9 @@ Parttime:
             Variables: /exercises/variables
             Control flow: /exercises/control-flow
     Module 2:
-        Overview: /overviews/crypto
+        Overview & Grading: /overviews/crypto
+        "Lecture: Arrays": /lectures/arrays
         Initials:
-            "Lecture: Arrays": /lectures/arrays
             "Implement either of:":
                 Initials: /problems/initials-less
                 Initials (harder): /problems/initials-more
@@ -42,9 +42,9 @@ Parttime:
             Unscratch: /exercises/unscratch
             Sequences: /exercises/sequences
     Module 3:
-        Overview: /overviews/fifteen
+        Overview & Grading: /overviews/fifteen
+        "Lecture: Algorithms": /lectures/algorithms
         Find:
-            "Lecture: Algorithms": /lectures/algorithms
             "Implement either of:":
                 Find: /problems/find-less
                 Find (harder): /problems/find-more
@@ -54,9 +54,9 @@ Parttime:
             Arrays: /exercises/arrays
             Nested loops: /exercises/nested-loops
     Module 4:
-        Overview: /overviews/forensics
+        Overview & Grading: /overviews/forensics
+        "Lecture: Memory": /lectures/memory
         Whodunit:
-            "Lecture: Memory": /lectures/memory
             Implement Whodunit: /problems/whodunit
         Resize:
             "Implement either of:":
@@ -68,19 +68,19 @@ Parttime:
             Functions: /exercises/functions
             Algorithms: /exercises/algorithms
     Module 5:
-        Overview: /overviews/mispellings
+        Overview & Grading: /overviews/mispellings
         "Lecture: Data Structures": /lectures/data-structures
         Implement Mispellings: /overviews/mispellings
 
 Fulltime:
     Module 0:
-        Introduction: /overviews/scratch
+        Overview & Grading: /overviews/scratch
         "Lecture: Computational Thinking": /lectures/computational-thinking
         Implement Scratch: /problems/scratch
     Module 1:
-        Introduction: /overviews/c
+        Overview & Grading: /overviews/c
+        "Lecture: C": /lectures/c
         Hello:
-            "Lecture: C": /lectures/c
             Create a GitHub account: https://github.com/join
             Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
         Water:
@@ -100,42 +100,48 @@ Fulltime:
             Variables: /exercises/variables
             Control flow: /exercises/control-flow
     Module 2:
-        Introduction: /overviews/crypto
+        Overview & Grading: /overviews/crypto
         "Lecture: Arrays": /lectures/arrays
-        "Implement either of:":
-            Initials: /problems/initials-less
-            Initials (harder): /problems/initials-more
-        "Implement:":
-            Caesar: /problems/caesar
-        "Implement either  of:":
-            Vigenere: /problems/vigenere
-            Crack (darn hard!): /problems/crack
+        Initials:
+            "Implement either of:":
+                Initials: /problems/initials-less
+                Initials (harder): /problems/initials-more
+        Caesar:
+            Implement Caesar: /problems/caesar
+        Vigenere:
+            "Implement either  of:":
+                Vigenere: /problems/vigenere
+                Crack (darn hard!): /problems/crack
         Thursday exercises:
             Unscratch: /exercises/unscratch
             Sequences: /exercises/sequences
     Module 3:
-        Introduction: /overviews/fifteen
+        Overview & Grading: /overviews/fifteen
         "Lecture: Algorithms": /lectures/algorithms
-        "Implement either  of:":
-            Find: /problems/find-less
-            Find (harder): /problems/find-more
-        "Implement:":
-            Fifteen: /problems/fifteen
+        Find:
+            "Implement either of:":
+                Find: /problems/find-less
+                Find (harder): /problems/find-more
+        Fifteen:
+            Implement Fifteen: /problems/fifteen
         Thursday exercises:
             Arrays: /exercises/arrays
             Nested loops: /exercises/nested-loops
     Module 4:
-        Introduction: /overviews/forensics
+        Overview & Grading: /overviews/forensics
         "Lecture: Memory": /lectures/memory
-        "Implement:":
-            Whodunit: /problems/whodunit
-        "Implement either  of:":
-            Resize: /problems/resize-less
-            Resize (harder): /problems/resize-more
-        "Implement: ":
-            Recover: /problems/recover
+        Whodunit:
+            Implement Whodunit: /problems/whodunit
+        Resize:
+            "Implement either of:":
+                Resize: /problems/resize-less
+                Resize (harder): /problems/resize-more
+        Recover:
+            Implement Recover: /problems/recover
         Thursday exercises:
             Functions: /exercises/functions
             Algorithms: /exercises/algorithms
     Module 5:
-        Mispellings: /overviews/mispellings
+        Overview & Grading: /overviews/mispellings
+        "Lecture: Data Structures": /lectures/data-structures
+        Implement Mispellings: /overviews/mispellings

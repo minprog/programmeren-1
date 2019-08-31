@@ -9,44 +9,39 @@ For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
 
-2. Use `help50` (if unsure what an error message means) and `debug50` (if your code is buggy).
+1. Use `help50`, `eprintf` and `debug50` as needed.
 
-3. Ask questions during office hours using the "Ask" tool on this website.
+1. Ask questions during office hours using the "Ask" tool on this website.
 
-4. Visit (or e-mail) the course's heads in cases of emergency.
-
-
-## Academic Honesty
-
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
+1. Visit (or e-mail) the course's heads.
+{: start="0"}
 
 
-## Getting Started
+## Grading
 
-Alright, here we go again!
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-Log into <https://cs50.io/> and execute the below in a terminal window.
-
-    update50
-    mkdir ~/workspace/pset4/
-    cd ~/workspace/pset4/
+- Use of comments
+- Naming of variables
+- Use of indentation
+- Use of whitespace
 
 
 ## What to Do
 
-1. Watch the lecture on [Memory](/lectures/memory)
+-  Watch the lecture on [Memory](/lectures/memory)
 
-2. Figure out [whodunit](/problems/whodunit)
+-  Figure out [whodunit](/problems/whodunit)
 
-4. Implement either of: [50%]
+-  Implement either of:
 
     - [Resize](/problems/resize-less), for those less comfortable
 
     - [Resize](/problems/resize-more), for those more comfortable
 
-6. Implement [Recover](/problems/recover) [50%]
+-  Implement [Recover](/problems/recover)
 
-3. Learn more about [Functions](https://www.youtube.com/embed/n1glFqt3g38?autoplay=1&rel=0) and practice with the book chapter on *strings*, *arrays* and *functions*.
+-  Learn more about [Functions](https://www.youtube.com/embed/n1glFqt3g38?autoplay=1&rel=0) and practice with the book chapter on *strings*, *arrays* and *functions*.
 
 
 ## Reference
@@ -58,13 +53,6 @@ Log into <https://cs50.io/> and execute the below in a terminal window.
 - Learn more about [Files and file pointers](https://www.youtube.com/embed/bOF-SpEAYgk?autoplay=1&rel=0)
 
 
-## How to Submit
+## Submitting
 
-Instructions for submitting are included in the problem specifications as linked above.
-
-
-## Grading
-
-Above, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
-Your tutor will assess your programs as soon as every student has finished the module, and assign a grade for "style" and "design" for your programs. Together with the `check50` results, this will add up to a grade for this assignment.
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
