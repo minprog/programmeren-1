@@ -17,7 +17,7 @@ For information on (or help with) this module:
 
 ## Grading
 
-Your Scratch program will be automatically checked for adherence to the requirements. Your mentor will also test out your game, artwork or animation and provide some feedback during the next section meeting!
+Your Scratch program will be automatically checked for adherence to the requirements. Your mentor will also try out your game, artwork or animation and provide some feedback during the next section meeting!
 
 
 ## What to Do
