@@ -45,7 +45,7 @@ As soon as you have submitted working solutions for all problems below, your men
 
 #### Greedy
 
-Implement and submit either of: [50%]
+Implement and submit either of:
 
 - [Greedy](/problems/greedy), for most students
 
@@ -55,7 +55,7 @@ Implement and submit either of: [50%]
 
 - Watch the lecture on [Tools](/lectures/tools)
 
-- Implement and submit either of: [50%]
+- Implement and submit either of:
 
     - [Mario](/problems/mario-less), for most students
 
