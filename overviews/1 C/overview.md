@@ -69,4 +69,7 @@ Study and take the test on Thursday:
 
 - [Control Flow](/exercises/control-flow)
 
-Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
+
+## Submitting
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
