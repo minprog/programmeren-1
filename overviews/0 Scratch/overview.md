@@ -26,5 +26,3 @@ Your Scratch program will be automatically checked for adherence to the requirem
 
 2. Write and submit your first program: [Scratch](/problems/scratch)
 {: start="0"}
-
-Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
