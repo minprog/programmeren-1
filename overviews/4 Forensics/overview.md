@@ -7,7 +7,7 @@ In this module, you'll learn about all sorts of techniques to do with forensic r
 
 For information on (or help with) this module:
 
-1. Attend your tutor's meeting.
+1. Attend your mentor's section meeting.
 
 2. Use `help50` (if unsure what an error message means) and `debug50` (if your code is buggy).
 
@@ -18,7 +18,7 @@ For information on (or help with) this module:
 
 ## Academic Honesty
 
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism), particularly its ["regret clause"](/syllabus#regret).
+Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
 
 
 ## Getting Started

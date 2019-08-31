@@ -7,7 +7,7 @@ In this module, you'll learn about the C programming language. It's a great lang
 
 For information on (or help with) this module:
 
-1. Attend your TA's section meeting.
+1. Attend your mentor's section meeting.
 
 2. Ask questions during office hours using the "Ask" tool on this website.
 
@@ -15,9 +15,16 @@ For information on (or help with) this module:
 {: start="0"}
 
 
-## Academic Honesty
+## Grading
 
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism), particularly its ["regret clause"](/syllabus#regret).
+Below, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
+
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
+
+- Use of comments
+- Naming of variables
+- Use of indentation
+- Use of whitespace
 
 
 ## What to Do
@@ -64,14 +71,4 @@ Study and take the test on Thursday:
 
 - [Control Flow](/exercises/control-flow)
 
-
-## How to Submit
-
-Instructions for submitting are included in the problem specifications as linked above.
-
-
-## Grading
-
-Above, the weight of each problem is noted. All programs have to be submitted in full in order to progress to the next module, which will be automatically checked using `check50`. Normally, you can see the results on this website soon after submitting.
-
-Your tutor will assess your programs as soon as every student has finished the module, and assign a grade for "style" and "design" for your programs. Together with the `check50` results, this will add up to a grade for this assignment.
+Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).

@@ -7,7 +7,7 @@ In this module, you'll write your first program! You'll do this in Scratch, a fu
 
 For information on (or help with) this module:
 
-1. Attend your TA's section meeting.
+1. Attend your mentor's section meeting.
 
 2. Ask questions during office hours using the "Ask" tool on this website.
 
@@ -15,9 +15,9 @@ For information on (or help with) this module:
 {: start="0"}
 
 
-## Academic Honesty
+## Grading
 
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism), particularly its ["regret clause"](/syllabus#regret).
+Your Scratch program will be automatically checked for adherence to the requirements. Your tutor will also test out your game, artwork or animation and provide some feedback during the next section meeting!
 
 
 ## What to Do
@@ -27,7 +27,4 @@ Do keep in mind the course's policy on [academic honesty](/syllabus#academic_hon
 2. Write and submit your first program: [Scratch](/problems/scratch)
 {: start="0"}
 
-
-## Grading
-
-Your Scratch program will be automatically checked for adherence to the requirements. Your tutor will also test out your game, artwork or animation and provide some feedback during the next section meeting!
+Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).

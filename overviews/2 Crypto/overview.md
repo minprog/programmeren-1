@@ -7,7 +7,7 @@ In this module, you'll learn about cryptographic techniques and about strings in
 
 For information on (or help with) this module:
 
-1. Attend your TA's section meeting.
+1. Attend your mentor's section meeting.
 
 1. Use `help50`, `eprintf` and `debug50` as needed.
 
@@ -19,7 +19,7 @@ For information on (or help with) this module:
 
 ## Academic Honesty
 
-Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism), particularly its ["regret clause"](/syllabus#regret).
+Do keep in mind the course's policy on [academic honesty](/syllabus#academic_honesty) (like plagiarism).
 
 
 ## What to Do
