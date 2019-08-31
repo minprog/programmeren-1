@@ -25,13 +25,11 @@ Your first program will be a classic. The goal is to try out compiling your prog
 
 - Write your first program: [Hello](https://lab.cs50.io/uva/cs50x/master/problems/hello/){:.external}
 
-Next up, you'll create an account on the CS50 IDE, which will be your code editor for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`.
+Next up, you'll create an account on the CS50 IDE, which will be your code editor for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
 
-- Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account (this currently only works in Chrome and Firefox!)
+- Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account
 
 - Learn about using the [Command Line](/shorts/command-line) in the IDE
-
-  (Note that in the current version of the IDE, your main directory isn't `workspace` but `~` instead.)
 
 - Implement [Water](/problems/water)
 
