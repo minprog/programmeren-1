@@ -128,6 +128,8 @@ check50 minprog/cs50x/2019/greedy
 
 ### Style
 
+Keeping your code tidy might be hard at first. To get a bit of help, use `style50`! It will recommend, in **red**, to remove some newlines or spaces from your code, and, in **green**, to add some.
+
 ~~~~
 style50 greedy.c
 ~~~~
