@@ -59,11 +59,11 @@ Your program should behave per the example below:
 	Bottles: 120
 
 
-## Hints
+## Hint
 
-* You can use the function `get_int` to prompt the user to input an integer value, as per the below:
+You can use the function `get_int` to prompt the user to input an integer value, as per the below:
 
-      int minutes = get_int();
+	int minutes = get_int();
 
 
 ## Testing
