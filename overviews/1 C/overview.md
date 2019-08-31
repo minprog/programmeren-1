@@ -66,7 +66,7 @@ Implement and submit either of:
 
     - [Mario](/problems/mario-more), for those more comfortable
 
-#### Thursday exercises
+#### Exercises
 
 Study and take the test on Thursday:
 
