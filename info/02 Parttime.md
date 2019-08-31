@@ -7,7 +7,7 @@
 
 ## Docenten
 
-Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Bram van den Heuvel, Lotte Heek, Julia Anten en Kiki van Rongen.
+Je docenten en assistenten zijn Martijn Stegeman (coördinator), Jelle van Assema, Edwin Steffens, Gracia Redder, Kim de Bie, Floor van de Leur en Nigel van Herwijnen.
 
 
 ## Activiteiten

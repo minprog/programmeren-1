@@ -4,71 +4,7 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-
-## Docenten
-
-Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Bram van den Heuvel, Lotte Heek, Julia Anten en Kiki van Rongen.
-
-
-## Activiteiten
-
-Om de cursus tot een goed einde te brengen, verwachten we dat je:
-
-- alle hoorcolleges bekijkt,
-- alle werkgroepen bijwoont,
-- alle uren aanwezig bent in het lab,
-- alle opdrachten volledig uitgewerkt instuurt,
-- alle toetsjes maakt en haalt, en
-- het tentamen maakt en haalt.
-
-
-## Vragen stellen
-
-Het team van deze cursus bestaat uit je docenten en een heleboel studentassistenten. We sporen je aan om in het lab goed gebruik te maken van de mogelijkheid deze mensen te spreken en van ze te leren. Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
-
-Heb je een schriftelijke vraag, bijvoorbeeld omdat je een uitzondering nodig hebt? Stuur gerust een e-mail naar de docenten op <help@mprog.nl>.
-
-
-## Cijfers
-
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren, alle toetsjes halen en het tentamen halen om een voldoende te halen voor het vak, tenzij daarop een schriftelijke uitzondering is gegeven door de vakdocenten.
-
-Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
-
-5. uitzonderlijk goed resultaat met doordacht ontwerp
-4. goed resultaat op alle aangegeven aspecten
-3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
-2. zichtbare aandacht voor de meeste aspecten
-1. zichtbare aandacht voor een beperkt aantal aspecten
-{: start="5" reversed=""}
-
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten), die wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes en het tentamen leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
-
-
-## Deadlines
-
-Elke module moet op de vooraf bepaalde deadline ingeleverd zijn. Een voorlopig schema van deadlines vind je hieronder. Alle deadlines zijn om 23:59 op de genoemde datum.
-
-| deadline | fulltime  | parttime  |
-| ---------| --------- | --------- |
-| Module 0 | ma  2 sep | do  5 sep |
-| Module 1 | vr  6 sep | do 12 sep |
-| Module 2 | vr 13 sep | do 19 sep |
-| Module 3 | vr 20 sep | do  3 okt |
-| Module 4 | vr 27 sep | do 17 okt |
-| Module 5 | vr 27 sep | do 17 okt |
-
-Module 5 is een optionele extra uitdaging voor studenten die erg snel door de cursus heen gaan.
-
-In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines. Voor module 0 en 5 is geen uitstel mogelijk.
-
-| uitstel          | aftrek   |  
-| ---------------- | -------- |  
-| maximaal 1 dag   | 1/2 punt |  
-| maximaal 3 dagen | 1 punt   |  
-
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in gevallen van medische noodgevallen. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar in ieder geval vóór je doorgaat met werken aan de opdrachten.
-
+Deze studiewijzer is een ingekorte versie. Als je inlogt en registreert op de website krijg je toegang tot de volledige studiewijzer voor fulltime of parttime. Wil je meer informatie over dit vak? Kijk op <https://mprog.nl/> of stuur een e-mail naar <help@mprog.nl>.
 
 ## Hoorcolleges
 
@@ -82,12 +18,12 @@ Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werk
 
 ## Practicumuren
 
-Tijdens de practicumuren, dagelijks van 9 tot 17 uur, kun je terecht in het programmeerlab voor het werken aan je opdrachten, uitwisselen van ideeën met medestudenten en het stellen van vragen aan studentassistenten.
+Tijdens de practicumuren kun je terecht in het programmeerlab voor het werken aan je opdrachten, uitwisselen van ideeën met medestudenten en het stellen van vragen aan studentassistenten.
 
 
 ## Toetsjes
 
-Wekelijks op donderdag vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
+Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
 
 Alle toetsjes moeten gehaald worden om de cursus te voltooien, maar alle toetsjes kunnen zonodig binnen enkele dagen herkanst worden. Meer informatie krijg je bij het afnemen van de toetsjes.
 
