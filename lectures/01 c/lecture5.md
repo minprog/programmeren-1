@@ -50,7 +50,7 @@
 	
 	* `ls` lists the files in the current directory, which we see in blue in the terminal screen above.
 
-	* `cd` lets us change our current working directory (as in `cd pset1`, which we can create new ones of with the file browser on the left. And to change to the parent directory, we can use `cd ..` to go up one level.
+	* `cd` lets us change our current working directory (as in `cd module1`, which we can create new ones of with the file browser on the left. And to change to the parent directory, we can use `cd ..` to go up one level.
 
 	* Finally, we can use `rmdir` to remove directories.
 
