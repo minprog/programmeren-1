@@ -16,6 +16,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 - alle hoorcolleges bekijkt,
 - alle werkgroepen bijwoont,
+- het electronica-practicum doet,
 - alle uren aanwezig bent in het lab,
 - alle opdrachten volledig uitgewerkt instuurt,
 - alle toetsjes maakt en haalt, en
