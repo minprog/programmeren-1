@@ -69,7 +69,7 @@ In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 
 
 Voor modules 0 en 5 is geen uitstel mogelijk.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar in ieder geval vóór je doorgaat met werken aan de opdrachten.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten.
 
 
 ## Hoorcolleges
