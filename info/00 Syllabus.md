@@ -6,6 +6,19 @@
 
 Deze studiewijzer is een ingekorte versie. Als je inlogt en registreert op de website krijg je toegang tot de volledige studiewijzer voor fulltime of parttime. Wil je meer informatie over dit vak? Kijk op <https://mprog.nl/> of stuur een e-mail naar <help@mprog.nl>.
 
+
+## Activiteiten
+
+Om de cursus tot een goed einde te brengen, verwachten we dat je:
+
+- alle hoorcolleges bekijkt,
+- alle werkgroepen bijwoont,
+- alle uren aanwezig bent in het lab,
+- alle opdrachten volledig uitgewerkt instuurt,
+- alle toetsjes maakt en haalt, en
+- het tentamen maakt en haalt.
+
+
 ## Hoorcolleges
 
 In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de toetsjes. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
