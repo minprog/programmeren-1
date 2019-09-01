@@ -22,7 +22,7 @@ Parttime:
             "Implement either of:":
                 Mario: /problems/mario-less
                 Mario (hacker): /problems/mario-more
-        Thursday exercises:
+        Exercises:
             Variables: /exercises/variables
             Control flow: /exercises/control-flow
     Module 2:
@@ -38,7 +38,7 @@ Parttime:
             "Implement either  of:":
                 Vigenere: /problems/vigenere
                 Crack (hacker): /problems/crack
-        Thursday exercises:
+        Exercises:
             Unscratch: /exercises/unscratch
             Sequences: /exercises/sequences
     Module 3:
@@ -50,7 +50,7 @@ Parttime:
                 Find (hacker): /problems/find-more
         Fifteen:
             Implement Fifteen: /problems/fifteen
-        Thursday exercises:
+        Exercises:
             Arrays: /exercises/arrays
             Nested loops: /exercises/nested-loops
     Module 4:
@@ -64,7 +64,7 @@ Parttime:
                 Resize (hacker): /problems/resize-more
         Recover:
             Implement Recover: /problems/recover
-        Thursday exercises:
+        Exercises:
             Functions: /exercises/functions
             Algorithms: /exercises/algorithms
     Module 5:
