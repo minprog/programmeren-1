@@ -30,9 +30,9 @@ grades:
     scratch: *fullyauto
     hello: *fullyauto
     water: *fullyauto
+    greedy: *fullyauto
     mario_less: *fullyauto
     mario_more: *fullyauto
-    greedy: *fullyauto
     credit: *fullyauto
     initials_less: *fullyauto
     initials_more: *fullyauto
@@ -64,12 +64,10 @@ modules:
     m0:
         - scratch
     m1:
-        - hello
-        - water
+        - greedy
+        - credit
         - mario_less
         - mario_more
-        - cash
-        - credit
     m2:
         - caesar
         - vigenere
