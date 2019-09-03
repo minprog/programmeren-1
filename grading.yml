@@ -32,7 +32,7 @@ grades:
     water: *fullyauto
     mario_less: *fullyauto
     mario_more: *fullyauto
-    cash: *fullyauto
+    greedy: *fullyauto
     credit: *fullyauto
     initials_less: *fullyauto
     initials_more: *fullyauto
