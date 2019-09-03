@@ -3,5 +3,5 @@ files:
     required:
         - crack.c
 check:
-    tool: check50v2
-    slug: crack@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/crack

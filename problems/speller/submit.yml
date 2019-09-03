@@ -5,5 +5,5 @@ files:
         - dictionary.h
         - Makefile
 check:
-    tool: check50v2
-    slug: speller@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/speller

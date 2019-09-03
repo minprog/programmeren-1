@@ -5,5 +5,5 @@ files:
         - verdict.bmp
         - README.md
 check:
-    tool: check50v2
-    slug: whodunit@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/whodunit

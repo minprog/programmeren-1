@@ -3,5 +3,5 @@ files:
     required:
         - helpers.c
 check:
-    tool: check50v2
-    slug: find/less@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/find/less

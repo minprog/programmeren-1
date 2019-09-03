@@ -3,5 +3,5 @@ files:
     required:
         - caesar.c
 check:
-    tool: check50v2
-    slug: caesar@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/caesar
