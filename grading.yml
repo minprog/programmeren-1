@@ -28,8 +28,6 @@ templates:
 
 grades:
     scratch: *fullyauto
-    hello: *fullyauto
-    water: *fullyauto
     greedy: *fullyauto
     mario_less: *fullyauto
     mario_more: *fullyauto
