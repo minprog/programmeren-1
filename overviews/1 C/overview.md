@@ -40,10 +40,12 @@ Next up, you'll create an instance of the CS50 IDE, which will be your "code edi
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- Use of comments
-- Naming of variables
-- Use of indentation
-- Use of whitespace
+This week we focus on:
+
+- [Comments](/quality/comments)
+- [Naming](/quality/naming)
+- [Indenting code](/quality/indentation)
+- [Whitespace](/quality/whitespace)
 
 
 ## What to Do
