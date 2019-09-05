@@ -4,5 +4,5 @@ files:
     required:
         - scratch_file.sb3
 check:
-    tool: check50v2
-    slug: scratch@minprog/checks
+    tool: check50
+    slug: minprog/cs50x/2019/scratch
