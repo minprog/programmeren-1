@@ -329,7 +329,7 @@ you should see `1`, since `128` is, again, not among the 1,000 numbers outputted
 
 [source]
 ----
-check50 --local find/more@minprog/checks
+check50 minprog/cs50x/2019/find
 ----
 
 == Staff's Solution

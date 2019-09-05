@@ -5,7 +5,7 @@ layout: 2016/fall
 = Initials
 
 == tl;dr
- 
+
 Implement a program that, given a person's name, prints a person's initials, per the below.
 
 [source]
@@ -53,7 +53,7 @@ RTB
 
 [source]
 ----
-check50 --local initials/more@minprog/checks
+check50 minprog/cs50x/2019/initials/more
 ----
 
 == Staff's Solution
