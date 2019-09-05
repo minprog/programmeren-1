@@ -47,6 +47,8 @@ This week we focus on:
 - [Indenting code](/quality/indentation)
 - [Whitespace](/quality/whitespace)
 
+Don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much.
+
 
 ## What to Do
 
