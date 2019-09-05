@@ -73,7 +73,7 @@ ROFL
 === Correctness
 
 ----
-check50 --local crack@minprog/checks
+check50 minprog/cs50x/2019/crack
 ----
 
 === Style
