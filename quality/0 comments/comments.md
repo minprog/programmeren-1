@@ -50,9 +50,18 @@ signature. Consider what I tend to do:
 	 */
 	void chorus(int b)
 	{
+			string s1 = "bottles";
+			string s2 = "bottles";
+
 	    // use proper grammar
-	    string s1 = (b == 1) ? "bottle" : "bottles";
-	    string s2 = (b == 2) ? "bottle" : "bottles";
+			if (b == 1)
+			{
+				s1 = "bottle";
+			}
+			if (b == 2)
+			{
+				s2 = "bottle";
+			}
 
 	    // sing verses
 	    printf("%d %s of beer on the wall,\n", b, s1);
