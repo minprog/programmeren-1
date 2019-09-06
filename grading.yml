@@ -25,6 +25,12 @@ templates:
             hacker: integer
             late: integer
         calculation: ((points + hacker - late) / 5 * 9 + 1).round(1)
+    4: &test
+        type: pass
+        subgrades:
+            passed: integer
+        calculation: passed
+        hide_calculated: true
 
 grades:
     scratch: *fullyauto
@@ -57,6 +63,9 @@ grades:
     m3: *manual
     m4: *manual
     m5: *manual
+    test A: *test
+    test B: *test
+    test C: *test
 
 modules:
     m0:

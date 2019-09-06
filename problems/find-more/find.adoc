@@ -332,13 +332,6 @@ you should see `1`, since `128` is, again, not among the 1,000 numbers outputted
 check50 minprog/cs50x/2019/find
 ----
 
-== Staff's Solution
-
-[source]
-----
-~cs50/pset3/find
-----
-
 == Hints
 
 Before you implement `search` in _O_(log _n_) time, you might want to implement it temporarily in _O_(_n_) time, as with linear search, if only because it's a bit easier to get right. That way, you can move on to `sort`, knowing that `search` already works. And once `sort` works, you can go back and re-implement `search` in _O_(log _n_) time, as with binary search. Just remember to!
@@ -346,20 +339,3 @@ Before you implement `search` in _O_(log _n_) time, you might want to implement 
 Ultimately, you are welcome to implement `search` iteratively (with a loop) or recursively (wherein a function calls itself). If you pursue the latter, though, know that you may not change our declaration of `search`, but you may write a new, recursive function (that perhaps takes different parameters) that `search` itself calls.
 
 We leave it to you to determine how best to test your implementation of `search` and `sort`. But don't forget that `eprintf` is your friend while debugging! And don't forget that you can generate the same sequence of pseudorandom numbers again and again by explicitly specifying ``generate``'s seed.
-
-== FAQs
-
-_None so far! Reload this page periodically to check if any arise!_
-
-== Changelog
-
-* 2017-03-09
-** Clarified usage
-* 2016-09-21
-** Update to `search` walkthrough
-* 2016-09-17
-** Corrected "non-negative" to "non-positive."
-** Clarified that the prototype of `search` cannot be alterered either.
-** Removed incorrect mention of _O_(_n_^2^).
-* 2016-09-16
-** Initial release.

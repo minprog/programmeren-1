@@ -51,12 +51,12 @@ Elke module moet op de vooraf bepaalde deadline ingeleverd zijn. Een voorlopig s
 
 | deadline | parttime  |
 | ---------| --------- |
-| Module 0 | do  5 sep |
-| Module 1 | do 12 sep |
-| Module 2 | do 19 sep |
-| Module 3 | do  3 okt |
-| Module 4 | do 17 okt |
-| Module 5 | do 17 okt |
+| Module 0 | vr  6 sep |
+| Module 1 | vr 13 sep |
+| Module 2 | vr 20 sep |
+| Module 3 | vr  4 okt |
+| Module 4 | vr 18 okt |
+| Module 5 | vr 18 okt |
 
 Module 5 is een optionele extra uitdaging voor studenten die erg snel door de cursus heen gaan.
 

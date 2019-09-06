@@ -55,19 +55,3 @@ RTB
 ----
 check50 minprog/cs50x/2019/initials/more
 ----
-
-== Staff's Solution
-
-[source]
-----
-~cs50/hacker2/initials
-----
-
-== FAQs
-
-_None so far! Reload this page periodically to check if any arise!_
-
-== Changelog
-
-* 2016-09-09
-** Initial release.

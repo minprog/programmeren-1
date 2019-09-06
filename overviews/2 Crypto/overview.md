@@ -49,10 +49,10 @@ As soon as you have submitted working solutions for all problems below, your men
 
 #### Exercises
 
-Study and take the test on Thursday:
+Study and take the test:
 
+- [Control Flow](/exercises/control-flow)
 - [Unscratch](/exercises/unscratch)
-- 
 
 
 ## Reference

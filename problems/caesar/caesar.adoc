@@ -139,13 +139,6 @@ check50 minprog/cs50x/2019/caesar
 style50 caesar.c
 ----
 
-== Staff's Solution
-
-[source]
-----
-~cs50/pset2/caesar
-----
-
 == Hints
 
 This program needs to accept a command-line argument, _k_, so you'll want to declare `main` with:

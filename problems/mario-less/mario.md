@@ -200,7 +200,7 @@ style50 mario.c
 
 1. When ready to submit, log into [CS50 IDE](https://ide.cs50.io/).
 
-2. Toward CS50 IDE's top-left corner, within its "file browser", control-click or right-click your `mario.c` file (that's within your `pset1` directory) and then select **Download**. You should find that your browser has downloaded you file `mario.c`.
+2. Toward CS50 IDE's top-left corner, within its "file browser", control-click or right-click your `mario.c` file (that's within your `module1` directory) and then select **Download**. You should find that your browser has downloaded you file `mario.c`.
 
 3. Make sure you are signed in to this website!
 
