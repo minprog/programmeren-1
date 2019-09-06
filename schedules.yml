@@ -24,7 +24,6 @@ Parttime:
                 Mario (hacker): /problems/mario-more
         Exercises:
             Variables: /exercises/variables
-            Control flow: /exercises/control-flow
     Module 2:
         Overview & Grading: /overviews/crypto
         "Lecture: Arrays": /lectures/arrays
@@ -40,7 +39,7 @@ Parttime:
                 Crack (hacker): /problems/crack
         Exercises:
             Unscratch: /exercises/unscratch
-            Sequences: /exercises/sequences
+            Control flow: /exercises/control-flow
     Module 3:
         Overview & Grading: /overviews/fifteen
         "Lecture: Algorithms": /lectures/algorithms
@@ -51,6 +50,7 @@ Parttime:
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Exercises:
+            Sequences: /exercises/sequences
             Arrays: /exercises/arrays
             Nested loops: /exercises/nested-loops
     Module 4:
@@ -98,7 +98,6 @@ Fulltime:
                 Mario (hacker): /problems/mario-more
         Thursday exercises:
             Variables: /exercises/variables
-            Control flow: /exercises/control-flow
     Module 2:
         Overview & Grading: /overviews/crypto
         "Lecture: Arrays": /lectures/arrays
@@ -114,7 +113,7 @@ Fulltime:
                 Crack (hacker): /problems/crack
         Thursday exercises:
             Unscratch: /exercises/unscratch
-            Sequences: /exercises/sequences
+            Control flow: /exercises/control-flow
     Module 3:
         Overview & Grading: /overviews/fifteen
         "Lecture: Algorithms": /lectures/algorithms
@@ -125,6 +124,7 @@ Fulltime:
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Thursday exercises:
+            Sequences: /exercises/sequences
             Arrays: /exercises/arrays
             Nested loops: /exercises/nested-loops
     Module 4:
