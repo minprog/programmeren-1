@@ -59,12 +59,8 @@ Study and take the test:
 
 ## Reference
 
-- Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg?autoplay=1&rel=0)
-
-- Learn more about cleaning up your code from [Magic numbers](https://www.youtube.com/embed/vK_naJkrtjc?autoplay=1&rel=0)
-
-- Learn more about [Variables and scope](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0) and [Command line arguments](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0).
-
+- Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg)
+- Learn more about [Command-line arguments](https://www.youtube.com/embed/AI6Ccfno6Pk)
 
 ## Submitting
 

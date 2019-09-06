@@ -48,6 +48,7 @@ Study and take the test:
 
 ## Reference
 
+- Learn more about [Variables and scope](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0)
 - [Algorithms](https://www.youtube.com/embed/ktWL3nN38ZA?autoplay=1&rel=0)
 - [Linear search](https://www.youtube.com/embed/TwsgCHYmbbA?autoplay=1&rel=0)
 - [Binary search](https://www.youtube.com/embed/T98PIp4omUA?autoplay=1&rel=0)
