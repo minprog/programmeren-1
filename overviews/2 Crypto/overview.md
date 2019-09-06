@@ -26,12 +26,7 @@ As soon as you have submitted working solutions for all problems below, your men
 - [Duplication](/quality-aspects/duplication)
 - [Nesting](/quality-aspects/nesting)
 
-And we'll also take these into account from last week:
-
-- [Comments](/quality-aspects/comments)
-- [Naming](/quality-aspects/naming)
-- [Indenting code](/quality-aspects/indentation)
-- [Whitespace](/quality-aspects/whitespace)
+And we'll also take these into account from last week: [comments](/quality-aspects/comments), [naming](/quality-aspects/naming), [indentation](/quality-aspects/indentation), [whitespace](/quality-aspects/whitespace).
 
 
 ## What to Do
