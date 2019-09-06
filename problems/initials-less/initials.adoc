@@ -52,10 +52,3 @@ RTB
 ----
 check50 minprog/cs50x/2019/initials/less
 ----
-
-== Staff's Solution
-
-[source]
-----
-~cs50/pset2/initials
-----

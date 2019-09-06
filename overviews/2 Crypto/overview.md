@@ -51,8 +51,8 @@ As soon as you have submitted working solutions for all problems below, your men
 
 Study and take the test on Thursday:
 
+- [Control Flow](/exercises/control-flow)
 - [Unscratch](/exercises/unscratch)
-- 
 
 
 ## Reference

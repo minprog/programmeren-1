@@ -76,8 +76,6 @@ Study and take the test:
 
 - [Variables](/exercises/variables)
 
-- [Control Flow](/exercises/control-flow)
-
 
 ## Submitting
 
