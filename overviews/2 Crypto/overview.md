@@ -21,12 +21,12 @@ For information on (or help with) this module:
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- [Magic numbers](/quality-aspects/magic-numbers)
-- [Loops](/quality-aspects/loops)
-- [Duplication](/quality-aspects/duplication)
-- [Nesting](/quality-aspects/nesting)
+- [Magic numbers](/quality/magic-numbers)
+- [Loops](/quality/loops)
+- [Duplication](/quality/duplication)
+- [Nesting](/quality/nesting)
 
-And we'll also take these into account from last week: [comments](/quality-aspects/comments), [naming](/quality-aspects/naming), [indentation](/quality-aspects/indentation), [whitespace](/quality-aspects/whitespace).
+And we'll also take these into account from last week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace).
 
 
 ## What to Do
