@@ -21,10 +21,17 @@ For information on (or help with) this module:
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- Use of comments
-- Naming of variables
-- Use of indentation
-- Use of whitespace
+- [Magic numbers](/quality-aspects/magic-numbers)
+- [Loops](/quality-aspects/loops)
+- [Duplication](/quality-aspects/duplication)
+- [Nesting](/quality-aspects/nesting)
+
+And we'll also take these into account from last week:
+
+- [Comments](/quality-aspects/comments)
+- [Naming](/quality-aspects/naming)
+- [Indenting code](/quality-aspects/indentation)
+- [Whitespace](/quality-aspects/whitespace)
 
 
 ## What to Do
