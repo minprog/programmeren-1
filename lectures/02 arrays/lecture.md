@@ -11,7 +11,7 @@
 	* `get_double`
 	* `get_float`
 	* `get_int`
-	* `get_long_long`
+	* `get_long`
 	* `get_string`
 
 * As implied by these function names, C supports various types of data that a variable can store:
@@ -21,7 +21,7 @@
 	* `double`
 	* `float`
 	* `int`
-	* `long long`
+	* `long`
 	* `string`
 	* ...
 

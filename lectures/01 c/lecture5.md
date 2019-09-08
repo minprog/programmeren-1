@@ -64,7 +64,7 @@
 	* `get_double`
 	* `get_float`
 	* `get_int`
-	* `get_long_long`
+	* `get_long`
 	* `get_string`
 
 * We'll test out `get_string` with the following program:
