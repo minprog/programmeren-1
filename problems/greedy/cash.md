@@ -24,9 +24,11 @@ What's all that mean? Well, suppose that a cashier owes a customer some change a
 
 It turns out that this greedy approach (i.e., algorithm) is not only locally optimal but also globally for America's currency (and also the European Union's). That is, so long as a cashier has enough of each coin, this largest-to-smallest approach will yield the fewest coins possible. How few? Well, you tell us!
 
+
 ## Steps
 
 For this problem, the most important part is the algorithm to calculate change in a greedy manner. Your task is to understand the algorithm and then to implement it. Only then will you add other stuff, like allowing user input.
+
 
 ### 1. Understanding the algorithm
 
@@ -37,7 +39,7 @@ If we turn this idea of greedy change into an algorithm, we notice that we need 
 - how many coins are going to be returned, the **count** (initially 0)
 - how much change do we still have to return, the **amount**
 
-In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following. Note the presence of both `count` and `amount` in that code:
+In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following, if we assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). Note the presence of both `count` and `amount` in that code:
 
 	set amount to 32 cents
 	set count to 0
@@ -52,6 +54,7 @@ In fact, the idea of the algorithm is to *convert* the amount of change required
 
 Study this pseudocode; discuss the details. Do you understand every part? Do you have a notion of how it would be translated into C?
 
+
 ### 2. Basic implementation
 
 To get started implementing this algorithm, create a file called `greedy.c` and insert a standard `main` function. Within that `main` function, insert the following two lines, which create the variables that are needed for the algorithm:
@@ -59,31 +62,34 @@ To get started implementing this algorithm, create a file called `greedy.c` and 
 	int amount = 32;
 	int count = 0;
 
-After those two lines, you might implement the algorithm using the pseudocode above. Ask for help!
+After those two lines, you might implement the algorithm using the pseudocode above. Use `printf` from the Standard I/O library to output your answer. Ask for help where needed!
+
+> Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an integer followed by `\n`.
+
 
 ### 3. Testing
 
-When (almost) finished implementing the algorithm, it's time to test your program well. Run your program and see if it does indeed print `4` for the amount of 32 cents! And then change `amount` to 5 and see what it does. When satisfied with the results, proceed to the formal specification, below.
+When (almost) finished implementing the algorithm, it's time to test your program well. Run your program and see if it does indeed print `4` for the amount of 32 cents! And then change `amount` to 5 and see what it does.
+
+When satisfied with the results, we'll proceed to another important part of the program: allowing user input.
 
 
-## Specification
+## 4. User input
 
-Your program currently has `amount` hardcoded into the program. You'll need to change it to allow a user to input an amount from the keyboard each time the program is run.
+Your program currently has `amount` hardcoded into the program. You'll need to change it to allow a user to input an amount from the keyboard each time the program is run. As you can see in the example atop this problem document, input is actually given in *dollars*, not cents. Up until now you hardcoded the `amount` as cents.
 
-* Use `get_float` from the CS50 Library to get the user's input and `printf` from the Standard I/O library to output your answer. Assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢).
+Important to understand is that you should not change your algorithm to do the calculation in dollars entirely. That's not needed, and might introduce floating-point calculation errors! Instead, we take user input as a `float` (for dollars), and after we have a valid dollar amount, we **convert** it to an integer (for cents).
 
-	* We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
+First, to get the dollar amount from the keyboard, use `get_float` from the CS50 Library and assign the result to a variable named `dollars` of type `float`.
+
+> We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
 
 * You need not try to check whether a user's input is too large to fit in a `float`. Using `get_float` alone will ensure that the user's input is indeed a floating-point (or integral) value but not that it is non-negative.
 
-* If the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies.
-
-* Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an integer followed by `\n`.
+Now, if the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies. This is a perfect case for a `while`-loop, or even better, a `do`-`while`-loop!
 
 
 ## Hints
-
-* Per the final bullet point of the Specification, above, don't forget to put a newline character at the end of your printout!
 
 * Do beware the inherent imprecision of floating-point values. For instance, `0.1` cannot be represented exactly as a `float`. Try printing its value to, say, `55` decimal places, with code like the below:
 
