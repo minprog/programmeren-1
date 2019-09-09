@@ -6,6 +6,7 @@ templates:
         automatic:
             correctness: (check_score * 5).floor
         calculation: -(correctness/5)
+        hide_subgrades: true
     # 2: &automatic
     #     type: float
     #     subgrades:
@@ -30,7 +31,7 @@ templates:
         subgrades:
             passed: integer
         calculation: passed
-        hide_calculated: true
+        hide_subgrades: true
 
 grades:
     scratch: *fullyauto
