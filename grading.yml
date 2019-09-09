@@ -66,6 +66,7 @@ grades:
     test A: *test
     test B: *test
     test C: *test
+    pidac: *test
 
 modules:
     m0:
