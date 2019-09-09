@@ -80,27 +80,36 @@ Your program currently has `amount` hardcoded into the program. You'll need to c
 
 Important to understand is that you should not change your algorithm to do the calculation in dollars entirely. That's not needed, and might introduce floating-point calculation errors! Instead, we take user input as a `float` (for dollars), and after we have a valid dollar amount, we **convert** it to an integer (for cents).
 
-First, to get the dollar amount from the keyboard, use `get_float` from the CS50 Library and assign the result to a variable named `dollars` of type `float`.
+First, to get the dollar amount from the keyboard, use `get_float` from the CS50 Library and assign the result to a variable named `dollars` of type `float`. Add code to do this right at the top of your `main` function.
 
 > We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
 
-* You need not try to check whether a user's input is too large to fit in a `float`. Using `get_float` alone will ensure that the user's input is indeed a floating-point (or integral) value but not that it is non-negative.
+> You need not try to check whether a user's input is too large to fit in a `float`. Using `get_float` alone will ensure that the user's input is indeed a floating-point (or integral) value but not that it is non-negative.
 
 Now, if the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies. This is a perfect case for a `while`-loop, or even better, a `do`-`while`-loop!
 
+## 5. Connecting input to the algorithm
 
-## Hints
+Hopefully, you've now written a few lines of code (with a loop!) that allow user input. All that's left is connecting that input with the algorithm. The first thing you can do in preparation, is removing the `int amount` declaration. We're going to replace that one.
 
-* Do beware the inherent imprecision of floating-point values. For instance, `0.1` cannot be represented exactly as a `float`. Try printing its value to, say, `55` decimal places, with code like the below:
+Remember that the input variable `dollars` is a `float`, but the algorithm requires and `int`. So right after the point where we know the input is done, we need to convert it. What would be the right formula? Well, how many cents does one dollar equal? Write that conversion yourself.
 
-  ~~~~
-  float f = 0.1;
-  printf("%.55f\n", f);
-  ~~~~
+> But even with the right mathematical formula for converting a dollar amount to cents, there may still be errors. This is because if your user types `0.41`, which should become 41 cents, this may actually be represented in the computer as `40.999999999..` cents. When converting to an integer, this will become `40` cents instead of `41`! That's why you should use the `round()` function that's available in the C standard library. Recall that if you round the number 40.99, this will indeed yield 41.
 
-  And so, before making change, you'll probably want to convert the user's input entirely to cents (i.e., from a `float` to an `int`) to avoid tiny errors that might otherwise add up! Of course, don't just cast the user's input from a `float` to an `int`! After all, how many cents does one dollar equal?
+If all is well, your program should now be testable again. Check by running and entering `0.41` when prompted. And then also try the examples that you'll find below, under **Usage**. Anything not quite right? Ask for help!
 
-* And take care to [round](https://reference.cs50.net/math/round) your cents (to the nearest penny); don't "truncate" (i.e., floor) your cents!
+
+## Explanation
+
+Why can't the algorithm just work with `floats`? That would save us converting the input, right?
+Well, beware the inherent imprecision of floating-point values. For instance, `0.1` cannot be represented exactly as a `float`. Try printing its value to, say, `55` decimal places, with code like the below:
+
+~~~~
+float f = 0.1;
+printf("%.55f\n", f);
+~~~~
+
+And so, before making change, you'll probably want to convert the user's input entirely to cents (i.e., from a `float` to an `int`) to avoid tiny errors that might otherwise add up!
 
 
 ## Usage
