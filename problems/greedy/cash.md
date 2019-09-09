@@ -83,7 +83,7 @@ Important to understand is that you should not change your algorithm to do the c
 First, to get the dollar amount from the keyboard, use `get_float` from the CS50 Library and assign the result to a variable named `dollars` of type `float`. Add code to do this right at the top of your `main` function.
 
 > We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
-
+>
 > You need not try to check whether a user's input is too large to fit in a `float`. Using `get_float` alone will ensure that the user's input is indeed a floating-point (or integral) value but not that it is non-negative.
 
 Now, if the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies. This is a perfect case for a `while`-loop, or even better, a `do`-`while`-loop!
