@@ -6,8 +6,9 @@ Here's our advice: Add comments to your code that make programmers (including yo
 
 Within functions, use inline comments and keep them short (e.g., one line),
 else it becomes difficult to distinguish comments from code, even with syntax
-highlighting. No need to write in full sentences, but do leave one space
-between the `//` and your comment's first character, as in:
+highlighting. No need to write in full sentences (including capitals and
+punctuation), but do leave one space between the `//` and your comment's first
+character, as in:
 
 	// compute student's average
 	average = (int) (sum / QUIZZES + 0.5);
