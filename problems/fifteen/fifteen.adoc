@@ -42,7 +42,7 @@ image:adapted.png[solvable configuration, width="25%"]
 
 [source,subs="macros"]
 ----
-$ wget https://cdn.cs50.net/ap/2018/problems/fifteen/fifteen.zip
+$ wget https://prog1.mprog.nl/course/problems/fifteen/fifteen.zip
 $ unzip fifteen.zip
 $ rm fifteen.zip
 $ cd fifteen
