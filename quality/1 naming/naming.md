@@ -18,8 +18,8 @@ Just don't initialize some but not others, as in:
 
 ## Loops
 
-Whenever you need temporary variables for iteration, use `i`, then `j`, then
-`k`, unless more specific names would make your code more readable:
+Whenever you need temporary variables for _deeper_ iteration, use `i`, then `j`,
+then `k`, unless more specific names would make your code more readable:
 
 	for (int i = 0; i < LIMIT; i++)
 	{
@@ -30,7 +30,13 @@ Whenever you need temporary variables for iteration, use `i`, then `j`, then
 	            // do something
 	        }
 	    }
+	    for (int j = 0; j < LIMIT; j++)
+	    {
+	        // do something
+			}
 	}
 
 If you need more than three variables for iteration, it might be time to
-rethink your approach.
+rethink your approach. A new loop always starts with the letter that is
+appropriate for that specific layer; a loop after the one above would use `i`
+again.
