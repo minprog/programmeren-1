@@ -48,7 +48,7 @@ Be sure you're familiar with the structure of 24-bit uncompressed BMPs, as intro
 
 Implement a program called `resize` that resizes (i.e., enlarges or shrinks) 24-bit uncompressed BMPs by a factor of `f`.
 
-* Implement your program in a file called `resize.c` inside of `~/workspace/module4/more/`.
+* Implement your program in a file called `resize.c` inside of `~/module4/resize/more/`.
 * Your program should accept exactly three command-line arguments, whereby
 +
 --
