@@ -28,6 +28,7 @@ This problem is **optional**. You can earn up to 2 points by submitting a effici
 
 - Implement [Speller](/problems/speller)
 
+- If you'd like to benchmark your code against classmates' solutions, upload it to the [Big Board](https://bigboard.quinner.nl/)
 
 ## Reference
 
@@ -44,6 +45,9 @@ For more in-depth reference for this problem, check out:
 - [Singly-linked lists](https://www.youtube.com/embed/zQI3FyWm144?autoplay=1&rel=0), [Tries](https://www.youtube.com/embed/MC-iQHFdEDI?autoplay=1&rel=0)
 - [Hash tables](https://www.youtube.com/embed/2wyCY1sX9II?autoplay=1&rel=0)
 
+## Big Board
+
+If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our [Big Board](https://bigboard.quinner.nl/) website before or after you submit!
 
 ## Submitting
 
