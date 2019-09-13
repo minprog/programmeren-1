@@ -379,3 +379,7 @@ How to assess just how fast (and correct) your code is? Well, as always, feel fr
 ----
 ~cs50/2019/x/pset4/speller texts/lalaland.txt
 ----
+
+== Big Board
+
+If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our https://bigboard.quinner.nl/[Big Board] website before or after you submit!
