@@ -134,9 +134,9 @@ Het opnieuw insturen van modules is niet meer mogelijk na de deadline of zodra d
 
 - Alle modules die onvoldoende waren moeten opnieuw ingestuurd worden en krijgen een nieuw cijfer.
 
-- Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+- Van deze modules moeten alle deelopdrachten opnieuw worden ingestuurd, volledig werkend zonder bugs.
 
-- Van een modules moeten alle deelopdrachten opnieuw worden ingestuurd, volledig werkend zonder bugs.
+- Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
 
 - Herinzendingen moeten volledig gedaan zijn vóór een eventuele herkansing van het tentamen.
 
