@@ -4,6 +4,3 @@ files:
         - whodunit.c
         - verdict.bmp
         - README.md
-check:
-    tool: check50
-    slug: minprog/cs50x/2019/whodunit
