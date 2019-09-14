@@ -19,7 +19,7 @@ For information on (or help with) this module:
 
 ## Grading
 
-This problem is **optional**. You can earn up to 2 points by submitting a efficient and good quality solution.
+This problem is **optional**. You can earn up to 2 points by submitting an efficient and good quality solution.
 
 
 ## What to Do
