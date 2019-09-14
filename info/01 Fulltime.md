@@ -104,7 +104,7 @@ Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na
 
 Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma worden daarbij niet aangerekend. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
 
-Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking!
+Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Laat wel weten als we nog andere voorzieningen kunnen treffen.
 
 
 ## Boeken
