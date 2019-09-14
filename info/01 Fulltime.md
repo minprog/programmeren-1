@@ -18,9 +18,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 - alle werkgroepen bijwoont,
 - het electronica-practicum doet,
 - alle uren aanwezig bent in het lab,
-- alle opdrachten volledig uitgewerkt instuurt,
-- alle toetsjes maakt en haalt, en
-- het tentamen maakt en haalt.
+- alle opdrachten volledig uitgewerkt instuurt, en
+- alle toetsjes maakt en haalt.
 
 
 ## Vragen stellen
@@ -32,7 +31,7 @@ Heb je een schriftelijke vraag, bijvoorbeeld omdat je een uitzondering nodig heb
 
 ## Cijfers
 
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren, alle toetsjes halen en het tentamen halen om een voldoende te halen voor het vak, tenzij daarop een schriftelijke uitzondering is gegeven door de vakdocenten.
+Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij een schriftelijke uitzondering is gegeven door de vakdocenten.
 
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
@@ -43,7 +42,7 @@ Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten v
 1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een module, indien beschikbaar, een extra punt opleveren. Toetsjes en het tentamen leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een module, indien beschikbaar, een extra punt opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
 
 
 ## Deadlines
@@ -90,7 +89,7 @@ Tijdens de practicumuren, dagelijks van 9 tot 17 uur, kun je terecht in het prog
 
 ## Toetsjes
 
-Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere toetsjes kun je voorbereiden met oefeningen op de website.
+Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere bereid je voor met oefeningen op de website.
 
 - Alle toetsjes moeten gehaald worden om de cursus te voltooien.
 - Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal donderdag).
