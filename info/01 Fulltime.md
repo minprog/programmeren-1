@@ -90,9 +90,22 @@ Tijdens de practicumuren, dagelijks van 9 tot 17 uur, kun je terecht in het prog
 
 ## Toetsjes
 
-Wekelijks op donderdag vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
+Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere toetsjes kun je voorbereiden met oefeningen op de website.
 
-Alle toetsjes moeten gehaald worden om de cursus te voltooien, maar alle toetsjes kunnen zonodig binnen enkele dagen herkanst worden. Meer informatie krijg je bij het afnemen van de toetsjes.
+- Alle toetsjes moeten gehaald worden om de cursus te voltooien.
+- Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal donderdag).
+- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden.
+- Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
+
+Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na afloop van het vak een laatste herkansing plaats.
+
+- De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
+- Om mee te mogen doen moet je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben.
+- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten ingevuld worden.
+
+Toetsen worden beoordeeld op correcte beantwoording. Kleine problemen zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma worden daarbij niet aangerekend. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden te formuleren.
+
+Voor alle toetsen krijg je ruim de tijd (binnen redelijkheid). Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking!
 
 
 ## Boeken
