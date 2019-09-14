@@ -78,6 +78,8 @@ modules:
         - mario_less
         - mario_more
     m2:
+        - initials_less
+        - initials_more
         - caesar
         - vigenere
         - crack
