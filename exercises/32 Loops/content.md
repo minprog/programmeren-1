@@ -4,6 +4,8 @@ Toets E is wat anders dan je gewend bent. In deze toets ga je zelf algoritmes sc
 
 Dit onderwerp kan je niet met het basisboek voorbereiden. Algoritmes schrijven leer je vooral door het te doen. Het is dus belangrijk is om nog eens goed te kijken naar de opdrachten die je tot nu toe gemaakt hebt en nog eens te oefenen met bepaalde aspecten.
 
+> De antwoorden op het toetsje moet je schrijven als C-code. Hierbij hoef je niet op de puntkomma's te letten, maar het moet ook geen pseudocode zijn. Soms is het ook nodig om C-specifieke functies te gebruiken zoals `strlen()`. Schrijf dus zo netjes mogelijk C.
+
 De onderwerpen die aan bod zullen komen:  
 
 ## Loops
