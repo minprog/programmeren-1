@@ -31,11 +31,11 @@ And we'll also take these into account from last week: [comments](/quality/comme
 
 ## What to Do
 
-#### Preparation
+#### 1. Preparation
 
 Watch the lecture on [Arrays](/lectures/arrays)
 
-#### Initials
+#### 2. Initials
 
 Implement either of:
 
@@ -43,11 +43,11 @@ Implement either of:
 
 - [Initials](/problems/initials-more), for those more comfortable
 
-#### Caesar
+#### 3. Caesar
 
 Implement [Caesar](/problems/caesar)
 
-#### Vigenere/Crack
+#### 4. Vigenere/Crack
 
 Implement either of:
 
@@ -55,7 +55,7 @@ Implement either of:
 
 - [Crack](/problems/crack), for those more comfortable
 
-#### Exercises
+#### 5. Exercises
 
 Study and take the test:
 
