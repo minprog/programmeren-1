@@ -39,6 +39,12 @@ As soon as you have submitted working solutions for all problems below, your men
 
 - Implement [Fifteen](/problems/fifteen)
 
+- Study and take the test:
+
+	- [Arrays](/exercises/arrays)
+
+	- [Loops](/exercises/loops)
+
 #### Exercises
 
 Study and take the test:

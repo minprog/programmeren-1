@@ -49,12 +49,11 @@ And we'll also take these into account from last week: [comments](/quality/comme
 
     - [Crack](/problems/crack), for those more comfortable
 
-#### Exercises
+- Study and take the test:
 
-Study and take the test:
+	- [Control Flow](/exercises/control-flow)
 
-- [Control Flow](/exercises/control-flow)
-- [Unscratch](/exercises/unscratch)
+	- [Unscratch](/exercises/unscratch)
 
 
 ## Reference

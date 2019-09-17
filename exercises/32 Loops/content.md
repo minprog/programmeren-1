@@ -6,14 +6,17 @@ Dit onderwerp kan je niet met het basisboek voorbereiden. Algoritmes schrijven l
 
 > De antwoorden op het toetsje moet je schrijven als C-code. Hierbij hoef je niet op de puntkomma's te letten, maar het moet ook geen pseudocode zijn. Soms is het ook nodig om C-specifieke functies te gebruiken zoals `strlen()`. Schrijf dus zo netjes mogelijk C.
 
-De onderwerpen die aan bod zullen komen:  
+Had je de video van Doug nog niet gezien? Check hieronder.
+
+![embed](https://www.youtube.com/embed/WgX8e_O7eG8?autoplay=1&rel=0)
+
 
 ## Loops
 
 * do-while: Kijk hiervoor nog eens naar de [input validatie](https://prog1.mprog.nl/problems/mario-less#specification) die je in Mario nodig had.
 * for: Kijk nog eens hoe je een blok van hekjes ([mario block](https://prog1.mprog.nl/problems/mario-less#block)) en een pyramide  ([mario left pyramid](Mario-less)) hebt gemaakt.
 
-### Oefeningen
+**Oefeningen**
 
 Schrijf een loop die de variabele `n` vult met invoer van de gebruiker (\`get_int()\`). De ingevoerde waarde moet negatief zijn.
 
@@ -28,7 +31,7 @@ Print een mario-pyramide van hoogte `h`.
 * strings: Oefen nog een keer met het doorlopen en selectief printen van strings zoals in [initials](https://prog1.mprog.nl/problems/initials-less). 
 * ascii: Zorg ervoor dat je weet hoe je ascii waardes kan manipuleren zoals in [Caesar](https://prog1.mprog.nl/problems/caesar). Het zal zeker niet zo complex worden als caesar en je hoeft ook zeker niet de ascii-tabel uit je hoofd te kennen, maar je moet wel eenvoudige op ascii gebaseerde conversies kunnen doen.
 
-### Oefeningen
+**Oefeningen**
 
 Schrijf een loop die van alle woorden in de string `tale` de laatste letter uitprint.
 
@@ -52,7 +55,7 @@ string knight = "Batman";
 
 * arrays: In de opdracht find heb je het binary search geïmplementeerd. Dat algoritme zal je niet hoeven te reproduceren op de test, maar je kan wel simpelere varianten verwachten, zoals linear search (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)). 
 
-### Oefeningen
+**Oefeningen**
 
 Schrijf een loop die in de array `numbers` zoekt of het getal `3` voorkomt. dat in het is besproken (de lengte van de array is gegeven door `length`).
 

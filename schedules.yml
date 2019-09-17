@@ -50,9 +50,8 @@ Parttime:
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Exercises:
-            Sequences: /exercises/sequences
             Arrays: /exercises/arrays
-            Nested loops: /exercises/nested-loops
+            Loops: /exercises/loops
     Module 4:
         Overview & Grading: /overviews/forensics
         "Lecture: Memory": /lectures/memory
