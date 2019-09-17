@@ -42,12 +42,6 @@ As soon as you have submitted working solutions for all problems below, your men
 
 	- [Loops](/exercises/loops)
 
-#### Exercises
-
-Study and take the test:
-
-- Learn more about [Arrays](https://www.youtube.com/embed/K1yC1xshF40?autoplay=1&rel=0), practice with book chapters 7, 8 and 9, and take the test.
-
 
 ## Reference
 
