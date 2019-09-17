@@ -50,7 +50,7 @@ Don't forget to use `style50` to automatically suggest corrections for indentati
 
 ## What to Do
 
-#### 1. Preparations
+#### 1. Preparation
 
 Make sure you're prepared by following the instructions in "Getting Started", above!
 
@@ -78,7 +78,6 @@ Study and take the test:
 
 - [Variables](/exercises/variables)
 
-
-## Submitting
+#### 5. Submit
 
 You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

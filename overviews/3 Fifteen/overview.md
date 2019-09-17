@@ -26,21 +26,33 @@ As soon as you have submitted working solutions for all problems below, your men
 
 ## What to Do
 
-- Watch the lecture on [Algorithms](/lectures/algorithms)
+#### 1. Preparation
 
-- Implement either of:
+Watch the lecture on [Algorithms](/lectures/algorithms)
 
-    - [Find](/problems/find-less), for those less comfortable
+#### 2. Find
 
-    - [Find](/problems/find-more), for those more comfortable
+Implement either of:
 
-- Implement [Fifteen](/problems/fifteen)
+- [Find](/problems/find-less), for those less comfortable
 
-- Study and take the test:
+- [Find](/problems/find-more), for those more comfortable
 
-	- [Arrays](/exercises/arrays)
+#### 3. Fifteen
 
-	- [Loops](/exercises/loops)
+Implement [Fifteen](/problems/fifteen)
+
+#### 4. Exercises
+
+Study and take the test:
+
+- [Arrays](/exercises/arrays)
+
+- [Loops](/exercises/loops)
+
+#### 5. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
 
 
 ## Reference
@@ -54,8 +66,3 @@ As soon as you have submitted working solutions for all problems below, your men
 - [Insertion sort](https://www.youtube.com/embed/kU9M51eKSX8?autoplay=1&rel=0)
 - [Merge sort](https://www.youtube.com/embed/yF3hMKmCk1A?autoplay=1&rel=0)
 - [Computational complexity](https://www.youtube.com/embed/YoZPTyGL2IQ?autoplay=1&rel=0)
-
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

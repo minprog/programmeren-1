@@ -63,12 +63,12 @@ Study and take the test:
 
 - [Unscratch](/exercises/unscratch)
 
+#### 6. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
+
 
 ## Reference
 
 - Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg)
 - Learn more about [Command-line arguments](https://www.youtube.com/embed/AI6Ccfno6Pk)
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

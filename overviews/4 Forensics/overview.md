@@ -26,23 +26,37 @@ As soon as you have submitted working solutions for all problems below, your men
 
 ## What to Do
 
--  Watch the lecture on [Memory](/lectures/memory)
+#### 1. Preparations
 
--  Figure out [whodunit](/problems/whodunit)
+Watch the lecture on [Memory](/lectures/memory)
 
--  Implement either of:
+#### 2. Whodunit
 
-    - [Resize](/problems/resize-less), for those less comfortable
+Figure out [whodunit](/problems/whodunit)
 
-    - [Resize](/problems/resize-more), for those more comfortable
+#### 3. Resize
 
--  Implement [Recover](/problems/recover)
+Implement either of:
 
--  Study and take the test:
+- [Resize](/problems/resize-less), for those less comfortable
 
-	- [Arrays](/exercises/arrays)
+- [Resize](/problems/resize-more), for those more comfortable
 
-	- [Loops](/exercises/loops)
+#### 4. Recover
+
+Implement [Recover](/problems/recover)
+
+#### 5. Exercises
+
+Study and take the test:
+
+- [Arrays](/exercises/arrays)
+
+- [Loops](/exercises/loops)
+
+#### 6. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
 
 
 ## Reference
@@ -52,8 +66,3 @@ As soon as you have submitted working solutions for all problems below, your men
 - Learn more about [Structures](https://www.youtube.com/embed/E4lb2gkyXr8?autoplay=1&rel=0)
 
 - Learn more about [Files and file pointers](https://www.youtube.com/embed/bOF-SpEAYgk?autoplay=1&rel=0)
-
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
