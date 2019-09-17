@@ -57,12 +57,11 @@ You can submit your solutions on the problem pages linked above. Before submitti
 
 ## Reference
 
-- Learn more about [Variables and scope](https://www.youtube.com/embed/GiFbdVGjF9I?autoplay=1&rel=0)
-- [Algorithms](https://www.youtube.com/embed/ktWL3nN38ZA?autoplay=1&rel=0)
-- [Linear search](https://www.youtube.com/embed/TwsgCHYmbbA?autoplay=1&rel=0)
-- [Binary search](https://www.youtube.com/embed/T98PIp4omUA?autoplay=1&rel=0)
-- [Selection sort](https://www.youtube.com/embed/3hH8kTHFw2A?autoplay=1&rel=0)
-- [Bubble sort](https://www.youtube.com/embed/RT-hUXUWQ2I?autoplay=1&rel=0)
-- [Insertion sort](https://www.youtube.com/embed/kU9M51eKSX8?autoplay=1&rel=0)
-- [Merge sort](https://www.youtube.com/embed/yF3hMKmCk1A?autoplay=1&rel=0)
-- [Computational complexity](https://www.youtube.com/embed/YoZPTyGL2IQ?autoplay=1&rel=0)
+- [Algorithms](https://www.youtube.com/watch?v=ktWL3nN38ZA)
+- [Linear search](https://www.youtube.com/watch?v=TwsgCHYmbbA)
+- [Binary search](https://www.youtube.com/watch?v=T98PIp4omUA)
+- [Selection sort](https://www.youtube.com/watch?v=3hH8kTHFw2A)
+- [Bubble sort](https://www.youtube.com/watch?v=RT-hUXUWQ2I)
+- [Insertion sort](https://www.youtube.com/watch?v=kU9M51eKSX8)
+- [Merge sort](https://www.youtube.com/watch?v=yF3hMKmCk1A)
+- [Computational complexity](https://www.youtube.com/watch?v=YoZPTyGL2IQ)
