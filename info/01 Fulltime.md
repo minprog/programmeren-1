@@ -93,7 +93,7 @@ Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaa
 
 - Alle toetsjes moeten gehaald worden om de cursus te voltooien.
 - Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal donderdag).
-- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden.
+- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden (meestal maandag en woensdag).
 - Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
 
 Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na afloop van het vak een laatste herkansing plaats.
