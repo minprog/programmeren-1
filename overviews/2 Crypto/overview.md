@@ -31,29 +31,37 @@ And we'll also take these into account from last week: [comments](/quality/comme
 
 ## What to Do
 
-- Watch the lecture on [Arrays](/lectures/arrays)
+#### Preparation
 
-- Implement either of:
+Watch the lecture on [Arrays](/lectures/arrays)
 
-    - [Initials](/problems/initials-less), for most students
+#### Initials
 
-    - [Initials](/problems/initials-more), for those more comfortable
+Implement either of:
 
-- Implement:
+- [Initials](/problems/initials-less), for most students
 
-    - [Caesar](/problems/caesar)
+- [Initials](/problems/initials-more), for those more comfortable
 
-- Implement either of:
+#### Caesar
 
-    - [Vigenere](/problems/vigenere), for most students
+Implement [Caesar](/problems/caesar)
 
-    - [Crack](/problems/crack), for those more comfortable
+#### Vigenere/Crack
 
-- Study and take the test:
+Implement either of:
 
-	- [Control Flow](/exercises/control-flow)
+- [Vigenere](/problems/vigenere), for most students
 
-	- [Unscratch](/exercises/unscratch)
+- [Crack](/problems/crack), for those more comfortable
+
+#### Exercises
+
+Study and take the test:
+
+- [Control Flow](/exercises/control-flow)
+
+- [Unscratch](/exercises/unscratch)
 
 
 ## Reference
