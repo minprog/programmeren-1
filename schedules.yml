@@ -136,6 +136,9 @@ Fulltime:
                 Resize (hacker): /problems/resize-more
         Recover:
             Implement Recover: /problems/recover
+        Exercises:
+            Functions: /exercises/functions
+            Algorithms: /exercises/algorithms
     Module 5:
         Overview & Grading: /overviews/mispellings
         "Lecture: Data Structures": /lectures/data-structures

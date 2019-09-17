@@ -21,10 +21,7 @@ For information on (or help with) this module:
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- Use of comments
-- Naming of variables
-- Use of indentation
-- Use of whitespace
+- TBA
 
 
 ## What to Do
