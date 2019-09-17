@@ -47,7 +47,7 @@ Implement either of:
 
 Implement [Caesar](/problems/caesar)
 
-#### 4. Vigenere/Crack
+#### 4. Vigenere
 
 Implement either of:
 
