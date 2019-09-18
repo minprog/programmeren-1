@@ -1,12 +1,15 @@
 # Exercise: Algorithms
 
-## Goal
+Get more comfortable with sorting algorithms. Each algorithm below intends to sort an array of integers into ascending order. Generally speaking, smaller elements in the array are moved to the "left" and larger elements are moved to the right, until they are in order.
 
-Get more comfortable with different search and sorting algorithms.
+> Note that you should print out this page to do the exercises on paper.
 
-## Bubble
+## Swapping
 
-If you're not sure how bubble sort works, have another look:
+In most of the sorting algorithms below, *swapping* is important. By swapping, we mean exchanging the values at two positions in an array.
+
+## Bubble sort
+
 ![embed](https://www.youtube.com/embed/LZaU8GHNsQI)
 
 Consider the following pseudo code for bubble sort:
