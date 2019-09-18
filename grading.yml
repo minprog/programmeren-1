@@ -23,7 +23,7 @@ templates:
         subgrades:
             points: integer
             hacker: integer
-            late: integer
+            late: float
         calculation: ([points + hacker - late, 5].min / 5.0 * 9 + 1).round(1)
         hide_calculated: true
     4: &test
