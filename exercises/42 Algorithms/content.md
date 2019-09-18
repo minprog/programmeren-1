@@ -27,35 +27,6 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 > What are worst case and best case running time complexities of this procedure?
 
-## Binary search
-
-If you're not sure how binary search works, check this out:
-![embed](https://www.youtube.com/embed/aYvuxAPECiw)
-
-Consider the following pseudo code for binary search:
-
-	search value in array:
-	  min := 0
-	  max := length(array) - 1 
-	    while min <= max
-	      mid := (max + min) / 2
-	      if value is array[mid]
-	        print "value found"
-	        stop
-	      if value < array[mid]
-	        max := mid - 1
-	      else
-	        min := mid + 1
-	    print "value not found"
-
-### Exercise 2
-Perform the procedure on the array below. Your goal is to try and find the value 15. Show on every line the updated min, max and mid. Use a circle to indicate the min value, a square for max, and a triangle for mid. Indicate clearly at which line the procedure terminates and add if the value is found or not.
-
-![](search.PNG)
-
-> What are worst case and best case running time complexities of this procedure?
-> How many more rows in the table would you need to fill out if we would double the size of the input array (from 22 to 44 elements)?  
-
 ## Selection sort
 
 Let's do another sorting alogirthm: selection sort. If you don't remember selection sort, have a look here:
