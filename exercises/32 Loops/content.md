@@ -1,30 +1,32 @@
 # Exercises: Loops
 
-Toets E is wat anders dan je gewend bent. In deze toets ga je zelf algoritmes schrijven. Hier kan je laten zien wat je geleerd hebt van de programmeeropdrachten die je tot nu toe hebt gemaakt.
+Bij deze oefening ga je kleine algoritmes schrijven. De meeste hiervan zullen je bekend voorkomen, want het zijn varianten van de onderdelen van de opdrachten die je afgelopen weken hebt gemaakt. 
 
-Dit onderwerp kan je niet met het basisboek voorbereiden. Algoritmes schrijven leer je vooral door het te doen. Het is dus belangrijk is om nog eens goed te kijken naar de opdrachten die je tot nu toe gemaakt hebt en nog eens te oefenen met bepaalde aspecten.
+> De antwoorden moet je schrijven als C-code. Hierbij hoef je niet op de puntkomma's te letten, maar het moet geen pseudocode zijn. Soms is het nodig om C-specifieke functies te gebruiken zoals `strlen()`. Schrijf dus zo netjes mogelijk C.
 
-> De antwoorden op het toetsje moet je schrijven als C-code. Hierbij hoef je niet op de puntkomma's te letten, maar het moet ook geen pseudocode zijn. Soms is het ook nodig om C-specifieke functies te gebruiken zoals `strlen()`. Schrijf dus zo netjes mogelijk C.
-
-Had je de video van Doug nog niet gezien? Check hieronder.
+Had je de video van Doug nog niet gezien? Hij geeft een overzicht van de verschillende soorten loops in C en waarvoor we ze gebruiken.
 
 ![embed](https://www.youtube.com/embed/WgX8e_O7eG8?autoplay=1&rel=0)
 
 
 ## Loops
 
+In elk algoritme zul je loops tegenkomen, bijvoorbeeld om herhaaldelijk iets te vragen aan een gebruiker, of om een berekening te doen met een hele lijst van getallen.
+
 - Bestudeer de `do`--`while`-loop die je in [Mario](https://prog1.mprog.nl/problems/mario-less#specification) nodig had om te zorgen dat de gebruikersinvoer tussen 0 en 23 bleef.
 - Bestudeer hoe je een [blok](https://prog1.mprog.nl/problems/mario-less#block) en een [piramide](https://prog1.mprog.nl/problems/mario-less) heb gemaakt door `for`-loops te combineren.
 
 **Oefeningen**
 
-Schrijf een loop die de variabele `n` vult met invoer van de gebruiker (\`get_int()\`). De ingevoerde waarde moet negatief zijn.
+1.  Schrijf een loop die de variabele `n` vult met invoer van de gebruiker (\`get_int()\`). De ingevoerde waarde moet negatief zijn.
 
-`int n;`
+		int n;
 
-Print een mario-pyramide van hoogte `h`.
+2.  Print een mario-pyramide van hoogte `h`. Let op dat we in dit geval niet specificeren wat de hoogte `h` is: je moet een algoritme schrijven dat werkt voor alle (redelijke) waarden van `h`.
 
-`int h;`
+		int h;
+
+In sommige gevallen geven we wel een waarde, bijvoorbeeld `int h = 3;`. Ook dan moet je algoritme werken voor andere waarden dan 3, maar het is vaak fijn om even een voorbeeld te hebben.
 
 ## Strings
 
