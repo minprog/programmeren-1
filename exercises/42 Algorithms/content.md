@@ -53,9 +53,10 @@ Perform the procedure on the array below. Show every change on an individual lin
 
 ## Merge sort
 
+> This algorithm is based on recursion, which is not part of the course. The merge sort algorithm will not be on any of the tests.
+
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
 
 Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
 ![](sort.PNG)
-
