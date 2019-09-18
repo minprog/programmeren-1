@@ -8,28 +8,6 @@ Get more comfortable with sorting algorithms. Each algorithm below intends to so
 
 In most of the sorting algorithms below, *swapping* is important. By swapping, we mean exchanging the values at two positions in an array.
 
-## Bubble sort
-
-![embed](https://www.youtube.com/embed/LZaU8GHNsQI)
-
-Consider the following pseudo code for bubble sort:
-
-	sort array of lenth n:
-		end := n - 1
-		while array is not sorted:
-			for i from 0 to end:
-				if array[i] > array[i+1]:
-					swap values at i and i + 1
-			end := end - 1 
-
-### Exercise 1
-
-Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. 
-
-![](sort.PNG)
-
-> What are worst case and best case running time complexities of this procedure?
-
 ## Selection sort
 
 Let's do another sorting alogirthm: selection sort. If you don't remember selection sort, have a look here:
@@ -45,59 +23,33 @@ The pseudo code here below describes the selection sort algorithm.
 			swap values at index_smallest and i
 			i := i + 1
 
-### Exercise 3.1
-
 Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+
+![](sort.PNG)
+
+What are worst case and best case running time complexities of this procedure?
+
+## Bubble sort
+
+![embed](https://www.youtube.com/embed/LZaU8GHNsQI)
+
+Consider the following pseudo code for bubble sort:
+
+	sort array of lenth n:
+		end := n - 1
+		while array is not sorted:
+			for i from 0 to end:
+				if array[i] > array[i+1]:
+					swap values at i and i + 1
+			end := end - 1 
+
+Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. 
 
 ![](sort.PNG)
 
 > What are worst case and best case running time complexities of this procedure?
 
-### Exercise 3.2
 
-Now let's implement selection sort.
-
-#### Step 1
-Create a new file called `selection-sort.c` in `practice` and copy the code below into it.
-
-	#include <stdio.h>
-
-	void print_array(int a[], int n);
-	void sort(int a[], int n);
-
-	int main (void)
-	{
-	    int array[] = {5, 1, 2, 8, 6};
-	    int n = sizeof(array)/sizeof(int);
-	    sort(array, n);
-
-	}
-
-	void print_array(int a[], int n)
-	{
-	    for(int i = 0; i < n; i++)
-	    {
-	        printf("%2i ", a[i]);
-	    }
-	    printf("\n");
-	}
-
-	// sort array a of length n, using selection sort
-	void sort(int a[], int n)
-	{
-	    // TODO: implement
-		print_array(a, n);
-	}
-
-#### Step 2
-The function `sort`now contains a call to `print_array`. This is of course not what sort is supposed toe do. Instead, implement selection sort in the function `sort`. Print the array after every swap in the sort procedure, so that we can inspect the intermediary results.
-
-#### Step 3
-Compile and test.
-> Is the output of your program identical to what you wrote down in Exercise 3.1? If it isn't, why not?
-
-## Other algorithms:
-If you want to get some extra exercise you can alway try to implement some of the other algorithms proposed in the lecture:
 
 Merge sort:
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
