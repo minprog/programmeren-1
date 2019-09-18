@@ -10,8 +10,6 @@ In most of the sorting algorithms below, *swapping* is important. By swapping, w
 
 ## Selection sort
 
-Let's do another sorting alogirthm: selection sort. If you don't remember selection sort, have a look here:
-
 ![embed](https://www.youtube.com/embed/NEbb4XqKDNU)
 
 The pseudo code here below describes the selection sort algorithm.
@@ -49,11 +47,11 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 What are worst case and best case running time complexities of this procedure?
 
-## Merge sort
-
-![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
-
 ## Insertion sort
 
 ![embed](https://www.youtube.com/embed/ntB1D3Bbz5I)
+
+## Merge sort
+
+![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
 
