@@ -13,6 +13,8 @@ Had je de video van Doug nog niet gezien? Hij geeft een overzicht van de verschi
 
 In elk algoritme zul je loops tegenkomen, bijvoorbeeld om herhaaldelijk iets te vragen aan een gebruiker, of om een berekening te doen met een hele lijst van getallen.
 
+**Voorbereiding**
+
 - Bestudeer de `do`--`while`-loop die je in [Mario](https://prog1.mprog.nl/problems/mario-less#specification) nodig had om te zorgen dat de gebruikersinvoer tussen 0 en 23 bleef.
 - Bestudeer hoe je een [blok](https://prog1.mprog.nl/problems/mario-less#block) en een [piramide](https://prog1.mprog.nl/problems/mario-less) heb gemaakt door `for`-loops te combineren.
 
@@ -30,8 +32,12 @@ In sommige gevallen geven we wel een waarde, bijvoorbeeld `int h = 3;`. Ook dan 
 
 ## Strings
 
-* strings: Oefen nog een keer met het doorlopen en selectief printen van strings zoals in [initials](https://prog1.mprog.nl/problems/initials-less). 
-* ascii: Zorg ervoor dat je weet hoe je ascii waardes kan manipuleren zoals in [Caesar](https://prog1.mprog.nl/problems/caesar). Het zal zeker niet zo complex worden als caesar en je hoeft ook zeker niet de ascii-tabel uit je hoofd te kennen, maar je moet wel eenvoudige op ascii gebaseerde conversies kunnen doen.
+Loops kun je ook gebruiken om een hele string door te lopen en te verwerken. Hiervan heb je kort geleden al enkele voorbeelden uitgeprogrammeerd.
+
+**Voorbereiding**
+
+* Bestudeer goed het doorlopen en selectief printen van strings zoals in [Initials](https://prog1.mprog.nl/problems/initials-less).
+* Bestudeer het manipuleren van ascii-waardes zoals in [Caesar](https://prog1.mprog.nl/problems/caesar).
 
 **Oefeningen**
 
