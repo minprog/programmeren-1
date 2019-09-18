@@ -25,8 +25,6 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 ![](sort.PNG)
 
-What are worst case and best case running time complexities of this procedure?
-
 ## Bubble sort
 
 ![embed](https://www.youtube.com/embed/LZaU8GHNsQI)
@@ -44,8 +42,6 @@ Consider the following pseudo code for bubble sort:
 Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. 
 
 ![](sort.PNG)
-
-What are worst case and best case running time complexities of this procedure?
 
 ## Insertion sort
 
