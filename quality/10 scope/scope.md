@@ -66,12 +66,12 @@ Global variables, variables that are kept around for the entirety of your progra
 
 Now if we swap the two function calls...
 
-int main()
-{
-    bar();
-    foo();
-    printf("%d\n", answer); // prints 85
-}
+	int main()
+	{
+	    bar();
+	    foo();
+	    printf("%d\n", answer); // prints 85
+	}
 
 We end up with a different output! Now this program is small and manageable, but do just imagine trying to trace this outcome in a couple 1000 lines of code and you can see why the use of global variables is generally frowned upon. So instead, lets remove the global variable and parameterize the functions:
 
