@@ -25,7 +25,7 @@ As soon as you have submitted working solutions for all problems below, your men
 - [Duplicated effort](/quality-aspects/duplicated-effort)
 - [Scope](/quality-aspects/scope)
 
-And we'll also take these into account from previous week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality-aspects/duplication), [nesting](/quality-aspects/nesting), [magic numbers](/quality-aspects/magic-numbers), and [choosing loops](/quality-aspects/loops).
+And we'll also take these into account from previous weeks: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality-aspects/duplication), [nesting](/quality-aspects/nesting), [magic numbers](/quality-aspects/magic-numbers), and [choosing loops](/quality-aspects/loops).
 
 ## What to Do
 
