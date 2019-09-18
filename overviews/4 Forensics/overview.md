@@ -50,9 +50,9 @@ Implement [Recover](/problems/recover)
 
 Study and take the test:
 
-- [Arrays](/exercises/arrays)
+- [Functions](/exercises/functions)
 
-- [Loops](/exercises/loops)
+- [Algorithms](/exercises/algorithms)
 
 #### 6. Submit
 
