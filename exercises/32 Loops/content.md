@@ -18,7 +18,7 @@ In elk algoritme zul je loops tegenkomen, bijvoorbeeld om herhaaldelijk iets te 
 
 **Oefeningen**
 
-1.  Schrijf een loop die de variabele `n` vult met invoer van de gebruiker (\`get_int()\`). De ingevoerde waarde moet negatief zijn.
+1.  Schrijf een loop die de variabele `n` vult met invoer van de gebruiker (`get_int()`). De ingevoerde waarde moet negatief zijn.
 
 		int n;
 
