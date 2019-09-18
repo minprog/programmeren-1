@@ -47,7 +47,15 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 ![embed](https://www.youtube.com/embed/ntB1D3Bbz5I)
 
+Perform the procedure on the array below. Show every change on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+
+![](sort.PNG)
+
 ## Merge sort
 
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
+
+Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+
+![](sort.PNG)
 
