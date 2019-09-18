@@ -12,7 +12,7 @@ In most of the sorting algorithms below, *swapping* is important. By swapping, w
 
 ![embed](https://www.youtube.com/embed/NEbb4XqKDNU)
 
-The pseudo code here below describes the selection sort algorithm.
+The following pseudocode describes the selection sort algorithm.
 
 	sort array of length n:
 		i : = 0
@@ -29,7 +29,7 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 ![embed](https://www.youtube.com/embed/LZaU8GHNsQI)
 
-Consider the following pseudo code for bubble sort:
+Consider the following pseudocode for bubble sort.
 
 	sort array of lenth n:
 		end := n - 1
