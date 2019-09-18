@@ -47,14 +47,13 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 ![](sort.PNG)
 
-> What are worst case and best case running time complexities of this procedure?
+What are worst case and best case running time complexities of this procedure?
 
+## Merge sort
 
-
-Merge sort:
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
 
-Insertion sort:
+## Insertion sort
+
 ![embed](https://www.youtube.com/embed/ntB1D3Bbz5I)
 
-Always first try to execute a (small) example by hand as you did above, before you implement it. Always try to print intermediary results and compare them to what you wrote down.
