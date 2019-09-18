@@ -55,7 +55,11 @@ Loops kun je ook gebruiken om een hele string door te lopen en te verwerken. Hie
 
 ## Arrays
 
-> In de opdracht **Find** heb je binary search geïmplementeerd. Dat algoritme zal je niet hoeven te reproduceren op de test, maar je kan wel varianten op linear search verwachten (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)).
+In onze programma's en voorbeelden bevatten arrays vaak getallen van type `integer` of `float`. Met behulp van loops kun je de informatie in zo'n array bijvoorbeeld **samenvatten**. Ook kun je een array **analyseren**, bijvoorbeeld om het kleinste element te vinden.
+
+**Voorbereiding**
+
+In de opdracht **Find** heb je binary search geïmplementeerd. Dat algoritme zal je niet hoeven reproduceren op een toets, maar je kan wel varianten op linear search verwachten (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)).
 
 **Oefeningen**
 
