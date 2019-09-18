@@ -21,8 +21,11 @@ For information on (or help with) this module:
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- TBA
+- [Dead code](/quality-aspects/dead-code)
+- [Duplicated effort](/quality-aspects/duplicated-effort)
+- [Scope](/quality-aspects/scope)
 
+And we'll also take these into account from previous week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality-aspects/duplication), [nesting](/quality-aspects/nesting), [magic numbers](/quality-aspects/magic-numbers), and [choosing loops](/quality-aspects/loops).
 
 ## What to Do
 
