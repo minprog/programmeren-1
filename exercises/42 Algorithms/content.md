@@ -21,7 +21,7 @@ The following pseudocode describes the selection sort algorithm.
 			swap values at index_smallest and i
 			i := i + 1
 
-Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+Perform the procedure on the array `{5, 7, 2, 6, 3}` of length `n=5`. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
 ![](sort.PNG)
 
@@ -39,7 +39,7 @@ Consider the following pseudocode for bubble sort.
 					swap values at i and i + 1
 			end := end - 1 
 
-Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. 
+Perform the procedure on the array `{5, 7, 2, 6, 3}` of length `n=5`. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
 ![](sort.PNG)
 
@@ -47,7 +47,7 @@ Perform the procedure on the array below. Show every swap on an individual line 
 
 ![embed](https://www.youtube.com/embed/ntB1D3Bbz5I)
 
-Perform the procedure on the array below. Show every change on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+Perform the procedure on the array `{5, 7, 2, 6, 3}` of length `n=5`. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
 ![](sort.PNG)
 
@@ -57,6 +57,6 @@ Perform the procedure on the array below. Show every change on an individual lin
 
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
 
-Perform the procedure on the array below. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
+Perform the procedure on the array `{5, 7, 2, 6, 3}` of length `n=5`. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
 ![](sort.PNG)
