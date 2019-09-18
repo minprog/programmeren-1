@@ -13,8 +13,8 @@ Had je de video van Doug nog niet gezien? Check hieronder.
 
 ## Loops
 
-* do-while: Kijk hiervoor nog eens naar de [input validatie](https://prog1.mprog.nl/problems/mario-less#specification) die je in Mario nodig had.
-* for: Kijk nog eens hoe je een blok van hekjes ([mario block](https://prog1.mprog.nl/problems/mario-less#block)) en een pyramide  ([mario left pyramid](Mario-less)) hebt gemaakt.
+- Bestudeer de `do`--`while`-loop die je in [Mario](https://prog1.mprog.nl/problems/mario-less#specification) nodig had om te zorgen dat de gebruikersinvoer tussen 0 en 23 bleef.
+- Bestudeer hoe je een [blok](https://prog1.mprog.nl/problems/mario-less#block) en een [piramide](https://prog1.mprog.nl/problems/mario-less) heb gemaakt door `for`-loops te combineren.
 
 **Oefeningen**
 
@@ -33,43 +33,33 @@ Print een mario-pyramide van hoogte `h`.
 
 **Oefeningen**
 
-Schrijf een loop die van alle woorden in de string `tale` de laatste letter uitprint.
+-   Schrijf een loop die van alle woorden in de string `tale` de laatste letter uitprint.
 
-```
-string tale = "It was the best of times";
-```
+		string tale = "It was the best of times";
 
-Schrijf een loop die van de string `bob` de hoofdletters uitprint.
+-   Schrijf een loop die van de string `bob` de hoofdletters uitprint.
 
-```
-string bob = "pRoGgRaMmInG In c";
-```
+		string bob = "pRoGgRaMmInG In c";
 
-Print de string `knight`, maar vervang daarbij alle letters 'a' door een 'o'.
+-   Print de string `knight`, maar vervang daarbij alle letters 'a' door een 'o'.
 
-```
-string knight = "Batman";
-```
+		string knight = "Batman";
 
 ## Arrays
 
-* arrays: In de opdracht find heb je het binary search geïmplementeerd. Dat algoritme zal je niet hoeven te reproduceren op de test, maar je kan wel simpelere varianten verwachten, zoals linear search (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)). 
+> In de opdracht **Find** heb je binary search geïmplementeerd. Dat algoritme zal je niet hoeven te reproduceren op de test, maar je kan wel varianten op linear search verwachten (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)).
 
 **Oefeningen**
 
-Schrijf een loop die in de array `numbers` zoekt of het getal `3` voorkomt. dat in het is besproken (de lengte van de array is gegeven door `length`).
+-   Schrijf een loop die in de array `numbers` zoekt of het getal `3` voorkomt. dat in het is besproken (de lengte van de array is gegeven door `length`).
 
-```
-int numbers[] = {7, 3, 4, 5};
-int length = 4;
-```
+		int numbers[] = {7, 3, 4, 5};
+		int length = 4;
 
-Schrijf een loop die het gemiddelde berekent van de getallen in array `numbers` en opslaat in de variabele `avg`.
+-   Schrijf een loop die het gemiddelde berekent van de getallen in array `numbers` en opslaat in de variabele `avg`.
 
-```
-int numbers[] = {5, 7, 2, 4, 6};
-int length = 5;
-int avg;
-```
+		int numbers[] = {5, 7, 2, 4, 6};
+		int length = 5;
+		int avg;
 
 Op papier een algoritme uitwerken is echt een andere oefening dan hetzelfde doen op een computer. Je kan niet tussendoor uitproberen of het werkt. Oefen dus goed met de bovenstaande onderwerpen voor je de toets gaat maken.
