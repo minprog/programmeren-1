@@ -14,12 +14,12 @@ In most of the sorting algorithms below, *swapping* is important. By swapping, w
 
 The following pseudocode describes the selection sort algorithm.
 
-	sort array of length n:
-		i : = 0
-		while i < n:
-			index_smallest := find index of smallest element in array between i and n
-			swap values at index_smallest and i
-			i := i + 1
+	for(i = 0; i < n; i++)
+		min = i
+		for(j = i + 1; j < n; j++)
+			if array[j] < array[min]
+				min = j
+		swap values at min and i
 
 Perform the procedure on the array `{5, 7, 2, 6, 3}` of length `n=5`. Show every swap on an individual line and show which elements you're swapping by underlining them. Also show which part of the array is sorted on every line by drawing a rectangle around the sorted part of the array.  
 
