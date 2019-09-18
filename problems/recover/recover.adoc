@@ -106,10 +106,6 @@ Here's how to evaluate the style of your code using `style50`.
 style50 recover.c
 ----
 
-== Staff's Solution
-
-Afraid having the staff's solution would spoil the challenge!
-
 == Hints
 
 Keep in mind that you can open `card.raw` programmatically with `fopen`, as with the below, provided `argv[1]` exists.
