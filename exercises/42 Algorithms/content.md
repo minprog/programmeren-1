@@ -53,7 +53,7 @@ Perform the procedure on the array below. Show every change on an individual lin
 
 ## Merge sort
 
-> This algorithm is based on recursion, which is not part of the course. The merge sort algorithm will not be on any of the tests.
+> This algorithm is based on recursion, which is not part of the course. The merge sort algorithm will not be on any of the tests. However, merge sort is a great subject for practising recursion.
 
 ![embed](https://www.youtube.com/embed/yF3hMKmCk1A)
 
