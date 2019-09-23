@@ -19,16 +19,27 @@ For information on (or help with) this module:
 
 ## Grading
 
-This problem is **optional**. You can earn up to 2 points by submitting a efficient and good quality solution.
+This problem is **optional**. You can earn up to 2 points by submitting an efficient and good quality solution. For quality aspects, refer to earlier weeks!
 
 
 ## What to Do
 
-- Watch [Lecture 5](/lectures/lecture-5)
+#### 1. Preparation
 
-- Implement [Speller](/problems/speller)
+Watch [Lecture 5](/lectures/lecture-5)
 
-- If you'd like to benchmark your code against classmates' solutions, upload it to the [Big Board](https://bigboard.quinner.nl/)
+#### 2. Speller
+
+Implement [Speller](/problems/speller)
+
+#### 3. Big Board
+
+If you'd like to benchmark your code against classmates' solutions, upload it to the [Big Board](https://bigboard.quinner.nl/)
+
+#### 4. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
+
 
 ## Reference
 
@@ -44,11 +55,3 @@ For more in-depth reference for this problem, check out:
 - [Data structures](https://www.youtube.com/embed/3uGchQbk7g8?autoplay=1&rel=0)
 - [Singly-linked lists](https://www.youtube.com/embed/zQI3FyWm144?autoplay=1&rel=0), [Tries](https://www.youtube.com/embed/MC-iQHFdEDI?autoplay=1&rel=0)
 - [Hash tables](https://www.youtube.com/embed/2wyCY1sX9II?autoplay=1&rel=0)
-
-## Big Board
-
-If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our [Big Board](https://bigboard.quinner.nl/) website before or after you submit!
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

@@ -50,9 +50,8 @@ Parttime:
         Fifteen:
             Implement Fifteen: /problems/fifteen
         Exercises:
-            Sequences: /exercises/sequences
             Arrays: /exercises/arrays
-            Nested loops: /exercises/nested-loops
+            Loops: /exercises/loops
     Module 4:
         Overview & Grading: /overviews/forensics
         "Lecture: Memory": /lectures/memory
@@ -123,10 +122,9 @@ Fulltime:
                 Find (hacker): /problems/find-more
         Fifteen:
             Implement Fifteen: /problems/fifteen
-        Thursday exercises:
-            Sequences: /exercises/sequences
+        Exercises:
             Arrays: /exercises/arrays
-            Nested loops: /exercises/nested-loops
+            Loops: /exercises/loops
     Module 4:
         Overview & Grading: /overviews/forensics
         "Lecture: Memory": /lectures/memory
@@ -138,7 +136,7 @@ Fulltime:
                 Resize (hacker): /problems/resize-more
         Recover:
             Implement Recover: /problems/recover
-        Thursday exercises:
+        Exercises:
             Functions: /exercises/functions
             Algorithms: /exercises/algorithms
     Module 5:

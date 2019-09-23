@@ -18,9 +18,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 - alle werkgroepen bijwoont,
 - het electronica-practicum doet,
 - alle uren aanwezig bent in het lab,
-- alle opdrachten volledig uitgewerkt instuurt,
-- alle toetsjes maakt en haalt, en
-- het tentamen maakt en haalt.
+- alle opdrachten volledig uitgewerkt instuurt, en
+- alle toetsjes maakt en haalt.
 
 
 ## Vragen stellen
@@ -32,23 +31,23 @@ Heb je een schriftelijke vraag, bijvoorbeeld omdat je een uitzondering nodig heb
 
 ## Cijfers
 
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren, alle toetsjes halen en het tentamen halen om een voldoende te halen voor het vak, tenzij daarop een schriftelijke uitzondering is gegeven door de vakdocenten.
+Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door een vakdocent.
 
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
-5. uitzonderlijk goed resultaat met doordacht ontwerp
+5. uitzonderlijk goed resultaat, met een doordacht ontwerp
 4. goed resultaat op alle aspecten
 3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
 2. zichtbare aandacht voor de meeste aspecten
 1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een module, indien beschikbaar, een extra punt opleveren. Toetsjes en het tentamen leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een module, indien beschikbaar, een extra punt opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline ingeleverd zijn. Een voorlopig schema van deadlines vind je hieronder. Alle deadlines zijn om 23:59 op de genoemde datum.
+Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 23:59 op de hieronder genoemde datum.
 
 | deadline | fulltime  |  
 | -------- | --------- |  
@@ -59,7 +58,7 @@ Elke module moet op de vooraf bepaalde deadline ingeleverd zijn. Een voorlopig s
 | Module 4 | vr 27 sep |  
 | Module 5 | vr 27 sep |  
 
-Module 5 is een optionele extra uitdaging voor studenten die erg snel door de cursus heen gaan.
+Module 5 is een *optionele* extra uitdaging voor studenten die erg snel door de cursus heen gaan.
 
 In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
@@ -90,9 +89,22 @@ Tijdens de practicumuren, dagelijks van 9 tot 17 uur, kun je terecht in het prog
 
 ## Toetsjes
 
-Wekelijks op donderdag vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en scherper gemaakt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan delen worden verspreid in het lab. Andere toetsjes hebben directer betrekking op de opdrachten en vragen doorgaans niet om veel voorbereiding.
+Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere bereid je voor met oefeningen op de website.
 
-Alle toetsjes moeten gehaald worden om de cursus te voltooien, maar alle toetsjes kunnen zonodig binnen enkele dagen herkanst worden. Meer informatie krijg je bij het afnemen van de toetsjes.
+- Alle toetsjes moeten gehaald worden om de cursus te voltooien.
+- Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal donderdag).
+- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden (meestal maandag en woensdag).
+- Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
+
+Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na afloop van het vak een laatste herkansing plaats.
+
+- De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
+- Om mee te mogen doen moet je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben.
+- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed ingevuld worden.
+
+Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma worden daarbij niet aangerekend. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
+
+Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Laat wel weten als we nog andere voorzieningen kunnen treffen.
 
 
 ## Boeken
@@ -122,9 +134,9 @@ Het opnieuw insturen van modules is niet meer mogelijk na de deadline of zodra d
 
 - Alle modules die onvoldoende waren moeten opnieuw ingestuurd worden en krijgen een nieuw cijfer.
 
-- Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+- Van deze modules moeten alle deelopdrachten opnieuw worden ingestuurd, volledig werkend zonder bugs.
 
-- Alle opdrachten uit een module moeten opnieuw worden ingestuurd en moeten werken zonder bugs.
+- Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
 
 - Herinzendingen moeten volledig gedaan zijn vóór een eventuele herkansing van het tentamen.
 

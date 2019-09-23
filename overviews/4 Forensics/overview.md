@@ -21,27 +21,42 @@ For information on (or help with) this module:
 
 As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
 
-- Use of comments
-- Naming of variables
-- Use of indentation
-- Use of whitespace
+- TBA
 
 
 ## What to Do
 
--  Watch the lecture on [Memory](/lectures/memory)
+#### 1. Preparations
 
--  Figure out [whodunit](/problems/whodunit)
+Watch the lecture on [Memory](/lectures/memory)
 
--  Implement either of:
+#### 2. Whodunit
 
-    - [Resize](/problems/resize-less), for those less comfortable
+Figure out [whodunit](/problems/whodunit)
 
-    - [Resize](/problems/resize-more), for those more comfortable
+#### 3. Resize
 
--  Implement [Recover](/problems/recover)
+Implement either of:
 
--  Learn more about [Functions](https://www.youtube.com/embed/n1glFqt3g38?autoplay=1&rel=0) and practice with the book chapter on *strings*, *arrays* and *functions*.
+- [Resize](/problems/resize-less), for those less comfortable
+
+- [Resize](/problems/resize-more), for those more comfortable
+
+#### 4. Recover
+
+Implement [Recover](/problems/recover)
+
+#### 5. Exercises
+
+Study and take the test:
+
+- [Functions](/exercises/functions)
+
+- [Algorithms](/exercises/algorithms)
+
+#### 6. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
 
 
 ## Reference
@@ -51,8 +66,3 @@ As soon as you have submitted working solutions for all problems below, your men
 - Learn more about [Structures](https://www.youtube.com/embed/E4lb2gkyXr8?autoplay=1&rel=0)
 
 - Learn more about [Files and file pointers](https://www.youtube.com/embed/bOF-SpEAYgk?autoplay=1&rel=0)
-
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

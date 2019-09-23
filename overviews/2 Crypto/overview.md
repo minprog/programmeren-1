@@ -31,37 +31,44 @@ And we'll also take these into account from last week: [comments](/quality/comme
 
 ## What to Do
 
-- Watch the lecture on [Arrays](/lectures/arrays)
+#### 1. Preparation
 
-- Implement either of:
+Watch the lecture on [Arrays](/lectures/arrays)
 
-    - [Initials](/problems/initials-less), for most students
+#### 2. Initials
 
-    - [Initials](/problems/initials-more), for those more comfortable
+Implement either of:
 
-- Implement:
+- [Initials](/problems/initials-less), for most students
 
-    - [Caesar](/problems/caesar)
+- [Initials](/problems/initials-more), for those more comfortable
 
-- Implement either of:
+#### 3. Caesar
 
-    - [Vigenere](/problems/vigenere), for most students
+Implement [Caesar](/problems/caesar)
 
-    - [Crack](/problems/crack), for those more comfortable
+#### 4. Vigenere
 
-#### Exercises
+Implement either of:
+
+- [Vigenere](/problems/vigenere), for most students
+
+- [Crack](/problems/crack), for those more comfortable
+
+#### 5. Exercises
 
 Study and take the test:
 
 - [Control Flow](/exercises/control-flow)
+
 - [Unscratch](/exercises/unscratch)
+
+#### 6. Submit
+
+You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
 
 
 ## Reference
 
 - Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg)
 - Learn more about [Command-line arguments](https://www.youtube.com/embed/AI6Ccfno6Pk)
-
-## Submitting
-
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).

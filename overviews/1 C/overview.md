@@ -50,7 +50,11 @@ Don't forget to use `style50` to automatically suggest corrections for indentati
 
 ## What to Do
 
-#### Greedy
+#### 1. Preparation
+
+Make sure you're prepared by following the instructions in "Getting Started", above!
+
+#### 2. Greedy
 
 Implement and submit either of:
 
@@ -58,7 +62,7 @@ Implement and submit either of:
 
 - [Credit](/problems/credit), the "hacker edition" aimed at students who already have quite some experience with programming
 
-#### Mario
+#### 3. Mario
 
 - Watch the lecture on [Tools](/lectures/tools)
 
@@ -68,13 +72,12 @@ Implement and submit either of:
 
     - [Mario](/problems/mario-more), the hacker edition
 
-#### Exercises
+#### 4. Exercises
 
 Study and take the test:
 
 - [Variables](/exercises/variables)
 
-
-## Submitting
+#### 5. Submit
 
 You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
