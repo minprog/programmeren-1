@@ -25,6 +25,7 @@ As soon as you have submitted working solutions for all problems below, your men
 - [Nesting](/quality/nesting)
 - [Scope](/quality/scope)
 - [Choosing loops](/quality/loops)
+- [Usability](/quality/usability)
 
 And we'll also take these into account from previous weeks: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality/duplication), [magic numbers](/quality/magic-numbers), and [Dead code](/quality/dead-code).
 

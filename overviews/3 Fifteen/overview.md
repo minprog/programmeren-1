@@ -24,7 +24,6 @@ As soon as you have submitted working solutions for all problems below, your men
 - [Dead code](/quality/dead-code)
 - [Duplicated effort](/quality/duplicated-effort)
 - [Scope](/quality/scope)
-- [Usability](/quality/usability)
 
 And we'll also take these into account from previous weeks: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality/duplication), [nesting](/quality/nesting), [magic numbers](/quality/magic-numbers), and [choosing loops](/quality/loops).
 
