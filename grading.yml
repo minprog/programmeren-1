@@ -44,7 +44,6 @@ grades:
     caesar: *fullyauto
     vigenere: *fullyauto
     crack: *fullyauto
-    music: *fullyauto
     fifteen: *fullyauto
     find_less: *fullyauto
     find_more: *fullyauto
