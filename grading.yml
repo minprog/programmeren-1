@@ -50,8 +50,8 @@ grades:
     whodunit:
         type: float
         subgrades:
-            correctness: integer
-        calculation: (correctness / 5.0 * 9 + 1).round(1)
+            checked: boolean
+        calculation: checked.to_i
         hide_calculated: true
     resize_less: *fullyauto
     resize_more: *fullyauto
