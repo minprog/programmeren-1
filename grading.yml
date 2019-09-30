@@ -31,6 +31,7 @@ templates:
         subgrades:
             passed: integer
         calculation: passed
+        is_test: true
         hide_subgrades: true
 
 grades:
