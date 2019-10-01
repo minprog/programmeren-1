@@ -17,9 +17,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 - alle hoorcolleges bekijkt,
 - alle werkgroepen bijwoont,
 - voldoende uren aanwezig bent in het lab,
-- alle opdrachten volledig uitgewerkt instuurt,
-- alle toetsjes maakt en haalt, en
-- het tentamen maakt en haalt.
+- alle opdrachten volledig uitgewerkt instuurt, en
+- alle toetsjes maakt en haalt.
 
 
 ## Vragen stellen
@@ -31,7 +30,7 @@ Heb je een schriftelijke vraag, bijvoorbeeld omdat je een uitzondering nodig heb
 
 ## Cijfers
 
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren, alle toetsjes halen en het tentamen halen om een voldoende te halen voor het vak, tenzij daarop een schriftelijke uitzondering is gegeven door de vakdocenten.
+Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij daarop een schriftelijke uitzondering is gegeven door de vakdocenten.
 
 Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
@@ -42,7 +41,7 @@ Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten v
 1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes en het tentamen leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
 
 
 ## Deadlines
@@ -133,7 +132,7 @@ Het opnieuw insturen van modules is niet meer mogelijk na de deadline of zodra d
 
 - Alle opdrachten uit een module moeten opnieuw worden ingestuurd en moeten werken zonder bugs.
 
-- Herinzendingen moeten volledig gedaan zijn vóór een eventuele herkansing van het tentamen.
+- Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
 
 - Opdrachten kunnen niet voor een derde keer herkanst worden.
 

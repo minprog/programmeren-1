@@ -138,7 +138,7 @@ Het opnieuw insturen van modules is niet meer mogelijk na de deadline of zodra d
 
 - Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
 
-- Herinzendingen moeten volledig gedaan zijn vóór een eventuele herkansing van het tentamen.
+- Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
 
 - Opdrachten kunnen niet voor een derde keer herkanst worden.
 
