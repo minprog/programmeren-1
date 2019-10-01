@@ -100,7 +100,7 @@ Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na
 
 - De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
 - Om mee te mogen doen moet je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben.
-- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed ingevuld worden.
+- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
 
 Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma worden daarbij niet aangerekend. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
 
