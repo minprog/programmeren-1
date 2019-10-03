@@ -63,7 +63,14 @@ grades:
     m2: *manual
     m3: *manual
     m4: *manual
-    m5: *manual
+    m5:
+        type: float
+        subgrades:
+            points: integer
+            hacker: integer
+            late: float
+        calculation: (points / 20.0 * 9 + 1).round(1)
+        hide_calculated: true
     test A: *test
     test B: *test
     test C: *test
