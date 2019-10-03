@@ -69,7 +69,7 @@ grades:
             points: integer
             hacker: integer
             late: float
-        calculation: (points / 5.0 * 9 + 1).round(1)
+        calculation: (points / 5.0 * 9).round(1)
         hide_calculated: true
     test A: *test
     test B: *test
