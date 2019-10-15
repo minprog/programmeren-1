@@ -26,7 +26,7 @@ This problem is **optional**. You can earn up to 2 points by submitting an effic
 
 #### 1. Preparation
 
-Watch [Lecture 5](/lectures/lecture-5)
+Watch [Lecture 5](/lectures/data-structures)
 
 #### 2. Speller
 
