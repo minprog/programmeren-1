@@ -24,7 +24,7 @@ templates:
             points: integer
             hacker: integer
             late: float
-        calculation: ([points + hacker - late, 5].min / 5.0 * 9 + 1).round(1)
+        calculation: ((points + hacker - late) / 5.0 * 9 + 1).round(1)
         hide_calculated: true
     4: &test
         type: pass
@@ -63,7 +63,14 @@ grades:
     m2: *manual
     m3: *manual
     m4: *manual
-    m5: *manual
+    m5:
+        type: float
+        subgrades:
+            points: integer
+            hacker: integer
+            late: float
+        calculation: (points / 5.0 * 9).round(1)
+        hide_calculated: true
     test A: *test
     test B: *test
     test C: *test
@@ -109,12 +116,12 @@ calculation:
 
 mods:
     submits:
-        m0: 0
+        # m0: 0
         m1: 1
         m2: 1
         m3: 1
         m4: 1
-        m5: 1
+        m5: bonus
 
 tests:
     required: true
