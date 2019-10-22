@@ -1,77 +1,157 @@
 # Lecture: Memory
 
-![embed](https://www.youtube.com/embed/cC9I3XxkZXw)
+![embed](https://youtu.be/cF6YkH-8vFk)
+
+## Hexadecimal
+
+*   In week 0, we learned binary, a counting system with 0s and 1s.
+
+*   In week 2, we talked about memory and how each byte has an address, or identifier, so we can refer to where our variables are actually stored.
+
+*   It turns out that, by convention, the addresses for memory use the counting system **hexadecimal**, where there are 16 digits, 0-9 and A-F.
+
+*   Recall that, in binary, each digit stood for a power of 2:
+
+        128 64 32 16  8  4  2  1
+          1  1  1  1  1  1  1  1
+
+    *   With 8 bits, we can count up to 255.
+
+*   It turns out that, in hexadecimal, we can perfectly count up to 8 binary bits with just 2 digits:
+
+        16^1 16^0
+           F    F
+
+    *   Here, the `F` is a value of 15 in decimal, and each place is a power of 16, so the first `F` is 16^1 * 15 = 240, plus the second `F` with the value of 16^0 * 15 = 15, for a total of 255.
+
+*   And `0A` is the same as 10 in decimal, and `0F` the same as 15. `10` in hexadecimal would be 16, and we would say it as "one zero in hexadecimal" instead of "ten", if we wanted to avoid confusion.
+
+*   The RGB color system also conventionally uses hexadecimal to describe the amount of each color. For example, `000000` in hexadecimal means 0 of each red, green, and blue, for a color of black. And `FF0000` would be 255, or the highest possible, amount of red. With different values for each color, we can represent millions of different colors.
+
+*   In writing, we can also indicate a value is in hexadecimal by prefixing it with `0x`, as in `0x10`, where the value is equal to 16 in decimal, as opposed to 10.
 
 
-## Enhance
+## Pointers
 
-*   We watch a clip, [CSI Zoom Enhance](https://www.youtube.com/watch?v=i3gv2zOmJiA), where the main characters zoom in further and further into an image, revealing more and more details. Today, we’ll see how that works (or doesn’t) in reality.
-
-## Last time
-
-*   We talked about the details of compiling, which is actually made of four steps:
-    *   First, our source code is _preprocessed_, so any header files like `stdio.h` that we include, are actually included.
-    *   Then, our code is _compiled_ into assembly code, instructions that our CPU can understand.
-    *   Then, that assembly code is further _assembled_ into the binary that match those assembly instructions.
-    *   Finally, the compiled library files that we wanted to include, such as `cs50.c` or `printf.c`, are _linked_, or merged with our program.
-*   We discovered some helpful tools:
-    *   `help50`, which might help us understand error messages
-    *   `printf`, which can help us understand our program as it runs
-    *   `style50`, which checks the style of our code so it’s more readable and consistent
-
-## CS50 IDE
-
-*   CS50 IDE is like the CS50 Sandbox, but with more features. It is an online development environment, with a code editor and a terminal window, but also tools for debugging and collaborating:  
-    ![browser window with CS50 IDE, panel of files on left, code editor on top right, terminal window on bottom right](cs50_ide.png)
-*   Once we log in, we’ll see a workspace that looks similar to that of CS50 Sandbox, but now our workspace will be saved to our account.
-*   We can create a new file with File > New File (or the green plus sign), and use File > Save to save it as `hello.c` in the folder `~/workspace/`. Now we’ll write our simple program:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
+*   We might create a value `n`, and print it out:
 
         #include <stdio.h>
 
         int main(void)
         {
-            printf("hello, world\n");
+            int n = 50;
+            printf("%i\n", n);
         }
 
-    </div>
+*   In our computer's memory, there are now 4 bytes somewhere that have the binary value of 50, labeled `n`:
 
-    </div>
+    ![grid representing bytes, with four boxes together containing 50 with small n underneath](n.png)
 
-    *   And we’ll need to manually save, with File > Save or the keyboard shortcut.
-*   Now, in the terminal window below, we can type `make hello` and `./hello` to see our program run.
-*   The folder icon at the top left will show us all our files in a directory (folder) called `~/workspace/`, and we can create folders and files inside. The `~` symbol refers to our home directory in this environment, which is just the set of all the files related to our account, and `workspace` is a folder inside `~` that we can use. (The `~` directory also has other configuration files for our account, but we won’t need to worry about them.)
-*   In the terminal, we see `~/workspace/ <main class="col-md markdown-body" style="margin-bottom: 509px;" . The `<main class="col-md markdown-body" style="margin-bottom: 509px;" part of the prompt is the same as before, after which we can type a command, but the first part of the prompt tells us the directory our terminal is in. For example, we can type `ls`, and we’ll see a textual version of the `workspace` directory. And `./hello` refers to a file called `hello` in `.`, which is the current folder.
-*   We can change our directory with `cd`, and if we type something like `cd src3` (assuming we have a folder already named `src3`), we’ll see our prompt change to `~/workspace/src3/ <main class="col-md markdown-body" style="margin-bottom: 509px;" .
-*   We can delete files and folders with the graphical file tree, right-clicking them as we might be familiar with already. But we can do the same in the command line, with `rm hello`, which will remove files. The command will ask us for a confirmation, and we can type `yes` or `y` (or `n`, if we’ve changed our minds).
-*   We can create directories with `mkdir test`, and `rmdir` to remove them.
+*   It turns out that, with the billions of bytes in memory, those bytes for the variable `n` starts at some unique address that might look like `0x12345678`.
 
-## Tools
+*   In C, we can actually see the address with the `&` operator, which means "get the address of this variable":
 
-*   In the CS50 IDE, we’ve also added another tool, `check50`. Like `style50`, we wrote this tool to automatically check the correctness of your programs, by passing in inputs and looking at their outputs.
-*   After we write a program from a problem set, and have tested it ourselves with a few inputs, we can type `check50 cs50/2018/fall/hello`. The `cs50/2018/fall/hello` is an indicator for the program specification that `check50` should check, and once we run that command, we’ll see `check50` uploading our code and checking it.
-*   We can also now use a tool called a _debugger_, built into the CS50 IDE.
-*   After we compile our code, we can run `debug50 ./hello`, which will tell us to set a breakpoint first. A _breakpoint_ indicates a line of code where the debugger should pause our program, until we choose to continue it. For example, we can click to the left of a line of our code, and a red circle will appear:  
-    ![code editor with red icon next to line 6 of code](breakpoint.png)
-*   Now, if we run `debug50 ./hello` again, we’ll see the debugger panel open on the right:  
-    ![debugger panel with controls, variables](debugger_panel.png)
-*   We see that the variable we made, `name`, is under the `Local Variables` section, and see that there’s a value of `0x0` (which is `null`), and a type of `string`, as we expected.
-*   Our breakpoint has paused our program _before_ line 6, so to continue, we have a few controls in the debugger panel. The blue triangle will continue our program until we reach another breakpoint. The curved arrow to its right will “step over” the line, running it and pausing our program again immediately after. The arrow pointing downward will “step into” the line, if there is a function being called. And the arrow pointing up and to the right will “step out” of a function, if we are in one.
-*   So, we’ll use the curved arrow to run the next line, and see what changes after. After we type in our name, we’ll see that the `name` variable is also updated in the debugger.
-*   We can save lots of time in the future by investing a little bit now to learn how the debugger works!
+        #include <stdio.h>
 
-## Strings
+        int main(void)
+        {
+            int n = 50;
+            printf("%p\n", &n);
+        }
 
-*   We’ve been using helpful functions from the CS50 Library, like `get_int` or `get_string`, to get input of a specific type from the user. These functions are generally tricky to write, because we want to prompt the user over and over again, if the input they give us isn’t actually valid.
-*   Today, we’ll look into the `string` type. As we learned last week, a string is just an array of characters, stored back-to-back. But let’s investigate what a `string` variable actually is.
-*   Let’s open `compare0.c`:
+    *   And in the CS50 IDE, we might see an address like `0x7ffe00b3adbc`, where this is a specific location in the server's memory.
 
-    <div class="language-c highlighter-rouge">
+*   The address of a variable is called a **pointer**, which we can think of as a value that "points" to a location in memory. The `*` operator lets us "go to" the location that a pointer is pointing to.
 
-    <div class="highlight">
+*   For example, we can print `*&n`, where we "go to" the address of `n`, and that will print out the value of `n`, `50`, since that's the value at the address of `n`:
+
+        #include <stdio.h>
+
+        int main(void)
+        {
+            int n = 50;
+            printf("%i\n", *&n);
+        }
+
+*   We also have to use the `*` operator (in an unfortunately confusing way) to declare a variable that we want to be a pointer:
+
+        #include <stdio.h>
+
+        int main(void)
+        {
+           int n = 50;
+           int *p = &n;
+           printf("%p\n", p);
+        }
+
+    *   Here, we use `int *p` to declare a variable, `p`, that has the type of `*`, a pointer, to a value of type `int`, an integer. Then, we can print its value (something like `0x12345678`), or print the value at its location with `printf("%i\n", *p);`.
+
+*   In our computer's memory, the variables might look like this:
+
+    ![grid representing bytes, with four boxes together containing 50 with small 0x12345678 underneath, and eight boxes together containing 0x12345678 with small p underneath](p.png)
+
+    *   We have a pointer, `p`, with the address of some variable.
+
+*   We can abstract away the actual value of the addresses now, since they'll be different as we declare variables in our programs, and simply think of `p` as "pointing at" some value:
+
+    ![one box containing p pointing at smaller box containing 50](pointing.png)
+
+*   Let's say we have a mailbox labeled "123", with the number "50" inside it. The mailbox would be `int n`, since it stores an integer. We might have another mailbox with the address "456", inside of which is the value "123", which is the address of our other mailbox. This would be `int *p`, since it's a pointer to an integer.
+
+*   With the ability to use pointers, we can create different data structures, or different ways to organize data in memory that we'll see next week.
+
+*   Many modern computer systems are "64-bit", meaning that they use 64 bits to address memory, so a pointer will be 8 bytes, twice as big as an integer of 4 bytes.
+
+
+## string
+
+*   We might have a variable `string s` for a name like `EMMA`, and be able to access each character with `s[0]` and so on:
+
+    ![boxes side by side, containing: E labeled s[0], M labeled s[1], M labeled s[2], A labeled s[3], \0 labeled s[4]](s_array.png)
+
+*   But it turns out that each character is in stored in memory at a byte with some address, and `s` is actually just a pointer with the address of the first character:
+
+    ![box containing 0x123 labeled s, boxes side by side containing E labeled 0x123, M labeled 0x124, M labeled 0x125, A labeled 0x126, \0 labeled 0x127](s_pointer.png)
+
+*   And since `s` is just a pointer to the beginning, only the `\0` indicates the end of the string.
+
+*   In fact, the CS50 Library defines a `string` with `typedef char *string`, which just says that we want to name a new type, `string`, as a `char *`, or a pointer to a character.
+
+*   Let's print out a string:
+
+        #include <cs50.h>
+        #include <stdio.h>
+
+        int main(void)
+        {
+            string s = "EMMA";
+            printf("%s\n", s);
+        }
+
+*   This is familiar, but we can just say:
+
+        #include <stdio.h>
+
+        int main(void)
+        {
+            char *s = "EMMA";
+            printf("%s\n", s);
+        }
+
+    *   This will also print `EMMA`.
+
+*   With `printf("%p\n", s);`, we can print `s` as its value as a pointer, like `0x42ab52`. (`printf` knows to go to the address and print the entire string when we use `%s` and pass in `s`, even though `s` only points to the first character.)
+
+*   We can also try `printf("%p\n", &s[0]);`, which is the address of the first character of `s`, and it's exactly the same as printing `s`. And printing `&s[1]`, `&s[2]`, and `&s[3]` gets us the addresses that are the next characters in memory after `&s[0]`, like `0x42ab53`, `0x42ab54`, and `0x42ab55`, exactly one byte after another.
+
+*   And finally, if we try to `printf("%c\n", *s);`, we get a single character `E`, since we're going to the address contained in `s`, which has the first character in the string.
+
+*   In fact, `s[0]`, `s[1]`, and `s[2]` actually map directly to `*s`, `*(s+1)`, and `*(s+2)`, since each of the next characters are just at the address of the next byte.
+
+
+## Compare and copy
+
+*   Let's look at `compare0`:
 
         #include <cs50.h>
         #include <stdio.h>
@@ -85,24 +165,17 @@
             // Compare integers
             if (i == j)
             {
-                printf("same\n");
+                printf("Same\n");
             }
             else
             {
-                printf("different\n");
+                printf("Different\n");
             }
         }
 
-    </div>
+    *   We can compile and run this, and our program works as we'd expect, with the same values of the two integers giving us "Same" and different values "Different".
 
-    </div>
-
-    *   As expected, if we provide the same values for `i` and `j`, we see that they’re the same.
-*   In `compare1.c`, we’ll try to do the same with strings:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
+*   In `compare1`, we see that the same string values are causing our program to print "Different":
 
         #include <cs50.h>
         #include <stdio.h>
@@ -113,265 +186,49 @@
             string s = get_string("s: ");
             string t = get_string("t: ");
 
+            // Compare strings' addresses
             if (s == t)
             {
-                printf("same\n");
+                printf("Same\n");
             }
             else
             {
-                printf("different\n");
+                printf("Different\n");
             }
         }
 
-    </div>
+    *   Given what we now know about strings, this makes sense because each "string" variable is pointing to a different location in memory, where the first character of each string is stored. So even if the values of the strings are the same, this will always print "Different".
 
-    </div>
+    *   For example, our first string might be at address 0x123, our second might be at 0x456, and `s` will be `0x123` and `t` will be `0x456`, so those values will be different.
 
-    *   Hmm, no matter what we type in for our strings, our program thinks they are different.
-*   It turns out, `string` is not actually a data type in C. The word “string” is common in computer science, but there is no way to store strings in C. Instead, we defined that type in the CS50 Library.
-*   Recall that strings are just arrays of characters, so when we ran our `compare1` program, we got two strings as input from the user, and those might be stored in memory as the following:  
-    !["Brian\0" and "Veronica\0" in different grids](strings.png)
-    *   Each character is in one byte, and somewhere we have bytes in memory containing the values for each of string.
-*   It turns out, each byte in memory has a numeric location, or _address_. For example, the character `B` might have the address 100, and `V` might have ended up in `900` (depending on what parts of memory were available, or free):  
-    !["Brian\0" and "Veronica\0" in different grids, with each grid, or byte in memory, labelled](strings_with_addresses.png)
-    *   Notice that, since each string is an array of characters, each character within the array has consecutive addresses, since they are stored next to each other in memory. But the strings themselves might have very different addresses.
-*   So, `get_string` actually returns just the address of the first character of the string. (We can tell where it ends by looking for the `null` character, `\0`.) Now, we can infer that comparing two “strings” actually just compares two addresses (which will always be different, since `get_string` stores the input in a new place each time), even if the characters stored at those addresses are the same.
-*   Other data types in C, such as `int`s or `float`s, are generally passed and stored as their values, since they are always a fixed number of bytes. Strings, on the other hand, are passed as their addresses, since they could be really long.
-*   If we do want to compare two strings, it seems like what we need to do is compare each character one at a time:
+    *   And `get_string`, this whole time, has been returning just a `char *`, or a pointer to the first character of a string from the user.
 
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
-        #include <stdio.h>
-        #include <string.h>
-
-        bool compare_strings(string a, string b);
-
-        int main(void)
-        {
-            // Get two strings
-            string s = get_string("s: ");
-            string t = get_string("t: ");
-
-            // Compare strings for equality
-            if (compare_strings(s, t))
-            {
-                printf("same\n");
-            }
-            else
-            {
-                printf("different\n");
-            }
-        }
-
-        bool compare_strings(string a, string b)
-        {
-            // Compare strings' lengths
-            if (strlen(a) != strlen(b))
-            {
-                return false;
-            }
-
-            // Compare strings character by character
-            for (int i = 0, n = strlen(a); i < n; i++)
-            {
-                // Different
-                if (a[i] != b[i])
-                {
-                    return false;
-                }
-            }
-
-            // Same
-            return true;
-        }
-
-    </div>
-
-    </div>
-
-    *   We write a function called `compare_strings`, which takes in two strings as arguments, and return a `bool`, or Boolean expression.
-    *   First, we compare the strings’ lengths, and `return false` if they are not the same. Then, we can check each character, and `return false` if we get to any that are different.
-    *   We also need to remember to add the prototype, `bool compare_strings(string a, string b);` to the top.
-*   A `string` is actually a synonym for a `char *`. The `*` in C (which also means multiplication, depending on the context), means that the data type is an address. So a `char *` is an address to a `char`. And such a variable type is called, more formally, a _pointer_.
-*   Now, we can replace `char *` where we’ve been using string:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
-        #include <stdio.h>
-        #include <string.h>
-
-        bool compare_strings(char *a, char *b);
-
-        int main(void)
-        {
-            // Get two strings
-            char *s = get_string("s: ");
-            char *t = get_string("t: ");
-
-            // Compare strings for equality
-            if (compare_strings(s, t))
-            {
-                printf("same\n");
-            }
-            else
-            {
-                printf("different\n");
-            }
-        }
-
-        bool compare_strings(char *a, char *b)
-        {
-            // Compare strings' lengths
-            if (strlen(a) != strlen(b))
-            {
-                return false;
-            }
-
-            // Compare strings character by character
-            for (int i = 0, n = strlen(a); i < n; i++)
-            {
-                // Different
-                if (a[i] != b[i])
-                {
-                    return false;
-                }
-            }
-
-            // Same
-            return true;
-        }
-
-    </div>
-
-    </div>
-
-*   It turns out, there’s a library function in `string.h`, written by others many years ago, called `strcmp`, which compares strings for us:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
-        #include <stdio.h>
-        #include <string.h>
-
-        int main(void)
-        {
-            // Get two strings
-            char *s = get_string("s: ");
-            char *t = get_string("t: ");
-
-            // Compare strings for equality
-            if (strcmp(s, t) == 0)
-            {
-                printf("same\n");
-            }
-            else
-            {
-                printf("different\n");
-            }
-        }
-
-    </div>
-
-    </div>
-
-    *   The return value for `strcmp`, based on looking at documentation like [CS50 Reference](https://reference.cs50.net/), will be `0` if the strings are equal, or some other value if they are different.
-*   We should also be checking for other errors, that we haven’t paid attention to before.
-*   `get_string` is supposed to return the address to the first byte of a string, but sometimes it may return `NULL`, an invalid address that indicates something went wrong. (And that address has the value of `0`, which is a special address that isn’t used to store anything.)
-*   To check for errors, we might do this:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
-        #include <stdio.h>
-        #include <string.h>
-
-        int main(void)
-        {
-            // Get a string
-            char *s = get_string("s: ");
-            if (s == NULL)
-            {
-                return 1;
-            }
-
-            // Get another string
-            char *t = get_string("t: ");
-            if (t == NULL)
-            {
-                return 1;
-            }
-
-            // Compare strings for equality
-            if (strcmp(s, t) == 0)
-            {
-                printf("same\n");
-            }
-            else
-            {
-                printf("different\n");
-            }
-            return 0;
-        }
-
-    </div>
-
-    </div>
-
-    *   If, for some reason, `get_string` doesn’t return a valid address, we ourselves will return an exit code of `1`, to indicate some error has occurred. If we continued, we might see a _segmentation fault_, which means that we tried to access memory that we aren’t able to (such as at the `NULL` address).
-    *   We can simplify the condition to just `if (!s)`, since “not `s`” will be “not 0” when `s` is `NULL`, which ultimately resolves to “true”.
-*   Now, let’s try to copy a string:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
+*   Now let's try to copy a string:
 
         #include <cs50.h>
         #include <ctype.h>
         #include <stdio.h>
-        #include <string.h>
 
         int main(void)
         {
-            // Get a string
             string s = get_string("s: ");
 
-            // Copy string's address
             string t = s;
 
-            // Capitalize first letter in string
-            if (strlen(t) > 0)
-            {
-                t[0] = toupper(t[0]);
-            }
+            t[0] = toupper(t[0]);
 
             // Print string twice
             printf("s: %s\n", s);
             printf("t: %s\n", t);
         }
 
-    </div>
-
-    </div>
-
     *   We get a string `s`, and copy the value of `s` into `t`. Then, we capitalize the first letter in `t`.
+
     *   But when we run our program, we see that both `s` and `t` are now capitalized.
-    *   Since we set `s` and `t` to the same values, they’re actually pointers to the same character, and so we capitalized the same character:  
-        ![s and t variables pointing to the same string](pointers.png)
+
+    *   Since we set `s` and `t` to the same values, they're actually pointers to the same character, and so we capitalized the same character!
+
 *   To actually make a copy of a string, we have to do a little more work:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
 
         #include <cs50.h>
         #include <ctype.h>
@@ -380,165 +237,72 @@
 
         int main(void)
         {
-            // Get a string
             char *s = get_string("s: ");
-            if (!s)
-            {
-                return 1;
-            }
 
-            // Allocate memory for another string
-            char *t = malloc((strlen(s) + 1) * sizeof(char));
-            if (!t)
-            {
-                return 1;
-            }
+            char *t = malloc(strlen(s) + 1);
 
-            // Copy string into memory
-            for (int i = 0, n = strlen(s); i <= n; i++)
+            for (int i = 0, n = strlen(s); i < n + 1; i++)
             {
                 t[i] = s[i];
             }
 
-            // Capitalize first letter in copy
-            if (strlen(t) > 0)
-            {
-                t[0] = toupper(t[0]);
-            }
+            t[0] = toupper(t[0]);
 
-            // Print strings
             printf("s: %s\n", s);
             printf("t: %s\n", t);
+        }
 
-            // Free memory
-            free(t);
+    *   We create a new variable, `t`, of the type `char *`, with `char *t`. Now, we want to point it to a new chunk of memory that's large enough to store the copy of the string. With `malloc`, we can allocate some number of bytes in memory (that aren't already used to store other values), and we pass in the number of bytes we'd like. We already know the length of `s`, so we add 1 to that for the terminating null character. So, our final line of code is `char *t = malloc(strlen(s) + 1);`.
+
+    *   Then, we copy each character, one at a time, and now we can capitalize just the first letter of `t`. And we use `i < n + 1`, since we actually want to go up to `n`, to ensure we copy the terminating character in the string.
+
+    *   We can actually also use the `strcpy` library function with `strcpy(t, s)` instead of our loop, to copy the string `s` into `t`. To be clear, the concept of a "string" is from the C language and well-supported; the only training wheels from CS50 are the type `string` instead of `char *`, and the `get_string` function.
+
+*   If we didn't copy the null terminating character, `\0`, and tried to print out our string `t`, `printf` will continue and print out the unknown, or garbage, values that we have in memory, until it happens to reach a `\0`, or crashes entirely, since our program might end up trying to read memory that doesn't belong to it!
+
+
+## valgrind
+
+*   It turns out that, after we're done with memory that we've allocated with `malloc`, we should call `free` (as in `free(t)`), which tells our computer that those bytes are no longer useful to our program, so those bytes in memory can be reused again.
+
+*   If we kept running our program and allocating memory with `malloc`, but never freed the memory after we were done using it, we would have a **memory leak**, which will slow down our computer and use up more and more memory until our computer runs out.
+
+*   `valgrind` is a command-line tool that we can use to run our program and see if it has any memory leaks. We can run valgrind on our program above with `help50 valgrind ./copy` and see, from the error message, that line 10, we allocated memory that we never freed (or "lost").
+
+*   So at the end, we can add a line `free(t)`, which won't change how our program runs, but no errors from valgrind.
+
+*   Let's take a look at `memory.c`:
+
+        // http://valgrind.org/docs/manual/quick-start.html#quick-start.prepare
+
+        #include <stdlib.h>
+
+        void f(void)
+        {
+            int *x = malloc(10 * sizeof(int));
+            x[10] = 0;
+        }
+
+        int main(void)
+        {
+            f();
             return 0;
         }
 
-    </div>
+    *   This is an example from valgrind's documentation (valgrind is a real tool, while help50 was written specifically to help us in this course).
 
-    </div>
+    *   The function `f` allocates enough memory for 10 integers, and stores the address in a pointer called `x`. Then we try to set the 11th value of `x` with `x[10]` to `0`, which goes past the array of memory we've allocated for our program. This is called **buffer overflow**, where we go past the boundaries of our buffer, or array, and into unknown memory.
 
-    *   We create a new variable, `t`, of the type `char *`, with `char *t`. Now, we want to point it to a new chunk of memory that’s large enough to store the copy of the string. With `malloc`, we can allocate some number of bytes in memory (that aren’t already used to store other values), and we pass in the number of bytes we’d like. We already know the length of `s`, so we add 1 to that for the terminating null character, and we multiply that by `sizeof(char)` (which gets us the number of bytes for each character) to be sure that we have enough memory. So, our final line of code is `char *t = malloc((strlen(s) + 1) * sizeof(char));`.
-    *   Then, we copy each character, one at a time, and now we can capitalize just the first letter of `t`. And we use `i <= n`, since we actually want to go up to one past `n`, to ensure we copy the terminating character in the string. Finally, after we’re done, we call `free(t)`, which tells our computer that those bytes are no longer useful to our program, and so those bytes in memory can be reused again.
-    *   We can actually also use the `strcpy` library function, which we can learn about through reading documentation, to copy a string.
-*   A _memory leak_ happens when we allocate more and more memory for our program to use, but we don’t free that memory. Then, our computer gets slower and slower (since it has to compensate for less and less memory).
-*   Let’s look at why it might be hard to get input from a user:
+*   valgrind will also tell us there's an "Invalid write of size 4" for line 8, where we are indeed trying to change the value of an integer (of size 4 bytes).
 
-    <div class="language-c highlighter-rouge">
+*   And this whole time, the CS50 Library has been freeing memory it's allocated in `get_string`, when our program finishes!
 
-    <div class="highlight">
 
-        #include <stdio.h>
+## Swap
 
-        int main(void)
-        {
-            int x;
-            printf("x: ");
-            scanf("%i", &x);
-            printf("x: %i\n", x);
-        }
+*   We have two colored drinks, purple and green, each of which is in a cup. We want to swap the drinks between the two cups, but we can't do that without a third cup to pour one of the drink into first.
 
-    </div>
-
-    </div>
-
-    *   `scanf` is a function that gets input from the user, according to a particular format. We pass in `%i` to indicate that we’re looking for an integer, and we use `&x` to get the address of `x`, so `scanf` can put the value into the right place in memory.
-*   But now let’s try to get a string:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <stdio.h>
-
-        int main(void)
-        {
-            char *s;
-            printf("s: ");
-            scanf("%s", s);
-            printf("s: %s\n", s);
-        }
-
-    </div>
-
-    </div>
-
-    *   Since we didn’t allocate any memory for the actual bytes of the string, `scanf` had nowhere to store the input.
-*   We can allocate some number of bytes as an array of characters:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <stdio.h>
-
-        int main(void)
-        {
-            char s[5];
-            printf("s: ");
-            scanf("%s", s);
-            printf("s: %s\n", s);
-        }
-
-    </div>
-
-    </div>
-
-    *   Now, we have 5 bytes in memory into which we can store input.
-    *   Notice that we can pass in `s` as an address, since arrays can be treated like pointers to the first element in the array.
-    *   But if we were to type in a much longer string, we eventually get a “segmentation fault”, where we tried to access a segment of memory we couldn’t or shouldn’t. It turns out that `scanf` doesn’t know how much memory is allocated, so it keeps writing to memory, starting at the address `s`, for as much input as is passed in, even though we might not have allocated as much. `get_string` handles this for us, and allocates memory as needed. (And if you’re super interested, the [source code](https://github.com/cs50/libcs50/blob/develop/src/cs50.c) for the CS50 Library is available!)
-
-## Memory
-
-*   To tie this all together, recall that we have physical chips of RAM in our computers, that store all the bytes we have. And each byte has an address. We can see this with `addresses.c`:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
-        #include <stdio.h>
-
-        int main(void)
-        {
-            // Get two strings
-            string s = get_string("s: ");
-            string t = get_string("t: ");
-
-            // Print strings' addresses
-            printf("s: %p\n", s);
-            printf("t: %p\n", t);
-        }
-
-    </div>
-
-    </div>
-
-    *   Here, we tell `printf` to treat `s` and `t` as pointers with `%p`, so we see addresses like `0x2331010` and `0x2331050`.
-*   The values are super big (because there are lots of location in memory), and they’re usually noted in a system called hexadecimal. Like binary and decimal, hexadecimal is a way to represent numbers, and it has 16 possible values per digit, 0-9 and A-F. (It just happens that the addresses for `s` and `t` had no alphabetical characters.) And a value in hexadecimal will conventionally start with `0x`, to indicate that.
-*   Earlier, we saw `0x0` in the debugger panel for the `name` variable, and then a different value once we inputted a string, and that was the address of our string.
-*   We can look at an example of converting three bytes from decimal, to binary, and to hexadecimal:
-
-    <div class="highlighter-rouge">
-
-    <div class="highlight">
-
-             255         216         255
-        11111111    11011000    11111111
-           f   f       d   8       f   f
-
-    </div>
-
-    </div>
-
-    *   Since each digit in hexadecimal has 16 possible values, that maps to 4 binary digits, and so each byte can be expressed as 2 hexadecimal digits, like `0xff` and `0xd8`. Four `1`s in binary is 15 in decimal, and `f` in hexadecimal.
-*   We have two drinks, milk and orange juice, each of which is in a cup. We want to swap the drinks between the two cups, but we can’t do that without a third cup to pour one of the drink into first.
-*   Now, let’s say we wanted to swap the values of two integers.
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
+*   Now, let's say we wanted to swap the values of two integers.
 
         void swap(int a, int b)
         {
@@ -547,16 +311,9 @@
             b = tmp;
         }
 
-    </div>
+    *   With a third variable to use as temporary storage space, we can do this pretty easily, by putting `a` into `tmp`, and then `b` to `a`, and finally the original value of `a`, now in `tmp`, into `b`.
 
-    </div>
-
-    *   With a third variable to use as temporary storage space, we can do this pretty easily.
-*   But, if we tried to use that function in a program, we don’t see any changes:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
+*   But, if we tried to use that function in a program, we don't see any changes:
 
         #include <stdio.h>
 
@@ -579,16 +336,32 @@
             b = tmp;
         }
 
-    </div>
+    *   It turns out that the `swap` function gets its own variables, `a` and `b` when they are passed in, that are copies of `x` and `y`, and so changing those values don't change `x` and `y` in the `main` function.
 
-    </div>
 
-    *   It turns out that the `swap` function gets its own variables, `a` and `b` when they are passed in, that are copies of `x` and `y`, and so changing those values don’t change `x` and `y` in the `main` function.
+## Memory layout
+
+*   Within our computer's memory, the different types of data that need to be stored for our program are organized into different sections:
+
+    ![Grid with sections, from top to bottom: machine code, globals, heap (with arrow pointing downward), stack (with arrow pointing upward)](memory_layout.png)
+
+    *   The _machine code_ section is our compiled program's binary code. When we run our program, that code is loaded into the "top" of memory.
+
+    *   _Globals_ are global variables we declare in our program or other shared variables that our entire program can access.
+
+    *   The _heap_ section is an empty area where `malloc` can get free memory from, for our program to use.
+
+    *   The _stack_ section is used by functions in our program as they are called. For example, our `main` function is at the very bottom of the stack, and has the local variables `x` and `y`. The `swap` function, when it's called, has its own frame, or slice, of memory that's on top of `main`'s, with the local variables `a`, `b`, and `tmp`:
+
+        ![Stack section with (a, b, tmp) above (x, y)](stack.png)
+
+        *   Once the function `swap` returns, the memory it was using is freed for the next function call, and we lose anything we did, other than the return values, and our program goes back to the function that called `swap`.
+
+        *   So by passing in the addresses of `x` and `y` from `main` to `swap`, we can actually change the values of `x` and `y`:
+
+        ![Stack section with (a, b, tmp) above (x, y), and a pointing to x and b pointing to y](pointers.png)
+
 *   By passing in the address of `x` and `y`, our `swap` function can actually work:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
 
         #include <stdio.h>
 
@@ -611,172 +384,118 @@
             *b = tmp;
         }
 
-    </div>
+    *   The addresses of `x` and `y` are passed in from `main` to `swap`, and we use the `int *a` syntax to declare that our `swap` function takes in pointers. We save the value of `x` to `tmp` by following the pointer `a`, and then take the value of `y` by following the pointer `b`, and store that to the location `a` is pointing to (`x`). Finally, we store the value of `tmp` to the location pointed to by `b` (`y`), and we're done.
 
-    </div>
+*   If we call `malloc` too many times, we will have a **heap overflow**, where we end up going past our heap. Or, if we have too many functions being called, we will have a **stack overflow**, where our stack has too many frames of memory allocated as well. And these two types of overflow are generally known as buffer overflows, after which our program (or entire computer) might crash.
 
-    *   The addresses of `x` and `y` are passed in from `main` to `swap`, and we use the `*a` syntax to _follow_ (or _dereference_) a pointer and get the value stored there. We save that to `tmp`, and then take the _value_ at `b` and store that as the _value_ of `a`. Finally, we store the value of `tmp` as the value of `b`, and we’re done.
-    *   We’ll click to the left of the line `int x = 1` to set a breakpoint with the red icon, and run `debug50 ./swap` again, to step through our program one line at a time. We can use the “step into” button now, to go into our `swap` function and see how it works.
 
-## Memory layout
+## get_int
 
-*   Within our computer’s memory, the different types of data that need to be stored for our program are organized into different sections:  
-    ![Grid with sections, from top to bottom: text, initialized data, uninitialized data, heap (with arrow pointing downward), stack (with arrow pointing upward), and environment variables](memory_layout.png)
-    *   The _text_ section is our compiled program’s binary code. When we run our program, that code is loaded into the “top” of memory.
-    *   The _heap_ section is an open area where `malloc` can get free memory from, for our program to use.
-    *   The _stack_ section is used by functions in our program as they are called. For example, our `main` function is at the very bottom of the stack, and has the variables `x` and `y`. The `swap` function, when it’s called, has some memory that’s on top of `main`, with the variables `a`, `b`, and `tmp`:  
-        ![Stack section with swap (a, b, tmp) above main (1, 2)](stack.png)
-        *   Once the function `swap` returns, the memory it was using is freed for the next function call, and we lose anything we did, other than the return values.
-        *   So by passing in the addresses of `x` and `y` from `main` to `swap`, we could actually change the values of `x` and `y`.
-    *   Global variables are in the initialized data and uninitialized data sections, and environment variables from the command-line are also stored in a section.
-*   Let’s look at a buggy section of code:
+*   We can implement `get_int` ourselves with a C library function, `scanf`:
 
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        int main(void)
-        {
-            int *x;
-            int *y;
-
-            x = malloc(sizeof(int));
-
-            *x = 42;
-            *y = 13;
-
-            y = x;
-
-            *y = 13;
-        }
-
-    </div>
-
-    </div>
-
-    *   Here, we declare two pointers called `x` and `y`. We allocate memory for an integer for `x`, but not `y`, so trying to store the value `13` into `*y` might lead to a segmentation fault.
-    *   But if we set `y` to be the same as `x`, pointing to the same address, we can successfully store the value `13` to that location.
-*   We watch another clip, [Pointer Fun with Binky](https://www.youtube.com/watch?v=_d0jFalGxnQ).
-*   We might have used the website [StackOverflow](http://stackoverflow.com), a Q&A site commonly used for programming questions. Now, we can understand that the name of the site comes from a reference to the stack overflowing, or having too many function calls to fit in our computer’s memory.
-
-## Structs
-
-*   We can create variables of our own type with a concept called structs.
-*   For example, if we wanted to store both names and dorms of individual students, we might have arrays for each:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
         #include <stdio.h>
 
         int main(void)
         {
-            // Space for students
-            int enrollment = get_int("Enrollment: ");
-            string names[enrollment];
-            string dorms[enrollment];
-
-            // Prompt for students' names and dorms
-            for (int i = 0; i < enrollment; i++)
-            {
-                names[i] = get_string("Name: ");
-                dorms[i] = get_string("Dorm: ");
-            }
-
-            // Print students' names and dorms
-            for (int i = 0; i < enrollment; i++)
-            {
-                printf("%s is in %s.\n", names[i], dorms[i]);
-            }
+            int x;
+            printf("x: ");
+            scanf("%i", &x);
+            printf("x: %i\n", x);
         }
 
-    </div>
+    *   `scanf` takes a format, `%i`, so the input is "scanned" for that format, and the address in memory where we want that input to go. But `scanf` doesn't have much error checking, so we might not get an integer.
 
-    </div>
+*   We can try to get a string the same way:
 
-*   But we might want to start having other pieces of data, and we have to make sure that all the arrays are the right length, and have the data for the same person at the same index. and so on. Instead, we can use structs, with a `struct.h` file containing:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        typedef struct
-        {
-            char *name;
-            char *dorm;
-        }
-        student;
-
-    </div>
-
-    </div>
-
-*   And a `struct.c` file containing:
-
-    <div class="language-c highlighter-rouge">
-
-    <div class="highlight">
-
-        #include <cs50.h>
         #include <stdio.h>
-
-        #include "struct.h"
 
         int main(void)
         {
-            // Space for students
-            int enrollment = get_int("Enrollment: ");
-            student students[enrollment];
-
-            // Prompt for students' names and dorms
-            for (int i = 0; i < enrollment; i++)
-            {
-                students[i].name = get_string("Name: ");
-                students[i].dorm = get_string("Dorm: ");
-            }
-
-            // Print students' names and dorms
-            for (int i = 0; i < enrollment; i++)
-            {
-                printf("%s is in %s.\n", students[i].name, students[i].dorm);
-            }
+            char *s = NULL;
+            printf("s: ");
+            scanf("%s", s);
+            printf("s: %s\n", s);
         }
 
-    </div>
+    *   But we haven't actually allocated any memory for `s` (`s` is `NULL`, or not pointing to anything), so we might want to call `char s[5]` to allocate an array of 5 characters for our string. Then, `s` will be treated as a pointer in `scanf` and `printf`.
 
-    </div>
+    *   Now, if the user types in a string of length 4 or less, our program will work safely. But if the user types in a longer string, `scanf` might be trying to write past the end of our array into unknown memory, causing our program to crash.
 
-    *   Now, a `student` is our own variable type, that itself contains two variables, `name` and `dorm`, that we can access with `.name` and `.dorm` later on.
-*   We can even open and save files with a snippet of code like:
 
-    <div class="language-c highlighter-rouge">
+## Files
 
-    <div class="highlight">
+*   With the ability to use pointers, we can also open files:
 
-        FILE *file = fopen("students.csv", "w");
-        if (file)
+        #include <cs50.h>
+        #include <stdio.h>
+        #include <string.h>
+
+        int main(void)
         {
-            for (int i = 0; i < enrollment; i++)
-            {
-                fprintf(file, "%s,%s\n", students[i].name, students[i].dorm);
-            }
+            // Open file
+            FILE *file = fopen("phonebook.csv", "a");
+
+            // Get strings from user
+            char *name = get_string("Name: ");
+            char *number = get_string("Number: ");
+
+            // Print (write) strings to file
+            fprintf(file, "%s,%s\n", name, number);
+
+            // Close file
             fclose(file);
         }
 
-    </div>
+    *   `fopen` is a new function we can use to open a file. It will return a pointer to a new type, `FILE`, that we can read from and write to. The first argument is the name of the file, and the second argument is the mode we want to open the file in (`r` for read, `w` for write, and `a` for append, or adding to).
 
-    </div>
+    *   After we get some strings, we can use `fprintf` to print to a file.
 
-    *   This is just a sneak preview of what we’ll learn to use in the next problem set!
+    *   Finally, we close the file with `fclose`.
 
-## Enhance?
+*   Now we can create our own CSV files, files of comma-separated values (like a mini-spreadsheet), programmatically.
 
-*   Now, if we try to zoom in on an image, we’ll eventually see the pixels that it’s made of. But since images are represented as a finite number of bytes, we can’t possibly see details that aren’t already captured.
-*   Images can be represented as a _bitmap_, or map of bits:  
-    ![mapping of bits in a grid to a smiley face](bitmap.png)
-    *   Each `1` maps to a black pixel, and a `0` to a white pixel.
-    *   An image with color will use more than one bit per pixel.
-*   And an image file will also include special data values, at the beginning of the file, so that programs can open them correctly. In the problem set, we’ll learn about one such image file format, `.bmp`, for bitmaps. And we’ll learn to tweak images digitally, resizing or filtering them as we’d like.
-*   We end on a clip of a realistic example from the TV show Futurama, [Let’s Enhance](https://www.youtube.com/watch?v=17MctJPzR8w).
+
+# JPEG
+
+*   We can also write a program that opens a file and tells us if it's a JPEG (image) file:
+
+        #include <stdio.h>
+
+        int main(int argc, char *argv[])
+        {
+            // Check usage
+            if (argc != 2)
+            {
+                return 1;
+            }
+
+            // Open file
+            FILE *file = fopen(argv[1], "r");
+            if (!file)
+            {
+                return 1;
+            }
+
+            // Read first three bytes
+            unsigned char bytes[3];
+            fread(bytes, 3, 1, file);
+
+            // Check first three bytes
+            if (bytes[0] == 0xff && bytes[1] == 0xd8 && bytes[2] == 0xff)
+            {
+                printf("Maybe\n");
+            }
+            else
+            {
+                printf("No\n");
+            }
+
+            // Close file
+            fclose(file);
+        }
+
+    *   Now, if we run this program with `./jpeg brian.jpg`, our program will try to open the file we specify (checking that we indeed get a non-NULL file back), and read the first three bytes from the file with `fread`.
+
+    *   We can compare the first three bytes (in hexadecimal) to the three bytes required to begin a JPEG file. If they're the same, then our file is likely to be a JPEG file (though, other types of files may still begin with those bytes). But if they're not the same, we know it's definitely not a JPEG file.
+
+*   We can use these abilities to read and write files, in particular images, and modify them by changing the bytes in them, in this week's problem set!
