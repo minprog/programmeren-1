@@ -1,6 +1,6 @@
 # Lecture: C
 
-![embed](https://youtu.be/e9Eds2Rc_x8)
+![embed](https://www.youtube.com/embed/e9Eds2Rc_x8)
 
 ## C
 

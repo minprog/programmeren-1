@@ -1,6 +1,6 @@
 # Lecture: Algorithms
 
-![embed](https://youtu.be/fykrlqbV9wM?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
+![embed](https://www.youtube.com/embed/fykrlqbV9wM)
 
 ## Searching
 

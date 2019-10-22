@@ -1,6 +1,6 @@
 # Lecture: Memory
 
-![embed](https://youtu.be/cF6YkH-8vFk)
+![embed](https://www.youtube.com/embed/cF6YkH-8vFk)
 
 ## Hexadecimal
 

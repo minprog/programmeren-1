@@ -1,6 +1,6 @@
 # Lecture: Data Structures
 
-![embed](https://youtu.be/4IrUAqYKjIA?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
+![embed](https://www.youtube.com/embed/4IrUAqYKjIA)
 
 ## Pointers
 
