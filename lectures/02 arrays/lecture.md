@@ -1,6 +1,6 @@
 # Lecture: Arrays
 
-![embed](https://youtu.be/8PrOp9t0PyQ)
+![embed](https://www.youtube.com/embed/8PrOp9t0PyQ)
 
 ## Compiling
 
