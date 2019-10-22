@@ -1,376 +1,621 @@
 # Lecture: Algorithms
 
-![embed](https://www.youtube.com/embed/U9o49qwa6hk)
-
-
-## Strings
-
-* We talked last time about memory chips in our computers that simply store bits, one after another, with addresses that we can use to access each byte.
-
-* We can think of all of our memory as a grid of bytes, numbered in order like so:
-
-	![memory](memory.png)
-
-	* In an actual modern computer, billions and billions of bytes can be stored in RAM (random access memory), so these addresses can go up to the billions!
-
-* And we also learned last time that we can store Stelios' name in memory, terminating the string with a [NUL character](https://en.wikipedia.org/wiki/Null_character):
-
-	![stelios stored in memory](stelios.png)
-
-* We know that our computer has some way to address memory and store data for us, so we can abstract that away and program at a slightly higher level with C, using variables and arrays instead of memory addresses ourselves (as we might in an assembly language).
-
-* Let's write a program to extract the initials of a name provided as input:
-
-		#include <cs50.h>
-		#include <ctype.h>
-		#include <stdio.h>
-		#include <string.h>
-
-		int main(void)
-		{
-		    char initials[4];
-		    string s = get_string("Name: ");
-		    int length = 0;
-		    for (int i = 0, n = strlen(s); i < n; i++)
-		    {
-		        if (isupper(s[i]))
-		        {
-		            initials[length] = s[i];
-		            length++;
-		        }
-		    }
-		    initials[length] = '\0';
-		    printf("%s\n", initials);
-		}
-
-	* We initialize an array of characters (which is exactly what a `string` is) to store the initials we extract from the string, and here we assume a user will have no more than 3 capital letters in their name. We allocate 4 characters, so the last can be the NUL character.
-
-	* With the `for` loop, we use the same method we learned last time to iterate over the input string, and if the character we are looking at is an uppercase character, we store it into our `initials` array. We create a `length` variable that keeps track of how many characters we've seen already, so we can store each character in the right index of `initials` and terminate it correctly as well. If we terminate our string at the very end, without knowing that we assigned values to the rest of the array, then we might see garbage values if we tried to print out `initials`.
-
-	* Recall that, if we wanted to initialize that array of characters manually, we can do something like:
-
-			...
-			char initials[4];
-			initials[0] = 'D';
-			initials[1] = 'J';
-			initials[2] = 'M';
-			initials[3] = '\0';
-			...
-
-* Arrays can be used to store many of the same type of variable, but computers can only access one item in them at a time. A metaphor might be a row of lockers in a school, where a computer has to open each one to see the value inside, as opposed to reading all the values at once.
+![embed](https://youtu.be/fykrlqbV9wM?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW)
 
 ## Searching
 
-* If we had an array of numbers and wanted to find a particular one within the array, we need some algorithm to search for it.
+*   Last time, we talked about memory in a computer, or RAM, and how our data can be stored as individual variables or as arrays of many items, or elements.
 
-* We have a volunteer find the number 50 behind 7 virtual doors on the board, and she finds it on the first try by a lucky guess.
+*   We can think of an array with a number of items as a row of lockers, where a computer can only open one locker to look at an item, one at a time.
 
-* The numbers on the board were `15 23 16 8 42 50 4`, and since they were not ordered, there was not a faster way to find the number 50.
+*   For example, if we want to check whether a number is in an array, with an algorithm that took in an array as input and produce a boolean as a result, we might:
 
-* If the numbers were then sorted from smallest to largest, then our volunteer would start at the end to find the number 50.
+    *   look in each locker, or at each element, one at a time, from the beginning to the end.
 
-* But if we didn't know that 50 was the largest number, a smart strategy might be to start at the middle, like we did with the phone book from the first lecture. We can look at the value in the middle of our array, and then move to either the left or right half depending on whether the value we wanted to find is smaller or larger.
+        *   This is called **linear search**, where we move in a line, since our array isn't sorted.
 
-* In our first example with unsorted numbers, the best we could do is open each door, in order or randomly, until we found our number or opened all the doors. If we did this in order, the algorithm would be called *linear search*. In the worst case, this would take _n_ steps, where _n_ was the number of ... numbers in our array, and in the best case, we would find it in the first step.
+    *   start in the middle and move left or right depending on what we're looking for, if our array of items is sorted.
 
-	* The pseudocode might look like this, and notice that we only `return false` after the `for` loop has finished, meaning we checked all the values in the array:
+        *   This is called **binary search**, since we can divide our problem in two with each step, like what David did with the phone book in week 0.
 
-			for each element in array
-			    if element you're looking for
-			        return true
-			return false
+*   We might write pseudocode for linear search with:
 
-* With the second example of sorted numbers, we could use *binary search* and have a worst case of something logarithmic. We could write out the algorithm like so:
+        For i from 0 to n–1
+            If i'th element is 50
+                Return true
+        Return false
 
-		look at middle of sorted array
-		if element you're looking for
-		    return true
-		else if element is to left
-		    search left half of array
-		else if element is to right
-		    search right half of array
-		else
-		    return false
+    *   We can label each of `n` lockers from `0` to `n–1`, and check each of them in order.
 
-	* Even though the code for this looks a little more complicated, we are dividing the problem in half each time, so we will have fewer steps before we find our number, or complete the algorithm.
+*   For binary search, our algorithm might look like:
+
+        If no items
+            Return false
+        If middle item is 50
+            Return true
+        Else if 50 < middle item
+            Search left half
+        Else if 50 > middle item
+            Search right half
+
+    *   Eventually, we won't have any parts of the array left (if the item we want wasn't in it), so we can return `false`.
+
+    *   Otherwise, we can search each half depending on the value of the middle item.
+
+
+## Big O
+
+*   In week 0, we saw different types of algorithms and their running times:
+
+![chart with: "size of problem" as x–axis; "time to solve" as y–axis; red, steep straight line from origin to top of graph labeled "n"; yellow, less steep straight line from origin to top of graph labeled "n/2"; green, curved line that gets less and less steep from origin to right of graph labeled "log_2 n"](running_time.png)
+
+*   The more formal way to describe this is with big _O_ notation, which we can think of as "on the order of". For example, if our algorithm is linear search, it will take approximately _O_(_n_) steps, "on the order of _n_". In fact, even an algorithm that looks at two items at a time and takes _n_/2 steps has _O_(_n_). This is because, as _n_ gets bigger and bigger, only the largest term, _n_, matters.
+
+*   Similarly, a logarithmic running time is _O_(log _n_), no matter what the base is, since this is just an approximation of what happens with _n_ is very large.
+
+*   There are some common running times:
+
+    *   _O_(_n_<sup>2</sup>)
+    *   _O_(_n_ log _n_)
+    *   _O_(_n_)
+        *   (linear search)
+    *   _O_(log _n_)
+        *   (binary search)
+    *   _O_(1)
+
+*   Computer scientists might also use big Ω, big Omega notation, which is the lower bound of number of steps for our algorithm. (Big _O_ is the upper bound of number of steps, or the worst case, and typically what we care about more.) With linear search, for example, the worst case is _n_ steps, but the best case is 1 step since our item might happen to be the first item we check. The best case for binary search, too, is 1 since our item might be in the middle of the array.
+
+*   And we have a similar set of the most common big Ω running times:
+
+    *   Ω(_n_<sup>2</sup>)
+    *   Ω(_n_ log _n_)
+    *   Ω(_n_)
+        *   (counting the number of items)
+    *   Ω(log _n_)
+    *   Ω(1)
+        *   (linear search, binary search)
+
+
+## Linear search
+
+*   Let's take a look at `numbers.c`:
+
+        #include <cs50.h>
+        #include <stdio.h>
+
+        int main(void)
+        {
+            // An array of numbers
+            int numbers[] = {4, 8, 15, 16, 23, 42};
+
+            // Search for 50
+            for (int i = 0; i < 6; i++)
+            {
+                if (numbers[i] == 50)
+                {
+                    printf("Found\n");
+                    return 0;
+                }
+            }
+            printf("Not found\n");
+            return 1;
+        }
+
+    *   Here we initialize an array with some values, and we check the items in the array one at a time, in order.
+
+    *   And in each case, depending on whether the value was found or not, we can return an exit code of either 0 (for success) or 1 (for failure).
+
+*   We can do the same for names:
+
+        #include <cs50.h>
+        #include <stdio.h>
+        #include <string.h>
+
+        int main(void)
+        {
+            // An array of names
+            string names[] = {"EMMA", "RODRIGO", "BRIAN", "DAVID"};
+
+            // Search for EMMA
+            for (int i = 0; i < 4; i++)
+            {
+                if (strcmp(names[i], "EMMA") == 0)
+                {
+                    printf("Found\n");
+                    return 0;
+                }
+            }
+            printf("Not found\n");
+            return 1;
+        }
+
+    *   We can't compare strings directly, since they're not a simple data type but rather an array of many characters, and we need to compare them differently. Luckily, the `string` library has a `strcmp` function which compares strings for us and returns `0` if they're the same, so we can use that.
+
+*   Let's try to implement a phone book with the same ideas:
+
+        #include <cs50.h>
+        #include <stdio.h>
+        #include <string.h>
+
+        int main(void)
+        {
+            string names[] = {"EMMA", "RODRIGO", "BRIAN", "DAVID"};
+            string numbers[] = {"617–555–0100", "617–555–0101", "617–555–0102", "617–555–0103"};
+
+            for (int i = 0; i < 4; i++)
+            {
+                if (strcmp(names[i], "EMMA") == 0)
+                {
+                    printf("Found %s\n", numbers[i]);
+                    return 0;
+                }
+            }
+            printf("Not found\n");
+            return 1;
+        }
+
+    *   We'll use strings for phone numbers, since they might include formatting or be too long for a number.
+
+    *   Now, if the name at a certain index in the `names` array matches who we're looking for, we'll return the phone number in the `numbers` array, at the same index. But that means we need to particularly careful to make sure that each number corresponds to the name at each index, especially if we add or remove names and numbers.
+
+
+## Structs
+
+*   It turns out that we can make our own custom data types called **structs**:
+
+        #include <cs50.h>
+        #include <stdio.h>
+        #include <string.h>
+
+        typedef struct
+        {
+            string name;
+            string number;
+        }
+        person;
+
+        int main(void)
+        {
+            person people[4];
+
+            people[0].name = "EMMA";
+            people[0].number = "617–555–0100";
+
+            people[1].name = "RODRIGO";
+            people[1].number = "617–555–0101";
+
+            people[2].name = "BRIAN";
+            people[2].number = "617–555–0102";
+
+            people[3].name = "DAVID";
+            people[3].number = "617–555–0103";
+
+            // Search for EMMA
+            for (int i = 0; i < 4; i++)
+            {
+                if (strcmp(people[i].name, "EMMA") == 0)
+                {
+                    printf("Found %s\n", people[i].number);
+                    return 0;
+                }
+            }
+            printf("Not found\n");
+            return 1;
+        }
+
+    *   We can think of structs as containers, inside of which are multiple other data types.
+
+    *   Here, we create our own type with a struct called `person`, which will have a `string` called `name` and a `string` called `number`. Then, we can create an array of these struct types and initialize the values inside each of them, using a new syntax, `.`, to access the properties of each `person`.
+
+	*   In our loop, we can now be more certain that the `number` corresponds to the `name` since they are from the same `person` element.
+
 
 ## Sorting
 
-* A prerequisite requirement to being able to run binary search is having an array of sorted numbers.
+*   If our input is an unsorted list of numbers, there are many algorithms we could use to produce an output of a sorted list.
 
-* When we take exams, we might turn in blue books, or answer booklets with our names on them. If we had a pile of these blue books and wanted to sort them, we could pick up two of them, compare them, and start a sorted pile. Then we continue by taking one at a time from the unsorted pile, and inserting them into the correct place in our sorted pile. This algorithm is called *insertion sort*.
+*   With eight volunteers on the stage with the following numbers, we might consider swapping pairs of numbers next to each other as a first step.
 
-* Let's see another algorithm in action with 8 volunteers, each of whom will be one of the following numbers:
+*   Our volunteers start in the following random order:
 
-		+++<u>2 4</u>+++ 7 5 6 8 3 1
-		2 +++<u>4 7</u>+++ 5 6 8 3 1
-		2 4 +++<u>5 7</u>+++ 6 8 3 1
-		2 4 5 +++<u>6 7</u>+++ 8 3 1
-		2 4 5 6 +++<u>7 8</u>+++ 3 1
-		2 4 5 6 7 +++<u>3 8</u>+++ 1
-		2 4 5 6 7 3 +++<u>1 8</u>+++
+        6 3 8 5 2 7 4 1
 
-	* At each step, we look at the a pair of numbers, one at at time, and swap them if they are in the wrong order.
+*   We look at the first two numbers, and swap them so they are in order:
 
-	* We see that, after our first pass through the array, the numbers are not completed sorted, but the largest number, 8, is at the end. And the largest number, since we start swapping from left to right, will always end up at the end.
+        6 3 8 5 2 7 4 1
+        – –
+        3 6 8 5 2 7 4 1
 
-* Now we can make another pass:
+*   The next pair, `6` and `8`, are in order, so we don't need to swap them.
 
-		+++<u>2 4</u>+++ 5 6 7 3 1 8
-		2 +++<u>4 5</u>+++ 6 7 3 1 8
-		2 4 +++<u>5 6</u>+++ 7 3 1 8
-		2 4 5 +++<u>6 7</u>+++ 3 1 8
-		2 4 5 6 +++<u>3 7</u>+++ 1 8
-		2 4 5 6 3 +++<u>1 7</u>+++ 8
-		2 4 5 6 3 1 +++<u>7 8</u>+++
+*   The next pair, `8` and `5`, need to be swapped:
 
-	* Now, not every pair of numbers we looked at needed to be swapped, but we did succeed in making the list slightly more sorted with the next largest number, 7, reaching its final position in the list.
+        3 6 8 5 2 7 4 1
+            – –
+        3 6 5 8 2 7 4 1
 
-* We repeat our algorithm, *bubble sort*, until the numbers are sorted. Now we can demonstrate another algorithm, *selection sort*.
+*   We continue until we reach the end of the list:
 
-* First, we go over the entire list, and look for the smallest number. Then we take that number, and put it at the front of our list, swapping it with whatever was originally at that position:
+        3 6 5 2 8 7 4 1
+                – –
+        3 6 5 2 7 8 4 1
+                  – –
+        3 6 5 2 7 4 8 1
+                    – –
+        3 6 5 2 7 4 1 8
 
-		4 2 7 5 6 8 3 1
-		+++<u>1</u>+++ 2 7 5 6 8 3 4
-		+++<u>1 2</u>+++ 7 5 6 8 3 4
-		+++<u>1 2 3</u>+++ 5 6 8 7 4
-		+++<u>1 2 3 4</u>+++ 6 8 7 5
-		+++<u>1 2 3 4 5</u>+++ 8 7 6
-		+++<u>1 2 3 4 5 6</u>+++ 7 8
-		+++<u>1 2 3 4 5 6 7</u>+++ 8
-		+++<u>1 2 3 4 5 6 7 8</u>+++
+*   Our list isn't sorted yet, but we're slightly closer to the solution because the biggest value, `8`, has been shifted all the way to the right.
 
-	* Then we make another pass, looking for the smallest number, and swap it with the number that is at the end of the sorted part of our list.
+*   We repeat this with another pass through the list:
 
-	* (In lecture, David accidentally picked up 2 and swapped it with 4, even though he shouldn't have! The correct order of swaps is as above.)
+        3 6 5 2 7 4 1 8
+        – –
+        3 6 5 2 7 4 1 8
+          – –
+        3 5 6 2 7 4 1 8
+            – –
+        3 5 2 6 7 4 1 8
+              – –
+        3 5 2 6 7 4 1 8
+                – –
+        3 5 2 6 4 7 1 8
+                    – –
+        3 5 2 6 4 1 7 8
 
-* We can write pseudocode for these algorithms. For bubble sort:
+    *   Note that we didn't need to swap the 3 and 6, or the 6 and 7.
 
-		repeat until no swaps
-		    for i from 0 to n-2
-		        if i'th and i+1'th elements out of order
-		            swap them
+*   Now, the next biggest value, `7`, moved all the way to the right. If we repeat this, more and more of the list becomes sorted, and pretty quickly we have a fully sorted list.
 
-	* We look at each pair of elements through the list, moving left to right, at indexes `i` and `i+1`, where `i` goes from 0, the index of the first element, to `n-2`, the second to last element in the list, and swapping them if they are out of order.
+*   This algorithm is called **bubble sort**, where large values "bubble" to the right. The pseudocode for this might look like:
 
-	* Then we repeat this until the list is sorted, and we know this if we didn't need to make any swaps.
+        Repeat n–1 times
+            For i from 0 to n–2
+                If i'th and i+1'th elements out of order
+                    Swap them
 
-* For selection sort:
+    *   Since we are comparing the `i'th` and `i+1'th` element, we only need to go up to _n_ – 2 for `i`. Then, we swap the two elements if they're out of order.
 
-		for i from 0 to n-1
-		    find smallest element between i'th and n-1'th
-		    swap smallest with i'th element
+    *   And we can stop after we've made _n_ – 1 passes, since we know the largest n–1 elements will have bubbled to the right.
 
-	* We build a sorted list, one element at a time, by finding the element that goes in the ``i``th position by looking for the smallest element in the rest of the list.
+*   We have _n_ – 2 steps for the inner loop, and _n_ – 1 loops, so we get _n_<sup>2</sup> – 3_n_ + 2 steps total. But the largest factor, or dominant term, is _n_<sup>2</sup>, as `n` gets larger and larger, so we can say that bubble sort is _O_(_n_<sup>2</sup>).
 
-* For insertion sort:
+*   We've seen running times like the following, and so even though binary search is much faster than linear search, it might not be worth the one–time cost of sorting the list first, unless we do lots of searches over time:
 
-		for i from 1 to n-1
-		    call 0'th through i-1'th elements the "sorted side"
-		    remove i'th element
-		    insert it into sorted side in order
+	*   _O_(_n_<sup>2</sup>)
+        *   bubble sort
+    *   _O_(_n_ log _n_)
+    *   _O_(_n_)
+        *   linear search
+    *   _O_(log _n_)
+        *   binary search
+    *   _O_(1)
 
-	* Here we are simply building a sorted list by taking each element in the list, and inserting it into the correct spot of the sorted list so far.
+*   And Ω for bubble sort is still _n_<sup>2</sup>, since we still check each pair of elements for _n_ – 1 passes.
 
-	* However, recall that computers can only work with one element in an array at once, so `inserting a value into the sorted side` becomes tedious quickly, as we need to shift elements around.
 
-## Running Time
+## Selection sort
 
-* These algorithms all have some running time, or the number of steps it takes to solve a problem.
+*   We can take another approach with the same set of numbers:
 
-* Recall our familiar graph:
+        6 3 8 5 2 7 4 1
 
-	![running time](running_time.png)
+*   First, we'll look at each number, and remember the smallest one we've seen. Then, we can swap it with the first number in our list, since we know it's the smallest:
 
-	* The horizonal axis is the size of the problem, such as the number of numbers in an array.
+        6 3 8 5 2 7 4 1
+        –             –
+        1 3 8 5 2 7 4 6
 
-	* The vertical axis is the time to solve, with some consistent unit we might want to use to measure a single step.
+*   Now we know at least the first element of our list is in the right place, so we can look for the smallest element among the rest, and swap it with the next unsorted element (now the second element):
 
-* For bubble sort, if we have a list with _n_ elements, we would compare (_n_ - 1) pairs in our first pass.
+        1 3 8 5 2 7 4 6
+          –     –
+        1 2 8 5 3 7 4 6
 
-* And after our first pass, the largest element will have been swapped all the way to the right. So in our second pass, we'll only need (_n_ - 2) comparisons.
+*   We can repeat this over and over, until we have a sorted list.
 
-* So we'll have made a total of (_n_ - 1) + (_n_ - 2) + ... + 1 comparisons. And those numbers actually add up to _n_(_n_ - 1)/2. And that multiplies out to (_n_^2^ - _n_)/2.
+*   This algorithm is called **selection sort**, and we might write pseudocode like this:
 
-* When comparing running time, we generally just want the term with the biggest order of magnitude, since that's the only one that really matters when _n_ gets really big. And we can even get rid of the factor of 1/2.
+        For i from 0 to n–1
+            Find smallest item between i'th item and last item
+            Swap smallest item with i'th item
 
-* We can look at an example (not a proof!) to help us understand this. Imagine we had 1,000,000 numbers to sort. Then bubble sort will take 1,000,000^2^/2 - 1,000,000/2 steps, and if we multiply that out, we get 500,000,000,000 - 500,000 = 499,999,500,000. Which is awfully close to the first number.
+*   With big _O_ notation, we still have running time of _O_(_n_<sup>2</sup>), since we were looking at roughly all _n_ elements to find the smallest, and making _n_ passes to sort all the elements.
 
-* So when we have an expression like (_n_^2^ - _n_)/2, we can say it is on the order of, _O_(_n_^2^).
+*   More formally, we can use some formulas to show that the biggest factor is indeed _n_<sup>2</sup>:
 
-* There is a more formal mathematical definition, but we'll consider this notation, *big _O_*, to be an upper bound on how long an algorithm might take.
+        n + (n – 1) + (n – 2) + ... + 1
+        n(n + 1)/2
+        (n^2 + n)/2
+        n^2/2 + n/2
+        O(n^2)
 
-* Depending on the algorithm, we might see:
+*   So it turns out that selection sort is fundamentally about the same as bubble sort in running time:
+
+	*   _O_(_n_<sup>2</sup>)
+        *   bubble sort, selection sort
+    *   _O_(_n_ log _n_)
+    *   _O_(_n_)
+        *   linear search
+    *   _O_(log _n_)
+        *   binary search
+    *   _O_(1)
+
+*   The best case, Ω, is also _n_<sup>2</sup>.
+
+*   We can go back to bubble sort and change its algorithm to be something like this, which will allow us to stop early if all the elements are sorted:
 
-	* _O_(_n_^2^)
-	* _O_(_n_ log _n_)
-	* _O_(_n_)
-	* _O_(log _n_)
-	* _O_(1)
+        Repeat until no swaps
+            For i from 0 to n–2
+                If i'th and i+1'th elements out of order
+                    Swap them
 
-		* This last one takes one step, or ten steps, or a constant number of steps regardless of the size of the problem.
+    *   Now, we only need to look at each element once, so the best case is now Ω(_n_):
 
-* Finding an element in an unsorted list, with linear search, for example, would have running time of _O_(_n_), since we might look at up to all _n_ elements before we find the correct one.
+		*   Ω(_n_<sup>2</sup>)
+            *   selection sort
+        *   Ω(_n_ log _n_)
+        *   Ω(_n_)
+            *   bubble sort
+        *   Ω(log _n_)
+        *   Ω(1)
+            *   linear search, binary search
 
-* Binary search would have a logarithmic running time, _O_(log _n_), since we are dividing the problem in half each time.
+*   We look at a visualization online [comparing sorting algorithms](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) with animations for how the elements move within arrays for both bubble sort and insertion sort.
+
+
+## Recursion
+
+*   Recall that in week 0, we had pseudocode for finding a name in a phone book, where we had lines telling us to "go back" and repeat some steps:
+
+        1  Pick up phone book
+        2  Open to middle of phone book
+        3  Look at page
+        4  If Smith is on page
+        5      Call Mike
+        6  Else if Smith is earlier in book
+        7      Open to middle of left half of book
+        8      **Go back to line 3**
+        9  Else if Smith is later in book
+        10     Open to middle of right half of book
+        11     **Go back to line 3**
+        12 Else
+        13     Quit
 
-* And constant time algorithms, with running time _O_(1), might include adding numbers or printing something, since in each case we can say it takes one step.
+*   We could instead just repeat our entire algorithm on the half of the book we have left:
 
-* Another symbol we might see is big Omega, *Ω*, which we can think of as the opposite of big O. Big O is the running time of the worst-case scenario (in the case of sorting, for many algorithms the worst-case scenario is a list that is completely backwards), but big Omega is the lower bound, or the best case.
+        1  Pick up phone book
+        2  Open to middle of phone book
+        3  Look at page
+        4  If Smith is on page
+        5      Call Mike
+        6  Else if Smith is earlier in book
+        7      **Search left half of book**
+        8
+        9  Else if Smith is later in book
+        10     **Search right half of book**
+        11
+        12 Else
+        13     Quit
 
-* Algorithms for search, like linear search or binary search, tend to have Ω(1) running time, since in the best case we get lucky and find our element on the first try.
+    *   This seems like a cyclical process that will never end, but we're actually dividing the problem in half each time, and stopping once there's no more book left.
 
-* Bubble sort has Ω(_n_), since we can stop if we made no swaps, but we need to at least look at all _n_ elements.
+*   **Recursion** occurs when a function or algorithm refers to itself, as in the new pseudocode above.
 
-* An algorithm with Ω(_n_^2^), for example, would be selection sort. Even if the list was already sorted, we wouldn't know because we look for the smallest element in the rest of the list, one at a time, so we end up looking at about _n_^2^ elements.
+*   In week 1, too, we implemented a "pyramid" of blocks in the following shape:
 
-* And we have yet another notation, theta, Θ, if the running time of an algorithm is the same in the worst-case (Ω) and the best-case (_O_).
+        #
+        ##
+        ###
+        ####
 
-## Merge Sort
+    *   And we might have had iterative code like this:
 
-* We take a look at [this visualization](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) of how sorting differs between algorithms. We see each number represented as bars, and the larger numbers (taller bars) move to the right for bubble sort, as we'd expect. For selection sort, we see the smaller numbers move to the left, one at a time. And for insertion sort, we can see a sorted list built by taking one element at a time from the rest of the list, by shifting the elements in the sorted side of the list.
+            #include <cs50.h>
+            #include <stdio.h>
 
-* Before we can implement merge sort, let's look at [`sigma0.c`](http://cdn.cs50.net/2017/fall/lectures/3/src3/sigma0.c):
+            void draw(int h);
 
-		#include <cs50.h>
-		#include <stdio.h>
+            int main(void)
+            {
+                // Get height of pyramid
+                int height = get_int("Height: ");
 
-		int sigma(int m);
+                // Draw pyramid
+                draw(height);
+            }
 
-		int main(void)
-		{
-		    int n;
-		    do
-		    {
-		        n = get_int("Positive integer: ");
-		    }
-		    while (n < 1);
-		    int answer = sigma(n);
-		    printf("%i\n", answer);
-		}
+            void draw(int h)
+            {
+                // Draw pyramid of height h
+                for (int i = 1; i <= h; i++)
+                {
+                    for (int j = 1; j <= i; j++)
+                    {
+                        printf("#");
+                    }
+                    printf("\n");
+                }
+            }
 
-		// Return sum of 1 through m
-		int sigma(int m)
-		{
-		    int sum = 0;
-		    for (int i = 1; i <= m; i++)
-		    {
-		        sum += i;
-		    }
-		    return sum;
-		}
+        *   Here, we use `for` loops to print each block in each row.
 
-	* The program adds up all the numbers from 1 to the number provided as input, using a function that we wrote, `sigma`, that in turn uses a `for` loop to make a sum.
+*   But notice that a pyramid of height 4 is actually a pyramid of height 3, with an extra row of 4 blocks added on. And a pyramid of height 3 is a pyramid of height 2, with an extra row of 3 blocks. A pyramid of height 2 is a pyramid of height 1, with an extra row of 2 blocks. And finally, a pyramid of height 1 is just a pyramid of height 0, or nothing, with another row of a single block added on.
 
-* We can use another programming technique, *recursion*, to implement `sigma`:
+*   With this idea in mind, we can write:
 
-		...
+        #include <cs50.h>
+        #include <stdio.h>
 
-		// Returns sum of 1 through m
-		int sigma(int m)
-		{
-		    if (m <= 0)
-		    {
-		        return 0;
-		    }
-		    else
-		    {
-		        return (m + sigma(m - 1));
-		    }
-		}
+        void draw(int h);
 
-	* Notice that now the `sigma` function calls itself, but changes the argument to `m - 1`, since the sum of the numbers from 1 through `m` is the sum of the numbers from 1 through `m - 1`, plus `m`. Essentially, we can use the same algorithm to solve the rest of the problem, after we solved some part of it. Eventually, these partial solutions will add up to solve the problem completely.
+        int main(void)
+        {
+            // Get height of pyramid
+            int height = get_int("Height: ");
 
-	* We also have a condition for a *base case*, where the function no longer calls itself, and instead returns a value in the most basic case, which is where `m` is 0 or smaller. That will end the recursion.
+            // Draw pyramid
+            draw(height);
+        }
 
-* Now we can express merge sort in pseudocode:
+        void draw(int h)
+        {
+            // If nothing to draw
+            if (h == 0)
+            {
+                return;
+            }
 
-		on input of n elements
-		    if n < 2
-		        return
-		    else
-		        sort left half of elements
-		        sort right half of elements
-		        merge sorted halves
+            // Draw pyramid of height h – 1
+            draw(h – 1);
 
-	* The base case, where there's less than two elements, means that there's nothing for us to do, since by definition that will already be sorted.
+            // Draw one more row of width h
+            for (int i = 0; i < h; i++)
+            {
+                printf("#");
+            }
+            printf("\n");
+        }
 
-	* Otherwise, we sort both halves by recursively using merge sort on those halves, and then we merge them together by taking the smallest one from each of the lists, one at a time.
+    *   Now, our `draw` function first calls itself **recursively**, drawing a pyramid of height `h – 1`. But even before that, we need to stop if `h` is 0, since there won't be anything left to drawn.
 
-* We can best see this with an example:
+	*   After, we draw the next row, or a row of width `h`.
 
-		4 2 7 5 6 8 3 1       // unsorted list
-		
-		| 4 2 7 5 | 6 8 3 1    // sort the left half
-		
-		| 4 2 | 7 5 6 8 3 1    // sort the left half of the left half
-		
-		| 4 | 2 7 5 6 8 3 1    // sort the left half of the left half of the left half, which is just 4, so it's sorted
-		
-		4 | 2 | 7 5 6 8 3 1    // sort the right half of the left half of the left half, which is just 2, so it's sorted
-		
-		| _ _ | 7 5 6 8 3 1    // now we merge the left half of the left half
-		| 2 4 |                // use extra memory to keep our sorted list of size 2
-		
-		_ _ | 7 5 | 6 8 3 1    // now we go back and sort the right half of the left half
-		
-		2 4 | 5 7 |            // sorted right half of right half
 
-* Now we can remember that our second statement earlier, "sort the left half", is wrapping up with merging its two sorted halves together:
+## Merge sort
 
-		_ _ | 7 5 | 6 8 3 1
-		2 4 | 5 7 |
-		2 4   5 7 |            // merged left half
+*   We can take the idea of recusion to sorting, with another algorithm called merge sort. The pseudocode might look like:
 
-	* To merge two sorted lists, we start at the beginning of both lists, and take whichever element is the smallest at each step, but in this case the numbers happened to already be in order.
+        If only one item
+          Return
+        Else
+            Sort left half of items
+            Sort right half of items
+            Merge sorted halves
 
-* Now we repeat with the right half:
+*   We'll best see this in practice with an unsorted list:
 
-		_ _ | _ _ | 6 8 3 1
-		_ _ | _ _ |
-		2 4   5 7 |
+        7 4 5 2 6 3 8 1
 
-		_ _ | _ _ | 6 8 3 1
-		_ _ | _ _ | 6 8 |      // sorted left half of right half
-		2 4   5 7 |
+*   First, we'll sort the left half (the first four elements):
 
-		_ _ | _ _ | 6 8 3 1
-		_ _ | _ _ | 6 8 | 1 3     // sorted right half of right half
-		2 4   5 7 |
+        7 4 5 2 | 6 3 8 1
+        – – – –
 
-		_ _ | _ _ | 6 8 3 1
-		_ _ | _ _ | _ _ | _ _ |
-		2 4   5 7 | 1 3   6 8    // merged right half
+*   Well, to sort that, we need to sort the left half of the left half first:
 
-* Now we're back to the very first pass of our algorithm where we need to merge both halves, so:
+        7 4 | 5 2 | 6 3 8 1
+        – –
 
-		_ _ | _ _ | 1 7 5 3
-		_ _ | _ _ | _ _ | _ _ |
-		2 4   6 8 | 1 3   5 7
-		1 2   3 4   5 6   7 8    // merged list
+*   Now, we have just one item, `7`, in the left half, and one item, `4`, in the right half. So we'll merge that together, by taking the smallest item from each list first:
 
-* It seems that there were a lot of steps, and on top of that we needed a lot of extra space to keep the new lists stored somewhere in memory.
+        – – | 5 2 | 6 3 8 1
+        4 7
 
-* But we could have used the space in the original list as we went along, so we could get by with enough memory for just two lists.
+*   And now we go back to the right half of the left half, and sort it:
 
-* And with a list of 8 elements, we needed to have 3 layers, splitting it three times. With, say, 1024 elements, we would have needed 10 layers, since we divide by 2 each time.
+        – – | – – | 6 3 8 1
+        4 7 | 2 5
 
-* So with dividing the problem in half each time, it seems that we've reduced our problem to something logarithmic, with log _n_ layers. And at each layer, we looked at all _n_ elements to merge them. So intuitively, we can estimate that this algorithm takes O(_n_ log _n_) time.
+*   Now, both halves of the left half are sorted, so we can merge the two of them together. We look at the start of each list, and take `2` since it's smaller than `4`. Then, we take `4`, since it's now the smallest item at the front of both lists. Then, we take `5`, and finally, `7`, to get:
 
-* We can even look at the pseudocode to analyze running time:
+        – – – – | 6 3 8 1
+        – – – –
+        2 4 5 7
 
-		on input of n elements
-		    if n < 2
-		        return
-		    else
-		        sort left half of elements
-		        sort right half of elements
-		        merge sorted halves
+*   We now sort the right half the same way. First, the left half of the right half:
 
-* The first condition takes _O_(1) step to return, a constant number, so T(_n_), the time to solve a problem of size _n_, is _O_(1). The running time is _O_(1).
+        – – – – | – – | 8 1
+        – – – – | 3 6 |
+        2 4 5 7
 
-* But the second condition takes T(_n_) = T(_n_/2) + T(_n_/2) + _O_(_n_) since sorting each half requires the running time of each half, plus the time it takes to merge the two halves.
+*   Then, the right half of the right half:
 
-* Mathematically, this series actually sums up to be O(_n_ log _n_). But this would only be obvious if you're familiar with this subject and had the help of a textbook; no worries if not!
+        – – – – | – – | – –
+        – – – – | 3 6 | 1 8
+        2 4 5 7
 
-* Finally, we close on [this visualization](https://www.youtube.com/watch?v=kPRA0W1kECg) of sorting algorithms, with generated sounds as well.
+*   We can merge the right half together now:
+
+        – – – – | – – – –
+        – – – – | – – – –
+        2 4 5 7 | 1 3 6 8
+
+*   And finally, we can merge both halves of the whole list, following the same steps as before. Notice that we don't need to check all the elements of each half to find the smallest, since we know that each half is already sorted. Instead, we just take the smallest element of the two at the start of each half:
+
+        – – – – | – – – –
+        – – – – | – – – –
+        2 4 5 7 | – 3 6 8
+        1
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – 4 5 7 | – 3 6 8
+        1 2
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – 4 5 7 | – – 6 8
+        1 2 3
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – – 5 7 | – – 6 8
+        1 2 3 4
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – – – 7 | – – 6 8
+        1 2 3 4   5
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – – – 7 | – – – 8
+        1 2 3 4   5 6
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – – – – | – – – 8
+        1 2 3 4   5 6 7
+
+        – – – – | – – – –
+        – – – – | – – – –
+        – – – – | – – – –
+        1 2 3 4   5 6 7 8
+
+*   It took a lot of steps, but it actually took fewer steps than the other algorithms we've seen so far. We broke our list in half each time, until we were "sorting" eight lists with one element each:
+
+        7 | 4 | 5 | 2 | 6 | 3 | 8 | 1
+        4   7 | 2   5 | 3   6 | 1   8
+        2   4   5   7 | 1   3   6   8
+        1   2   3   4   5   6   7   8
+
+*   Since our algorithm divided the problem in half each time, its running time is logarithmic with _O_(log _n_). And after we sorted each half (or half of a half), we needed to merge together all the elements, with _n_ steps since we had to look at each element once.
+
+*   So our total running time is _O_(_n_ log _n_):
+
+	*   _O_(_n_<sup>2</sup>)
+        *   bubble sort, selection sort
+    *   _O_(_n_ log _n_)
+        *   merge sort
+    *   _O_(_n_)
+        *   linear search
+    *   _O_(log _n_)
+        *   binary search
+    *   _O_(1)
+
+*   Since log _n_ is greater than 1 but less than _n_, _n_ log _n_ is in between _n_ (times 1) and _n_<sup>2</sup>.
+
+*   The best case, Ω, is still _n_ log _n_, since we still sort each half first and then merge them together:
+    *   Ω(_n_<sup>2</sup>)
+        *   selection sort
+    *   Ω(_n_ log _n_)
+        *   merge sort
+    *   Ω(_n_)
+        *   bubble sort
+    *   Ω(log _n_)
+    *   Ω(1)
+        *   linear search, binary search
+
+*   Finally, there is another notation, Θ, Theta, which we use to describe running times of algorithms if the upper bound and lower bound is the same. For example, merge sort has Θ(_n_ log _n_) since the best and worst case both require the same number of steps. And selection sort has Θ(_n_<sup>2</sup>).
+
+*   We look at a [final visualization](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) of sorting algorithms with a larger number of inputs, running at the same time.
