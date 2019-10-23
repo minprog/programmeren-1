@@ -30,10 +30,11 @@ then `k`, unless more specific names would make your code more readable:
 	            // do something
 	        }
 	    }
+
 	    for (int j = 0; j < LIMIT; j++)
 	    {
 	        // do something
-			}
+		}
 	}
 
 If you need more than three variables for iteration, it might be time to

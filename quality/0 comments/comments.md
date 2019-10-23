@@ -59,6 +59,7 @@ signature. Consider what I tend to do:
 	    {
 	      s1 = "bottle";
 	    }
+
 	    if (b == 2)
 	    {
 	      s2 = "bottle";

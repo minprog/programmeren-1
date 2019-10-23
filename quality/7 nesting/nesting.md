@@ -6,11 +6,11 @@ Using indentation, you make sure that the structure of your code is clear to a h
 
 For example, in the following fragment, the comparisons are deeply nested. Note that it becomes less easy to determine which `else` block belongs to which `if` statement.
 
-	if(quantity > 10)
+	if (quantity > 10)
 	{
-		if(quantity > 100)
+		if (quantity > 100)
 		{
-			if(quantity > 1000)
+			if (quantity > 1000)
 			{
 				discount = 0.10;
 			}
@@ -33,19 +33,20 @@ For example, in the following fragment, the comparisons are deeply nested. Note 
 
 If you study the above example well, you may see that the discounts are provided for an increasing series of quantities. This means that the code can be written in a much nicer way:
 
-	if(quantity > 1000)
+	if (quantity > 1000)
 	{
 		discount = 0.10;
 	}
-	else if(quantity > 100)
+	else if (quantity > 100)
 	{
 		discount = 0.05;
 	}
-	else if(quantity > 10)
+	else if (quantity > 10)
 	{
 		discount = 0.025;
 	}
-	else {
+	else
+	{
 		discount = 0;
 	}
 
@@ -53,21 +54,21 @@ If you study the above example well, you may see that the discounts are provided
 
 You might be tempted to check some negative condition, and if not satisfied, run the rest of your program:
 
-	if(length < 0)
+	if (length < 0)
 	{
 		printf("Please enter a positive integer.");
 		return 0;
 	}
 	else
 	{
-		// perform your algorithm on the variable `length`
+		// perform your algorithm on the variable 'length'
 		length = length * 10;
 		printf("%i\n", length);
 	}
 
 In this case, you should notice that you can *remove* the `else` block altogether, placing the algorithm below the `if` block, like below.
 
-	if(length <= 0)
+	if (length <= 0)
 	{
 		printf("Please enter a positive integer.");
 		return 0;
