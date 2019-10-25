@@ -77,8 +77,7 @@ solvable configuration.
 . Implement `draw`.
 . Implement `move`.
 . Implement `won`.
-
-Then, embed in the game a cheat, whereby, rather than typing an integer between `1` and `d*d–1`, where `d` is the board's height and width, the human can also type GOD to compel "the computer" to take control of the game and solve it (using any strategy, optimal or non-optimal), making, say, only four moves per second so that the human can actually watch. Presumably, you'll need to swap out `get_int()` for something more versatile. It's fine if your implementation of God Mode only works (bearably fast) for d ≤ 4; you need not worry about testing God Mode for d > 4. Oh and you can't implement God Mode by remembering how init initialized the board (as by remembering the sequence of moves that got your program to some pseudorandom but solvable state). Nice try.
+. Then, embed in the game a cheat, whereby, rather than typing an integer between `1` and `d*d–1`, where `d` is the board's height and width, the human can also type GOD to compel "the computer" to take control of the game and solve it (using any strategy, optimal or non-optimal), making, say, only four moves per second so that the human can actually watch. Presumably, you'll need to swap out `get_int()` for something more versatile. It's fine if your implementation of God Mode only works (bearably fast) for d ≤ 4; you need not worry about testing God Mode for d > 4. Oh and you can't implement God Mode by remembering how init initialized the board (as by remembering the sequence of moves that got your program to some pseudorandom but solvable state). Nice try.
 
 == Walkthrough
 
