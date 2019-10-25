@@ -7,17 +7,6 @@ templates:
             correctness: (check_score * 5).floor
         calculation: -(correctness/5)
         hide_subgrades: true
-    # 2: &automatic
-    #     type: float
-    #     subgrades:
-    #         correctness: integer
-    #         design: integer
-    #         style: integer
-    #     automatic:
-    #         correctness: (check_score * 5).floor
-    #         style: style_score
-    #     calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
-    #     hide_calculated: true
     3: &manual
         type: float
         subgrades:
