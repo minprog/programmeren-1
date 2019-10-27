@@ -34,7 +34,8 @@ grades:
     caesar: *fullyauto
     vigenere: *fullyauto
     crack: *fullyauto
-    fifteen: *fullyauto
+    fifteen_less: *fullyauto
+    fifteen_more: *fullyauto
     find_less: *fullyauto
     find_more: *fullyauto
     whodunit:
@@ -84,7 +85,8 @@ modules:
         - vigenere
         - crack
     m3:
-        - fifteen
+        - fifteen_less
+        - fifteen_more
         - find_less
         - find_more
     m4:

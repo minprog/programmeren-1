@@ -43,7 +43,11 @@ Implement either of:
 
 #### 3. Fifteen
 
-Implement [Fifteen](/problems/fifteen)
+Implement either of:
+
+- [Fifteen](/problems/fifteen), for those less comfortable
+
+- [Find](/problems/find-more), for those more comfortable
 
 #### 4. Exercises
 
