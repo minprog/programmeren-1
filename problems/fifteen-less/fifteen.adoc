@@ -1,3 +1,6 @@
+---
+---
+
 = Game of Fifteen
 
 == tl;dr
@@ -126,4 +129,4 @@ Note that `check50` assumes that your board's blank space is implemented in `boa
 check50 minprog/cs50x/2019/fifteen/less
 ----
 
-> Let op! Als je de hacker versie van deze opdracht hebt gemaakt, lever deze opdracht dan in op de [hacker editie pagina van Fifteen](/problems/fifteen-more).
+> Let op! Als je de hacker versie van deze opdracht hebt gemaakt, lever deze opdracht dan in op de link:/problems/fifteen-more[hacker editie pagina van Fifteen].
