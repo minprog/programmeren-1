@@ -45,9 +45,9 @@ Implement either of:
 
 Implement either of:
 
-- [Fifteen](/problems/fifteen), for those less comfortable
+- [Fifteen](/problems/fifteen-less), for those less comfortable
 
-- [Find](/problems/find-more), for those more comfortable
+- [Fifteen](/problems/fifteen-more), for those more comfortable
 
 #### 4. Exercises
 
