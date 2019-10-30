@@ -21,4 +21,62 @@ Consistent use of whitespace makes expressions and statements more readable. Now
 		printf("foo");
 		int answer = atoi("42");
 
+\
+Using empty lines between blocks of code makes your program easier to read. Keep blocks of `if` and `else` statements together, but place an empty line between blocks of code that do not belong together.
+
+So don't do this:
+
+		int x = 5;
+		for (int i = 0; i < 4; i++)
+		{
+			x += 3;
+		}
+		if (x > 10)
+		{
+			x /= 2;
+		}
+
+Or this:
+
+		int x = 5;
+
+		int y = 7;
+
+		if (x > 10)
+		{
+			x /= 2;
+
+		}
+
+		else
+		{
+			y *= 2;
+		}
+
+But do this:
+
+		int x = 5;
+		int y = 7;
+
+		for (int i = 0; i < 4; i++)
+		{
+			x += 3;
+			y *= 6;
+		}
+
+		if (x > 10)
+		{
+			x /= 2;
+		}
+		else
+		{
+			x *= 2;
+		}
+
+		if (y == 7)
+		{
+			y = 0;
+		}
+
+\
 For this aspect in particular, you can use `style50` to help you out!

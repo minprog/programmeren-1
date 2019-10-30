@@ -5,13 +5,15 @@ Try to restrict the scope, the lifespan, of a variable as much as possible. That
 For instance, take this for-loop:
 
     int i;
-    for (i = 0; i < 10; i++) {
+    for (i = 0; i < 10; i++)
+    {
         printf("hello");
     }
 
 Here the variable `i` continues to exist beyond the body of the for-loop, even though it probably won't see any use. So do this instead of the above:
 
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 10; i++)
+    {
         printf("hello");
     }
 
