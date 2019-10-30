@@ -48,7 +48,9 @@ Parttime:
                 Find: /problems/find-less
                 Find (hacker): /problems/find-more
         Fifteen:
-            Implement Fifteen: /problems/fifteen
+            "Implement either of:":
+                Fifteen: /problems/fifteen-less
+                Fifteen (hacker): /problems/fifteen-more
         Exercises:
             Arrays: /exercises/arrays
             Loops: /exercises/loops
@@ -121,7 +123,9 @@ Fulltime:
                 Find: /problems/find-less
                 Find (hacker): /problems/find-more
         Fifteen:
-            Implement Fifteen: /problems/fifteen
+            "Implement either of:":
+                Fifteen: /problems/fifteen-less
+                Fifteen (hacker): /problems/fifteen-more
         Exercises:
             Arrays: /exercises/arrays
             Loops: /exercises/loops
