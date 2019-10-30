@@ -37,17 +37,17 @@ Watch the lecture on [Algorithms](/lectures/algorithms)
 
 Implement either of:
 
-- [Find](/problems/find-less), for those less comfortable
+- [Find](/problems/find-less), for budding programmers
 
-- [Find](/problems/find-more), for those more comfortable
+- [Find](/problems/find-more), the hacker edition
 
 #### 3. Fifteen
 
 Implement either of:
 
-- [Fifteen](/problems/fifteen-less), for those less comfortable
+- [Fifteen](/problems/fifteen-less), for budding programmers
 
-- [Fifteen](/problems/fifteen-more), for those more comfortable
+- [Fifteen](/problems/fifteen-more), the hacker edition
 
 #### 4. Exercises
 
