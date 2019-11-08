@@ -70,6 +70,8 @@ grades:
     test F: *test
     test G: *test
     pidac: *test
+    resit:
+        type: float
 
 modules:
     m0:
