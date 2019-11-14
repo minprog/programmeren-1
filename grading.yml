@@ -104,12 +104,12 @@ modules:
 calculation:
     final:
         tests: 0
-        modules: 100
+        problems: 100
 # resit:
 #     tests: 0
 #     modules: 100
 
-modules:
+problems:
     show_progress: true
     submits:
         # m0: 0
