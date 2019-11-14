@@ -104,12 +104,13 @@ modules:
 calculation:
     final:
         tests: 0
-        mods: 100
+        modules: 100
 # resit:
 #     tests: 0
 #     modules: 100
 
-mods:
+modules:
+    show_progress: true
     submits:
         # m0: 0
         m1: 1
@@ -119,6 +120,7 @@ mods:
         m5: bonus
 
 tests:
+    show_progress: true
     required: true
     submits:
         test A: 1
