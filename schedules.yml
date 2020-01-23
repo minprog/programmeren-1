@@ -147,3 +147,106 @@ Fulltime:
         Overview & Grading: /overviews/mispellings
         "Lecture: Data Structures": /lectures/data-structures
         Implement Mispellings: /overviews/mispellings
+
+Fulltime Lente:
+    W1 Maandag:
+        Overview & Grading: /overviews/scratch
+        "Lecture: Computational Thinking": /lectures/computational-thinking
+        Implement Scratch: /problems/scratch
+    W1 Dinsdag:
+        Overview & Grading: /overviews/c
+        "Lecture: C": /lectures/c
+        Hello:
+            Create a GitHub account: https://github.com/join
+            Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
+        Water:
+            Create your own CS50 IDE: https://ide.cs50.io/
+            Learn about the Command Line: /shorts/command-line
+            Implement Water: /problems/water
+        "Implement either of:":
+            Mario: /problems/mario-less
+            Mario (hacker): /problems/mario-more
+    W1 Woensdag:
+        Test:
+            Variables: /exercises/variables
+        "Implement either of:":
+            Greedy: /problems/greedy
+            Credit (hacker): /problems/credit
+    W1 Donderdag:
+        "Implement either of:":
+            Greedy: /problems/greedy
+            Credit (hacker): /problems/credit
+    W1 Vrijdag:
+        Module 1 code reviews: /reviews/c
+        Overview & Grading: /overviews/crypto
+        "Lecture: Arrays": /lectures/arrays
+        Initials:
+            "Implement either of:":
+                Initials: /problems/initials-less
+                Initials (hacker): /problems/initials-more
+    W2 Maandag:
+        Caesar:
+            Implement Caesar: /problems/caesar
+    W2 Dinsdag:
+        Tests:
+            Unscratch: /exercises/unscratch
+            Control flow: /exercises/control-flow
+        Caesar:
+            Implement Caesar: /problems/caesar
+    W2 Woensdag:
+        "Implement either of:":
+            Vigenere: /problems/vigenere
+            Crack (hacker): /problems/crack
+    W2 Donderdag:
+        "Implement either of:":
+            Vigenere: /problems/vigenere
+            Crack (hacker): /problems/crack
+    W2 Vrijdag:
+        Module 2 code review: /reviews/crypto
+        Overview & Grading: /overviews/fifteen
+        "Lecture: Algorithms": /lectures/algorithms
+        "Implement either of:":
+            Find: /problems/find-less
+            Find (hacker): /problems/find-more
+    W3 Maandag:
+        "Implement either of:":
+            Find: /problems/find-less
+            Find (hacker): /problems/find-more
+    W3 Dinsdag:
+        Exercises:
+            Arrays: /exercises/arrays
+            Loops: /exercises/loops
+        "Implement either of:":
+            Find: /problems/find-less
+            Find (hacker): /problems/find-more
+    W3 Woensdag:
+        "Implement either of:":
+            Fifteen: /problems/fifteen-less
+            Fifteen (hacker): /problems/fifteen-more
+    W3 Donderdag:
+        "Implement either of:":
+            Fifteen: /problems/fifteen-less
+            Fifteen (hacker): /problems/fifteen-more
+    W3 Vrijdag:
+        Module 3 code review: /reviews/fifteen
+        Overview & Grading: /overviews/forensics
+        "Lecture: Memory": /lectures/memory
+        Whodunit:
+            Implement Whodunit: /problems/whodunit
+    W4 Maandag:
+        Whodunit:
+            Implement Whodunit: /problems/whodunit
+    W4 Dinsdag:
+        Exercises:
+            Functions: /exercises/functions
+            Algorithms: /exercises/algorithms
+        Filter:
+            Implement Filter: /problems/whodunit
+    W4 Woensdag:
+        Filter:
+            Implement Filter: /problems/whodunit
+    W4 Donderdag:
+        Recover:
+            Implement Recover: /problems/recover
+    W4 Vrijdag:
+        Module 4 code review: /reviews/
