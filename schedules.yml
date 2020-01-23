@@ -149,11 +149,11 @@ Fulltime:
         Implement Mispellings: /overviews/mispellings
 
 Fulltime Lente:
-    W1 Maandag:
+    Week 1 - Maandag:
         Overview & Grading: /overviews/scratch
         "Lecture: Computational Thinking": /lectures/computational-thinking
         Implement Scratch: /problems/scratch
-    W1 Dinsdag:
+    Week 1 - Dinsdag:
         Overview & Grading: /overviews/c
         "Lecture: C": /lectures/c
         Hello:
@@ -166,17 +166,17 @@ Fulltime Lente:
         "Implement either of:":
             Mario: /problems/mario-less
             Mario (hacker): /problems/mario-more
-    W1 Woensdag:
+    Week 1 - Woensdag:
         Test:
             Variables: /exercises/variables
         "Implement either of:":
             Greedy: /problems/greedy
             Credit (hacker): /problems/credit
-    W1 Donderdag:
+    Week 1 - Donderdag:
         "Implement either of:":
             Greedy: /problems/greedy
             Credit (hacker): /problems/credit
-    W1 Vrijdag:
+    Week 1 - Vrijdag:
         Module 1 code reviews: /reviews/c
         Overview & Grading: /overviews/crypto
         "Lecture: Arrays": /lectures/arrays
