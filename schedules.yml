@@ -150,46 +150,42 @@ Fulltime:
 
 Fulltime Lente:
     Week 1 - Maandag:
-        Overview & Grading: /overviews/scratch
-        "Lecture: Computational Thinking": /lectures/computational-thinking
-        Implement Scratch: /problems/scratch
+        Overzicht Module 0: /overviews/scratch
+        Implementeer Scratch: /problems/scratch
     Week 1 - Dinsdag:
-        Overview & Grading: /overviews/c
-        "Lecture: C": /lectures/c
+        Overzicht Module 1: /overviews/c
         Hello:
-            Create a GitHub account: https://github.com/join
-            Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
+            Maak een GitHub-account: https://github.com/join
+            Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
         Water:
-            Create your own CS50 IDE: https://ide.cs50.io/
-            Learn about the Command Line: /shorts/command-line
-            Implement Water: /problems/water
-        "Implement either of:":
+            Maak je eigen CS50 IDE aan: https://ide.cs50.io/
+            Leer over de Command Line: /shorts/command-line
+            Implementeer Water: /problems/water
+        "Implementeer naar keuze:":
             Mario: /problems/mario-less
             Mario (hacker): /problems/mario-more
     Week 1 - Woensdag:
-        Test:
-            Variables: /exercises/variables
-        "Implement either of:":
+        "Implementeer naar keuze:":
             Greedy: /problems/greedy
             Credit (hacker): /problems/credit
     Week 1 - Donderdag:
-        "Implement either of:":
+        "Implementeer naar keuze:":
             Greedy: /problems/greedy
             Credit (hacker): /problems/credit
     Week 1 - Vrijdag:
-        Module 1 code reviews: /reviews/c
-        Overview & Grading: /overviews/crypto
-        "Lecture: Arrays": /lectures/arrays
-        Initials:
-            "Implement either of:":
-                Initials: /problems/initials-less
-                Initials (hacker): /problems/initials-more
+        Toetsjes:
+            Variables: /exercises/variables
+            Unscratch: /exercises/unscratch
+        Overzicht Module 2: /overviews/crypto
+        "Implementeer naar keuze:":
+            Initials: /problems/initials-less
+            Initials (hacker): /problems/initials-more
     W2 Maandag:
+        Module 1 code reviews: /reviews/c
         Caesar:
             Implement Caesar: /problems/caesar
     W2 Dinsdag:
         Tests:
-            Unscratch: /exercises/unscratch
             Control flow: /exercises/control-flow
         Caesar:
             Implement Caesar: /problems/caesar

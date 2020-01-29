@@ -2,6 +2,11 @@
 
 In this module, you'll write your first program! You'll do this in Scratch, a fun language that makes a lot of complex things easy to do, like animating pictures on the screen.
 
+## Lecture
+
+![embed](https://www.youtube.com/embed/I5VGl6gPyIY)
+
+[Lecture notes](/lectures/scratch)
 
 ## Help
 

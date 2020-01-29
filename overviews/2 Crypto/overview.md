@@ -2,6 +2,11 @@
 
 In this module, you'll learn about cryptographic techniques and about strings in C. Strings will prove to be an important part of almost any program, indeed.
 
+## Lecture
+
+![embed](https://www.youtube.com/embed/8PrOp9t0PyQ)
+
+[Lecture notes](/lectures/arrays)
 
 ## Help
 
