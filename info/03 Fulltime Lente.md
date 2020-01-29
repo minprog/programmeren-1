@@ -48,7 +48,7 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 23:59 op de hieronder genoemde datum.
+Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 17:59 op de hieronder genoemde datum.
 
 | onderdeel | deadline oplossing | deadline verbeterd |  
 | --------- | ------------------ | ------------------ |  
