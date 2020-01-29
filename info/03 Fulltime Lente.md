@@ -50,15 +50,15 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4
 
 Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 23:59 op de hieronder genoemde datum.
 
-| deadline | fulltime  |  
-| -------- | --------- |  
-| Module 0 | ma  3 feb |  
-| Module 1 | do  6 feb |  
-| Module 2 | do 13 feb |  
-| Module 3 | do 20 feb |  
-| Module 4 | do 27 feb |  
+| onderdeel | deadline oplossing | deadline verbeterd |  
+| --------- | ------------------ | ------------------ |  
+| Module 0  | ma  3 feb          | -                  |  
+| Module 1  | do  6 feb          | ma 10 feb          |  
+| Module 2  | do 13 feb          | ma 17 feb          |  
+| Module 3  | do 20 feb          | ma 24 feb          |  
+| Module 4  | do 27 feb          | vr 28 feb          |  
 
-In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
+In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
 | uitstel          | aftrek   |  
 | ---------------- | -------- |  
