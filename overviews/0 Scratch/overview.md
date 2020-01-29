@@ -6,7 +6,7 @@ In this module, you'll write your first program! You'll do this in Scratch, a fu
 
 ![embed](https://www.youtube.com/embed/I5VGl6gPyIY)
 
-[Lecture notes](/lectures/scratch)
+[Lecture notes](/lectures/computational-thinking)
 
 ## Help
 
