@@ -153,7 +153,8 @@ Fulltime Lente:
         Overzicht Module 0: /overviews/scratch
         Implementeer Scratch: /problems/scratch
     Week 1 - Dinsdag:
-        Overzicht Module 1: /overviews/c
+        Start van Module 1:
+            Overzicht en Videocollege: /overviews/c
         Hello:
             Maak een GitHub-account: https://github.com/join
             Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
@@ -176,10 +177,11 @@ Fulltime Lente:
         Toetsjes:
             Variables: /exercises/variables
             Unscratch: /exercises/unscratch
-        Overzicht Module 2: /overviews/crypto
-        "Implementeer naar keuze:":
-            Initials: /problems/initials-less
-            Initials (hacker): /problems/initials-more
+        Start van Module 2:
+            Overzicht en Videocollege: /overviews/crypto
+            "Implementeer naar keuze:":
+                Initials: /problems/initials-less
+                Initials (hacker): /problems/initials-more
     W2 Maandag:
         Module 1 code reviews: /reviews/c
         Caesar:
