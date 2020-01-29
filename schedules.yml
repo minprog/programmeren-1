@@ -167,10 +167,10 @@ Fulltime Lente:
                 Implementeer Mario: /problems/mario-less
                 Implementeer Mario (hacker): /problems/mario-more
     Week 1 - Woensdag:
-        Afmaken:
-            "Naar keuze:":
-                Implementeer Mario: /problems/mario-less
-                Implementeer Mario (hacker): /problems/mario-more
+        "Opdracht afmaken:":
+            "Implementeer naar keuze:":
+                Mario: /problems/mario-less
+                Mario (hacker): /problems/mario-more
         "Implementeer naar keuze:":
             Greedy: /problems/greedy
             Credit (hacker): /problems/credit
@@ -184,72 +184,74 @@ Fulltime Lente:
             Unscratch: /exercises/unscratch
         Start van Module 2:
             Overzicht en Videocollege: /overviews/crypto
-            "Implementeer naar keuze:":
-                Initials: /problems/initials-less
-                Initials (hacker): /problems/initials-more
-    W2 Maandag:
-        Module 1 code reviews: /reviews/c
+        "Implementeer naar keuze:":
+            Initials: /problems/initials-less
+            Initials (hacker): /problems/initials-more
+    Week 2 - Maandag:
+        Code reviews:
+            Module 1: /reviews/c
         Caesar:
             Implement Caesar: /problems/caesar
-    W2 Dinsdag:
-        Tests:
+    Week 2 - Dinsdag:
+        Caesar:
+            Implement Caesar: /problems/caesar
+    Week 2 - Woensdag:
+        "Implement either of:":
+            Vigenere: /problems/vigenere
+            Crack (hacker): /problems/crack
+    Week 2 - Donderdag:
+        "Implement either of:":
+            Vigenere: /problems/vigenere
+            Crack (hacker): /problems/crack
+    Week 2 - Vrijdag:
+        Toetsjes:
             Control flow: /exercises/control-flow
-        Caesar:
-            Implement Caesar: /problems/caesar
-    W2 Woensdag:
-        "Implement either of:":
-            Vigenere: /problems/vigenere
-            Crack (hacker): /problems/crack
-    W2 Donderdag:
-        "Implement either of:":
-            Vigenere: /problems/vigenere
-            Crack (hacker): /problems/crack
-    W2 Vrijdag:
-        Module 2 code review: /reviews/crypto
-        Overview & Grading: /overviews/fifteen
-        "Lecture: Algorithms": /lectures/algorithms
-        "Implement either of:":
-            Find: /problems/find-less
-            Find (hacker): /problems/find-more
-    W3 Maandag:
-        "Implement either of:":
-            Find: /problems/find-less
-            Find (hacker): /problems/find-more
-    W3 Dinsdag:
-        Exercises:
-            Arrays: /exercises/arrays
             Loops: /exercises/loops
-        "Implement either of:":
+        Start van Module 3:
+            Overzicht en Videocollege: /overviews/fifteen
+        "Implementeer naar keuze:":
             Find: /problems/find-less
             Find (hacker): /problems/find-more
-    W3 Woensdag:
-        "Implement either of:":
+    Week 3 - Maandag:
+        Module 2 code review: /reviews/crypto
+        "Implementeer naar keuze:":
+            Find: /problems/find-less
+            Find (hacker): /problems/find-more
+    Week 3 - Dinsdag:
+        "Implementeer naar keuze:":
+            Find: /problems/find-less
+            Find (hacker): /problems/find-more
+    Week 3 - Woensdag:
+        "Implementeer naar keuze:":
             Fifteen: /problems/fifteen-less
             Fifteen (hacker): /problems/fifteen-more
-    W3 Donderdag:
-        "Implement either of:":
+    Week 3 - Donderdag:
+        "Implementeer naar keuze:":
             Fifteen: /problems/fifteen-less
             Fifteen (hacker): /problems/fifteen-more
-    W3 Vrijdag:
-        Module 3 code review: /reviews/fifteen
-        Overview & Grading: /overviews/forensics
-        "Lecture: Memory": /lectures/memory
-        Whodunit:
-            Implement Whodunit: /problems/whodunit
-    W4 Maandag:
-        Whodunit:
-            Implement Whodunit: /problems/whodunit
-    W4 Dinsdag:
-        Exercises:
-            Functions: /exercises/functions
+    Week 3 - Vrijdag:
+        Toetsjes:
+            Arrays: /exercises/arrays
             Algorithms: /exercises/algorithms
+        Start van Module 4:
+            Overzicht en Videocollege: /overviews/forensics
+        Whodunit:
+            Implementeer Whodunit: /problems/whodunit
+    Week 4 - Maandag:
+        Module 3 code review: /reviews/fifteen
+        "Afmaken Whodunit:":
+            Implementeer Whodunit: /problems/whodunit
+    Week 4 - Dinsdag:
         Filter:
-            Implement Filter: /problems/whodunit
-    W4 Woensdag:
+            Implementeer Filter: /problems/whodunit
+    Week 4 - Woensdag:
         Filter:
-            Implement Filter: /problems/whodunit
-    W4 Donderdag:
+            Implementeer Filter: /problems/whodunit
+    Week 4 - Donderdag:
         Recover:
-            Implement Recover: /problems/recover
-    W4 Vrijdag:
-        Module 4 code review: /reviews/
+            Implementeer Recover: /problems/recover
+    Week 4 - Vrijdag:
+        Toetsje:
+            Functions: /exercises/functions
+        Code reviews:
+            Module 4 code review: /reviews/graphics
