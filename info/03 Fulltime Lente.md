@@ -146,16 +146,14 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
     - Alle programma's moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
 
-    - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van redelijke kwaliteit zijn (waarmee je aantoont het leerdoel gehaald te hebben).
+    - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het leerdoel gehaald te hebben).
 
 
 2. Heb je één of meer verplichte opdrachten echt niet afgekregen (dat is dus iets anders dan een onvoldoende) dan kun je in het volgende semester deze opdrachten afmaken. Kortom, zodra de cursus weer aangeboden wordt. In dat geval gelden de volgende regels:
 
     - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
 
-    - Alle modules die onvoldoende waren moeten verbeterd worden op kwaliteitsaspecten en krijgen een nieuw cijfer, maximaal een 6.0.
-
-    - Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+    - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
 
     - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
 
