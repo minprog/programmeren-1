@@ -52,12 +52,12 @@ Elke module moet op de aangegeven deadline correct werkend ingeleverd zijn, waar
 | onderdeel | deadline oplossing | deadline verbeterd |
 | --------- | ------------------ | ------------------ |
 | Module 0  | di  4 feb          | -                  |
-| Module 1  | di 11 feb          | vr 14 feb          |
-| Module 2  | di 18 feb          | vr 21 feb          |
-| Module 3  | di 25 feb          | vr 28 feb          |
-| Module 4  | di  3 mrt          | vr  6 feb          |
-| Module 5  | di 10 mrt          | vr 13 feb          |
-| Module 6  | di 17 mrt          | vr 20 feb          |
+| Module 1  | di 11 feb          | di 18 feb          |
+| Module 2  | di 18 feb          | di 25 feb          |
+| Module 3  | di 25 feb          | di  3 mrt          |
+| Module 4  | di  3 mrt          | di 10 mrt          |
+| Module 5  | di 10 mrt          | di 17 mrt          |
+| Module 6  | di 17 mrt          | di 24 mrt          |
 
 In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 5 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
