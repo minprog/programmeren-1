@@ -279,50 +279,50 @@ Parttime Lente:
             Unscratch: /exercises/unscratch
         Afronding:
             Code review: /overviews/c
-    Module 2:
-        Overzicht en Videocollege: /overviews/crypto
-        Opdrachten:
-            Initials: /problems/initials-less
-            Caesar: /problems/caesar
-            Vigenere: /problems/vigenere
-        Extra opdrachten:
-            Initials (hacker): /problems/initials-more
-            Crack (hacker): /problems/crack
-        Toetsje:
-            Control flow: /exercises/control-flow
-        Code review: /overviews/crypto
-    Module 3:
-        Overzicht en Videocollege: /overviews/find
-        Opdracht:
-            Find: /problems/find-less
-        Extra opdracht:
-            Find (hacker): /problems/find-more
-        Toetsje:
-            Loops: /exercises/loops
-        Code review: /overviews/find
-    Module 4:
-        Overzicht en Videocollege: /overviews/fifteen
-        Opdracht:
-            Fifteen: /problems/fifteen-less
-        Extra opdracht:
-            Fifteen (hacker): /problems/fifteen-more
-        Toetsje:
-            Arrays: /exercises/arrays
-        Code review: /overviews/fifteen
-    Module 5:
-        Overzicht en Videocollege: /overviews/filter
-        Opdrachten:
-            Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/whodunit
-        Extra opdracht:
-            Implementeer Resize: /problems/resize
-        Toetsje:
-            Algorithms: /exercises/algorithms
-        Code review: /overviews/filter
-    Module 6:
-        Overzicht en Videocollege: /overviews/recover
-        Opdracht:
-            Implementeer Recover: /problems/recover
-        Toetsje:
-            Functions: /exercises/functions
-        Code review: /overviews/recover
+    # Module 2:
+    #     Overzicht en Videocollege: /overviews/crypto
+    #     Opdrachten:
+    #         Initials: /problems/initials-less
+    #         Caesar: /problems/caesar
+    #         Vigenere: /problems/vigenere
+    #     Extra opdrachten:
+    #         Initials (hacker): /problems/initials-more
+    #         Crack (hacker): /problems/crack
+    #     Toetsje:
+    #         Control flow: /exercises/control-flow
+    #     Code review: /overviews/crypto
+    # Module 3:
+    #     Overzicht en Videocollege: /overviews/find
+    #     Opdracht:
+    #         Find: /problems/find-less
+    #     Extra opdracht:
+    #         Find (hacker): /problems/find-more
+    #     Toetsje:
+    #         Loops: /exercises/loops
+    #     Code review: /overviews/find
+    # Module 4:
+    #     Overzicht en Videocollege: /overviews/fifteen
+    #     Opdracht:
+    #         Fifteen: /problems/fifteen-less
+    #     Extra opdracht:
+    #         Fifteen (hacker): /problems/fifteen-more
+    #     Toetsje:
+    #         Arrays: /exercises/arrays
+    #     Code review: /overviews/fifteen
+    # Module 5:
+    #     Overzicht en Videocollege: /overviews/filter
+    #     Opdrachten:
+    #         Implementeer Whodunit: /problems/whodunit
+    #         Implementeer Filter: /problems/whodunit
+    #     Extra opdracht:
+    #         Implementeer Resize: /problems/resize
+    #     Toetsje:
+    #         Algorithms: /exercises/algorithms
+    #     Code review: /overviews/filter
+    # Module 6:
+    #     Overzicht en Videocollege: /overviews/recover
+    #     Opdracht:
+    #         Implementeer Recover: /problems/recover
+    #     Toetsje:
+    #         Functions: /exercises/functions
+    #     Code review: /overviews/recover

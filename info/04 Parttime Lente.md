@@ -59,7 +59,7 @@ Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn,
 | Module 5  | di 10 mrt          | vr 13 feb          |
 | Module 6  | di 17 mrt          | vr 20 feb          |
 
-In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
+In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 3 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
 | uitstel          | consequentie               |  
 | ---------------- | -------------------------- |
