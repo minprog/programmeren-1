@@ -27,7 +27,4 @@ Your Scratch program will be automatically checked for adherence to the requirem
 
 ## What to Do
 
-1. Watch the lecture on [Computational thinking](/lectures/computational-thinking)
-
-2. Write and submit your first program: [Scratch](/problems/scratch)
-{: start="0"}
+Write and submit your first program: [Scratch](/problems/scratch)

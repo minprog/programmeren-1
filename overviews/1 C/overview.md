@@ -2,11 +2,13 @@
 
 In this module, you'll learn about the C programming language. It's a great language that has been used to make small and large programs alike. You'll start with the small ones!
 
+
 ## Lecture
 
 ![embed](https://www.youtube.com/embed/e9Eds2Rc_x8)
 
 [Lecture notes](/lectures/c)
+
 
 ## Help
 
@@ -22,15 +24,18 @@ For information on (or help with) this module:
 
 ## Getting Started
 
-Your first program will be a classic. The goal of this exercise is to try out compiling your program, maybe fixing a typo and getting used to the editor. No need to submit!
-
-- Watch the lecture on [C](/lectures/c)
+The goal of this exercise is to try out compiling your program, maybe fixing a typo and getting used to the editor. No need to submit!
 
 - Create an account on [GitHub](https://github.com/join){:.external}
 
 - Write your first program: [Hello](https://lab.cs50.io/uva/cs50x/master/problems/hello/){:.external}
 
-Next up, you'll create an instance of the CS50 IDE, which will be your "code editor" for the coming weeks. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
+
+## What to Do
+
+### 1. Preparation
+
+You'll create an instance of the CS50 IDE, which will be your "code editor" for the weeks coming. The goal is to write a very small program from scratch and learning to test your program using `check50`. (Note that the IDE currently only works in Chrome and Firefox!)
 
 - Login to the [CS50 IDE](https://ide.cs50.io/){:.external} using your GitHub account
 
@@ -40,49 +45,41 @@ Next up, you'll create an instance of the CS50 IDE, which will be your "code edi
 
 - Implement [Water](/problems/water)
 
+### 2. Problems
 
-## Grading
-
-As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
-
-- [Comments](/quality/comments)
-- [Naming](/quality/naming)
-- [Indenting code](/quality/indentation)
-- [Whitespace](/quality/whitespace)
-
-Don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much.
-
-
-## What to Do
-
-### 1. Preparation
-
-Make sure you're prepared by following the instructions in "Getting Started", above!
-
-### 2. Greedy
-
-Implement and submit either of:
+Implement and submit these two problems:
 
 - [Greedy](/problems/greedy), which we expect most students to solve
 
-- [Credit](/problems/credit), the "hacker edition" aimed at students who already have quite some experience with programming
+- [Mario](/problems/mario-less), for most students
 
-### 3. Mario
+You can submit your solutions on the problem pages. Before submitting, always keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (plagiarism!).
 
-- Watch the lecture on [Tools](/lectures/tools)
+### 3. Hacker problems
 
-- Implement and submit either of:
+If you are quick to finish the previous two problems, and you have ample time left before the deadline, have a go at solving the "Hacker" problems. These are often substantially harder than the standard problems.
 
-    - [Mario](/problems/mario-less), for most students
+- [Mario](/problems/mario-more), the hacker edition, a little bit harder than Mario
 
-    - [Mario](/problems/mario-more), the hacker edition
+- [Credit](/problems/credit), a problem that is quite hard to solve
 
-### 4. Exercises
+### 4. Test
 
-Study and take the test:
+At the appointed times, you should take these tests:
 
 - [Variables](/exercises/variables)
 
-### 5. Submit
+### 5. Code review
 
-You can submit your solutions on the problem pages linked above. Before submitting, keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (like plagiarism).
+1. As soon as you have submitted working solutions for all problems, you should take time to improve on the "quality" of your programs. For this module, we only look at the following four criteria, which you might have seen mentioned in the lectures:
+
+    - [Comments](/quality/comments)
+    - [Naming](/quality/naming)
+    - [Indenting code](/quality/indentation)
+    - [Whitespace](/quality/whitespace)
+
+2. Don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
+
+3. Then, you should find a partner to do code reviews with. You will review their code on the criteria above, and they will review your code. 
+
+4. Then, you should submit the problems again. Your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback. The feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on the review next time.

@@ -24,6 +24,10 @@ templates:
         hide_subgrades: true
 
 grades:
+    water:
+        type: pass
+        calculation: -1
+    hello: *fullyauto
     scratch: *fullyauto
     greedy: *fullyauto
     mario_less: *fullyauto
@@ -77,6 +81,8 @@ modules:
     m0:
         - scratch
     m1:
+        - hello
+        - water
         - greedy
         - credit
         - mario_less
