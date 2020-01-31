@@ -59,6 +59,8 @@ Do not forget to submit your solutions on the problem pages. If `check50` is hap
 
 If you are quick to finish the previous two problems, and you have ample time left before the deadline, have a go at solving the "Hacker" problems. These are often substantially harder than the standard problems.
 
+Solving and submitting the hacker problems in addition to the standard problems may earn you 1 extra point for this module. However, you must submit all problems before the original deadline to be eligible for this point.
+
 - [Mario](/problems/mario-more), the hacker edition, a little bit harder than Mario
 
 - [Credit](/problems/credit), a problem that is quite hard to solve

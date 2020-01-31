@@ -42,12 +42,12 @@ Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten v
 1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van alle "hacker"-onderdelen van een opdracht, indien beschikbaar, een extra punt voor een module opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 13:59 op de hieronder genoemde datum.
+Elke module moet op de aangegeven deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 13:59 op de hieronder genoemde datum.
 
 | onderdeel | deadline oplossing | deadline verbeterd |
 | --------- | ------------------ | ------------------ |
@@ -59,13 +59,13 @@ Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn,
 | Module 5  | di 10 mrt          | vr 13 feb          |
 | Module 6  | di 17 mrt          | vr 20 feb          |
 
-In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 3 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
+In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 5 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
-| uitstel          | consequentie               |  
-| ---------------- | -------------------------- |
-| maximaal 1 dag   | max 5 punten voor opdracht |  
-| maximaal 2 dagen | max 4 punten voor opdracht |  
-| maximaal 3 dagen | max 3 punten voor opdracht |  
+| uitstel                     | consequentie                                                |  
+| --------------------------- | ----------------------------------------------------------- |  
+| maximaal 1 dag (wo 13:59)   | max 5 punten voor module, hacker-opdrachten tellen niet mee |  
+| maximaal 3 dagen (vr 13:59) | max 4 punten voor module                                    |  
+| maximaal 5 dagen (zo 13:59) | max 3 punten voor module                                    |  
 
 Voor module 0 worden geen punten gegeven, maar deze mag wel tot 3 dagen later worden ingeleverd zonder consequenties. Let wel op dat dit een hele kleine opdracht is waar je maximaal 6 uur in moet steken. De resterende programmeertijd moet gaan naar module 1.
 
@@ -96,7 +96,10 @@ Locatie: A1.22
 
 Heb je op een ander moment urgente assistentie nodig, bijvoorbeeld omdat je je harde schijf hebt leeggegooid, of omdat niemand om je heen begrijpt wat die fout betekent in jouw code, stuur dan een e-mail naar <help@mprog.nl> en vermeld waar je de komende uren bent. Als het lukt proberen we je dan tussendoor te helpen. Hou je mail in de gaten, want waarschijnlijk vragen we je om even langs te komen!
 
-Als je absoluut niet verder komt zijn er drie belangrijke alternatieven waarmee je zelf aan de slag kunt:
+
+## Ik kom niet verder!
+
+Als je absoluut vast zit bij het programmeren aan een opdracht, dan zijn er drie belangrijke alternatieven waarmee je zelf aan de slag kunt:
 
 - neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem en na het halve uur kun je soms toch weer verder
 
@@ -104,30 +107,32 @@ Als je absoluut niet verder komt zijn er drie belangrijke alternatieven waarmee 
 
 - of ga oefenen in het basisboek voor de toetsjes, want dit staat helemaal los van de opdrachten
 
+Alle oplossingen hebben gemeen dat je even je zinnen kunt verzetten, dus even aan iets anders denken. Niets helpt beter dan dat. Blijf je een onredelijke tijd hangen, stuur ons dan een e-mail of spreek je mentor aan. Geef duidelijk aan waar je mee zit!
+
 
 ## Toetsjes
 
-Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere toetsjes bereid je voor met oefeningen op de website.
+Wekelijks moet je 1 of 2 toetsjes doen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere toetsjes bereid je voor met oefeningen op de website. Bij elke module vind je links naar de juiste toetsjes!
 
-- Alle toetsjes moeten uiterlijk op 20 maart 2020 gehaald zijn om de cursus te voltooien.
-- Een niet-gehaalde toets kan op elke volgende aangekondigde toetsdag herkanst worden.
-- Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
+De standaard toetsmomenten starten vanaf maandag 10 februari:
 
-De standaard toetsmomenten starten op maandag 10 februari:
+(NADER BEKEND TE MAKEN)
 
-(ONDER VOORBEHOUD)
-
+<!--
 - maandag 9-10 en 13-15
 - dinsdag 9-10
 - woensdag 9-10
 - donderdag 9-10
 - vrijdag 13-15
+-->
 
-Als het niet lukt om één of meer toetsen zo binnen tijdsbestek van de cursus te halen, vindt 2 weken na afloop van het vak een laatste herkansing plaats.
+Het kan zijn dat je een toetsje meerder keren moet doen om deze te halen, en daarom zijn er geen vaste deadlines. Let dan wel op:
 
-- De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
-- Om mee te mogen doen **moet** je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben.
-- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
+- Alle toetsjes moeten uiterlijk op 20 maart 2020 gehaald zijn om de cursus te voltooien.
+- Een niet-gehaalde toets kan op elke volgende aangekondigde toetsdag herkanst worden.
+- Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
+
+Er is nog wel een laatste herkansingsmogelijkheid, en als je contact opneemt kunnen we altijd overleggen hoe we jou kunnen helpen de toetsjes goed te halen. In ieder geval is het belangrijk voor elk eerste toetsje goed te studeren!
 
 Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen worden daarbij niet aangerekend, zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
 
@@ -157,7 +162,17 @@ ISBN 9780321776419
 
 Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze nodig zijn natuurlijk! Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers.
 
-1. Haal je de cursus niet doordat je onvoldoende staat voor de opdrachten, dan gelden de volgende regels voor herkansing:
+1. Heb je niet alle toetsjes gehaald bij het einde van de cursus, dan gelden deze regels:
+
+    - Je kunt ongeveer 2 weken na afloop van het vak een laatste herkansing doen.
+
+    - De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
+
+    - Om mee te mogen doen **moet** je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben (dus een minimale inzet).
+
+    - Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
+
+2. Haal je de cursus niet doordat je onvoldoende staat voor de opdrachten, dan gelden de volgende regels voor herkansing:
 
     - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
@@ -165,14 +180,15 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
     - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het leerdoel gehaald te hebben).
 
-
-2. Heb je één of meer verplichte opdrachten echt niet afgekregen (dat is dus iets anders dan een onvoldoende) dan moet je overstappen op parttime, óf in het volgende semester deze opdrachten afmaken. Kortom, zodra de cursus weer aangeboden wordt. In dat geval gelden de volgende regels:
+3. Heb je één of meer verplichte opdrachten echt niet afgekregen (dat is dus iets anders dan een onvoldoende) dan moet je overstappen op parttime, óf in het volgende semester deze opdrachten afmaken. Kortom, zodra de cursus weer aangeboden wordt. In dat geval gelden de volgende regels:
 
     - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
 
     - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
 
     - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
+
+Het is niet mogelijk bovenstaande regelingen te combineren binnen één periode. Dan heb je teveel achterstand opgelopen om het vak goed te halen. In dat geval is het vaak wel nog mogelijk om het studieprogramma aan te passen. Mail daarvoor naar <help@mprog.nl> en leg je situatie uit. Dan denken we met je mee!
 
 
 ## Samenwerken, fraude en plagiaat
