@@ -131,7 +131,7 @@ De standaard toetsmomenten starten vanaf maandag 10 februari:
 - vrijdag 13-15
 -->
 
-Het kan zijn dat je een toetsje meerder keren moet doen om deze te halen, en daarom zijn er geen vaste deadlines. Let dan wel op:
+Het kan zijn dat je een toetsje meerdere keren moet doen om deze te halen, en daarom zijn er geen vaste deadlines. Let dan wel op:
 
 - Alle toetsjes moeten uiterlijk op 20 maart 2020 gehaald zijn om de cursus te voltooien.
 - Een niet-gehaalde toets kan op elke volgende aangekondigde toetsdag herkanst worden.
@@ -177,7 +177,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
     - Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
 
-2. Haal je de cursus niet doordat je onvoldoende staat voor de opdrachten, dan gelden de volgende regels voor herkansing:
+2. Haal je de cursus niet doordat je onvoldoende staat voor de opdrachten (dit zou eigenlijk niet mogelijk zijn als je code reviews gewoon gedaan hebt!), dan gelden de volgende regels voor herkansing:
 
     - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
