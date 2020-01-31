@@ -262,7 +262,7 @@ Parttime Lente:
         Implementeer Scratch: /problems/scratch
     Module 1:
         Overzicht en Videocollege: /overviews/c
-        Oefening:
+        Eerste oefening:
             Maak een GitHub-account: https://github.com/join
             Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
         Opdrachten:
@@ -271,13 +271,14 @@ Parttime Lente:
             Implementeer Water: /problems/water
             Implementeer Mario: /problems/mario-less
             Implementeer Greedy: /problems/greedy
-        Extra:
+        Extra opdrachten:
             Implementeer Mario (hacker): /problems/mario-more
             Implementeer Credit (hacker): /problems/credit
         Toetsjes:
             Variables: /exercises/variables
             Unscratch: /exercises/unscratch
-        Code review: /reviews/c
+        Afronding:
+            Code review: /reviews/c
     Module 2:
         Overzicht en Videocollege: /overviews/crypto
         Opdrachten:
