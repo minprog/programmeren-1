@@ -278,24 +278,24 @@ Parttime Lente:
             Variables: /exercises/variables
             Unscratch: /exercises/unscratch
         Afronding:
-            Code review: /reviews/c
+            Code review: /overviews/c
     Module 2:
         Overzicht en Videocollege: /overviews/crypto
         Opdrachten:
             Initials: /problems/initials-less
             Caesar: /problems/caesar
             Vigenere: /problems/vigenere
-        Extra:
+        Extra opdrachten:
             Initials (hacker): /problems/initials-more
             Crack (hacker): /problems/crack
         Toetsje:
             Control flow: /exercises/control-flow
-        Code review: /reviews/crypto
+        Code review: /overviews/crypto
     Module 3:
         Overzicht en Videocollege: /overviews/find
         Opdracht:
             Find: /problems/find-less
-        Extra:
+        Extra opdracht:
             Find (hacker): /problems/find-more
         Toetsje:
             Loops: /exercises/loops
@@ -304,15 +304,18 @@ Parttime Lente:
         Overzicht en Videocollege: /overviews/fifteen
         Opdracht:
             Fifteen: /problems/fifteen-less
-        Extra:
+        Extra opdracht:
             Fifteen (hacker): /problems/fifteen-more
         Toetsje:
             Arrays: /exercises/arrays
+        Code review: /overviews/fifteen
     Module 5:
         Overzicht en Videocollege: /overviews/filter
         Opdrachten:
             Implementeer Whodunit: /problems/whodunit
             Implementeer Filter: /problems/whodunit
+        Extra opdracht:
+            Implementeer Resize: /problems/resize
         Toetsje:
             Algorithms: /exercises/algorithms
         Code review: /overviews/filter
