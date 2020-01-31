@@ -47,11 +47,11 @@ You'll create an instance of the CS50 IDE, which will be your "code editor" for 
 
 ### 2. Problems
 
-Implement and submit these two problems:
+Your main task of the week is to implement and submit these two problems:
 
-- [Greedy](/problems/greedy), which we expect most students to solve
+- [Greedy](/problems/greedy)
 
-- [Mario](/problems/mario-less), for most students
+- [Mario](/problems/mario-less)
 
 Do not forget to submit your solutions on the problem pages. If `check50` is happy, you should submit them! However, before submitting, always keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (plagiarism!).
 
