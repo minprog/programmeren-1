@@ -69,7 +69,12 @@ In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**d
 
 Voor module 0 worden geen punten gegeven, maar deze mag wel tot 3 dagen later worden ingeleverd zonder consequenties. Let wel op dat dit een hele kleine opdracht is waar je maximaal 6 uur in moet steken. De resterende programmeertijd moet gaan naar module 1.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo *echt* niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten. Soms is er wat te regelen, afhankelijk van of je tijd kunt maken.
+
+
+## Code Reviews
+
+We verwachten dat je wekelijks na het oplossen van de opdrachten je code laat reviewen door minimaal één medestudent en dat je ook diens code naloopt. Daarnaast kun je een assistent om feedback vragen. Met deze informatie moet je je code verbeteren en alle verbeterde versies van de module opsturen. Hierboven zie je wanneer de deadline is voor de verbeterde versie. Op deze deadline is geen uitstel mogelijk.
 
 
 ## Hoorcolleges
