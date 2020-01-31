@@ -43,7 +43,7 @@ You'll create an instance of the CS50 IDE, which will be your "code editor" for 
 
 - Create a "`module1`" directory in the IDE as by `mkdir ~/module1` and `cd` into it
 
-- Implement [Water](/problems/water)
+- Implement [Water](/problems/water) and immediately submit it when done!
 
 ### 2. Problems
 
@@ -53,7 +53,7 @@ Implement and submit these two problems:
 
 - [Mario](/problems/mario-less), for most students
 
-You can submit your solutions on the problem pages. Before submitting, always keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (plagiarism!).
+Do not forget to submit your solutions on the problem pages. If `check50` is happy, you should submit them! However, before submitting, always keep in mind the course's policy on [academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (plagiarism!).
 
 ### 3. Hacker problems
 
