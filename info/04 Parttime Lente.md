@@ -179,7 +179,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
 2. Haal je de cursus niet doordat je onvoldoende staat voor de opdrachten (dit zou eigenlijk niet mogelijk zijn als je code reviews gewoon gedaan hebt!), dan gelden de volgende regels voor herkansing:
 
-    - Je moet alle opdrachten helemaal af hebben ingeleverd.
+    - Je moet alle opdrachten helemaal af hebben ingeleverd om gebruik te kunnen maken van deze regeling.
 
     - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
