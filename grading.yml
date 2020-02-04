@@ -25,7 +25,6 @@ templates:
 
 grades:
     water: *fullyauto
-    hello: *fullyauto
     scratch: *fullyauto
     greedy: *fullyauto
     mario_less: *fullyauto
@@ -79,7 +78,6 @@ modules:
     m0:
         - scratch
     m1:
-        - hello
         - water
         - greedy
         - credit
