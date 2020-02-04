@@ -47,7 +47,7 @@ You'll create an instance of the CS50 IDE, which will be your "code editor" for 
 
 ### 2. Problems
 
-Your main task of the week is to implement and submit these two problems:
+After implementing water, your main task of the week is to implement and submit these two problems:
 
 - [Greedy](/problems/greedy)
 
