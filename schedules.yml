@@ -163,20 +163,14 @@ Fulltime Lente:
             Leer over de Command Line: /shorts/command-line
             Implementeer Water: /problems/water
         Mario:
-            "Naar keuze:":
-                Implementeer Mario: /problems/mario-less
-                Implementeer Mario (hacker): /problems/mario-more
+            Implementeer Mario: /problems/mario-less
     Week 1 - Woensdag:
-        "Opdracht afmaken:":
-            "Implementeer naar keuze:":
-                Mario: /problems/mario-less
-                Mario (hacker): /problems/mario-more
-        "Implementeer naar keuze:":
-            Greedy: /problems/greedy
-            Credit (hacker): /problems/credit
+        Mario (afmaken): /problems/mario-less
+        Greedy: /problems/greedy
     Week 1 - Donderdag:
-        "Implementeer naar keuze:":
-            Greedy: /problems/greedy
+        Greedy (afmaken): /problems/greedy
+        Hacker-opdrachten:
+            Mario (hacker): /problems/mario-more
             Credit (hacker): /problems/credit
     Week 1 - Vrijdag:
         Toetsjes:
@@ -184,24 +178,20 @@ Fulltime Lente:
             Unscratch: /exercises/unscratch
         Start van Module 2:
             Overzicht en Videocollege: /overviews/crypto
-        "Implementeer naar keuze:":
             Initials: /problems/initials-less
-            Initials (hacker): /problems/initials-more
     Week 2 - Maandag:
         Code reviews:
             Module 1: /reviews/c
-        Caesar:
-            Implement Caesar: /problems/caesar
+        Opdracht:
+            Caesar: /problems/caesar
     Week 2 - Dinsdag:
-        Caesar:
-            Implement Caesar: /problems/caesar
+        Caesar (afmaken): /problems/caesar
     Week 2 - Woensdag:
-        "Implement either of:":
-            Vigenere: /problems/vigenere
-            Crack (hacker): /problems/crack
+        Vigenere: /problems/vigenere
     Week 2 - Donderdag:
-        "Implement either of:":
-            Vigenere: /problems/vigenere
+        Vigenere (afmaken): /problems/vigenere
+        Hacker-opdrachten:
+            Initials (hacker): /problems/initials-more
             Crack (hacker): /problems/crack
     Week 2 - Vrijdag:
         Toetsjes:
@@ -209,25 +199,19 @@ Fulltime Lente:
             Loops: /exercises/loops
         Start van Module 3:
             Overzicht en Videocollege: /overviews/fifteen
-        "Implementeer naar keuze:":
-            Find: /problems/find-less
-            Find (hacker): /problems/find-more
+            Start met de opdracht Find: /problems/find-less
     Week 3 - Maandag:
         Module 2 code review: /reviews/crypto
-        "Implementeer naar keuze:":
-            Find: /problems/find-less
-            Find (hacker): /problems/find-more
+        Verder werken aan Find: /problems/find-less
     Week 3 - Dinsdag:
-        "Implementeer naar keuze:":
-            Find: /problems/find-less
-            Find (hacker): /problems/find-more
+        Find (afmaken): /problems/find-less
+        Fifteen: /problems/fifteen-less
     Week 3 - Woensdag:
-        "Implementeer naar keuze:":
-            Fifteen: /problems/fifteen-less
-            Fifteen (hacker): /problems/fifteen-more
+        Verder werken aan Fifteen: /problems/fifteen-less
     Week 3 - Donderdag:
-        "Implementeer naar keuze:":
-            Fifteen: /problems/fifteen-less
+        Fifteen (afmaken): /problems/fifteen-less
+        Hacker-opdrachten:
+            Find (hacker): /problems/find-more
             Fifteen (hacker): /problems/fifteen-more
     Week 3 - Vrijdag:
         Toetsjes:
@@ -235,26 +219,20 @@ Fulltime Lente:
             Algorithms: /exercises/algorithms
         Start van Module 4:
             Overzicht en Videocollege: /overviews/forensics
-        Whodunit:
             Implementeer Whodunit: /problems/whodunit
     Week 4 - Maandag:
         Module 3 code review: /reviews/fifteen
-        "Afmaken Whodunit:":
-            Implementeer Whodunit: /problems/whodunit
+        Whodunit (afmaken): /problems/whodunit
     Week 4 - Dinsdag:
-        Filter:
-            Implementeer Filter: /problems/whodunit
+        Implementeer Filter: /problems/whodunit
     Week 4 - Woensdag:
-        Filter:
-            Implementeer Filter: /problems/whodunit
+        Filter (afmaken): /problems/whodunit
+        Recover: /problems/recover
     Week 4 - Donderdag:
-        Recover:
-            Implementeer Recover: /problems/recover
+        Recover (afmaken): /problems/recover
     Week 4 - Vrijdag:
-        Toetsje:
-            Functions: /exercises/functions
-        Code reviews:
-            Module 4 code review: /reviews/graphics
+        Toetsje Functions: /exercises/functions
+        Module 4 code review: /reviews/graphics
 
 Parttime Lente:
     Module 0:
