@@ -71,3 +71,16 @@ You can use the function `get_int` to prompt the user to input an integer value,
 To verify whether your program is indeed running well, you may use `check50`.
 
 	check50 minprog/cs50x/2019/water
+
+
+## Submitting
+
+As soon as you're done, submit your `water.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `water.c` file (that's within your `module1` directory) and then select **Download**. You should find that your browser has downloaded `water.c`.
+
+3. Make sure you are signed in to this website!
+
+4. In the form below the problem, add the file that you downloaded.
+
+5. Press "Submit for grading". Presto!
