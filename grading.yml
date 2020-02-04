@@ -24,9 +24,7 @@ templates:
         hide_subgrades: true
 
 grades:
-    water:
-        type: pass
-        calculation: -1
+    water: *fullyauto
     hello: *fullyauto
     scratch: *fullyauto
     greedy: *fullyauto
