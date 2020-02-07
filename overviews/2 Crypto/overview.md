@@ -22,18 +22,6 @@ For information on (or help with) this module:
 {: start="0"}
 
 
-## Grading
-
-As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
-
-- [Magic numbers](/quality/magic-numbers)
-- [Loops](/quality/loops)
-- [Duplication](/quality/duplication)
-- [Nesting](/quality/nesting)
-
-And we'll also take these into account from last week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace).
-
-
 ## What to Do
 
 ### 1. Preparation
@@ -42,20 +30,20 @@ Watch the lecture on [Arrays](/lectures/arrays).
 
 ### 2. Problems
 
-Implement:
+Implement solutions to these three problems:
 
 - [Initials](/problems/initials-less)
 - [Caesar](/problems/caesar)
 - [Vigenere](/problems/vigenere)
 
-### 3. Extra Hacker Problems
+### 3. Hacker Problems
 
 Solving and submitting the hacker problems in addition to the standard problems may earn you 1 extra point for this module. However, you must submit all problems before the original deadline to be eligible for this point.
 
 - [Initials](/problems/initials-more), for those more comfortable
 - [Crack](/problems/crack), for those more comfortable
 
-#### 4. Tests
+### 4. Tests
 
 Study and take the tests:
 
@@ -67,6 +55,7 @@ Study and take the tests:
 
 1. As soon as you have submitted working solutions for all problems, you should take time to improve on the "quality" of your programs. For this module, we only look at the following four criteria, which you might have seen mentioned in the lectures:
 
+	- [Nesting](/quality/nesting) (NEW!)
     - [Comments](/quality/comments)
     - [Naming](/quality/naming)
     - [Indenting code](/quality/indentation)
@@ -77,6 +66,17 @@ Study and take the tests:
 3. Then, you should find a partner to do code reviews with. You will review their code on the criteria above, and they will review your code.
 
 4. Then, you should submit the problems again. Your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback. The feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on the review next time.
+
+## Grading
+
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
+
+- [Magic numbers](/quality/magic-numbers)
+- [Loops](/quality/loops)
+- [Duplication](/quality/duplication)
+
+And we'll also take these into account from last week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace).
+
 
 ## Reference
 
