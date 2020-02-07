@@ -67,17 +67,6 @@ Study and take the tests:
 
 4. Then, you should submit the problems again. Your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback. The feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on the review next time.
 
-## Grading
-
-As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
-
-- [Magic numbers](/quality/magic-numbers)
-- [Loops](/quality/loops)
-- [Duplication](/quality/duplication)
-
-And we'll also take these into account from last week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace).
-
-
 ## Reference
 
 - Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg)
