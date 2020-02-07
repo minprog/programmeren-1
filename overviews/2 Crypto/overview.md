@@ -69,5 +69,6 @@ Study and take the tests:
 
 ## Reference
 
-- Learn more about [Debugging](https://www.youtube.com/embed/w4TAY2HPLEg)
-- Learn more about [Command-line arguments](https://www.youtube.com/embed/AI6Ccfno6Pk)
+![embed](https://www.youtube.com/embed/w4TAY2HPLEg)
+
+![embed](https://www.youtube.com/embed/AI6Ccfno6Pk)
