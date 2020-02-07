@@ -65,11 +65,13 @@ Solving and submitting the hacker problems in addition to the standard problems 
 
 - [Credit](/problems/credit), a problem that is quite hard to solve
 
-### 4. Test
+### 4. Tests
 
 At the appointed times, you should take these tests:
 
 - [Variables](/exercises/variables)
+
+- [Unscratch](/exercises/unscratch)
 
 ### 5. Code review
 

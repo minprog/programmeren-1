@@ -55,7 +55,6 @@ Study and take the test:
 
 - [Arrays](/exercises/arrays)
 
-- [Loops](/exercises/loops)
 
 #### 5. Submit
 

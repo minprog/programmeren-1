@@ -47,17 +47,17 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4
 
 ## Deadlines
 
-Elke module moet op de aangegeven deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 13:59 op de hieronder genoemde datum.
+Elke module moet op de aangegeven deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om **13:59** op de hieronder genoemde datum.
 
 | onderdeel | deadline oplossing | deadline verbeterd |
 | --------- | ------------------ | ------------------ |
-| Module 0  | di  4 feb          | -                  |
-| Module 1  | di 11 feb          | di 18 feb          |
-| Module 2  | di 18 feb          | di 25 feb          |
-| Module 3  | di 25 feb          | di  3 mrt          |
-| Module 4  | di  3 mrt          | di 10 mrt          |
-| Module 5  | di 10 mrt          | di 17 mrt          |
-| Module 6  | di 17 mrt          | di 24 mrt          |
+| Module 0  | di  4 feb 13:59    | -                  |
+| Module 1  | di 11 feb 13:59    | di 18 feb 13:59    |
+| Module 2  | di 18 feb 13:59    | di 25 feb 13:59    |
+| Module 3  | di 25 feb 13:59    | di  3 mrt 13:59    |
+| Module 4  | di  3 mrt 13:59    | di 10 mrt 13:59    |
+| Module 5  | di 10 mrt 13:59    | di 17 mrt 13:59    |
+| Module 6  | di 17 mrt 13:59    | di 24 mrt 13:59    |
 
 In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 5 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
@@ -69,7 +69,7 @@ In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**d
 
 Voor module 0 worden geen punten gegeven, maar deze mag wel tot 3 dagen later worden ingeleverd zonder consequenties. Let wel op dat dit een hele kleine opdracht is waar je maximaal 6 uur in moet steken. De resterende programmeertijd moet gaan naar module 1.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo *echt* niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten. Soms is er wat te regelen, afhankelijk van of je tijd kunt maken.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo *echt* niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten via e-mail (**niet met je mentor**), maar zeker vóór je doorgaat met werken aan de opdrachten. We denken graag actief mee!
 
 
 ## Code Reviews
