@@ -11,8 +11,6 @@ Name: Regulus Arcturus Black
 RAB
 ----
 
-If among those "more comfortable" with programming, you might choose to do link:/problems/initials-more[another version of this problem] instead!
-
 == Specification
 
 Design and implement a program, `initials`, that, given a person's name, prints a person's initials.
