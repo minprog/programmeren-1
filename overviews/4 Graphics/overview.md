@@ -1,6 +1,6 @@
-# Module 4: Forensics
+# Module 4: Graphics
 
-In this module, you'll learn about all sorts of techniques to do with forensic research. See if you can recover those photos from that pesky old memory card!
+In this module, you'll learn about all sorts of techniques to do with computer graphics. See if you can recover those photos from that pesky old memory card!
 
 
 ## Lecture
@@ -53,7 +53,7 @@ Study and take the test:
 
 Only after the deadline, you should perform code reviews with one or more other students, and re-submit some of your programs.
 
-- [Module 4 code review](/reviews/forensics)
+- [Module 4 code review](/reviews/graphics)
 
 
 ## Reference
