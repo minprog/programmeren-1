@@ -2,4 +2,5 @@ name: module 1
 files:
     required:
         - mario.c
-        - vigenere.c
+        - greedy.c
+        - review.txt
