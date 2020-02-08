@@ -50,12 +50,12 @@ grades:
     resize_more: *fullyauto
     recover: *fullyauto
     speller: *fullyauto
-    m0: *manual
-    m1: *manual
-    m2: *manual
-    m3: *manual
-    m4: *manual
-    m5:
+    module 0: *manual
+    module 1: *manual
+    module 2: *manual
+    module 3: *manual
+    module 4: *manual
+    module 5:
         type: float
         subgrades:
             points: integer
@@ -75,32 +75,32 @@ grades:
         type: float
 
 modules:
-    m0:
+    module 0:
         - scratch
-    m1:
+    module 1:
         - water
         - greedy
         - credit
         - mario_less
         - mario_more
-    m2:
+    module 2:
         - initials_less
         - initials_more
         - caesar
         - vigenere
         - crack
-    m3:
+    module 3:
         - fifteen
         - fifteen_less
         - fifteen_more
         - find_less
         - find_more
-    m4:
+    module 4:
         - whodunit
         - resize_less
         - resize_more
         - recover
-    m5:
+    module 5:
         - speller
 
 calculation:
@@ -114,12 +114,12 @@ calculation:
 problems:
     show_progress: true
     submits:
-        # m0: 0
-        m1: 1
-        m2: 1
-        m3: 1
-        m4: 1
-        m5: bonus
+        # module 0: 0
+        module 1: 1
+        module 2: 1
+        module 3: 1
+        module 4: 1
+        module 5: bonus
 
 tests:
     show_progress: true
