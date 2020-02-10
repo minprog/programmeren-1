@@ -167,8 +167,8 @@ Fulltime Lente:
             Implementeer Mario (hacker): /problems/mario-more
             Implementeer Credit (hacker): /problems/credit
         Toetsjes (vrijdag):
-            Variables: /exercises/variables
-            Unscratch: /exercises/unscratch
+            A Variables: /exercises/variables
+            C Unscratch: /exercises/unscratch
         Code review (maandag):
             Instructies: /reviews/c
     Module 2:
@@ -181,8 +181,8 @@ Fulltime Lente:
             Initials (hacker): /problems/initials-more
             Crack (hacker): /problems/crack
         Toetsje (vrijdag):
-            Control flow: /exercises/control-flow
-            Loops: /exercises/loops
+            B Control flow: /exercises/control-flow
+            E Loops: /exercises/loops
         Code review (maandag):
             Instructies: /reviews/crypto
     Module 3:
@@ -194,8 +194,8 @@ Fulltime Lente:
             Find (hacker): /problems/find-more
             Fifteen (hacker): /problems/fifteen-more
         Toetsjes (vrijdag):
-            Arrays: /exercises/arrays
-            Algorithms: /exercises/algorithms
+            D Arrays: /exercises/arrays
+            G Algorithms: /exercises/algorithms
         Code review (maandag):
             Instructie: /reviews/find
     Module 4:
@@ -207,7 +207,7 @@ Fulltime Lente:
         Extra opdracht:
             Implementeer Resize: /problems/resize-more
         Toetsje (vrijdag):
-            Functions: /exercises/functions
+            F Functions: /exercises/functions
         Code review (vrijdag!):
             Instructies: /reviews/graphics
     
@@ -315,8 +315,8 @@ Parttime Lente:
             Implementeer Mario (hacker): /problems/mario-more
             Implementeer Credit (hacker): /problems/credit
         Toetsjes:
-            Variables: /exercises/variables
-            Unscratch: /exercises/unscratch
+            A Variables: /exercises/variables
+            C Unscratch: /exercises/unscratch
         Code review:
             Instructies: /reviews/c
     Module 2:
@@ -329,8 +329,8 @@ Parttime Lente:
             Initials (hacker): /problems/initials-more
             Crack (hacker): /problems/crack
         Toetsje:
-            Control flow: /exercises/control-flow
-            Loops: /exercises/loops
+            B Control flow: /exercises/control-flow
+            E Loops: /exercises/loops
         Code review:
             Instructies: /reviews/crypto
     Module 3:
@@ -342,8 +342,8 @@ Parttime Lente:
             Find (hacker): /problems/find-more
             Fifteen (hacker): /problems/fifteen-more
         Toetsjes:
-            Arrays: /exercises/arrays
-            Algorithms: /exercises/algorithms
+            D Arrays: /exercises/arrays
+            G Algorithms: /exercises/algorithms
         Code review:
             Instructie: /reviews/find
     Module 4:
@@ -355,7 +355,7 @@ Parttime Lente:
         Extra opdracht:
             Implementeer Resize: /problems/resize-more
         Toetsje:
-            Functions: /exercises/functions
+            F Functions: /exercises/functions
         Code review:
             Instructies: /reviews/graphics
             
