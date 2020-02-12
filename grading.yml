@@ -54,7 +54,7 @@ grades:
         type: pass
         subgrades:
             done: boolean
-        calculation: checked
+        calculation: checked.to_i
         hide_subgrades: true
     module 1: *manual
     module 2: *manual
