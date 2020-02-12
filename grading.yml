@@ -4,8 +4,8 @@ templates:
         subgrades:
             correctness: integer
         automatic:
-            correctness: (correctness_score * 5).floor
-        calculation: -(correctness/5)
+            correctness: (correctness_score * 100).floor
+        calculation: -(correctness/100)
         hide_subgrades: true
     3: &manual
         type: float
@@ -13,7 +13,7 @@ templates:
             points: integer
             hacker: integer
             late: float
-        calculation: ((points + hacker - late) / 5.0 * 9 + 1).round(1)
+        calculation: ((points + hacker - late) / 6.0 * 9 + 1).round(1)
         hide_calculated: true
     4: &test
         type: pass
@@ -50,7 +50,12 @@ grades:
     resize_more: *fullyauto
     recover: *fullyauto
     speller: *fullyauto
-    module 0: *manual
+    module 0:
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: checked
+        hide_subgrades: true
     module 1: *manual
     module 2: *manual
     module 3: *manual
@@ -61,7 +66,7 @@ grades:
             points: integer
             hacker: integer
             late: float
-        calculation: (points / 5.0 * 9).round(1)
+        calculation: (points / 6.0 * 9).round(1)
         hide_calculated: true
     test A: *test
     test B: *test
