@@ -61,10 +61,10 @@ Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn,
 
 In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
-| uitstel          | aftrek   |  
-| ---------------- | -------- |  
-| maximaal 1 dag   | 1/2 punt |  
-| maximaal 3 dagen | 1 punt   |  
+| uitstel          | aftrek                            |  
+| ---------------- | --------------------------------- |  
+| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |  
+| maximaal 3 dagen | 1 punt                            |  
 
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
