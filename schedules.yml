@@ -202,7 +202,7 @@ Fulltime Lente:
         Overzicht en Videocollege: /overviews/graphics
         Opdrachten (t/m donderdag):
             Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/whodunit
+            Implementeer Filter: /problems/filter
             Implementeer Recover: /problems/recover
         Extra opdracht:
             Implementeer Resize: /problems/resize-more
@@ -210,7 +210,7 @@ Fulltime Lente:
             F Functions: /exercises/functions
         Code review (vrijdag!):
             Instructies: /reviews/graphics
-    
+
     # Week 1 - Maandag:
     #     Overzicht Module 0: /overviews/scratch
     #     Implementeer Scratch: /problems/scratch
@@ -358,7 +358,7 @@ Parttime Lente:
             F Functions: /exercises/functions
         Code review:
             Instructies: /reviews/graphics
-            
+
     # Module 0:
     #     Overzicht en Videocollege: /overviews/scratch
     #     Implementeer Scratch: /problems/scratch
