@@ -202,7 +202,7 @@ Fulltime Lente:
         Overzicht en Videocollege: /overviews/graphics
         Opdrachten (t/m donderdag):
             Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/filter
+            Implementeer Filter: /problems/filter-less
             Implementeer Recover: /problems/recover
         Extra opdracht:
             Implementeer Resize: /problems/resize-more
@@ -350,7 +350,7 @@ Parttime Lente:
         Overzicht en Videocollege: /overviews/graphics
         Opdrachten:
             Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/whodunit
+            Implementeer Filter: /problems/filter-less
             Implementeer Recover: /problems/recover
         Extra opdracht:
             Implementeer Resize: /problems/resize-more

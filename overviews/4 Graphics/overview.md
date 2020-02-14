@@ -32,7 +32,7 @@ Watch the lecture on [Memory](/lectures/memory).
 Implement solutions to these three problems:
 
 - [Whodunit](/problems/whodunit)
-- [Filter](/problems/filter)
+- [Filter](/problems/filter-less)
 - [Recover](/problems/recover)
 
 Before submitting, always keep in mind the course's policy on [collaboration and academic honesty](/syllabus#samenwerken-fraude-en-plagiaat) (plagiarism!).
