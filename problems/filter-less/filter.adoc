@@ -18,7 +18,7 @@ Perhaps the simplest way to represent an image is with a grid of pixels (i.e., d
 
 image:bitmap.png[a simple bitmap, width="60%"]
 
-In this sense, then, is an image just a bitmap (i.e., a map of bits). For more colorful images, you simply need more bits per pixel. A file format (like (BMP)[https://en.wikipedia.org/wiki/BMP_file_format], [JPEG](https://en.wikipedia.org/wiki/JPEG), or [PNG](https://en.wikipedia.org/wiki/Portable_Network_Graphics)) that supports “24-bit color” uses 24 bits per pixel. (BMP actually supports 1-, 4-, 8-, 16-, 24-, and 32-bit color.)
+In this sense, then, is an image just a bitmap (i.e., a map of bits). For more colorful images, you simply need more bits per pixel. A file format (like link:https://en.wikipedia.org/wiki/BMP_file_format[BMP], link:https://en.wikipedia.org/wiki/JPEG[JPEG], or link:https://en.wikipedia.org/wiki/Portable_Network_Graphics[PNG]) that supports “24-bit color” uses 24 bits per pixel. (BMP actually supports 1-, 4-, 8-, 16-, 24-, and 32-bit color.)
 
 A 24-bit BMP uses 8 bits to signify the amount of red in a pixel’s color, 8 bits to signify the amount of green in a pixel’s color, and 8 bits to signify the amount of blue in a pixel’s color. If you’ve ever heard of RGB color, well, there you have it: red, green, blue.
 
