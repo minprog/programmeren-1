@@ -1,6 +1,6 @@
 # Exercises: Loops
 
-Bij deze oefening ga je kleine algoritmes schrijven. De meeste hiervan zullen je bekend voorkomen, want het zijn varianten van de onderdelen van de opdrachten die je afgelopen weken hebt gemaakt. 
+Bij deze oefening ga je kleine algoritmes schrijven. De meeste hiervan zullen je bekend voorkomen, want het zijn varianten van de onderdelen van de opdrachten die je afgelopen weken hebt gemaakt.
 
 > De antwoorden moet je schrijven als C-code. Hierbij hoef je niet op de puntkomma's te letten, maar het moet geen pseudocode zijn. Soms is het nodig om C-specifieke functies te gebruiken zoals `strlen()`. Schrijf dus zo netjes mogelijk C.
 
@@ -56,10 +56,6 @@ Loops kun je ook gebruiken om een hele string door te lopen en te verwerken. Hie
 ## Arrays
 
 In onze programma's en voorbeelden bevatten arrays vaak getallen van type `integer` of `float`. Met behulp van loops kun je de informatie in zo'n array bijvoorbeeld **samenvatten**. Ook kun je een array **analyseren**, bijvoorbeeld om het kleinste element te vinden.
-
-**Voorbereiding**
-
-In de opdracht **Find** heb je binary search geïmplementeerd. Dat algoritme zal je niet hoeven reproduceren op een toets, maar je kan wel varianten op linear search verwachten (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)).
 
 **Oefeningen**
 
