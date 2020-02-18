@@ -127,7 +127,7 @@ http://webdocs.cs.ualberta.ca/~tony/RecentPapers/pami94.pdf
 
 Or maybe the algorithm in this paper:
 
-http://larc.unt.edu/ian/pubs/saml.pdf
+http://ianparberry.com/pubs/saml.pdf
 
 You’re welcome to expand your search for ideas beyond those in these papers, but take care that your research does not lead you to actual code. Curling up with others' pseudocode is fine, but please click away if you stumble upon actual implementations (whether in C or other languages).
 
