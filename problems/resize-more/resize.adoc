@@ -17,8 +17,6 @@ $ [underline]#./resize .25 large.bmp small.bmp#
 $ [underline]#./resize 4 small.bmp large.bmp#
 ----
 
-If among those "less comfortable" with programming, you might choose to do link:/problems/resize-less[another version of this problem] instead!
-
 == Introduction
 
 video::DL27z7YRxj4[youtube]
