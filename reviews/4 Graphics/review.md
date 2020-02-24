@@ -36,3 +36,22 @@ In addition, you will need to submit a file called **review.txt**:
 After the code reviews, your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback.
 
 Note that the mentor feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on your review next time.
+
+
+
+
+- [Magic numbers](/quality/magic-numbers)
+- [Duplication](/quality/duplication)
+
+And we'll also take these into account from last week: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace).
+
+
+## Grading
+
+As soon as you have submitted working solutions for all problems below, your mentor will assess your programs, assign a grade for "quality", and provide you with some written feedback. This week, your programs will be primarily graded on:
+
+- [Dead code](/quality/dead-code)
+- [Duplicated effort](/quality/duplicated-effort)
+- [Scope](/quality/scope)
+
+And we'll also take these into account from previous weeks: [comments](/quality/comments), [naming](/quality/naming), [indentation](/quality/indentation), [whitespace](/quality/whitespace), [duplication](/quality/duplication), [nesting](/quality/nesting), [magic numbers](/quality/magic-numbers), and [choosing loops](/quality/loops).
