@@ -50,15 +50,15 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4
 
 Elke module moet op de aangegeven deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om **13:59** op de hieronder genoemde datum.
 
-| onderdeel          | deadline oplossing | deadline verbeterd |
-| ------------------ | ------------------ | ------------------ |
-| Module 0           | di  4 feb 13:59    | -                  |
-| Module 1           | di 11 feb 13:59    | di 18 feb 13:59    |
-| Module 2           | di 18 feb 13:59    | di 25 feb 13:59    |
-| Module 3 (Find)    | di 25 feb 13:59    | di 10 mrt 13:59    |
-| Module 3 (Fifteen) | di  3 mrt 13:59    | di 10 mrt 13:59    |
-| Module 4 (Filter)  | di 10 mrt 13:59    | di 24 mrt 13:59    |
-| Module 4 (Recover) | di 17 mrt 13:59    | di 24 mrt 13:59    |
+| onderdeel                  | deadline oplossing | deadline verbeterd |  
+| -------------------------- | ------------------ | ------------------ |  
+| Module 0                   | di  4 feb 13:59    | -                  |  
+| Module 1                   | di 11 feb 13:59    | di 18 feb 13:59    |  
+| Module 2                   | di 18 feb 13:59    | di 25 feb 13:59    |  
+| Module 3 (Find)            | di 25 feb 13:59    | di 10 mrt 13:59    |  
+| Module 3 (Fifteen)         | di  3 mrt 13:59    | di 10 mrt 13:59    |  
+| Module 4 (Whodunit/Filter) | di 10 mrt 13:59    | di 24 mrt 13:59    |  
+| Module 4 (Recover)         | di 17 mrt 13:59    | di 24 mrt 13:59    |  
 
 In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**deadline met 1 tot 5 dagen op te schuiven, in ruil voor puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
