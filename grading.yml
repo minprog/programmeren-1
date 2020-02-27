@@ -46,7 +46,7 @@ grades:
             checked: boolean
         calculation: checked.to_i
         hide_calculated: true
-    filter: *fullyauto
+    filter_less: *fullyauto
     resize_less: *fullyauto
     resize_more: *fullyauto
     recover: *fullyauto
@@ -103,7 +103,7 @@ modules:
         - find_more
     module 4:
         - whodunit
-        - filter
+        - filter_less
         - resize_less
         - resize_more
         - recover
