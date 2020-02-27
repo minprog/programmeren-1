@@ -64,9 +64,9 @@ In het geval van planningsproblemen of ziekte is het mogelijk de **oplossings**d
 
 | uitstel                     | consequentie                                                |  
 | --------------------------- | ----------------------------------------------------------- |  
-| maximaal 1 dag (wo 13:59)   | max 5 punten voor module, hacker-opdrachten tellen niet mee |  
-| maximaal 3 dagen (vr 13:59) | max 4 punten voor module                                    |  
-| maximaal 5 dagen (zo 13:59) | max 3 punten voor module                                    |  
+| maximaal 1 dag (wo 13:59)   | max 6 punten voor module, hacker-opdrachten tellen niet mee |  
+| maximaal 3 dagen (vr 13:59) | max 5 punten voor module                                    |  
+| maximaal 5 dagen (zo 13:59) | max 4 punten voor module                                    |  
 
 Voor module 0 worden geen punten gegeven, maar deze mag wel tot 3 dagen later worden ingeleverd zonder consequenties. Let wel op dat dit een hele kleine opdracht is waar je maximaal 6 uur in moet steken. De resterende programmeertijd moet gaan naar module 1.
 
