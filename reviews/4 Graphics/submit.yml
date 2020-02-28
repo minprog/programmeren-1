@@ -3,4 +3,4 @@ files:
     required:
         - filter.c
         - recover.c
-        - review.txt
+        - changes.txt
