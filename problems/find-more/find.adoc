@@ -338,4 +338,4 @@ Before you implement `search` in _O_(log _n_) time, you might want to implement 
 
 Ultimately, you are welcome to implement `search` iteratively (with a loop) or recursively (wherein a function calls itself). If you pursue the latter, though, know that you may not change our declaration of `search`, but you may write a new, recursive function (that perhaps takes different parameters) that `search` itself calls.
 
-We leave it to you to determine how best to test your implementation of `search` and `sort`. But don't forget that `eprintf` is your friend while debugging! And don't forget that you can generate the same sequence of pseudorandom numbers again and again by explicitly specifying ``generate``'s seed.
+We leave it to you to determine how best to test your implementation of `search` and `sort`. But don't forget that `printf` is your friend while debugging! And don't forget that you can generate the same sequence of pseudorandom numbers again and again by explicitly specifying ``generate``'s seed.

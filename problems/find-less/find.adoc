@@ -339,4 +339,4 @@ Ultimately, you are welcome to implement `search` iteratively (with a loop) or r
 
 For `sort`, odds are you'll want to implement bubble sort, selection sort, or insertion sort! Just realize that there's no one "right" way to implement any of those algorithms; variations abound. In fact, you're welcome to improve upon them as you see fit, so long as your implementation remains in _O_(_n_^2^). Although you may not alter our declaration of `sort`, you're welcome to define your own function(s) in `helpers.c` that `sort` itself may then call.
 
-We leave it to you to determine how best to test your implementation of `search` and `sort`. But don't forget that `eprintf` is your friend while debugging! And don't forget that you can generate the same sequence of pseudorandom numbers again and again by explicitly specifying ``generate``'s seed.
+We leave it to you to determine how best to test your implementation of `search` and `sort`. But don't forget that `printf` is your friend while debugging! And don't forget that you can generate the same sequence of pseudorandom numbers again and again by explicitly specifying ``generate``'s seed.

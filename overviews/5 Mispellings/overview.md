@@ -9,7 +9,7 @@ For information on (or help with) this module:
 
 1. Attend your mentor's section meeting.
 
-1. Use `help50`, `eprintf` and `debug50` as needed.
+1. Use `help50`, `printf` and `debug50` as needed.
 
 1. Ask questions during office hours using the "Ask" tool on this website.
 

@@ -6,9 +6,9 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 ## What to do
 
-1. For this module, you will assess and improve your code along the following four criteria:
+1. For this module, you will assess and improve your code along the following five criteria:
 
-	- [Nesting](/quality/nesting) (NEW!)
+  	- [Nesting](/quality/nesting) (NEW!)
     - [Comments](/quality/comments)
     - [Naming](/quality/naming)
     - [Indenting code](/quality/indentation)
