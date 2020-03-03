@@ -1,6 +1,5 @@
-name: module 4
+name: module 5
 files:
     required:
-        - helpers.c
-        - recover.c
-        - changes.txt
+        - dictionary.c
+        - dictionary.h
