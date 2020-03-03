@@ -197,7 +197,7 @@ Fulltime Lente:
             D Arrays: /exercises/arrays
             G Algorithms: /exercises/algorithms
         Code review (maandag):
-            Instructie: /reviews/find
+            Instructie: /reviews/fifteen
     Module 4:
         Overzicht en Videocollege: /overviews/graphics
         Opdrachten (t/m donderdag):
@@ -210,92 +210,6 @@ Fulltime Lente:
             F Functions: /exercises/functions
         Code review (vrijdag!):
             Instructies: /reviews/graphics
-
-    # Week 1 - Maandag:
-    #     Overzicht Module 0: /overviews/scratch
-    #     Implementeer Scratch: /problems/scratch
-    # Week 1 - Dinsdag:
-    #     Start van Module 1:
-    #         Overzicht en Videocollege: /overviews/c
-    #     Hello:
-    #         Maak een GitHub-account: https://github.com/join
-    #         Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-    #     Water:
-    #         Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-    #         Leer over de Command Line: /shorts/command-line
-    #         Implementeer Water: /problems/water
-    #     Greedy:
-    #         Implementeer Greedy: /problems/greedy
-    # Week 1 - Woensdag:
-    #     Greedy (afmaken): /problems/greedy
-    #     Mario: /problems/mario-less
-    # Week 1 - Donderdag:
-    #     Mario (afmaken): /problems/mario-less
-    #     Hacker-opdrachten:
-    #         Mario (hacker): /problems/mario-more
-    #         Credit (hacker): /problems/credit
-    # Week 1 - Vrijdag:
-    #     Toetsjes:
-    #         Variables: /exercises/variables
-    #         Unscratch: /exercises/unscratch
-    #     Start van Module 2:
-    #         Overzicht en Videocollege: /overviews/crypto
-    #         Initials: /problems/initials-less
-    # Week 2 - Maandag:
-    #     Code review (deadline):
-    #         Module 1: /reviews/c
-    #     Opdracht:
-    #         Caesar: /problems/caesar
-    # Week 2 - Dinsdag:
-    #     Caesar (afmaken): /problems/caesar
-    # Week 2 - Woensdag:
-    #     Vigenere: /problems/vigenere
-    # Week 2 - Donderdag:
-    #     Vigenere (afmaken): /problems/vigenere
-    #     Hacker-opdrachten:
-    #         Initials (hacker): /problems/initials-more
-    #         Crack (hacker): /problems/crack
-    # Week 2 - Vrijdag:
-    #     Toetsjes:
-    #         Control flow: /exercises/control-flow
-    #         Loops: /exercises/loops
-    #     Start van Module 3:
-    #         Overzicht en Videocollege: /overviews/fifteen
-    #         Start met de opdracht Find: /problems/find-less
-    # Week 3 - Maandag:
-    #     Module 2 code review: /reviews/crypto
-    #     Verder werken aan Find: /problems/find-less
-    # Week 3 - Dinsdag:
-    #     Find (afmaken): /problems/find-less
-    #     Fifteen: /problems/fifteen-less
-    # Week 3 - Woensdag:
-    #     Verder werken aan Fifteen: /problems/fifteen-less
-    # Week 3 - Donderdag:
-    #     Fifteen (afmaken): /problems/fifteen-less
-    #     Hacker-opdrachten:
-    #         Find (hacker): /problems/find-more
-    #         Fifteen (hacker): /problems/fifteen-more
-    # Week 3 - Vrijdag:
-    #     Toetsjes:
-    #         Arrays: /exercises/arrays
-    #         Algorithms: /exercises/algorithms
-    #     Start van Module 4:
-    #         Overzicht en Videocollege: /overviews/forensics
-    #         Implementeer Whodunit: /problems/whodunit
-    # Week 4 - Maandag:
-    #     Module 3 code review: /reviews/fifteen
-    #     Whodunit (afmaken): /problems/whodunit
-    # Week 4 - Dinsdag:
-    #     Implementeer Filter: /problems/whodunit
-    # Week 4 - Woensdag:
-    #     Filter (afmaken): /problems/whodunit
-    #     Recover: /problems/recover
-    # Week 4 - Donderdag:
-    #     Recover (afmaken): /problems/recover
-    # Week 4 - Vrijdag:
-    #     Toetsje Functions: /exercises/functions
-    #     Module 4 code review: /reviews/graphics
-
 Parttime Lente:
     Module 0:
         Overzicht en Videocollege: /overviews/scratch
@@ -345,7 +259,7 @@ Parttime Lente:
             D Arrays: /exercises/arrays
             G Algorithms: /exercises/algorithms
         Code review:
-            Instructie: /reviews/find
+            Instructie: /reviews/fifteen
     Module 4:
         Overzicht en Videocollege: /overviews/graphics
         Opdrachten:
@@ -358,73 +272,3 @@ Parttime Lente:
             F Functions: /exercises/functions
         Code review:
             Instructies: /reviews/graphics
-
-    # Module 0:
-    #     Overzicht en Videocollege: /overviews/scratch
-    #     Implementeer Scratch: /problems/scratch
-    # Module 1:
-    #     Overzicht en Videocollege: /overviews/c
-    #     Eerste oefening:
-    #         Maak een GitHub-account: https://github.com/join
-    #         Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-    #     Opdrachten:
-    #         Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-    #         Leer over de Command Line: /shorts/command-line
-    #         Implementeer Water: /problems/water
-    #         Implementeer Greedy: /problems/greedy
-    #         Implementeer Mario: /problems/mario-less
-    #     Extra opdrachten:
-    #         Implementeer Mario (hacker): /problems/mario-more
-    #         Implementeer Credit (hacker): /problems/credit
-    #     Toetsjes:
-    #         Variables: /exercises/variables
-    #         Unscratch: /exercises/unscratch
-    #     Afronding:
-    #         Code review: /reviews/c
-    # Module 2:
-    #     Overzicht en Videocollege: /overviews/crypto
-    #     Opdrachten:
-    #         Initials: /problems/initials-less
-    #         Caesar: /problems/caesar
-    #         Vigenere: /problems/vigenere
-    #     Extra opdrachten:
-    #         Initials (hacker): /problems/initials-more
-    #         Crack (hacker): /problems/crack
-    #     Toetsje:
-    #         Control flow: /exercises/control-flow
-    #     Code review: /overviews/crypto
-    # Module 3:
-    #     Overzicht en Videocollege: /overviews/find
-    #     Opdracht:
-    #         Find: /problems/find-less
-    #     Extra opdracht:
-    #         Find (hacker): /problems/find-more
-    #     Toetsje:
-    #         Loops: /exercises/loops
-    #     Code review: /overviews/find
-    # Module 4:
-    #     Overzicht en Videocollege: /overviews/fifteen
-    #     Opdracht:
-    #         Fifteen: /problems/fifteen-less
-    #     Extra opdracht:
-    #         Fifteen (hacker): /problems/fifteen-more
-    #     Toetsje:
-    #         Arrays: /exercises/arrays
-    #     Code review: /overviews/fifteen
-    # Module 5:
-    #     Overzicht en Videocollege: /overviews/filter
-    #     Opdrachten:
-    #         Implementeer Whodunit: /problems/whodunit
-    #         Implementeer Filter: /problems/whodunit
-    #     Extra opdracht:
-    #         Implementeer Resize: /problems/resize
-    #     Toetsje:
-    #         Algorithms: /exercises/algorithms
-    #     Code review: /overviews/filter
-    # Module 6:
-    #     Overzicht en Videocollege: /overviews/recover
-    #     Opdracht:
-    #         Implementeer Recover: /problems/recover
-    #     Toetsje:
-    #         Functions: /exercises/functions
-    #     Code review: /overviews/recover
