@@ -1,5 +1,6 @@
 name: module 4
 files:
     required:
-        - filter.c
+        - changes.txt
         - recover.c
+        - helpers.c
