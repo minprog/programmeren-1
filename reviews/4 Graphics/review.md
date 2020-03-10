@@ -8,7 +8,8 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 1. For this module, you will assess and improve your code along the following six criteria:
 
-    - [Loops](/quality/loops) (NEW!)
+    - [Scope](/quality/scope) (NEW!)
+    - [Loops](/quality/loops)
   	- [Nesting](/quality/nesting)
     - [Comments](/quality/comments)
     - [Naming](/quality/naming)
@@ -17,7 +18,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 2. Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
-3. Then, you should find a partner to do code reviews with. You will review their code on the criteria above, and they will review your code.
+3. Then, you should find a partner to do code reviews with. You will **sit together** behind your computer, and they will review you code on the criteria above. They will think aloud and ask you what they do not understand, and tell you what advice they have.
 
 ## What to submit
 
