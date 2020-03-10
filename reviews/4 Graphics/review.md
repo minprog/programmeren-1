@@ -10,7 +10,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
     - [Scope](/quality/scope) (NEW!)
     - [Loops](/quality/loops)
-  	- [Nesting](/quality/nesting)
+    - [Nesting](/quality/nesting)
     - [Comments](/quality/comments)
     - [Naming](/quality/naming)
     - [Indenting code](/quality/indentation)
