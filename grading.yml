@@ -126,7 +126,6 @@ problems:
         module 2: 1
         module 3: 1
         module 4: 1
-        module 5: bonus
 
 tests:
     show_progress: true
