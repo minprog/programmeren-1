@@ -28,25 +28,25 @@ Je mentor heeft je uitwerkingen nu van feedback voorzien, die je kunt vinden op 
 
 Wat zijn verschillen of juist overeenkomsten tussen de feedback van je mentor en de aanpassingen die je zelf hebt gedaan na je peer review?
 
-<textarea name="form[q1]"></textarea>
+<textarea name="form[q1]" rows="4"></textarea>
 
 
 ## Vraag 2
 
 Wat heb je geleerd over "goede code" van het feedbackproces bij deze module?
 
-<textarea name="form[q2]"></textarea>
+<textarea name="form[q2]" rows="4"></textarea>
 
 
 ## Vraag 3
 
 Welke actie, indien van toepassing, zou je willen ondernemen bij de volgende module, naar aanleiding van het feedbackproces tot nu toe?
 
-<textarea name="form[q3]"></textarea>
+<textarea name="form[q3]" rows="4"></textarea>
 
 
 ## Vraag 4
 
 Wat, indien van toepassing, is niet helemaal duidelijk aan de feedback die je van je mentor hebt gehad?
 
-<textarea name="form[q4]"></textarea>
+<textarea name="form[q4]" rows="4"></textarea>
