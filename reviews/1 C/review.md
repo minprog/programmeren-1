@@ -21,12 +21,15 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 Below, you will submit improved versions of your programs. These are only the "standard" editions of the problems, not the "hacker" editions.
 
-In addition, you will need to submit a file called **review.txt**:
+In addition, you will need to document what changes you made.
 
-- write down the names of one or more students who reviewed your code
-- describe in detail what changes you made to the problems as you submitted them earlier on
+Which student(s) contributed to reviewing your code?
+<input name="form[reviewers]" type="text" required>
 
-## Grading
+What changes did you make to your code in response to the reviews and feedback that you received?
+<textarea name="form[changes]">
+
+## Next: grading
 
 After the code reviews, your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback.
 

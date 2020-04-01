@@ -3,4 +3,3 @@ files:
     required:
         - mario.c
         - greedy.c
-        - review.txt
