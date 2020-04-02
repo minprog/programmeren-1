@@ -29,7 +29,7 @@ Which student(s) contributed to reviewing your code?
 <input name="form[reviewers]" type="text" required>
 
 What changes did you make to your code in response to the reviews and feedback that you received?
-<textarea name="form[changes]"></textarea>
+<textarea name="form[changes]" rows="8"></textarea>
 
 ## Next: grading
 
