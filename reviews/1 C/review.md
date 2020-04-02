@@ -23,7 +23,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 ## What to submit
 
-Below, you will submit improved versions of your programs. In addition, document who helped you review your code and what changes you made in response to the review.
+Below, you will submit improved versions of your programs. In addition, you are going to document who helped you review your code and what changes you made in response to the review. That information is needed for grading!
 
 Which student(s) contributed to reviewing your code?
 <input name="form[reviewers]" type="text" required>
