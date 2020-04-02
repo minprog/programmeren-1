@@ -30,9 +30,3 @@ Which student(s) contributed to reviewing your code?
 
 What changes did you make to your code in response to the reviews and feedback that you received?
 <textarea name="form[changes]" rows="8" required></textarea>
-
-## Next: grading
-
-After the code reviews, your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback.
-
-Note that the mentor feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on your review next time.
