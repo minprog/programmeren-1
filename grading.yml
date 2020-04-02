@@ -89,6 +89,7 @@ modules:
         - credit
         - mario_less
         - mario_more
+        - retrospect1
     module 2:
         - initials_less
         - initials_more
