@@ -65,3 +65,11 @@ Laat zien dat je zelfstandig kunt reflecteren op codekwaliteit.
 ## Inleveren
 
 Zet je **naam** boven je document, maak er een PDF van en stuur deze hieronder in. Geen Word- of andere formaten graag!
+
+Hoeveel uur heb je over de toets gedaan? (trek je lunch en pauze er vanaf)
+
+<input type="text" name="form[hoelang]" required>
+
+Wat vond je van de toets?
+
+<textarea name="form[watvond]" required></textarea>
