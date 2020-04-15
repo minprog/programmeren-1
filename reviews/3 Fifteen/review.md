@@ -1,4 +1,4 @@
-# Code review: Module 3
+# Code review: Fifteen
 
 Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. Here, you will give each other feedback and advice on improving your code.
 
@@ -6,7 +6,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 ## What to do
 
-1. For this module, you will assess and improve your code along the following six criteria:
+1.  For this module, you will assess and improve your code along the following six criteria:
 
     - [Loops](/quality/loops) (NEW!)
     - [Nesting](/quality/nesting)
@@ -15,22 +15,18 @@ In order to keep the task within reasonable limits, for each module we will prov
     - [Indenting code](/quality/indentation)
     - [Whitespace](/quality/whitespace)
 
-2. Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
+2.  Before you start, don't forget to use `style50` to automatically suggest corrections for indentation and whitespace! However, `style50` is a very simple tool, so do not depend on it too much. And feel free to ignore the suggestions if you feel your code's layout is more consistent like it is.
 
-3. Then, you should find a partner to do code reviews with. You will **sit together** behind your computer, and they will review you code on the criteria above. They will think aloud and ask you what they do not understand, and tell you what advice they have.
+3.  Then, you should find a partner to do code reviews with. You will **sit together** behind your computer, and they will review you code on the criteria above. They will think aloud and ask you what they do not understand, and tell you what advice they have. Make notes.
 
-4. In addition, you will need to submit a file called **review.txt**:
-
-	- write down the names of one or more students who reviewed your code
-	- you describe in detail **what changes you made** to the problems as you submitted them earlier on
-	- the file should **not** actually contain the review, only descriptions of what you did with it
+4.  Finally, **improve your programs** by considering the feedback that you got in the review. Don't forget to re-read the criteria explanations once more!
 
 ## What to submit
 
-Below, you will submit improved versions of your programs. These are only the "standard" editions of the problems, not the "hacker" editions.
+Below, you will submit improved versions of your programs. In addition, you are going to document who helped you review your code and what changes you made in response to the review. That information is needed for grading!
 
-## Grading
+Which student(s) contributed to reviewing your code?
+<input name="form[reviewers]" type="text" required>
 
-After the code reviews, your mentor will assess your programs, assign a grade for quality, and provide you with some written feedback.
-
-Note that the mentor feedback will never be "everything" that can be improved, but a small sample. When you receive it, compare it to the ideas that you got during your own code review, and think how you could improve on your review next time.
+What changes did you make to your code in response to the reviews and feedback that you received?
+<textarea name="form[changes]" rows="8" required></textarea>

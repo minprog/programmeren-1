@@ -3,4 +3,3 @@ files:
     required:
         - caesar.c
         - vigenere.c
-        - review.txt

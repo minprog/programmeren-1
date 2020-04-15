@@ -3,4 +3,3 @@ files:
     required:
         - helpers.c
         - fifteen.c
-        - review.txt
