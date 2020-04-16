@@ -113,11 +113,17 @@ modules:
 
 calculation:
     final:
-        tests: 0
+        # tests: 0
+        toets: 0
         problems: 100
 # resit:
 #     tests: 0
 #     modules: 100
+
+toets:
+    # show_progress: true
+    submits:
+        takehome: 1
 
 problems:
     show_progress: true
