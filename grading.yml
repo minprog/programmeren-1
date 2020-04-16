@@ -113,7 +113,7 @@ modules:
 
 calculation:
     final:
-        tests: 0
+        # tests: 0
         problems: 100
 # resit:
 #     tests: 0
