@@ -1,275 +1,47 @@
-Parttime:
+Fulltime Herfst:
     Module 0:
-        Overview & Grading: /overviews/scratch
-        "Lecture: Computational Thinking": /lectures/computational-thinking
-        Implement Scratch: /problems/scratch
+        - scratch
     Module 1:
-        Overview & Grading: /overviews/c
-        "Lecture: C": /lectures/c
-        Hello:
-            Create a GitHub account: https://github.com/join
-            Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-        Water:
-            Create your own CS50 IDE: https://ide.cs50.io/
-            Learn about the Command Line: /shorts/command-line
-            Implement Water: /problems/water
-        Greedy:
-            "Implement either of:":
-                Greedy: /problems/greedy
-                Credit (hacker): /problems/credit
-        Mario:
-            "Lecture: Tools": /lectures/tools
-            "Implement either of:":
-                Mario: /problems/mario-less
-                Mario (hacker): /problems/mario-more
-        Exercises:
-            Variables: /exercises/variables
+        - c
     Module 2:
-        Overview & Grading: /overviews/crypto
-        "Lecture: Arrays": /lectures/arrays
-        Initials:
-            "Implement either of:":
-                Initials: /problems/initials-less
-                Initials (hacker): /problems/initials-more
-        Caesar:
-            Implement Caesar: /problems/caesar
-        Vigenere:
-            "Implement either  of:":
-                Vigenere: /problems/vigenere
-                Crack (hacker): /problems/crack
-        Exercises:
-            Unscratch: /exercises/unscratch
-            Control flow: /exercises/control-flow
+        - crypto
     Module 3:
-        Overview & Grading: /overviews/fifteen
-        "Lecture: Algorithms": /lectures/algorithms
-        Find:
-            "Implement either of:":
-                Find: /problems/find-less
-                Find (hacker): /problems/find-more
-        Fifteen:
-            "Implement either of:":
-                Fifteen: /problems/fifteen-less
-                Fifteen (hacker): /problems/fifteen-more
-        Exercises:
-            Arrays: /exercises/arrays
-            Loops: /exercises/loops
+        - fifteen
     Module 4:
-        Overview & Grading: /overviews/forensics
-        "Lecture: Memory": /lectures/memory
-        Whodunit:
-            Implement Whodunit: /problems/whodunit
-        Resize:
-            "Implement either of:":
-                Resize: /problems/resize-less
-                Resize (hacker): /problems/resize-more
-        Recover:
-            Implement Recover: /problems/recover
-        Exercises:
-            Functions: /exercises/functions
-            Algorithms: /exercises/algorithms
-    Module 5:
-        Overview & Grading: /overviews/mispellings
-        "Lecture: Data Structures": /lectures/data-structures
-        Implement Mispellings: /overviews/mispellings
+        - graphics
 
-Fulltime:
+Parttime Herfst:
     Module 0:
-        Overview & Grading: /overviews/scratch
-        "Lecture: Computational Thinking": /lectures/computational-thinking
-        Implement Scratch: /problems/scratch
+        - scratch
     Module 1:
-        Overview & Grading: /overviews/c
-        "Lecture: C": /lectures/c
-        Hello:
-            Create a GitHub account: https://github.com/join
-            Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-        Water:
-            Create your own CS50 IDE: https://ide.cs50.io/
-            Learn about the Command Line: /shorts/command-line
-            Implement Water: /problems/water
-        Greedy:
-            "Implement either of:":
-                Greedy: /problems/greedy
-                Credit (hacker): /problems/credit
-        Mario:
-            "Lecture: Tools": /lectures/tools
-            "Implement either of:":
-                Mario: /problems/mario-less
-                Mario (hacker): /problems/mario-more
-        Thursday exercises:
-            Variables: /exercises/variables
+        - c
     Module 2:
-        Overview & Grading: /overviews/crypto
-        "Lecture: Arrays": /lectures/arrays
-        Initials:
-            "Implement either of:":
-                Initials: /problems/initials-less
-                Initials (hacker): /problems/initials-more
-        Caesar:
-            Implement Caesar: /problems/caesar
-        Vigenere:
-            "Implement either  of:":
-                Vigenere: /problems/vigenere
-                Crack (hacker): /problems/crack
-        Thursday exercises:
-            Unscratch: /exercises/unscratch
-            Control flow: /exercises/control-flow
+        - crypto
     Module 3:
-        Overview & Grading: /overviews/fifteen
-        "Lecture: Algorithms": /lectures/algorithms
-        Find:
-            "Implement either of:":
-                Find: /problems/find-less
-                Find (hacker): /problems/find-more
-        Fifteen:
-            "Implement either of:":
-                Fifteen: /problems/fifteen-less
-                Fifteen (hacker): /problems/fifteen-more
-        Exercises:
-            Arrays: /exercises/arrays
-            Loops: /exercises/loops
+        - fifteen
     Module 4:
-        Overview & Grading: /overviews/forensics
-        "Lecture: Memory": /lectures/memory
-        Whodunit:
-            Implement Whodunit: /problems/whodunit
-        Resize:
-            "Implement either of:":
-                Resize: /problems/resize-less
-                Resize (hacker): /problems/resize-more
-        Recover:
-            Implement Recover: /problems/recover
-        Exercises:
-            Functions: /exercises/functions
-            Algorithms: /exercises/algorithms
-    Module 5:
-        Overview & Grading: /overviews/mispellings
-        "Lecture: Data Structures": /lectures/data-structures
-        Implement Mispellings: /overviews/mispellings
+        - graphics
 
 Fulltime Lente:
     Module 0:
-        Overzicht en Videocollege: /overviews/scratch
-        Implementeer Scratch: /problems/scratch
+        - scratch
     Module 1:
-        Overzicht en Videocollege: /overviews/c
-        Eerste oefening:
-            Maak een GitHub-account: https://github.com/join
-            Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-        Opdrachten (t/m donderdag):
-            Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-            Leer over de Command Line: /shorts/command-line
-            Implementeer Water: /problems/water
-            Implementeer Greedy: /problems/greedy
-            Implementeer Mario: /problems/mario-less
-        Extra opdrachten:
-            Implementeer Mario (hacker): /problems/mario-more
-            Implementeer Credit (hacker): /problems/credit
-        Toetsjes (vrijdag):
-            A Variables: /exercises/variables
-            C Unscratch: /exercises/unscratch
-        Code review (maandag):
-            Instructies: /reviews/c
+        - c
     Module 2:
-        Overzicht en Videocollege: /overviews/crypto
-        Opdrachten (t/m donderdag):
-            Initials: /problems/initials-less
-            Caesar: /problems/caesar
-            Vigenere: /problems/vigenere
-        Extra opdrachten:
-            Initials (hacker): /problems/initials-more
-            Crack (hacker): /problems/crack
-        Toetsje (vrijdag):
-            B Control flow: /exercises/control-flow
-            E Loops: /exercises/loops
-        Code review (maandag):
-            Instructies: /reviews/crypto
+        - crypto
     Module 3:
-        Overzicht en Videocollege: /overviews/fifteen
-        Opdrachten (t/m donderdag):
-            Find: /problems/find-less
-            Fifteen: /problems/fifteen-less
-        Extra opdrachten:
-            Find (hacker): /problems/find-more
-            Fifteen (hacker): /problems/fifteen-more
-        Toetsjes (vrijdag):
-            D Arrays: /exercises/arrays
-            G Algorithms: /exercises/algorithms
-        Code review (maandag):
-            Instructie: /reviews/fifteen
+        - fifteen
     Module 4:
-        Overzicht en Videocollege: /overviews/graphics
-        Opdrachten (t/m donderdag):
-            Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/filter-less
-            Implementeer Recover: /problems/recover
-        Extra opdracht:
-            Implementeer Resize: /problems/resize-more
-        Toetsje (vrijdag):
-            F Functions: /exercises/functions
-        Code review (vrijdag!):
-            Instructies: /reviews/graphics
+        - graphics
+
 Parttime Lente:
     Module 0:
-        Overzicht en Videocollege: /overviews/scratch
-        Implementeer Scratch: /problems/scratch
+        - scratch
     Module 1:
-        Overzicht en Videocollege: /overviews/c
-        Eerste oefening:
-            Maak een GitHub-account: https://github.com/join
-            Implementeer Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-        Opdrachten:
-            Maak je eigen CS50 IDE aan: https://ide.cs50.io/
-            Leer over de Command Line: /shorts/command-line
-            Implementeer Water: /problems/water
-            Implementeer Greedy: /problems/greedy
-            Implementeer Mario: /problems/mario-less
-        Extra opdrachten:
-            Implementeer Mario (hacker): /problems/mario-more
-            Implementeer Credit (hacker): /problems/credit
-        Toetsjes:
-            A Variables: /exercises/variables
-            C Unscratch: /exercises/unscratch
-        Code review:
-            Instructies: /reviews/c
-            Retrospect: /retrospects/c
+        - c
     Module 2:
-        Overzicht en Videocollege: /overviews/crypto
-        Opdrachten:
-            Initials: /problems/initials-less
-            Caesar: /problems/caesar
-            Vigenere: /problems/vigenere
-        Extra opdrachten:
-            Initials (hacker): /problems/initials-more
-            Crack (hacker): /problems/crack
-        Toetsje:
-            B Control flow: /exercises/control-flow
-            E Loops: /exercises/loops
-        Code review:
-            Instructies: /reviews/crypto
+        - crypto
     Module 3:
-        Overzicht en Videocollege: /overviews/fifteen
-        Opdrachten:
-            Find: /problems/find-less
-            Fifteen: /problems/fifteen-less
-        Extra opdrachten:
-            Find (hacker): /problems/find-more
-            Fifteen (hacker): /problems/fifteen-more
-        Toetsjes:
-            D Arrays: /exercises/arrays
-            G Algorithms: /exercises/algorithms
-        Code review:
-            Instructie: /reviews/fifteen
+        - fifteen
     Module 4:
-        Overzicht en Videocollege: /overviews/graphics
-        Opdrachten:
-            Implementeer Whodunit: /problems/whodunit
-            Implementeer Filter: /problems/filter-less
-            Implementeer Recover: /problems/recover
-        Extra opdracht:
-            Implementeer Resize: /problems/resize-more
-        Toetsje:
-            F Functions: /exercises/functions
-        Code review:
-            Instructies: /reviews/graphics
+        - graphics
