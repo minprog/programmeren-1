@@ -1,5 +1,0 @@
-name: module 4
-files:
-    required:
-        - recover.c
-        - helpers.c
