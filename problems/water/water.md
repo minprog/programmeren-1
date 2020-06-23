@@ -30,7 +30,7 @@ Then, to start implementing this problem, create a new file called "water.c" and
 
 ## Steps
 
-This problem looks a bit like the `ints.c` program from [lecture](/lectures/c). You might study the examples at the top of this problem and think about which parts of `ints.c` you might reuse in your solution.
+This problem looks a bit like the `ints.c` program from lecture. You might study the examples at the top of this problem and think about which parts of `ints.c` you might reuse in your solution.
 
 You program should have some kind of `input` statement, as well as a `print` statement combined with a small calculation. So only a few lines inside `main` are needed.
 
