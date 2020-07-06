@@ -4,21 +4,29 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistenten zijn .... Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
-
-
 ## Contact
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365)
+Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistenten zijn .... Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
+
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
 - Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
 - Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+
+<details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
+
+- neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem en na het halve uur kun je soms toch weer verder
+
+- ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat
+
+- of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten
+</details>
 
 
 ## Minimumeisen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-- alle programmeeropdrachten tijdig en volledig **instuurt**,
+- alle programmeeropdrachten tijdig en volledig **instuurt** via deze website,
 - daarna **reviewt** met een medestudent,
 - en **verbetert** op basis van review en eerdere feedback, en dat je
 - later een serieuze **reflectie** schrijft op je feedback.
@@ -31,6 +39,13 @@ We verwachten ook dat je:
 - alle wekelijkse **oefenopdrachten** doet,
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
+
+Alle studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten.
+
+
+## Eindcijfer
+
+Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de programmeeropdrachten (90%) en het totaal aantal punten voor kwaliteit van de code review (10%).
 
 
 ## Deadlines
@@ -59,11 +74,9 @@ Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het 
 </details>
 
 
-## Cijfers
+## Opdrachten
 
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten.
-
-Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
+De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -75,32 +88,6 @@ Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten v
 {: start="6" reversed=""}
 
 Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
-
-
-## Hoorcolleges
-
-In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de toetsjes. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
-
-
-## Werkgroepen
-
-Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is vereist.
-
-
-## Practicumuren
-
-Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met medestudenten. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen.
-
-
-## Help!
-
-Als je absoluut niet verder komt zijn er drie belangrijke opties:
-
-- neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem en na het halve uur kun je soms toch weer verder
-
-- ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat
-
-- of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten
 
 
 ## Oefeningen
@@ -121,6 +108,28 @@ Als het niet lukt om een toets op bovenstaande manier te halen, vindt na afloop 
 Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen worden daarbij niet aangerekend, zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
 
 Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Die krijg je namelijk toch al. Laat wel weten als we nog andere voorzieningen kunnen treffen.
+
+
+## Materialen en bijeenkomsten
+
+### Hoorcolleges
+
+In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de toetsjes. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
+
+
+### Werkgroepen
+
+Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is vereist.
+
+
+### Practicumuren
+
+Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met medestudenten. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen.
+
+
+## Help!
+
+
 
 
 ## Boeken
