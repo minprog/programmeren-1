@@ -176,7 +176,7 @@ De essentie van alles wat je inlevert moet van jou zijn. Je mag niet samenwerken
 
 Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, wacht dan tot je geschreven toestemming hebt gekregen van een docent. Onredelijke handelingen worden streng afgehandeld.
 
-## Redelijk
+<details markdown="1"><summary markdown="span">Voorbeelden van redelijke acties</summary>
 
 * Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
 
@@ -199,8 +199,9 @@ Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen va
 * Het uittekenen of uitwerken van oplossingen op een whiteboard door middel van diagrammen of pseudocode, maar niet "echte" code.
 
 * Werken met (en zelfs betalen voor) een tutor om je te helpen met het vak, gegeven dat de tutor niet het werk voor je doet.
+</details>
 
-## Onredelijk
+<details markdown="1"><summary markdown="span">Voorbeelden van onredelijke acties</summary>
 
 * Een oplossing van een opdracht inzien voordat je jouw opdracht hebt ingeleverd.
 
@@ -227,5 +228,6 @@ Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen va
 * Het inleveren van werk voor dit vak, waarbij je intentie is om dit ook ergens anders voor in te zetten (zeg voor een baan), zonder daar eerst toestemming voor te hebben gekregen van een docent.
 
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
+</details>
 
 In alle gevallen volgen we de [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam en de richtlijnen voor de Bachelor Informatica/Minor Programmeren.
