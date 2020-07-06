@@ -76,7 +76,7 @@ Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het 
 
 ## Opdrachten
 
-De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
+De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -127,28 +127,27 @@ Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werk
 Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met medestudenten. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen.
 
 
-## Help!
+### Boeken
 
+Er zijn geen verdere boeken benodigd voor deze cursus.
 
+Wil je de stof een keer op een andere manier benaderen, dan vind je in de volgende boeken wellicht wat je zoekt:
 
-
-## Boeken
-
-Er zijn geen boeken benodigd voor deze cursus. Wil je de stof een keer op een andere manier benaderen, dan vind je in de volgende boeken wellicht wat je zoekt:
-
-*For Those Less Comfortable*
+<details markdown="1"><summary markdown="span">*For Students Who Are Less Comfortable*</summary>
 
 C Programming Absolute Beginner's Guide, Third Edition  
 Greg Perry, Dean Miller  
 Pearson Education, 2014  
 ISBN 9780789751980
+</details>
 
-*For Those More Comfortable*
+<details markdown="1"><summary markdown="span">*For Students Who Are More Comfortable*</summary>
 
 Programming in C, Fourth Edition  
 Stephen G. Kochan  
 Pearson Education, 2015  
 ISBN 9780321776419
+</details>
 
 
 ## Herkansingen
