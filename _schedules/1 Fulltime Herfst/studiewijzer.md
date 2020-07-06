@@ -176,7 +176,7 @@ De essentie van alles wat je inlevert moet van jou zijn. Je mag niet samenwerken
 
 Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, wacht dan tot je geschreven toestemming hebt gekregen van een docent. Onredelijke handelingen worden streng afgehandeld.
 
-<details markdown="1"><summary markdown="span">Voorbeelden van redelijke acties</summary>
+<details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
 * Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
 
@@ -201,7 +201,7 @@ Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen va
 * Werken met (en zelfs betalen voor) een tutor om je te helpen met het vak, gegeven dat de tutor niet het werk voor je doet.
 </details>
 
-<details markdown="1"><summary markdown="span">Voorbeelden van onredelijke acties</summary>
+<details markdown="1"><summary markdown="span">Voorbeelden van **onredelijke** acties</summary>
 
 * Een oplossing van een opdracht inzien voordat je jouw opdracht hebt ingeleverd.
 
