@@ -4,72 +4,77 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-
-## Docenten
-
-Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Bram van den Heuvel, Lotte Heek, Julia Anten en Kiki van Rongen.
+Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistenten zijn .... Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
 
 
-## Activiteiten
+## Contact
+
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365)
+- Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
+- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+
+
+## Minimumeisen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-- alle hoorcolleges bekijkt,
-- alle werkgroepen bijwoont,
-- het electronica-practicum doet,
-- alle uren aanwezig bent in het lab,
-- alle opdrachten volledig uitgewerkt instuurt, en
-- alle toetsjes maakt en haalt.
+- alle programmeeropdrachten tijdig en volledig **instuurt**,
+- daarna **reviewt** met een medestudent,
+- en **verbetert** op basis van review en eerdere feedback, en dat je
+- later een serieuze **reflectie** schrijft op je feedback.
 
+We verwachten ook dat je:
 
-## Vragen stellen
-
-Het team van deze cursus bestaat uit je docenten en een heleboel studentassistenten. We sporen je aan om in het lab goed gebruik te maken van de mogelijkheid deze mensen te spreken en van ze te leren. Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
-
-Heb je een schriftelijke vraag, bijvoorbeeld omdat je een uitzondering nodig hebt? Stuur gerust een e-mail naar de docenten op <help@mprog.nl>.
-
-
-## Cijfers
-
-Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door een vakdocent.
-
-Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 1--5 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
-
-5. uitzonderlijk goed resultaat, met een doordacht ontwerp
-4. goed resultaat op alle aspecten
-3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
-2. zichtbare aandacht voor de meeste aspecten
-1. zichtbare aandacht voor een beperkt aantal aspecten
-{: start="5" reversed=""}
-
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 20 punten (4 modules x 5 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Daarnaast kan het doen van een "hacker edition" van een module, indien beschikbaar, een extra punt opleveren. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+- alle **videocolleges** bekijkt ter voorbereiding van de opdrachten,
+- alle **werkgroepen** met je mentor bijwoont,
+- alle dagen om 9:30 uur een **checkup** doet met je team,
+- alle wekelijkse **oefenopdrachten** doet,
+- laag scoort op de **plagiaatschaal**, en
+- tijdig **hulp** zoekt bij de medewerkers van de minor.
 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline correct werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 23:59 op de hieronder genoemde datum.
+Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
 
-| deadline | fulltime  |  
-| -------- | --------- |  
-| Module 0 | ma  2 sep |  
-| Module 1 | vr  6 sep |  
-| Module 2 | vr 13 sep |  
-| Module 3 | vr 20 sep |  
-| Module 4 | vr 27 sep |  
-| Module 5 | vr 27 sep |  
+| onderdeel | deadline oplossing | deadline verbeterd |  
+| --------- | ------------------ | ------------------ |  
+| Module 0  | ma 31 aug          | -                  |  
+| Module 1  | do  3 sep          | ma  7 sep          |  
+| Module 2  | do 10 sep          | ma 14 sep          |  
+| Module 3  | do 17 sep          | ma 21 sep          |  
+| Module 4  | do 24 sep          | vr 25 sep          |  
 
-Module 5 is een *optionele* extra uitdaging voor studenten die erg snel door de cursus heen gaan.
+<details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-In het geval van planningsproblemen of ziekte is het mogelijk de deadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden. Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
+In het geval van planningsproblemen of ziekte is het mogelijk de oplossingsdeadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek (1/2 punt en 1 punt).
+Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden.
+Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
 
-| uitstel          | aftrek   |  
-| ---------------- | -------- |  
-| maximaal 1 dag   | 1/2 punt |  
-| maximaal 3 dagen | 1 punt   |  
+Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
-Voor modules 0 en 5 is geen uitstel mogelijk.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten.
+Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met één van de docenten. Zij kunnen je hierover adviseren.
+</details>
+
+
+## Cijfers
+
+Alle studenten moeten minimaal een geheel correcte oplossing voor elk opdracht inleveren en alle toetsjes halen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten.
+
+Het eindcijfer voor deze cursus wordt bepaald door het aantal gescoorde punten voor elke module. De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De schaal is als volgt:
+
+6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
+5. zeer goede kwaliteit, beperkt ruimte voor verbetering
+4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
+3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
+2. enige zichtbare aandacht voor een beperkt aantal aspecten
+1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
+0. niet genoeg code om te beoordelen
+{: start="6" reversed=""}
+
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
 
 
 ## Hoorcolleges
@@ -84,27 +89,38 @@ Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werk
 
 ## Practicumuren
 
-Tijdens de practicumuren, dagelijks van 9 tot 17 uur, kun je terecht in het programmeerlab voor het werken aan je opdrachten, uitwisselen van ideeën met medestudenten en het stellen van vragen aan studentassistenten.
+Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met medestudenten. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen.
 
 
-## Toetsjes
+## Help!
 
-Wekelijks vinden toetsjes plaats waarin de stof van de vorige weken wordt herhaald en aangescherpt. Voor een deel van de toetsjes studeer je in het "Basisboek Programmeren" waarvan prints worden verspreid in het lab. Andere bereid je voor met oefeningen op de website.
+Als je absoluut niet verder komt zijn er drie belangrijke opties:
 
-- Alle toetsjes moeten gehaald worden om de cursus te voltooien.
-- Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal donderdag).
-- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden (meestal maandag en woensdag).
+- neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem en na het halve uur kun je soms toch weer verder
+
+- ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat
+
+- of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten
+
+
+## Oefeningen
+
+Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het "Basisboek Programmeren" dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website.
+
+- Alle toetsjes moeten binnen een week gehaald worden om de cursus te voltooien.
+- Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal vrijdag).
+- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden (meestal maandag).
 - Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
 
-Als het niet lukt om een toets op bovenstaande manier te halen, vindt 2 weken na afloop van het vak een laatste herkansing plaats.
+Als het niet lukt om een toets op bovenstaande manier te halen, vindt na afloop van het vak een laatste herkansing plaats.
 
-- De herkansing bestaat uit een combinatie van de niet-gehaalde toetsjes.
-- Om mee te mogen doen moet je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben.
+- De herkansing bestaat uit een combinatie van de nog niet gehaalde toetsjes.
+- Om mee te mogen doen **moet** je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben. Dus je moet alle kansen genomen hebben.
 - Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
 
-Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma worden daarbij niet aangerekend. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
+Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen worden daarbij niet aangerekend, zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
 
-Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Laat wel weten als we nog andere voorzieningen kunnen treffen.
+Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Die krijg je namelijk toch al. Laat wel weten als we nog andere voorzieningen kunnen treffen.
 
 
 ## Boeken
@@ -128,19 +144,28 @@ ISBN 9780321776419
 
 ## Herkansingen
 
-Het opnieuw insturen van modules is niet meer mogelijk na de deadline of zodra deze zijn nagekeken. Haal je de cursus niet doordat je onvoldoendes hebt voor enkele opdrachten, dan gelden de volgende regels voor herkansing:
+Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers.
 
-- Opnieuw insturen van opdrachten kan pas in het volgende semester.
+<details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 
-- Alle modules die onvoldoende waren moeten opnieuw ingestuurd worden en krijgen een nieuw cijfer.
+  - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
-- Van deze modules moeten alle deelopdrachten opnieuw worden ingestuurd, volledig werkend zonder bugs.
+  - Alle programma's moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
 
-- Modules die voldoende waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+  - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
+</details>
 
-- Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
+<details markdown="1"><summary markdown="span">Ik heb een opdracht niet werkend ingeleverd en wil herkansen</summary>
+  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
-- Opdrachten kunnen niet voor een derde keer herkanst worden.
+  - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
+
+  - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+
+  - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden. De beoordeling vindt plaats zoals vastgelegd voor het vak op moment van herkansen.
+</details>
+
+<!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
 
 
 ## Samenwerken, fraude en plagiaat
