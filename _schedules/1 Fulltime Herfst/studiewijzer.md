@@ -87,7 +87,9 @@ De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspect
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk. Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk.
+
+<!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
 
 ## Oefeningen
@@ -129,11 +131,9 @@ Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken a
 
 ### Boeken
 
-Er zijn geen verdere boeken benodigd voor deze cursus.
+Wil je de stof een keer op een andere manier benaderen, dan vind je in de volgende boeken wellicht wat je zoekt.
 
-Wil je de stof een keer op een andere manier benaderen, dan vind je in de volgende boeken wellicht wat je zoekt:
-
-<details markdown="1"><summary markdown="span">*For Students Who Are Less Comfortable*</summary>
+<details markdown="1"><summary markdown="span">*Voor echte beginners*</summary>
 
 C Programming Absolute Beginner's Guide, Third Edition  
 Greg Perry, Dean Miller  
@@ -141,7 +141,7 @@ Pearson Education, 2014
 ISBN 9780789751980
 </details>
 
-<details markdown="1"><summary markdown="span">*For Students Who Are More Comfortable*</summary>
+<details markdown="1"><summary markdown="span">*Voor studenten die al wat sneller gaan*</summary>
 
 Programming in C, Fourth Edition  
 Stephen G. Kochan  
@@ -152,7 +152,7 @@ ISBN 9780321776419
 
 ## Herkansingen
 
-Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers.
+Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers. Wij hebben veel ervaring!
 
 <details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 
