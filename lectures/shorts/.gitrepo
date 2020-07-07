@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = https://github.com/minprog/shorts.git
+	remote = https://github.com/minprog/cs50-shorts.git
 	branch = main
 	commit = 7e22f972f7cd11fb679726df77c00714271f73a8
 	parent = d6daedadf5645580437d4618349bc39670de1ed4
