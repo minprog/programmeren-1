@@ -1,6 +1,8 @@
 # Lecture: Computational thinking
 
-![embed](https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU)
+![embed](https://www.youtube.com/embed/I5VGl6gPyIY)
+
+[Open in CS50 video player](https://video.cs50.io/jjqgP9dpD1k?screen=w3XNssqYBSU)
 
 ## Welcome
 
