@@ -88,7 +88,7 @@ De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspect
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten).
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 beoordeelde modules x 6 punten).
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
@@ -97,7 +97,7 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4
 
 ### Hoorcolleges
 
-In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de toetsjes. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
+In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. <!-- Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen. -->
 
 ### Oefeningen
 
