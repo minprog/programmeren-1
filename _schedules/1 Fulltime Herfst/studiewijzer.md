@@ -43,6 +43,11 @@ We verwachten ook dat je:
 Alle studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
 
 
+## Uitzonderingen in tijden van Corona
+
+In de herfst is de mogelijkheid dat je langduriger ziek wordt. Bij een fulltimecursus is het missen van een aantal dagen al lastig, laat staan enkele weken. We hebben enige ruimte ingebouwd om met jou een persoonlijke planning af te kunnen spreken in gevallen van nood. Het enige dat je hoeft te doen is je zo snel mogelijk te **melden** bij de docenten via <help@mprog.nl> en je **nogmaals** melden zodra je weer zo fit bent dat je kunt programmeren. Dan maken we persoonlijke afspraken.
+
+
 ## Eindcijfer
 
 Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de programmeeropdrachten.
@@ -105,7 +110,7 @@ Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald e
 
 ### Werkgroepen
 
-Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is vereist.
+Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je je omgeving niet geschikt acht om te kunnen videobellen).
 
 ### Practicumuren
 
