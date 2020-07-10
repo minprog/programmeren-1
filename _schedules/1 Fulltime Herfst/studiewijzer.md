@@ -29,7 +29,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 - alle programmeeropdrachten tijdig en volledig **instuurt** via deze website,
 - daarna **reviewt** met een medestudent,
 - en **verbetert** op basis van review en eerdere feedback, en dat je
-- later een serieuze **reflectie** schrijft op je feedback.
+- tot slot een **reflectie** schrijft op je feedback.
 
 We verwachten ook dat je:
 
@@ -40,17 +40,18 @@ We verwachten ook dat je:
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
 
-Alle studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten.
+Alle studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
 
 
 ## Eindcijfer
 
-Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de programmeeropdrachten (90%) en het totaal aantal punten voor kwaliteit van de code review (10%).
+Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de programmeeropdrachten.
+De totaalscore wordt zoals gebruikelijk omgerekend naar een cijfer tussen 1 en 10, afgerond op halven.
 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
+Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
 
 | onderdeel | deadline oplossing | deadline verbeterd |  
 | --------- | ------------------ | ------------------ |  
@@ -87,47 +88,28 @@ De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspect
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten). Deze score wordt omgerekend naar een cijfer tussen 1 en 10, zoals gebruikelijk.
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 modules x 6 punten).
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
 
-## Oefeningen
-
-Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het "Basisboek Programmeren" dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website.
-
-- Alle toetsjes moeten binnen een week gehaald worden om de cursus te voltooien.
-- Elke toets moet steeds op de aangekondigde toetsdatum gedaan worden (meestal vrijdag).
-- Een niet-gehaalde toets kan op een volgende aangekondigde toetsdag herkanst worden (meestal maandag).
-- Tijdens de duur van de cursus mag je elke toets maximaal drie keer doen.
-
-Als het niet lukt om een toets op bovenstaande manier te halen, vindt na afloop van het vak een laatste herkansing plaats.
-
-- De herkansing bestaat uit een combinatie van de nog niet gehaalde toetsjes.
-- Om mee te mogen doen **moet** je tijdens de cursus elke niet-gehaalde toets minimaal 3 keer geprobeerd hebben. Dus je moet alle kansen genomen hebben.
-- Je krijgt bij deze laatste herkansing twee versies van elke niet-gehaalde toets zodat je meer gelegenheid hebt om te laten zien dat je het kan. Beide moeten zo goed mogelijk ingevuld worden.
-
-Toetsen worden beoordeeld op correcte beantwoording, onder andere volgens de voorbeelden in de aangereikte materialen. Kleine problemen worden daarbij niet aangerekend, zoals een rekenfout (mits niet onderwerp van de toets) of een vergeten puntkomma. Grotere slordigheden wel, dus zorg dat je rust creëert om je antwoorden netjes en leesbaar te formuleren.
-
-Voor alle toetsen krijg je ruim de tijd, binnen redelijkheid. Het is niet nodig of mogelijk om je aan te melden voor extra tijd in verband met een beperking! Die krijg je namelijk toch al. Laat wel weten als we nog andere voorzieningen kunnen treffen.
-
-
-## Materialen en bijeenkomsten
+## Overige onderdelen
 
 ### Hoorcolleges
 
 In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de toetsjes. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
 
+### Oefeningen
+
+Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het "Basisboek Programmeren" dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website. Jouw antwoorden op de oefeningen worden doorgenomen tijdens de werkgroepen.
 
 ### Werkgroepen
 
-Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is vereist.
-
+Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is vereist.
 
 ### Practicumuren
 
 Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met medestudenten. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen.
-
 
 ### Boeken
 
@@ -152,7 +134,7 @@ ISBN 9780321776419
 
 ## Herkansingen
 
-Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers. Wij hebben veel ervaring!
+Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers. Wij hebben veel ervaring en kunnen je adviseren!
 
 <details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 
