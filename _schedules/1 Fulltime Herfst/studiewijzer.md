@@ -24,23 +24,27 @@ Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistente
 
 ## Minimumeisen
 
+In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken.
+
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-- alle programmeeropdrachten tijdig en volledig **instuurt** via deze website,
-- daarna **reviewt** met een medestudent,
-- en **verbetert** op basis van review en eerdere feedback, en dat je
+- een **oplossing** voor elke opdracht samen met je partner ontwerpt,
+- een **uitwerking** van deze oplossing maakt,
+- de uitwerkingen tijdig en volledig **instuurt** via deze website,
+- daarna **reviewt** met je partner,
+- **verbetert** op basis van review en eerdere feedback, en dat je
 - tot slot een **reflectie** schrijft op je feedback.
 
 We verwachten ook dat je:
 
 - alle **videocolleges** bekijkt ter voorbereiding van de opdrachten,
 - alle **werkgroepen** met je mentor bijwoont,
-- alle dagen om 9:30 uur een **checkup** doet met je team,
+- alle dagen om 9:30 uur een **checkup** doet met je mentorgroep,
 - alle wekelijkse **oefenopdrachten** doet,
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
 
-Alle studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
+Studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten. We zullen daarin heel redelijk zijn. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
 
 
 ## Uitzonderingen in tijden van Corona
@@ -155,9 +159,17 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
   - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
 
-  - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan.
+  - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan, met uitzondering van opdrachten die zijn vervangen door nieuwe.
 
-  - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden. De beoordeling vindt plaats zoals vastgelegd voor het vak op moment van herkansen.
+  - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden.
+
+  - Alle nieuwe beoordelingen vinden plaats zoals gangbaar op het moment van herkansen.
+</details>
+
+<details markdown="1"><summary markdown="span">Ik heb niet aan de minimumeisen voldaan en wil herkansen</summary>
+  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
+
+  - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
 </details>
 
 <!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
