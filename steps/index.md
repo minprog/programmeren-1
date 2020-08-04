@@ -1,4 +1,4 @@
-# The Steps for solving programming problems
+# The Steps
 
 Below you'll find three phases that you are going to move through will solving some module's programming problems. For each problem, you will first perform an **analysis** together with your partner. Then, you will **implement** a solution in program code by yourself (with generous help from the course's staff, of course). Finally, for all of the problems together, you will do a **review** with your partner to learn how to improve code.
 
@@ -43,7 +43,7 @@ Now you can have a look if you can verify that your algorithm is correct. Take a
 
 Testing thoroughly might also reveal some fundamental problems in your algorithm. You may have made an **assumption** about the input that makes the solution easier to find, but prevents your algorithm working with other input. Ideally, you are able to fix these bugs before you actually start coding your solution.
 
-## Implementing the solution
+## Phase 2: Implementing the solution
 
 ![](implementation.png)
 
@@ -67,7 +67,7 @@ Have you found an apparent problem with the program? Then you should find out wh
 
 One first thing to check is if you have a **systematic** error in your program or that it doesn't work for some of the test cases. This may help you find the source of the problem.
 
-## Reviewing the code
+## Phase 3: Reviewing the code
 
 ![](codereview.png)
 
