@@ -4,11 +4,9 @@ Below you'll find three phases that you are going to move through will solving s
 
 ## Phase 1: Analyzing the problem
 
+Problems in this course are fairly big. Most of these problems have a couple of parts that work together. The first thing to do is to roughly identify those parts, because you can apply the method below on each of those separate parts.
+
 ![](problemsolving.png)
-
-**Step 0. Scoping your problem (separate)**
-
-Problems in this course are fairly big. Most of these problems have a couple of parts that work together. The first thing to do is to roughly identify those parts. This is because you can apply the method below on each of those separate parts.
 
 **Step 1. Solve instances by hand (with partner)**
 
