@@ -4,7 +4,7 @@ Below you'll find three phases that you are going to move through will solving s
 
 ## Phase 1: Analyzing the problem
 
-Problems in this course are fairly big. Most of these problems have a couple of parts that work together. The first thing to do is to roughly identify those parts, because you can apply the method below on each of those separate parts.
+Problems in this course are fairly big. Most of these problems have a couple of parts that work together. The first thing to do is to roughly identify those parts, because you can apply the method below on each of those separate parts. Having done that, proceed to step 1.
 
 ![](problemsolving.png)
 
@@ -16,11 +16,11 @@ Most likely, your problem description already contains one or two examples of ru
 
 Do you have a problem getting to the right solution or finding how to make some calculation? That means that either the problem is **underspecified** or you might lack a tiny bit of **knowledge** from the problem domain. Try to figure out which one it is and ask for help if needed!
 
-**Intermezzo. Watch the walkthrough**
-
-Some of our problems come with a **walkthrough** movie in which some of the core assumptions and ideas are explained. If you appear to lack some domain knowledge, it is likely that this is explained in the walkthrough.
-
-Ideally, you watch this movie just after you have tried solving some of the problem instances yourself. Note that the walkthroughs often explain 
+> **Intermezzo. Watch the walkthrough**
+> 
+> Some of our problems come with a **walkthrough** movie in which some of the core assumptions and ideas are explained. If you appear to lack some domain knowledge, it is likely that this is explained in the walkthrough.
+> 
+> Ideally, you watch this movie just after you have tried solving some of the problem instances yourself. Note that the walkthroughs often also explain practical matters of getting input and formatting output. The Steps only concern the core algorithm, so be sure to get back to the walkthrough as soon as you are ready to code your solution.
 
 
 **Step 2. Write down your steps (with partner)**
