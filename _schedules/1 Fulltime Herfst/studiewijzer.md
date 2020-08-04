@@ -22,27 +22,22 @@ Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistente
 </details>
 
 
-## Verwachtingen
+## Opdrachten
 
-In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken.
-
-Er zijn diverse dingen die je tijdens de cursus moet doen en inleveren, namelijk:
+In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken. Het vak bestaat uit vijf modules waarin steeds enkele opdrachten zitten. Je werkt steeds volgens dit proces:
 
 ![](../proces.png)
 
-- een **oplossing** voor elke opdracht samen met je partner ontwerpt,
-- een **uitwerking** van deze oplossing maakt,
-- de uitwerkingen tijdig en volledig **instuurt** via deze website,
-- daarna **reviewt** met je partner,
-- **verbetert** op basis van review en eerdere feedback, en dat je
-- tot slot een **reflectie** schrijft op je feedback.
 
-En daarnaast zijn er een aantal voorwaarden waar je aan moet voldoen, namelijk dat je:
+## Minimumeisen
 
+Om het vak te kunnen halen is het nodig dat je:
+
+- alle **opdrachten** volgens bovenstaande proces maakt en inlevert,
 - alle **videocolleges** bekijkt ter voorbereiding van de opdrachten,
 - alle **werkgroepen** met je mentor bijwoont,
 - alle dagen om 9:30 uur een **checkup** doet met je mentorgroep,
-- alle wekelijkse **oefenopdrachten** doet,
+- alle **oefenopdrachten** doet,
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
 
