@@ -24,7 +24,7 @@ Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistente
 
 ## Opdrachten
 
-In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken. Het vak bestaat uit vijf modules bestaande uit enkele opdrachten. Je werkt steeds volgens dit proces:
+In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
 
 ![](../proces.png)
 
@@ -51,21 +51,21 @@ In de herfst is de mogelijkheid dat je langduriger ziek wordt. Bij een fulltimec
 
 ## Eindcijfer
 
-Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de programmeeropdrachten.
-De totaalscore wordt zoals gebruikelijk omgerekend naar een cijfer tussen 1 en 10, afgerond op halven.
+Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules.
+De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
 
 
-## Deadlines
+## Modules
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
 
-| onderdeel | deadline oplossing | deadline verbeterd |  
-| --------- | ------------------ | ------------------ |  
-| Module 0  | ma 31 aug          | -                  |  
-| Module 1  | do  3 sep          | ma  7 sep          |  
-| Module 2  | do 10 sep          | ma 14 sep          |  
-| Module 3  | do 17 sep          | ma 21 sep          |  
-| Module 4  | do 24 sep          | vr 25 sep          |  
+| onderdeel | deadline oplossing | deadline verbeterd | telt mee |  
+| --------- | ------------------ | ------------------ | -------- |
+| Module 0  | ma 31 aug          | -                  | 0%       |
+| Module 1  | do  3 sep          | ma  7 sep          | 25%      |  
+| Module 2  | do 10 sep          | ma 14 sep          | 25%      |  
+| Module 3  | do 17 sep          | ma 21 sep          | 25%      |  
+| Module 4  | do 24 sep          | vr 25 sep          | 25%      |  
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
@@ -83,7 +83,7 @@ Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het 
 
 ## Opdrachten
 
-De modules kunnen 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
+Modules 1 t/m 4 kunnen elk 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
