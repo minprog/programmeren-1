@@ -24,7 +24,7 @@ Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistente
 
 ## Opdrachten
 
-In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
+In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Daarbij word je ingedeeld in een mentorgroep met 8--10 andere studenten. Bovendien heb je elke week één van de groepsgenoten als partner om samen oplossingen te ontwerpen, die je vervolgens zelf uitwerkt. Je werkt steeds volgens dit proces:
 
 ![](../proces.png)
 
