@@ -22,11 +22,13 @@ Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistente
 </details>
 
 
-## Minimumeisen
+## Verwachtingen
 
 In dit vak ga je verreweg de meeste tijd besteden aan het uitwerken van programmeeropdrachten. Je word ingedeeld in een mentorgroep met 8--10 andere studenten. Elke week heb je bovendien één van de groepsgenoten als partner om samen aan de opdrachten te werken.
 
-Om de cursus tot een goed einde te brengen, verwachten we dat je:
+Er zijn diverse dingen die je tijdens de cursus moet doen en inleveren, namelijk:
+
+![](../proces.png)
 
 - een **oplossing** voor elke opdracht samen met je partner ontwerpt,
 - een **uitwerking** van deze oplossing maakt,
@@ -35,7 +37,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 - **verbetert** op basis van review en eerdere feedback, en dat je
 - tot slot een **reflectie** schrijft op je feedback.
 
-We verwachten ook dat je:
+En daarnaast zijn er een aantal voorwaarden waar je aan moet voldoen, namelijk dat je:
 
 - alle **videocolleges** bekijkt ter voorbereiding van de opdrachten,
 - alle **werkgroepen** met je mentor bijwoont,
@@ -44,7 +46,7 @@ We verwachten ook dat je:
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
 
-Studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak, tenzij een *schriftelijke* uitzondering is gegeven door de vakdocenten. We zullen daarin heel redelijk zijn. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
+Studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende te halen voor het vak. Dat moet goed te doen zijn! Is er een reden dat je niet aan een minimum kunt voldoen, dan moet je een *schriftelijke* uitzondering vragen aan de vakdocenten. We zullen daarin heel redelijk zijn. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
 
 
 ## Uitzonderingen in tijden van Corona
