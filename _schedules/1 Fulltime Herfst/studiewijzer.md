@@ -49,12 +49,6 @@ Studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende
 In de herfst is de mogelijkheid dat je langduriger ziek wordt. Bij een fulltimecursus is het missen van een aantal dagen al lastig, laat staan enkele weken. We hebben enige ruimte ingebouwd om met jou een persoonlijke planning af te kunnen spreken in gevallen van nood. Het enige dat je hoeft te doen is je zo snel mogelijk te **melden** bij de docenten via <help@mprog.nl> en je **nogmaals** melden zodra je weer zo fit bent dat je kunt programmeren. Dan maken we persoonlijke afspraken.
 
 
-## Eindcijfer
-
-Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules.
-De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
-
-
 ## Modules
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
@@ -81,9 +75,13 @@ Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het 
 </details>
 
 
-## Opdrachten
+## Eindcijfer
 
-Modules 1 t/m 4 kunnen elk 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
+Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules.
+De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
+
+Modules 1 t/m 4 kunnen elk 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
+De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -94,7 +92,8 @@ Modules 1 t/m 4 kunnen elk 0--6 punten opleveren, en voor elke module zijn diver
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten (4 beoordeelde modules x 6 punten).
+Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
+(4 beoordeelde modules x 6 punten).
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
