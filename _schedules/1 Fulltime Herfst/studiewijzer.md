@@ -49,7 +49,7 @@ Studenten moeten minimaal aan bovenstaande minimumeisen voldoen om een voldoende
 In de herfst is de mogelijkheid dat je langduriger ziek wordt. Bij een fulltimecursus is het missen van een aantal dagen al lastig, laat staan enkele weken. We hebben enige ruimte ingebouwd om met jou een persoonlijke planning af te kunnen spreken in gevallen van nood. Het enige dat je hoeft te doen is je zo snel mogelijk te **melden** bij de docenten via <help@mprog.nl> en je **nogmaals** melden zodra je weer zo fit bent dat je kunt programmeren. Dan maken we persoonlijke afspraken.
 
 
-## Modules
+## Deadlines
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert. Alle deadlines zijn om 16:59 op de hieronder genoemde datum.
 
