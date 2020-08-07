@@ -194,7 +194,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
 "Wees redelijk" is kort samengevat het beleid van dit vak. Natuurlijk is het nuttig om interactie te hebben met je medestudenten en dat dit kan helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
 
-De essentie van alles wat je inlevert moet van jou afkomstig zijn. Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je klasgenoten en anderen om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander.
+De essentie van alles wat je inlevert moet van jou afkomstig zijn. Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je klasgenoten en anderen om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
 Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent. Als je onredelijk handelt dan zal dit leiden tot een melding bij de examencommissie.
 
