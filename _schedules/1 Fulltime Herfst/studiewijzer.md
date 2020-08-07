@@ -82,15 +82,14 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-In het geval van planningsproblemen of ziekte is het mogelijk de oplossingsdeadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek (1/2 punt en 1 punt).
-Dit gaat volledig automatisch bij later inleveren en hoeft dus in beginsel niet gemeld te worden.
-Toch is het verstandig om je mentor aan te spreken om te overleggen of advies te vragen over het halen van verdere deadlines.
+In het geval van planningsproblemen of kortdurende ziekte is het mogelijk de oplossingsdeadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek (1/2 punt respectievelijk 1 punt).
+Dit gaat volledig automatisch bij later inleveren. Breng wel altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines.
 
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve bij medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten. Vaak is er een goede oplossing mogelijk.
 
-Raak je uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met één van de docenten. Zij kunnen je hierover adviseren.
+Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met één van de docenten. Zij kunnen je hierover adviseren.
 </details>
 
 
