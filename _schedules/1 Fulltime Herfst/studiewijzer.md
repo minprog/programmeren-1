@@ -17,11 +17,14 @@ Bij dit vak word je ingedeeld in een team met een **mentor**. Dat is een ouderej
 | D     |        |                     |
 | E     |        |                     |
 
+Docenten zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
 ## Vragen stellen
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
-- Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
+Je mentor is je aanspreekpunt voor praktische zaken en het nakijken. Andere vragen kun je op verschillende plekken kwijt:
+
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Ed is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
+- Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie). De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur. Let op dat het rondom deadlines erg druk kan worden en je lang moet wachten.
 - Voor het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
