@@ -4,13 +4,25 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python and SQL plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-## Contact
 
-Je docenten zijn Martijn Stegeman (coördinator) en Jelle van Assema. Assistenten zijn .... Zij staan voor je klaar om je te helpen met het oplossen van programmeerproblemen en het beantwoorden van vragen over de stof.
+## Mentor
+
+Bij dit vak word je ingedeeld in een team met een **mentor**. Dat is een ouderejaars student of docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
+
+| Groep | Mentor | Link voor werkgroep |
+| ----- | ------ | ------------------- |
+| A     |        |                     |
+| B     |        |                     |
+| C     |        |                     |
+| D     |        |                     |
+| E     |        |                     |
+
+
+## Vragen stellen
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365).
 - Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
-- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+- Voor het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 
