@@ -61,9 +61,9 @@ Om het vak te kunnen halen is het nodig dat je:
 
 Studenten moeten minimaal aan bovenstaande **minimumeisen** voldoen om een voldoende te halen voor het vak. Dat moet goed te doen zijn! Is er een reden dat je niet aan een minimum kunt voldoen, dan moet je een *schriftelijke* uitzondering vragen aan de vakdocenten. We zullen daarin heel redelijk zijn.
 
-Alle opdrachten worden wekelijks onderling en met eerdere inzendingen vergeleken met behulp van een detectieprogramma. De uitslag noemen we de **plagiaatschaal**. Scoor je hoog op de schaal dan spreek je op korte termijn met één van de docenten om je voor te lichten en te helpen met de beste werkwijze voor dit vak. De ervaring leert dat je niet hoog scoort op de plagiaatschaal als je niet naar andermans uitwerkingen kijkt bij het maken van je eigen uitwerking. Maak je er dus geen zorgen over; ons doel is je te helpen dit te voorkomen.
+Alle opdrachten worden wekelijks onderling en met eerdere inzendingen vergeleken met behulp van een detectieprogramma. De uitslag noemen we de **plagiaatschaal**. Scoor je hoog op de schaal dan spreek je op korte termijn met één van de docenten die je zal voorlichten en helpen met de beste aanpak voor dit vak. De ervaring leert dat je niet hoog scoort op de plagiaatschaal als je niet naar andermans uitwerkingen kijkt bij het maken van je eigen uitwerking. Maak je er dus geen zorgen over; ons doel is je te helpen dit te voorkomen.
 
-Dit vak kent een **mondeling tentamen** dat na inleveren van de laatste opdracht op afspraak afgenomen kan worden. Scoor je systematisch laag op de plagiaatschaal, dan krijg je vrijstelling van het tentamen, omdat we dan voldoende informatie hebben om tot een eindoordeel te kunnen komen. Het mondeling bestaat uit het uitgebreid doorspreken van één of meer opdrachten, waarbij jij kunt uitleggen hoe je programma's precies werken en hoe je bepaalde aanpassingen zou kunnen doen.
+Dit vak kent een **mondeling tentamen** dat na inleveren van de laatste opdracht op afspraak afgenomen kan worden. Scoor je systematisch laag op de plagiaatschaal, dan krijg je vrijstelling van het tentamen, omdat we dan voldoende informatie hebben om tot een eindoordeel te kunnen komen. Het mondeling bestaat uit het uitgebreid doorspreken van één of meer opdrachten, waarbij jij kunt uitleggen hoe je programma's precies werken en laten zien hoe je bepaalde aanpassingen zou kunnen doen.
 
 
 ## Uitzonderingen in tijden van Corona
@@ -125,17 +125,21 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
 
 In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. <!-- Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen. -->
 
-### Oefeningen
-
-Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het "Basisboek Programmeren" dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website. Jouw antwoorden op de oefeningen worden doorgenomen tijdens de werkgroepen.
-
 ### Werkgroepen
 
 Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
-### Practicumuren
+### Oefeningen
 
-Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Binnen deze tijden kun je op diverse manieren je vragen kwijt. Zie daarvoor "Vragen stellen" bovenaan deze studiewijzer.
+Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website. Jouw antwoorden op de oefeningen worden doorgenomen tijdens de werkgroepen.
+
+### Werkuren
+
+Tijdens de werkuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Let daarbij wel op dat je op een "redelijke" manier samenwerkt, zoals vermeld aan het einde van deze studiewijzer.
+
+### Checkup
+
+Elke dag om 9:30 doe je een video-checkup met je mentorgroep, maar zonder je mentor. Daarbij laat je weten hoe je ervoor staat met je opdracht, waar je aan gewerkt hebt en vooral waar je vandaag aan wil werken. Je kunt ook om advies vragen over je aanpak, bijvoorbeeld als je vastzit. Misschien is er een groepsgenoot die hetzelfde probleem al is tegengekomen.
 
 ### Boeken
 
