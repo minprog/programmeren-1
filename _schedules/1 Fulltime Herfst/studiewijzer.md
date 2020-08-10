@@ -7,7 +7,7 @@
 
 ## Mentor
 
-Je wordt bij dit vak ingedeeld in een mentorgroep met 8--10 andere studenten. Je mentor is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
+Je wordt bij dit vak ingedeeld in een mentorgroep met 8--10 andere studenten. Je mentor is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
 
 | Groep | Mentor | Link voor werkgroep |
 | ----- | ------ | ------------------- |
@@ -23,9 +23,10 @@ Docenten zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en ve
 
 Je mentor is je aanspreekpunt voor praktische zaken en het nakijken. Andere vragen kun je op verschillende plekken kwijt:
 
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Ed is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
-- Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, zet jezelf dan in de wachtrij voor video-assistentie via deze site. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur. Let op dat het rondom deadlines erg druk kan worden en je lang moet wachten.
-- Voor het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+- Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de [Slack](/slack) van je mentorgroep. Je medestudenten en mentor denken met je mee.
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
+- Als je niet weet hoe je een vraag moet stellen of je weet niet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur. Let op dat het rondom deadlines erg druk kan worden en de wachttijd kan oplopen!
+- Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 
