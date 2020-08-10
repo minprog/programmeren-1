@@ -7,7 +7,7 @@
 
 ## Mentor
 
-Daarbij word je ingedeeld in een mentorgroep met 8--10 andere studenten. Je mentor is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
+Je wordt bij dit vak ingedeeld in een mentorgroep met 8--10 andere studenten. Je mentor is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
 
 | Groep | Mentor | Link voor werkgroep |
 | ----- | ------ | ------------------- |
