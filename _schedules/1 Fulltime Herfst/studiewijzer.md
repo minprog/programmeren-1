@@ -7,7 +7,7 @@
 
 ## Mentor
 
-Bij dit vak word je ingedeeld in een team met een **mentor**. Dat is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
+Daarbij word je ingedeeld in een mentorgroep met 8--10 andere studenten. Je mentor is een ouderejaars student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan je vragen over de organisatie van het vak beantwoorden. Je maakt kennis met je mentor tijdens de eerste bijeenkomst.
 
 | Groep | Mentor | Link voor werkgroep |
 | ----- | ------ | ------------------- |
@@ -29,20 +29,21 @@ Je mentor is je aanspreekpunt voor praktische zaken en het nakijken. Andere vrag
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 
-- neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem en na het halve uur kun je soms toch weer verder
+- Neem een halfuurtje echt even afstand van je computer; dit helpt je brein afstand nemen van het probleem. Met een frisse blik kom je dan toch weer verder.
 
-- ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat
+- Ga even door met de volgende opdracht van de module om te kijken hoe je daar mee gaat.
 
-- of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten
+- Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
 
 ## Opdrachten
 
-In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Daarbij word je ingedeeld in een mentorgroep met 8--10 andere studenten. Bovendien heb je elke week één van de groepsgenoten als partner om samen oplossingen te ontwerpen, die je vervolgens zelf uitwerkt. Je werkt steeds volgens dit proces:
+In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
 
 ![](../proces.png)
 
+Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Code reviews zijn per definitie altijd met een andere student en je mentor zal zorgen dat je deze review elke keer met een andere student doet. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 ## Verwachtingen
 
@@ -56,16 +57,16 @@ Om het vak te kunnen halen is het nodig dat je:
 - laag scoort op de **plagiaatschaal**, en
 - tijdig **hulp** zoekt bij de medewerkers van de minor.
 
-Studenten moeten minimaal aan bovenstaande **minimumeisen** voldoen om een voldoende te halen voor het vak. Dat moet goed te doen zijn! Is er een reden dat je niet aan een minimum kunt voldoen, dan moet je een *schriftelijke* uitzondering vragen aan de vakdocenten. We zullen daarin heel redelijk zijn. Ben je bijvoorbeeld ziek, stuur dan altijd een mail naar de docenten via <help@mprog.nl> en bespreek het met je mentor.
+Studenten moeten minimaal aan bovenstaande **minimumeisen** voldoen om een voldoende te halen voor het vak. Dat moet goed te doen zijn! Is er een reden dat je niet aan een minimum kunt voldoen, dan moet je een *schriftelijke* uitzondering vragen aan de vakdocenten. We zullen daarin heel redelijk zijn.
 
-Alle opdrachten worden wekelijks onderling en met eerdere inzendingen vergeleken. We noemen dit de **plagiaatschaal**. Scoor je hoog op de schaal dan spreek je op korte termijn met één van de docenten om je voor te lichten en te helpen met de beste werkwijze voor dit vak. De ervaring leert dat je niet hoog scoort op de plagiaatschaal als je niet naar andermans uitwerkingen kijkt. Maak je er dus geen zorgen over; ons doel is je te helpen dit te voorkomen.
+Alle opdrachten worden wekelijks onderling en met eerdere inzendingen vergeleken met behulp van een detectieprogramma. De uitslag noemen we de **plagiaatschaal**. Scoor je hoog op de schaal dan spreek je op korte termijn met één van de docenten om je voor te lichten en te helpen met de beste werkwijze voor dit vak. De ervaring leert dat je niet hoog scoort op de plagiaatschaal als je niet naar andermans uitwerkingen kijkt bij het maken van je eigen uitwerking. Maak je er dus geen zorgen over; ons doel is je te helpen dit te voorkomen.
 
 Dit vak kent een **mondeling tentamen** dat na inleveren van de laatste opdracht op afspraak afgenomen kan worden. Scoor je systematisch laag op de plagiaatschaal, dan krijg je vrijstelling van het tentamen, omdat we dan voldoende informatie hebben om tot een eindoordeel te kunnen komen. Het mondeling bestaat uit het uitgebreid doorspreken van één of meer opdrachten, waarbij jij kunt uitleggen hoe je programma's precies werken en hoe je bepaalde aanpassingen zou kunnen doen.
 
 
 ## Uitzonderingen in tijden van Corona
 
-Bij een fulltimecursus is het missen van een aantal dagen nogal lastig om in te halen, laat staan enkele weken. We hebben enige ruimte ingebouwd om met jou een persoonlijke planning af te kunnen spreken in gevallen van nood. Het enige dat je hoeft te doen is je zo snel mogelijk te **melden** bij de docenten via <help@mprog.nl> en je **nogmaals** melden zodra je weer zo fit bent dat je kunt programmeren. Dan maken we persoonlijke afspraken.
+Bij een fulltimecursus is het missen van een aantal dagen nogal lastig om in te halen, laat staan enkele weken. We hebben enige ruimte ingebouwd om met jou een persoonlijke planning af te kunnen spreken in gevallen van nood. Het enige dat je hoeft te doen is je bij ziekte direct te **melden** bij je mentor, en je **nogmaals** melden zodra je weer zo fit bent dat je kunt programmeren. Ben je langer dan een paar dagen ziek, neem dan zelf niet alleen contact op met je mentor, maar ook met de docenten.
 
 
 ## Deadlines
@@ -87,7 +88,7 @@ Dit gaat volledig automatisch bij later inleveren. Breng wel altijd direct je me
 
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten, maar zeker vóór je doorgaat met werken aan de opdrachten. Vaak is er een goede oplossing mogelijk.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten via <help@mprog.nl>, maar zeker vóór je doorgaat met werken aan de opdrachten. Vaak is er wel een goede oplossing mogelijk.
 
 Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met één van de docenten. Zij kunnen je hierover adviseren.
 </details>
@@ -116,7 +117,7 @@ Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
 
-## Overige onderdelen
+## Onderdelen
 
 ### Hoorcolleges
 
@@ -132,7 +133,7 @@ Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werk
 
 ### Practicumuren
 
-Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Tussen 13 en 17 uur zijn altijd studentassistenten aanwezig om vragen aan te stellen, zoals hierboven vermeld.
+Tijdens de practicumuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Binnen deze tijden kun je op diverse manieren je vragen kwijt. Zie daarvoor "Vragen stellen" bovenaan deze studiewijzer.
 
 ### Boeken
 
