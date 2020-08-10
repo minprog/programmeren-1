@@ -91,7 +91,7 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-In het geval van planningsproblemen of kortdurende ziekte is het mogelijk de oplossingsdeadline met 1 tot 3 dagen op te schuiven, in ruil voor een bescheiden puntenaftrek. Dit gaat automatisch, maar breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines.
+In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je mentor de deadline één of twee dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
 
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
@@ -113,12 +113,12 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
+<!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
 
-| uitstel          | aftrek                            |  
-| ---------------- | --------------------------------- |  
-| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |  
-| maximaal 3 dagen | 1 punt                            |  
+| uitstel          | aftrek                            |
+| ---------------- | --------------------------------- |
+| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |
+| maximaal 3 dagen | 1 punt                            |   -->
 
 Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk. Dat komt neer op de volgende weging tussen de modules:
 
@@ -131,6 +131,14 @@ Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor
 | Module 4  | 25%      |  
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
+
+### Hackerpunten
+
+Voor veel opdrachten bieden we ook een zogenaamde "hackerversie" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de normale versie van de opdracht maakt en inlevert. Dat is namelijk de versie die beoordeeld zal worden en waarmee je een review doet.
+
+Toch kan het leuk zijn om de hackerversies te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra als je voor een module **alle** hackerversies hebt ingeleverd, omdat ze moeilijker zijn en je vaak ook meer code schrijft. Let daarbij dus op dat je zowel de normale versies als de hackerversies van de opdrachten inlevert.
+
+Het is niet mogelijk om via video-assistentie hulp te krijgen voor de hackeropdrachten. Wel kun je er vragen over stellen via Ed.
 
 
 ## Onderdelen
