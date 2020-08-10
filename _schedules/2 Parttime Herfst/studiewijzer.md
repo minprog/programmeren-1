@@ -74,19 +74,19 @@ Bij een fulltimecursus is het missen van een aantal dagen nogal lastig om in te 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert. Alle deadlines zijn om 12:59 op de hieronder genoemde datum.
+Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert.
 
 | onderdeel         | deadline oplossing | deadline verbeterd |  
 | ----------------- | ------------------ | ------------------ |
-| Module 0          | vr  4 sep          |                    |  
-| Module 1          | vr 11 sep          | di 18 feb          |  
-| Module 2          | vr 18 sep          | di 25 feb          |  
+| Module 0          | vr  4 sep  12:59   |                    |  
+| Module 1          | vr 11 sep  12:59   | di 18 feb  12:59   |  
+| Module 2          | vr 18 sep  12:59   | di 25 feb  12:59   |  
 | Module 3          |                    |                    |  
-| - Find            | vr 25 sep          | di 10 mrt          |  
-| - Fifteen         | vr  2 okt          | di 10 mrt          |  
+| - Find            | vr 25 sep  12:59   | di 10 mrt  12:59   |  
+| - Fifteen         | vr  2 okt  12:59   | di 10 mrt  12:59   |  
 | Module 4          |                    |                    |  
-| - Whodunit/Filter | vr  9 okt          | di 24 mrt          |  
-| - Recover         | vr 16 okt          | di 24 mrt          |  
+| - Whodunit/Filter | vr  9 okt  12:59   | di 24 mrt  12:59   |  
+| - Recover         | vr 16 okt  12:59   | di 24 mrt  12:59   |  
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
