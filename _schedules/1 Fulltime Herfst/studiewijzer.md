@@ -21,7 +21,7 @@ Docenten zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en ve
 
 ## Vragen stellen
 
-Je mentor is je aanspreekpunt voor praktische zaken en het nakijken. Andere vragen kun je op verschillende plekken kwijt:
+Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Afhankelijk van het soort vraag is er een beste plek om deze te stellen:
 
 - Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de [Slack](/slack) van je mentorgroep. Je medestudenten en mentor denken met je mee.
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
