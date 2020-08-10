@@ -74,7 +74,7 @@ Bij een fulltimecursus is het missen van een aantal dagen nogal lastig om in te 
 
 ## Deadlines
 
-Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma verbetert en nogmaals inlevert.
+Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
 | onderdeel | deadline oplossing | deadline verbeterd | telt mee |  
 | --------- | ------------------ | ------------------ | -------- |
