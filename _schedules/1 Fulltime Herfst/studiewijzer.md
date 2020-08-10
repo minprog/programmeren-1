@@ -19,6 +19,7 @@ Je wordt bij dit vak ingedeeld in een mentorgroep met 8--10 andere studenten. Je
 
 Docenten zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
+
 ## Opdrachten
 
 In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
