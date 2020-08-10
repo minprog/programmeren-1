@@ -98,9 +98,6 @@ Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zet
 
 ## Eindcijfer
 
-Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules.
-De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
-
 Modules 1 t/m 4 kunnen elk 0--6 punten opleveren, en voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
@@ -113,8 +110,8 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
-(4 beoordeelde modules x 6 punten).
+Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
+(4 beoordeelde modules x 6 punten). De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
