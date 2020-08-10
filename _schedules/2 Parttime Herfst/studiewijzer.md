@@ -78,7 +78,7 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | onderdeel         | deadline oplossing | deadline verbeterd |  
 | ----------------- | ------------------ | ------------------ |
-| Module 0          | vr  4 sep  20:59   |                    |  
+| Module 0          | vr  4 sep  20:59   | -                  |  
 | Module 1          | vr 11 sep  20:59   | di 18 feb  20:59   |  
 | Module 2          | vr 18 sep  20:59   | di 25 feb  20:59   |  
 | Module 3          |                    |                    |  
@@ -116,17 +116,22 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 0. niet genoeg code om te beoordelen
 {: start="6" reversed=""}
 
-Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
-(4 beoordeelde modules x 6 punten). De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven. Dat komt neer op de volgende weging tussen de modules:
+Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
+
+| uitstel          | aftrek                            |  
+| ---------------- | --------------------------------- |  
+| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |  
+| maximaal 3 dagen | 1 punt                            |  
+
+Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk. Dat komt neer op de volgende weging tussen de modules:
 
 | onderdeel | telt mee |  
 | --------- | -------- |
-| Module 0  | 0%       |
+| Module 0  | 0%       |  
 | Module 1  | 25%      |  
 | Module 2  | 25%      |  
 | Module 3  | 25%      |  
 | Module 4  | 25%      |  
-
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
