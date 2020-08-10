@@ -78,15 +78,15 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | onderdeel         | deadline oplossing | deadline verbeterd |  
 | ----------------- | ------------------ | ------------------ |
-| Module 0          | vr  4 sep  12:59   |                    |  
-| Module 1          | vr 11 sep  12:59   | di 18 feb  12:59   |  
-| Module 2          | vr 18 sep  12:59   | di 25 feb  12:59   |  
+| Module 0          | vr  4 sep  20:59   |                    |  
+| Module 1          | vr 11 sep  20:59   | di 18 feb  20:59   |  
+| Module 2          | vr 18 sep  20:59   | di 25 feb  20:59   |  
 | Module 3          |                    |                    |  
-| - Find            | vr 25 sep  12:59   | di 10 mrt  12:59   |  
-| - Fifteen         | vr  2 okt  12:59   | di 10 mrt  12:59   |  
+| - Find            | vr 25 sep  20:59   | di 10 mrt  20:59   |  
+| - Fifteen         | vr  2 okt  20:59   | di 10 mrt  20:59   |  
 | Module 4          |                    |                    |  
-| - Whodunit/Filter | vr  9 okt  12:59   | di 24 mrt  12:59   |  
-| - Recover         | vr 16 okt  12:59   | di 24 mrt  12:59   |  
+| - Whodunit/Filter | vr  9 okt  20:59   | di 24 mrt  20:59   |  
+| - Recover         | vr 16 okt  20:59   | di 24 mrt  20:59   |  
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
@@ -117,7 +117,7 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 {: start="6" reversed=""}
 
 Het cijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. Op basis van bovenstaand schema is de maximumscore voor deze cursus 24 punten
-(4 beoordeelde modules x 6 punten). De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven.
+(4 beoordeelde modules x 6 punten). De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven. Dat komt neer op de volgende weging tussen de modules:
 
 | onderdeel | telt mee |  
 | --------- | -------- |
