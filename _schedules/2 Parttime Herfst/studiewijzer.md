@@ -120,6 +120,8 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 | maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |
 | maximaal 3 dagen | 1 punt                            |   -->
 
+### Eindcijfer
+
 Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk. Dat komt neer op de volgende weging tussen de modules:
 
 | onderdeel | telt mee |  
