@@ -7,7 +7,7 @@ links:
     '[terminal] IDE': https://ide.cs50.io/
     '[diagram-3] Steps': /steps
     '[question-square] Forum': https://us.edstem.org/courses/341
-    '[camera-video] Assistentie': https://calendly.com/mprog-parttime/assistentie
+    # '[camera-video] Assistentie': https://calendly.com/mprog-parttime/assistentie
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/college/2019/fall/ -- Copyright 2011--2019, David J. Malan.'
