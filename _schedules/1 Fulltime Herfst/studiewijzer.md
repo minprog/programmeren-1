@@ -19,6 +19,15 @@ Je wordt bij dit vak ingedeeld in een mentorgroep met 8--10 andere studenten. Je
 
 Docenten zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
+## Opdrachten
+
+In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
+
+![](../proces.png)
+
+Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Code reviews zijn per definitie altijd met een andere student en je mentor zal zorgen dat er gerouleerd wordt. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+
+
 ## Vragen stellen
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Afhankelijk van het soort vraag is er een beste plek om deze te stellen:
@@ -37,14 +46,6 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
-
-## Opdrachten
-
-In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
-
-![](../proces.png)
-
-Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Code reviews zijn per definitie altijd met een andere student en je mentor zal zorgen dat je deze review elke keer met een andere student doet. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 ## Verwachtingen
 
