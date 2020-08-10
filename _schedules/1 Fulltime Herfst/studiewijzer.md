@@ -30,12 +30,12 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 ## Vragen stellen
 
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Afhankelijk van het soort vraag is er een beste plek om deze te stellen:
+Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn vier belangrijke opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-- Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de [Slack](/slack) van je mentorgroep. Je medestudenten en mentor denken met je mee. (Let op dat je mentor zeker niet 24/7 beschikbaar kan zijn, dus wees bescheiden.)
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
-- Als je niet weet hoe je een vraag moet stellen of je weet niet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
-- Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+1. Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de [Slack](/slack) van je mentorgroep. Je medestudenten en mentor denken met je mee. (Let op dat je mentor zeker niet 24/7 beschikbaar kan zijn, dus wees bescheiden.)
+2. Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
+3. Als je niet weet hoe je een vraag moet stellen of je weet niet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
+4. Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 
