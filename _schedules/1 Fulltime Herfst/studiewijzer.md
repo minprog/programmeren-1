@@ -62,7 +62,7 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 ## Vragen stellen
 
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn vier belangrijke opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
 **Slack** --- Heb je vragen over hoe de cursus werkt, advies of support nodig van medestudenten, dan kun je terecht op de Slack van je team. Je medestudenten en mentor denken met je mee. Let wel op dat je mentor lang niet altijd beschikbaar kan zijn, dus post gerust iets maar verwacht niet meteen antwoord.
 
