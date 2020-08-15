@@ -64,7 +64,7 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn vier belangrijke opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Slack** --- Heb je vragen over hoe de cursus werkt, advies of support nodig van medestudenten, dan kun je terecht op de Slack van je team. Je medestudenten en mentor denken met je mee. (Let op dat je mentor niet 24/7 beschikbaar kan zijn, dus post gerust iets maar verwacht niet altijd direct antwoord.)
+**Slack** --- Heb je vragen over hoe de cursus werkt, advies of support nodig van medestudenten, dan kun je terecht op de Slack van je team. Je medestudenten en mentor denken met je mee. Let wel op dat je mentor lang niet altijd beschikbaar kan zijn, dus post gerust iets maar verwacht niet meteen antwoord.
 
 **Ed** --- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
 
