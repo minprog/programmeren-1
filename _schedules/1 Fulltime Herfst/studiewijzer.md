@@ -10,15 +10,15 @@ Coördinator is Jelle van Assema en examinator is Martijn Stegeman. Zij geven he
 
 Bij dit vak wordt van je verwacht dat je:
 
-1. alle opdrachten maakt zoals verderop beschreven
+1. alle opdrachten maakt zoals beschreven onder [werkwijze](#werkwijze)
 2. alle oefeningen doet
 3. alle werkgroepen en checkups bijwoont
 
 Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-4. laag scoren op de "plagiaatschaal"
-5. actief en regelmatig vragen stellen of beantwoorden op het forum
-6. goed meedoen aan het huiswerk voor de werkcolleges
+4. actief en regelmatig vragen stellen of beantwoorden op het forum
+5. goed meedoen aan het huiswerk voor de werkcolleges
+6. laag scoren op de "plagiaatschaal"
 {: start="4"}
 
 Op die manier kunnen mentoren en docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
@@ -190,49 +190,17 @@ ISBN 9780321776419
 </details>
 
 
-## Herkansingen
+## Samenwerken
 
-Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met je mentor als je denkt dat je in de problemen komt met de planning en/of je cijfers. Ook de coördinator spreekt graag met je als je advies nodig hebt.
+De essentie van alles wat je inlevert moet jouw eigen intellectueel werk zijn, tenzij anders aangegeven.
 
-<details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
+Natuurlijk is het nuttig om interactie te hebben met je medestudenten en dat dit kan helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
 
-  - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
-
-  - Alle programma's moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
-
-  - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
-</details>
-
-<details markdown="1"><summary markdown="span">Ik heb een opdracht niet werkend ingeleverd en wil herkansen</summary>
-  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
-
-  - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
-
-  - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan, met uitzondering van opdrachten die zijn vervangen door nieuwe.
-
-  - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden.
-
-  - Alle nieuwe beoordelingen vinden plaats zoals gangbaar op het moment van herkansen.
-</details>
-
-<details markdown="1"><summary markdown="span">Ik heb niet aan de minimumeisen voldaan en wil herkansen</summary>
-  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
-
-  - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
-</details>
-
-<!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
-
-
-## Samenwerken, fraude en plagiaat
-
-"Wees redelijk" is kort samengevat het beleid van dit vak. Natuurlijk is het nuttig om interactie te hebben met je medestudenten en dat dit kan helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
-
-De essentie van alles wat je inlevert moet van jou afkomstig zijn. Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je klasgenoten en anderen om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
-
-Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent. Als je onredelijk handelt dan zal dit leiden tot een melding bij de examencommissie.
+Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
 Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat specifiek ontworpen is voor het signaleren van overeenkomsten in programmacode. Als je niet systematisch laag scoort op de resulterende plagiaatschaal dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt.
+
+Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent. Als je onredelijk handelt dan zal dit leiden tot een melding bij de examencommissie.
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
@@ -289,3 +257,37 @@ Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesyste
 </details>
 
 In alle gevallen volgen we de [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam en de richtlijnen van de examencommissie voor de Minor Programmeren.
+
+
+## Herkansingen
+
+Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met je mentor als je denkt dat je in de problemen komt met de planning en/of je cijfers. Ook de coördinator spreekt graag met je als je advies nodig hebt.
+
+<details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
+
+  - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
+
+  - Alle programma's moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
+
+  - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
+</details>
+
+<details markdown="1"><summary markdown="span">Ik heb een opdracht niet werkend ingeleverd en wil herkansen</summary>
+  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
+
+  - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
+
+  - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan, met uitzondering van opdrachten die zijn vervangen door nieuwe.
+
+  - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden.
+
+  - Alle nieuwe beoordelingen vinden plaats zoals gangbaar op het moment van herkansen.
+</details>
+
+<details markdown="1"><summary markdown="span">Ik heb niet aan de minimumeisen voldaan en wil herkansen</summary>
+  - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
+
+  - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
+</details>
+
+<!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
