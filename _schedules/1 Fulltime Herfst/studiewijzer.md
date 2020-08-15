@@ -68,11 +68,11 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Ed** --- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
 
-**Assistentie** --- Als je niet weet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
+**Assistentie** --- Als je niet weet waar je moet beginnen met het implementeren van je opdracht, of je hebt moeite met het vinden van een bug, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
 
 **Helpdesk** --- Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
 
-**Mail** --- Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+**Mail** --- Voor het maken van persoonlijke planningsafspraken en het verkrijgen van uitzonderingen stuur je een officiële mail naar de coördinator op <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -202,7 +202,7 @@ Natuurlijk is het nuttig om interactie te hebben met je medestudenten en dat dit
 
 Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
-Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent. Als je onredelijk handelt dan zal dit leiden tot een melding bij de examencommissie.
+Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van de coördinator. Als je onredelijk handelt dan kan dit leiden tot een melding bij de examencommissie.
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
@@ -258,11 +258,15 @@ Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder v
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 </details>
 
-Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Als er plagiaat wordt vermoed, dan moet altijd gemeld worden bij de examencommissie.
+### Plagiaatschaal
 
-Als je niet systematisch laag scoort op de resulterende plagiaatschaal dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit is simpelweg om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
+Alle inzendingen worden wekelijks gecontroleerd met behulp van een **detectiesysteem** dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Als er plagiaat wordt vermoed, dan moet dit gemeld worden bij de examencommissie.
 
-In alle gevallen volgen we de [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam en de richtlijnen van de examencommissie voor de Minor Programmeren.
+Als je niet systematisch laag scoort op de resulterende **plagiaatschaal** dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit is simpelweg om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
+
+### Meer informatie
+
+De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
 
 ## Herkansingen
