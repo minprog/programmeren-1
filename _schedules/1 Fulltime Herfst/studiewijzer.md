@@ -4,7 +4,7 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-Coördinator is Jelle van Assema en examinator is Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+De coördinator van dit vak is Jelle van Assema en de examinator is Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
 ## Verwachtingen
 
@@ -43,7 +43,7 @@ Je moet aan alle bovenstaande eisen voldoen om een cijfer te krijgen voor het va
 
 Je zit bij dit vak in een team met 8--12 andere studenten. Je mentor is een ervaren student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden.
 
-Groepen worden pas na de deadline van module 0 definitief ingedeeld. Daarna ontvang je een uitnodiging voor een chatomgeving (Slack) waar je contact kunt onderhouden met je team en je mentor. Via Slack zal je mentor laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met je team.
+De teamindeling wordt na de eerste deadline bekend gemaakt. Daarna ontvang je een uitnodiging voor een chatomgeving (Slack) waar je contact kunt onderhouden met je team en je mentor. Via Slack zal je mentor laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met je team.
 
 In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code.
 
@@ -103,9 +103,9 @@ In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met j
 
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. In dat geval is het noodzakelijk om direct contact op te nemen met de docenten via <help@mprog.nl>, maar zeker vóór je doorgaat met werken aan de opdrachten. Vaak zijn er nog wel oplossingen te verzinnen.
+Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
 
-Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met één van de docenten. Zij kunnen je hierover adviseren.
+Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met een docent. Ook hierover kunnen zij je adviseren.
 </details>
 
 
@@ -177,7 +177,7 @@ Elke dag om 9:30 doe je een video-checkup met je mentorgroep, maar zonder je men
 
 Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderwerpen, dan kunnen de volgende boeken je verder op weg helpen. Ze zijn niet noodzakelijk voor het halen van het vak.
 
-<details markdown="1"><summary markdown="span">*Voor mensen die nog nooit geprogrammeerd hebben*</summary>
+<details markdown="1"><summary markdown="span">Voor mensen die nog nooit geprogrammeerd hebben</summary>
 
 C Programming Absolute Beginner's Guide, Third Edition  
 Greg Perry, Dean Miller  
@@ -185,7 +185,7 @@ Pearson Education, 2014
 ISBN 9780789751980
 </details>
 
-<details markdown="1"><summary markdown="span">*Voor studenten met iets meer ervaring*</summary>
+<details markdown="1"><summary markdown="span">Voor studenten met iets meer ervaring</summary>
 
 Programming in C, Fourth Edition  
 Stephen G. Kochan  
@@ -258,7 +258,8 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 </details>
 
-### Plagiaat
+
+## Plagiaat
 
 Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
