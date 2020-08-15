@@ -264,6 +264,8 @@ Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesyste
 
 Ook als er geen duidelijk vermoeden van plagiaat is kan het zijn dat er overeenkomsten gevonden worden. Als dit vaker gebeurt dan kun je het vak alleen afronden als je tijdens een **mondelinge** bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
 
+In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
+
 De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
 
