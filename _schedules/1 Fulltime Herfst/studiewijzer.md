@@ -45,7 +45,7 @@ Je zit bij dit vak in een team met 8--12 andere studenten. Je mentor is een erva
 
 Groepen worden pas na de deadline van module 0 definitief ingedeeld. Daarna ontvang je een uitnodiging voor een chatomgeving (Slack) waar je contact kunt onderhouden met je medestudenten en je mentor. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is, waar je via video kennis maakt met je team.
 
-In het team zul je onder andere samenwerken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code (zie ook verderop).
+In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code.
 
 | Groep | Mentor | Link voor werkgroep |  
 | ----- | ------ | ------------------- |  
@@ -62,7 +62,7 @@ In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programme
 
 1. ontwerp een oplossing voor de opdracht, samen met een partner uit je team
 2. implementeer de oplossing, zonder partner, maar met allerlei mogelijkheden voor hulp
-3. review met een partner uit je team elkaars uitwerkingen van de hele module
+3. review met een partner uit je team elkaars uitwerkingen van de hele module, en verbeter je eigen code
 4. ontvang je beoordeling en schrijf een reflectie
 
 Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Voor de reviews in fase 3 maakt je mentor een indeling. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
