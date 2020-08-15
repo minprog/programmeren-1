@@ -19,6 +19,7 @@ Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. D
 4. laag scoren op de "plagiaatschaal"
 5. actieve en regelmatige deelname aan Ed
 6. goed meedoen aan het huiswerk voor de werkcolleges
+{: start="4"}
 
 Op die manier kunnen mentoren en docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan.
 
