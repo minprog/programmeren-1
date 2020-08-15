@@ -11,14 +11,14 @@ Coördinator is Jelle van Assema en examinator is Martijn Stegeman. Zij geven he
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle oefeningen doet
-3. alle werkgroepen en checkups bijwoont
+2. alle [oefeningen](#oefeningen) doet
+3. alle [werkgroepen](#werkgroepen) en [checkups](#checkups) bijwoont
 
 Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-4. actief en regelmatig vragen stellen of beantwoorden op het forum
-5. goed meedoen aan het huiswerk voor de werkcolleges
-6. laag scoren op de "plagiaatschaal"
+4. actief en regelmatig vragen stellen of beantwoorden op het [forum](#ed)
+5. goed voorbereid naar de [werkgroepen](#werkgroepen) komen
+6. laag scoren op de ["plagiaatschaal"](#samenwerken)
 {: start="4"}
 
 Op die manier kunnen mentoren en docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
@@ -47,14 +47,6 @@ Groepen worden pas na de deadline van module 0 definitief ingedeeld. Daarna ontv
 
 In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code.
 
-| Groep | Mentor | Link voor werkgroep |  
-| ----- | ------ | ------------------- |  
-| A     |        |                     |  
-| B     |        |                     |  
-| C     |        |                     |  
-| D     |        |                     |  
-| E     |        |                     |  
-
 
 ## Werkwijze
 
@@ -72,11 +64,25 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn vier belangrijke opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-- Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de Slack van je mentorgroep. Je medestudenten en mentor denken met je mee. (Let op dat je mentor zeker niet 24/7 beschikbaar kan zijn, dus wees bescheiden.)
-- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
-- Als je niet weet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
-- Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
-- Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+### Slack
+
+Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de Slack van je mentorgroep. Je medestudenten en mentor denken met je mee. (Let op dat je mentor zeker niet 24/7 beschikbaar kan zijn, dus wees bescheiden.)
+
+### Ed
+
+Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
+
+### Assistentie
+
+Als je niet weet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
+
+### Helpdesk
+
+Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
+
+### Mail
+
+Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -156,6 +162,14 @@ In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programm
 ### Werkgroepen
 
 Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
+
+| Groep | Mentor | Link voor werkgroep |  
+| ----- | ------ | ------------------- |  
+| A     |        |                     |  
+| B     |        |                     |  
+| C     |        |                     |  
+| D     |        |                     |  
+| E     |        |                     |  
 
 ### Oefeningen
 
