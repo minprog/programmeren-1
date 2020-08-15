@@ -18,7 +18,7 @@ Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. D
 
 4. dagelijks vragen stellen of beantwoorden op het [forum](#ed)
 5. goed voorbereid naar de [werkgroepen](#werkgroepen) komen
-6. laag scoren op de ["plagiaatschaal"](#samenwerken)
+6. laag scoren op de ["plagiaatschaal"](#plagiaat)
 {: start="4"}
 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
