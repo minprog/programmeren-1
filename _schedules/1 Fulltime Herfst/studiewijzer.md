@@ -17,11 +17,11 @@ Bij dit vak wordt van je verwacht dat je:
 Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
 4. laag scoren op de "plagiaatschaal"
-5. actieve en regelmatige deelname aan Ed
+5. actieve en regelmatige deelname aan het vraag- en antwoordforum
 6. goed meedoen aan het huiswerk voor de werkcolleges
 {: start="4"}
 
-Op die manier kunnen mentoren en docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan.
+Op die manier kunnen mentoren en docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is dan ook niet voorzien in een schriftelijk tentamen.
 
 
 ## Eindcijfer
@@ -45,6 +45,8 @@ Je zit bij dit vak in een team met 8--12 andere studenten. Je mentor is een erva
 
 Groepen worden pas na de deadline van module 0 definitief ingedeeld. Daarna ontvang je een uitnodiging voor een chatomgeving (Slack) waar je contact kunt onderhouden met je medestudenten en je mentor. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is, waar je via video kennis maakt met je team.
 
+In het team zul je onder andere samenwerken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code (zie ook verderop).
+
 | Groep | Mentor | Link voor werkgroep |  
 | ----- | ------ | ------------------- |  
 | A     |        |                     |  
@@ -54,13 +56,16 @@ Groepen worden pas na de deadline van module 0 definitief ingedeeld. Daarna ontv
 | E     |        |                     |  
 
 
-## Opdrachten
+## Werkwijze
 
-In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt steeds volgens dit proces:
+In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programmeerproblemen. Het vak bestaat uit vijf modules die weer bestaan uit enkele opdrachten. Je werkt in fases aan de opdrachten:
 
-![](../proces.png)
+1. ontwerp een oplossing voor de opdracht, samen met een partner uit je team
+2. implementeer de oplossing, zonder partner, maar met allerlei mogelijkheden voor hulp
+3. review met een partner uit je team elkaars uitwerkingen van de hele module
+4. ontvang je beoordeling en schrijf een reflectie
 
-Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Code reviews zijn per definitie altijd met een andere student en je mentor zal zorgen dat er gerouleerd wordt. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Voor de reviews in fase 3 maakt je mentor een indeling. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 
 ## Vragen stellen
@@ -70,8 +75,8 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 1. Heb je vragen over hoe de cursus werkt, hoe je een vraag moet stellen, problemen met je computer of andere dingen die niet per se met de opdrachten te maken hebben, dan kun je deze het beste eerst stellen op de [Slack](/slack) van je mentorgroep. Je medestudenten en mentor denken met je mee. (Let op dat je mentor zeker niet 24/7 beschikbaar kan zijn, dus wees bescheiden.)
 2. Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Medestudenten en assistenten zullen zoveel mogelijk vragen beantwoorden.
 3. Als je niet weet hoe je een vraag moet stellen of je weet niet waar je moet beginnen met het implementeren van je opdracht, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
-3. Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
-4. Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
+4. Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
+5. Voor het maken van persoonlijke planningsafspraken en het op de hoogte houden van de docenten over later inleveren stuur je een officiële mail naar <help@mprog.nl>.
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 
