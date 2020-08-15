@@ -258,13 +258,11 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 </details>
 
-### Plagiaatschaal
+### Plagiaat
 
-Alle inzendingen worden wekelijks gecontroleerd met behulp van een **detectiesysteem** dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Als er plagiaat wordt vermoed, dan moet dit gemeld worden bij de examencommissie.
+Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
-Als je niet systematisch laag scoort op de resulterende **plagiaatschaal** dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit is simpelweg om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
-
-### Meer informatie
+Ook als er geen duidelijk vermoeden van plagiaat is kan het zijn dat er overeenkomsten gevonden worden. Als dit vaker gebeurt dan kun je het vak alleen afronden als je tijdens een **mondelinge** bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
 
 De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
