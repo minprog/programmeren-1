@@ -202,10 +202,6 @@ Natuurlijk is het nuttig om interactie te hebben met je medestudenten en dat dit
 
 Je mag niet samenwerken aan de *implementatie* van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
-Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Als er plagiaat wordt vermoed, dan moet altijd gemeld worden bij de examencommissie.
-
-Als je niet systematisch laag scoort op de resulterende plagiaatschaal dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit is simpelweg om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
-
 Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent. Als je onredelijk handelt dan zal dit leiden tot een melding bij de examencommissie.
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
@@ -261,6 +257,10 @@ Waar de grens onduidelijk is vragen we je om "redelijk" te handelen. Hieronder v
 
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 </details>
+
+Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Als er plagiaat wordt vermoed, dan moet altijd gemeld worden bij de examencommissie.
+
+Als je niet systematisch laag scoort op de resulterende plagiaatschaal dan kun je het vak alleen afronden als je tijdens een mondelinge bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, er van uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit is simpelweg om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
 
 In alle gevallen volgen we de [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam en de richtlijnen van de examencommissie voor de Minor Programmeren.
 
