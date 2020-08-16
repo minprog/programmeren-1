@@ -163,14 +163,6 @@ In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programm
 
 Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
-| Groep | Mentor | Link voor werkgroep |  
-| ----- | ------ | ------------------- |  
-| A     |        |                     |  
-| B     |        |                     |  
-| C     |        |                     |  
-| D     |        |                     |  
-| E     |        |                     |  
-
 ### Oefeningen
 
 Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website. Jouw antwoorden op de oefeningen worden doorgenomen tijdens de werkgroepen.
