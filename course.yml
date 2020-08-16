@@ -3,10 +3,10 @@ short_name: Prog1
 language: nl
 
 links:
-    '[book] Reference': https://man.cs50.io/
-    '[terminal] IDE': https://ide.cs50.io/
     '[diagram-3] Steps': /steps
-    '[question-square] Forum': https://us.edstem.org/courses/341
+    '[terminal] IDE': https://ide.cs50.io/
+    '[question-square] Ed': https://us.edstem.org/courses/2328
+    '[book] Reference': https://man.cs50.io/
     # '[camera-video] Assistentie': https://calendly.com/mprog-parttime/assistentie
 
 acknowledgements:

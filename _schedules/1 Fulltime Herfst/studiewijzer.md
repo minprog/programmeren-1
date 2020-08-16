@@ -289,6 +289,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 </details>
 
 <details markdown="1"><summary markdown="span">Ik heb een opdracht niet werkend ingeleverd en wil herkansen</summary>
+
   - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
   - Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
@@ -301,6 +302,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 </details>
 
 <details markdown="1"><summary markdown="span">Ik heb niet aan de minimumeisen voldaan en wil herkansen</summary>
+
   - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
   - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
