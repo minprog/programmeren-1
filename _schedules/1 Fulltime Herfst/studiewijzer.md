@@ -268,7 +268,7 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
-Ook als er geen duidelijk vermoeden van plagiaat is kan het zijn dat er overeenkomsten gevonden worden. Als dit vaker gebeurt dan kun je het vak alleen afronden als je tijdens een **mondelinge** bespreking van je opdrachten voldoende kunt laten zien dat je alle onderdelen goed begrijpt, ervan uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
+Ook als er geen duidelijk vermoeden van plagiaat is kan het zijn dat er overeenkomsten gevonden worden. Als dit vaker gebeurt dan kun je het vak alleen afronden als je tijdens een **mondelinge** bespreking van je opdrachten voldoende laat zien dat je alle onderdelen goed begrijpt, ervan uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
 
 In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
 
