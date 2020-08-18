@@ -64,15 +64,47 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Slack** --- Heb je vragen over hoe de cursus werkt, advies of support nodig van medestudenten, dan kun je terecht op de Slack van je team. Je medestudenten en mentor denken met je mee. Let wel op dat je mentor lang niet altijd beschikbaar kan zijn, dus post gerust iets maar verwacht niet meteen antwoord.
+**Slack**
 
-**Ed** --- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op Ed. Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
+Direct contact met je team.
 
-**Assistentie** --- Als je niet weet waar je moet beginnen met het implementeren van je opdracht, of je hebt moeite met het vinden van een bug, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
+- onderlinge support
+- snelle vragen over deadlines, contact met samenwerkpartner
+- mentor is niet doorlopend beschikbaar!
 
-**Helpdesk** --- Heb je een technisch probleem met je computer, met de software die we gebruiken of heb je een zeer ingewikkeld probleem met je code, dan kun je een afspraak maken met de [helpdesk](/calendly).
+**Ed**
 
-**Mail** --- Voor het maken van persoonlijke planningsafspraken en het verkrijgen van uitzonderingen stuur je een officiële mail naar de coördinator op <help@mprog.nl>.
+Altijd beschikbaar, medestudenten en assistenten geven online antwoord.
+
+- vragen over wat er in de opdracht bedoeld wordt
+- technische vragen over programmeren en bugs
+- vragen over de oefeningen in het basisboek
+
+**Assistentie**
+
+Direct met een assistent, maandag t/m vrijdag tussen 13 en 17 uur. Aanmelden hierboven <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>.
+
+- weet niet waar te beginnen
+- onvindbare bug
+- moeite met verzinnen oplossing (met partner)
+- wachttijd kan oplopen
+
+**Helpdesk**
+
+Direct met een assistent, aanmelden via [Calendly](https://calendly.com/proglab/helpdesk).
+
+- problemen met je computer
+- problemen met de werking van je online IDE
+- hele nare bugs
+
+**Mail**
+
+Asynchroon contact met de vakcoördinatoren via <help@mprog.nl>.
+
+- maken van persoonlijke planningsafspraken
+- meedenken over grote problemen met het vak
+- andere officiële zaken
+- nazorg na afloop van het vak
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
