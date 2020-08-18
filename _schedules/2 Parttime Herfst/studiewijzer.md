@@ -21,7 +21,7 @@ Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. D
 6. laag scoren op de ["plagiaatschaal"](#plagiaat)
 {: start="4"}
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak wel uitgebreid mondeling toelichten.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
 
 
 ## Eindcijfer
@@ -37,6 +37,8 @@ Bij deze cursus wordt je cijfer bepaald door de uitwerkingen van programmeeropdr
 | Module 4  | 25%      |  
 
 Je moet aan alle bovenstaande eisen voldoen om een cijfer te krijgen voor het vak, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>).
+
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen.
 
 
 ## Team en mentor
@@ -278,9 +280,9 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 ## Plagiaat
 
-Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet. Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
+Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet.
 
-Ook als er geen duidelijk vermoeden van plagiaat is kan het zijn dat er overeenkomsten gevonden worden. Als dit vaker gebeurt dan kun je het vak alleen afronden als je tijdens een **mondelinge** bespreking van je opdrachten voldoende laat zien dat je alle onderdelen goed begrijpt, ervan uitgaande dat je aan de verdere eisen van het vak hebt voldaan. Dit om te zorgen dat er geen twijfel hoeft te zijn over wat je geleerd hebt in de cursus.
+Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
 In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
 
