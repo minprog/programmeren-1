@@ -2,7 +2,7 @@
 
 Meet Zamyla! She'll be offering us tips and tricks throughout the modules of this course.
 
-![embed](https://www.youtube.com/watch?v=DmE9lCvrxgU)
+![embed](https://www.youtube.com/embed/DmE9lCvrxgU)
 
 ## Hello, World
 
