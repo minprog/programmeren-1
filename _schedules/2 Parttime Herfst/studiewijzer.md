@@ -64,42 +64,34 @@ Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken w
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Slack**
-
-Direct contact met je team.
+**Slack** Direct contact met je team.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
 - mentor is niet doorlopend beschikbaar!
 
-**Ed**
-
-Altijd beschikbaar, medestudenten en assistenten geven online antwoord.
+**Ed** Altijd beschikbaar, de belangrijkste plek voor hulp.
 
 - vragen over wat er in de opdracht bedoeld wordt
 - technische vragen over programmeren en bugs
 - vragen over de oefeningen in het basisboek
+- medestudenten en assistenten denken mee
 
-**Assistentie**
-
-Direct met een assistent, maandag t/m vrijdag tussen 13 en 17 uur. Aanmelden hierboven <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>.
+**Assistentie** Direct met een assistent, voor moeilijk te stellen vragen.
 
 - weet niet waar te beginnen
 - onvindbare bug
 - moeite met verzinnen oplossing (met partner)
-- wachttijd kan oplopen
+- dagelijks 13-17 uur, wachttijd kan oplopen
 
-**Helpdesk**
-
-Direct met een assistent, aanmelden via [Calendly](https://calendly.com/proglab/helpdesk).
+**Helpdesk** Direct met een assistent, voor technische problemen.
 
 - problemen met je computer
 - problemen met de werking van je online IDE
 - hele nare bugs
+- aanmelden via [Calendly](https://calendly.com/proglab/helpdesk)
 
-**Mail**
-
-Asynchroon contact met de vakcoördinatoren via <help@mprog.nl>.
+**Mail** Contact met de vakcoördinatoren via <help@mprog.nl>.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
