@@ -21,7 +21,7 @@ Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. D
 6. laag scoren op de ["plagiaatschaal"](#plagiaat)
 {: start="4"}
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak wel uitgebreid mondeling toelichten.
 
 
 ## Eindcijfer
