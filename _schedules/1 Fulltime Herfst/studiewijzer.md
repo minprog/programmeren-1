@@ -66,7 +66,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Slack** --- Heb je vragen over hoe de cursus werkt, advies of support nodig van medestudenten, dan kun je terecht op de Slack van je team. Je medestudenten en mentor denken met je mee. Let wel op dat je mentor lang niet altijd beschikbaar kan zijn, dus post gerust iets maar verwacht niet meteen antwoord.
 
-**Ed** --- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
+**Ed** --- Voor vragen over de stof, hulp met programmeren, over de oefensommen, en voor technische ondersteuning plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/2328). Dit forum is online en altijd beschikbaar. Verwacht wordt dat medestudenten met je meedenken, maar ook assistenten zullen daar vragen beantwoorden.
 
 **Assistentie** --- Als je niet weet waar je moet beginnen met het implementeren van je opdracht, of je hebt moeite met het vinden van een bug, dan is er video-assistentie. De assistentie is beschikbaar van maandag t/m vrijdag tussen 13 en 17 uur, en aanvragen doe je via deze website <svg class="bi" width="16" height="16" fill="currentColor"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"/></svg>. Let op dat het rondom deadlines vaak erg druk is en dat de wachttijd kan oplopen!
 
@@ -158,9 +158,9 @@ In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programm
 
 Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
-### Oefeningen
+### Basisboek
 
-Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Gedeeltelijk studeer je in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. De resterende oefeningen zijn te vinden op deze website. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
+Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Je studeert in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. Vragen over de oefeningen stel je via **Ed**. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
 
 ### Werkuren
 
@@ -170,7 +170,7 @@ Tijdens de werkuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan di
 
 Elke dag om 9:30 doe je een video-checkup met je mentorgroep, maar zonder je mentor. Daarbij laat je weten hoe je ervoor staat met je opdracht, waar je aan gewerkt hebt en vooral waar je vandaag aan wil werken. Je kunt ook om advies vragen over je aanpak, bijvoorbeeld als je vastzit. Misschien is er een groepsgenoot die hetzelfde probleem al is tegengekomen.
 
-### Boeken
+### Naslag
 
 Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderwerpen, dan kunnen de volgende boeken je verder op weg helpen. Ze zijn niet noodzakelijk voor het halen van het vak.
 
