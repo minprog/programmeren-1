@@ -7,9 +7,13 @@ description: A thorough explanation of the command line.
 
 The CS50 IDE is an online environment in which you can write code, compile your programs and debug those using built-in tools. In fact, you are provided with access to a Ubuntu Linux command line, which will be running somewhere in the United States.
 
+## GitHub
+
+To get started, the first thing you do is create an account on [GitHub](https://github.com/join). This website is used by software developers around the world to collaborate. In later courses, you might use the website directly to put your own programs on! However, for this course, we use GitHub's login mechanism to allow you access to a few other websites created by Harvard's CS50 team.
+
 ## Logging in
 
-Head to [ide.cs50.io](https://ide.cs50.io/) and log into CS50 IDE using the GitHub account that you made before. Note that the IDE still works best (or at all) using Chrome as a web browser. If you do not have it yet, you can install it specifically to work with the IDE.
+Head to [ide.cs50.io](https://ide.cs50.io/) and log into CS50 IDE using the GitHub account that you created. Note that the IDE works best using Chrome as a web browser. If you do not have it yet, you can install it specifically to work with the IDE.
 
 If all is well, you should then be informed that CS50 IDE (aka Cloud9, the software that underlies CS50 IDE) is "creating your workspace" and "creating your container," which might take a moment. You should eventually see your workspace. If not, do just email the course's heads to inquire!
 
