@@ -10,7 +10,7 @@ De coördinator van dit vak is Floor van de Leur en de examinator is Martijn Ste
 
 Bij dit vak wordt van je verwacht dat je:
 
-1. alle opdrachten maakt zoals beschreven onder [werkwijze](#werkwijze)
+1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
 2. alle [oefeningen](#oefeningen) doet
 3. alle [werkgroepen](#werkgroepen) bijwoont
 
