@@ -16,7 +16,7 @@ Bij dit vak wordt van je verwacht dat je:
 
 Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-4. dagelijks vragen stellen of beantwoorden op [Ed](#ed)
+4. dagelijks vragen stellen of beantwoorden op [Ed](#vragen-stellen)
 5. goed voorbereid naar de [werkgroepen](#werkgroepen) komen
 6. laag scoren op de ["plagiaatschaal"](#plagiaat)
 {: start="4"}
