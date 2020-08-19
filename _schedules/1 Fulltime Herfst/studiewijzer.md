@@ -43,9 +43,9 @@ Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je j
 
 ## Team en mentor
 
-Je zit bij dit vak in een team met 8--12 andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste deadline bekend gemaakt. 
+Je zit bij dit vak in een team met acht tot twaalf andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste deadline bekend gemaakt. 
 
-Je **mentor** is een ervaren student of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
+Je **mentor** is een student die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
 
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden (met video) aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met je team. Als je een probleem ziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
 
@@ -59,7 +59,7 @@ In dit vak ga je verreweg de meeste tijd besteden aan het oplossen van programme
 3. review met een partner uit je team elkaars uitwerkingen, en verbeter je eigen code
 4. ontvang je beoordeling en schrijf een reflectie
 
-Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie gaat samenwerken en met welke partner. Voor de reviews in fase 3 maakt je mentor een roulerende indeling. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
+Iedere week tijdens de werkgroepen neemt je mentor het initiatief om te kijken wie met welke partner gaat samenwerken. Voor de reviews in fase 3 wordt zelfs in een vast schema gerouleerd. Zo doe je ervaring op met verschillende manieren om de opdrachten uit te werken en met verschillende ideeën rondom goede stijl.
 
 
 ## Vragen stellen
@@ -79,14 +79,14 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - vragen over de oefeningen in het basisboek
 - medestudenten en assistenten denken mee
 
-**Assistentie:** direct met een assistent, voor moeilijk te stellen vragen.
+**Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
 - weet niet waar te beginnen
 - onvindbare bug
 - moeite met verzinnen oplossing (met partner)
 - dagelijks 13-17 uur, wachttijd kan oplopen
 
-**Helpdesk:** direct met een assistent, voor technische problemen.
+**Helpdesk:** direct contact met een assistent, voor technische problemen.
 
 - problemen met je computer
 - problemen met de werking van je online IDE
@@ -98,7 +98,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
 - andere officiële zaken
-- nazorg na afloop van het vak
+- administratie na afloop van het vak
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -130,13 +130,11 @@ In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met j
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
-
-Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met een docent. Ook hierover kunnen zij je adviseren.
 </details>
 
 <details markdown="1"><summary markdown="span">Wat als ik al klaar ben?</summary>
 
-Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je in de resterende tijd via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
+Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je af en toe via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
 </details>
 
 
@@ -151,7 +149,7 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-0. niet genoeg code om te beoordelen
+0. code werkt niet volgens specificatie of is incompleet
 {: start="6" reversed=""}
 
 <!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
@@ -165,13 +163,13 @@ Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor
 
 <!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
-### Hackerpunten
+### Extra opdrachten
 
-Bij veel modules bieden we ook een zogenaamde "hackeropdracht" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
+Bij veel modules bieden we ook een "extra opdracht" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
-Toch kan het leuk zijn om de hackeropdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra als je voor een module de hackeropdracht hebt ingeleverd, omdat ze moeilijker zijn en je vaak ook meer code schrijft.
+Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra voor een module als je vóór de deadline de extra opdracht hebt ingeleverd, omdat ze moeilijker zijn en je vaak ook meer code schrijft.
 
-Het is niet mogelijk om via video-assistentie hulp te krijgen voor de hackeropdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
+Het is niet mogelijk om via video-assistentie hulp te krijgen voor de extra opdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
 
 ## Onderdelen
@@ -219,9 +217,9 @@ ISBN 9780321776419
 
 ## Samenwerken
 
-De basis van alles wat je inlevert moet jouw eigen intellectueel werk zijn, tenzij anders aangegeven in een opdracht.
+De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, tenzij anders aangegeven in een opdracht.
 
-Natuurlijk is het nuttig om **interactie** te hebben met je medestudenten en dat dit kan helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
+Natuurlijk is het nuttig om **interactie** te hebben met je medestudenten en kan dit helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
 
 Je mag niet samenwerken aan de **implementatie** van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
@@ -229,23 +227,23 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
-* Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
+* Praten met je klasgenoten over de opdrachten in het Nederlands (of een andere gesproken taal).
 
 * Het cursusmateriaal bespreken met anderen om het beter te begrijpen.
 
 * Een klasgenoot helpen bij het debuggen tijdens een laptopcollege of daarbuiten, of zelfs online, door het bekijken, compileren of draaien van zijn of haar code, zelfs op je eigen computer.
 
-* Het opnemen van een paar regels code die je online of ergens anders vindt in jouw eigen code, gegeven dat deze regels niet oplossingen vormen tot opdrachten en dat je de bron van de code vermeldt.
+* Het in je uitwerking opnemen van een paar regels code die je online of ergens anders vindt, gegeven dat deze regels niet de essentie van de opdracht vormen en dat je de bron van de code vermeldt.
 
 * Het inzien van tentamens van voorgaande jaren en oplossingen daarvan.
 
-* Versturen of code laten zien die jij hebt geschreven aan iemand anders, wellicht een klasgenoot, zodat hij of zij kan helpen bij het debuggen.
+* Code die jij hebt geschreven versturen of laten zien aan iemand anders, wellicht een klasgenoot, zodat deze jou kan helpen bij het debuggen.
 
 * Het online delen van een paar regels van jouw code zodat anderen wellicht kunnen helpen met debuggen.
 
-* Op een assistent afstappen voor hulp tijdens de laptopcolleges.
+* Een aan het vak verbonden assistent om hulp vragen.
 
-* Naar het internet of ergens anders gaan voor instructies buiten het vak, voor referenties, en voor oplossingen op technische problemen, maar niet voor gehele oplossingen voor opdrachten.
+* Naar het internet gaan voor tutorials buiten het vak, voor referenties, en voor oplossingen bij technische problemen, maar niet voor gehele oplossingen voor (de essentie van) opdrachten.
 
 * Het uittekenen of uitwerken van oplossingen op een whiteboard door middel van diagrammen of pseudocode, maar niet "echte" code.
 
@@ -258,11 +256,11 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 * Een klasgenoot vragen om zijn of haar oplossing, voordat je jouw opdracht hebt ingeleverd.
 
-* Het decompileren, deobfuscereen, of demonteren van een "staff" oplossing van een opdracht.
+* Het decompileren, deobfusceren, of demonteren van een "staff" oplossing van een opdracht.
 
 * Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
 
-* Geven, of laten zien, van een oplossing voor een opdracht aan een klasgenoot waar hij of zij, dus niet jij, moeite mee heeft om op te lossen.
+* Het aan een klasgenoot geven of laten zien van een oplossing voor een opdracht waar hij of zij (dus niet jij) moeite mee heeft.
 
 * Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
 
@@ -286,7 +284,7 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesysteem dat zoekt naar overeenkomsten in programmacode. Dat kunnen overeenkomsten zijn binnen de groep, met studenten van vorige jaren, of zelfs met code van internet.
 
-Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en verdere afspraken te maken. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
+Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en om af te spreken hoe je het vak zonder plagiëren kunt halen. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
 In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
 
@@ -319,7 +317,9 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
   - Alle nieuwe beoordelingen vinden plaats zoals gangbaar op het moment van herkansen.
 </details>
 
-<details markdown="1"><summary markdown="span">Ik heb niet aan de minimumeisen voldaan en wil herkansen</summary>
+<details markdown="1"><summary markdown="span">Ik heb niet aan de verwachtingen van het vak voldaan en wil herkansen</summary>
+
+  - Hier gaat het bijvoorbeeld om het niet meedoen met werkgroepen.
 
   - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
