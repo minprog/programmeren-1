@@ -134,19 +134,17 @@ In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met j
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
-
-Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met een docent. Ook hierover kunnen zij je adviseren.
 </details>
 
 <details markdown="1"><summary markdown="span">Wat als ik al klaar ben?</summary>
 
-Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je in de resterende tijd via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
+Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je af en toe via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
 </details>
 
 
 ## Cijfers
 
-Modules 1 t/m 4 kunnen elk 0--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
+Modules 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
@@ -155,7 +153,6 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-0. code werkt niet volgens specificatie of is incompleet
 {: start="6" reversed=""}
 
 <!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
@@ -225,7 +222,7 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
-* Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
+* Praten met je klasgenoten over de opdrachten in het Nederlands (of een andere gesproken taal).
 
 * Het cursusmateriaal bespreken met anderen om het beter te begrijpen.
 
@@ -239,7 +236,7 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 * Het online delen van een paar regels van jouw code zodat anderen wellicht kunnen helpen met debuggen.
 
-* Op een assistent afstappen voor hulp tijdens de laptopcolleges.
+* Een aan het vak verbonden assistent om hulp vragen.
 
 * Naar het internet gaan voor tutorials buiten het vak, voor referenties, en voor oplossingen bij technische problemen, maar niet voor gehele oplossingen voor (de essentie van) opdrachten.
 
@@ -254,11 +251,11 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 * Een klasgenoot vragen om zijn of haar oplossing, voordat je jouw opdracht hebt ingeleverd.
 
-* Het decompileren, deobfuscereen, of demonteren van een "staff" oplossing van een opdracht.
+* Het decompileren, deobfusceren, of demonteren van een "staff" oplossing van een opdracht.
 
 * Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
 
-* Geven, of laten zien, van een oplossing voor een opdracht aan een klasgenoot waar hij of zij, dus niet jij, moeite mee heeft om op te lossen.
+* Het aan een klasgenoot geven of laten zien van een oplossing voor een opdracht waar hij of zij (dus niet jij) moeite mee heeft.
 
 * Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
 
@@ -284,14 +281,14 @@ Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesyste
 
 Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en om af te spreken hoe je het vak zonder plagiëren kunt halen. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
-In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
+In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt, zelfs al is de deadline nabij.
 
 De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
 
 ## Herkansingen
 
-Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met de docenten (niet de assistenten) als je denkt dat je in de problemen komt met de planning en/of je cijfers. Wij hebben veel ervaring en kunnen je adviseren!
+Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met je mentor als je denkt dat je in de problemen komt met de planning en/of je cijfers. Ook de coördinator spreekt graag met je als je advies nodig hebt.
 
 <details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 

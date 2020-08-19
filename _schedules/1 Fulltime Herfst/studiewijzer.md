@@ -130,17 +130,19 @@ In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met j
 Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
+
+Raak je helemaal uit tempo? Dan kun je overwegen om de stap naar Parttime te zetten. Het is belangrijk dat je dit snel bespreekt met een docent. Ook hierover kunnen zij je adviseren.
 </details>
 
 <details markdown="1"><summary markdown="span">Wat als ik al klaar ben?</summary>
 
-Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je af en toe via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
+Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je in de resterende tijd via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
 </details>
 
 
 ## Cijfers
 
-Modules 1 t/m 4 kunnen elk 0--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
+Modules 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
@@ -149,7 +151,6 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-0. code werkt niet volgens specificatie of is incompleet
 {: start="6" reversed=""}
 
 <!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
@@ -286,7 +287,7 @@ Alle inzendingen worden wekelijks gecontroleerd met behulp van een detectiesyste
 
 Vinden we overeenkomsten, dan gaat de coördinator direct met je in gesprek om je voor te lichten en om af te spreken hoe je het vak zonder plagiëren kunt halen. Is er een **vermoeden van plagiaat**, dan moet dit gemeld worden bij de examencommissie.
 
-In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt.
+In alle gevallen is het ons doel om dit soort situaties te voorkomen, omdat ze niet leerzaam zijn en veel werk opleveren voor iedereen. Vraag daarom vooral om advies als je denkt dat het misgaat! Er is vaak meer te redden dan je denkt, zelfs al is de deadline nabij.
 
 De [plagiaatregeling](http://uva.nl/plagiaat) van de Universiteit van Amsterdam geeft algemene aanwijzingen over plagiaat en is de basis voor bovenstaande regelingen.
 
