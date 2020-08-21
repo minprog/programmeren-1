@@ -1,6 +1,6 @@
 # The Steps
 
-Below you'll find three phases that you are going to move through will solving some module's programming problems. For each problem, you will first perform an **analysis** together with your partner. Then, you will **implement** a solution in program code by yourself (with generous help from the course's staff, of course). Finally, for all of the problems together, you will do a **review** with your partner to learn how to improve code.
+Below you'll find three phases that you are going to move through while solving some module's programming problems. For each problem, you will first perform an **analysis** together with your partner. Then, you will **implement** a solution in program code by yourself (with generous help from the course's staff, of course). Finally, for all of the problems together, you will do a **review** with your partner to learn how to improve code.
 
 ## Phase 1: Analyzing the problem
 
@@ -25,7 +25,7 @@ Do you have a problem getting to the right solution or finding how to make some 
 
 **Step 2. Write down your steps (with partner)**
 
-The real analysis happens when you try to retrace your steps for solving the problem. Try to find which exact steps you are taking and writing those down. You would do this in plain language, writing instructions that you might give to someone else to work out the problem.
+The real analysis happens when you try to retrace your steps for solving the problem. Try to find which exact steps you are taking and write those down. You should do this in plain language, writing instructions that you might give to someone else to work out the problem.
 
 You might find that it's hard to do for some examples, because you can too easily "see" the answer, which prevents you from deeply analyzing it. In that case it is advisable to find more complicated example problems. This is also something you could ask help with if needed!
 
@@ -57,7 +57,7 @@ For this step, you can switch from working with domain knowledge to working with
 
 The simplest way to test your program is to use exactly those problem instances that you used in steps 1 and 2. You already know the correct solutions to those instances and should be able to verify that your program now provides the same solution when run.
 
-However, if you see a difference, you may have made a **mistake** somewhere while specifying the algorithm or while implementing the solution in code. At that point, your job it to figure out where the problem might be. Again, this is an excellent point to ask for help if needed.
+However, if you see a difference, you may have made a **mistake** somewhere while specifying the algorithm or while implementing the solution in code. At that point, your job is to figure out where the problem might be. Again, this is an excellent point to ask for help if needed.
 
 As soon as you find that your program appears to be functioning correctly, use the provided test tools to double-check that the course staff agrees that your program works according to the specification. At this point, you may unexpectedly find that the tool doesn't think it works! In that case, take special notice of the **formatting** of your program's output. Is everything exactly as expected?
 
@@ -73,6 +73,8 @@ One thing to check is if you have a **systematic** error in your program or that
 
 **Step 8. Peer review your programs (with partner)**
 
+> Before this step, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
+
 When everything is in order, and your program is found to be correct, you are going to do a peer review with your partner. The idea is not to compare your solutions per se, but more to **improve** each solution as it is.
 
 The **goal** of improvement is to make the programs easier to read and to understand. For each module, several aspects are listed to look out for. Read the explanations about these aspects before doing the actual review. Try to stick to these aspects, and especially take care not to try to influence your partner too much with your own ideas. The goal of this part of the course is to have you practice with techniques to make code better.
@@ -84,3 +86,9 @@ Then, your partner takes your programs and browses through those. Again, your pa
 **Step 9. Improve your programs (separately)**
 
 After you have reviewed each other's code, you can each take to actually improving your own code. Always keep in mind that your partner's opinions don't matter as much as how they struggle to read or understand your code. This is not the time to do a complete overhaul of your algorithm to make it more efficient, but instead, to make note of small things that you can improve to make the code itself better.
+
+## Phase 4: Feedback and reflection
+
+After everything has been handed in, your work will be assessed by your mentor. This results in a couple of feedback points; these you could try to take into account for the next problems that you are going to submit.
+
+As a final step, after reading and comparing your feedback with your own ideas, you will answer a few questions that are designed to help you incorporate the feedback into your own ideas. Your mentor will also check out the answers to your questions before assessing the next module.
