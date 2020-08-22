@@ -107,16 +107,16 @@ grades:
             late: float
         calculation: (points / 6.0 * 9).round(1)
         hide_calculated: true
-    test A: *test
-    test B: *test
-    test C: *test
-    test D: *test
-    test E: *test
-    test F: *test
-    test G: *test
-    pidac: *test
-    resit:
-        type: float
+    # test A: *test
+    # test B: *test
+    # test C: *test
+    # test D: *test
+    # test E: *test
+    # test F: *test
+    # test G: *test
+    # pidac: *test
+    # resit:
+    #     type: float
 
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
@@ -177,7 +177,7 @@ modules:
 calculation:
     final:
         # tests: 0
-        toets: 0
+        # toets: 0
         problems: 100
 # resit:
 #     tests: 0
@@ -202,28 +202,28 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-toets:
-    # show_progress: true
-    submits:
-        takehome: 1
+# toets:
+#     # show_progress: true
+#     submits:
+#         takehome: 1
 
 problems:
     show_progress: true
     submits:
-        # module 0: 0
+        module 0: 0
         module 1: 1
         module 2: 1
         module 3: 1
         module 4: 1
 
-tests:
-    show_progress: true
-    required: true
-    submits:
-        test A: 1
-        test B: 1
-        test C: 1
-        test D: 1
-        test E: 1
-        test F: 1
-        test G: 1
+# tests:
+#     show_progress: true
+#     required: true
+#     submits:
+#         test A: 1
+#         test B: 1
+#         test C: 1
+#         test D: 1
+#         test E: 1
+#         test F: 1
+#         test G: 1
