@@ -5,7 +5,7 @@ language: nl
 links:
     '[diagram-3] Steps': /steps
     '[terminal] IDE': https://ide.cs50.io/
-    '[chat-square-text-fill] Ed': https://us.edstem.org/courses/2328
+    '[chat-left-text] Ed': https://us.edstem.org/courses/2328
     '[book] Reference': https://man.cs50.io/
     # '[camera-video] Assistentie': https://calendly.com/mprog-parttime/assistentie
 
