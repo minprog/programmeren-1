@@ -15,9 +15,9 @@ templates:
         type: float
         subgrades:
             points: integer
-            hacker: integer
+            extra: integer
             late: float
-        calculation: ((points + hacker) / 6.0 * 9 + 1).round(1)
+        calculation: ((points + extra) / 6.0 * 9 + 1).round(1)
         hide_calculated: true
     4: &test
         type: pass
@@ -99,14 +99,14 @@ grades:
     module 2: *manual
     module 3: *manual
     module 4: *manual
-    module 5:
-        type: float
-        subgrades:
-            points: integer
-            hacker: integer
-            late: float
-        calculation: (points / 6.0 * 9).round(1)
-        hide_calculated: true
+    # module 5:
+    #     type: float
+    #     subgrades:
+    #         points: integer
+    #         extra: integer
+    #         late: float
+    #     calculation: (points / 6.0 * 9).round(1)
+    #     hide_calculated: true
     # test A: *test
     # test B: *test
     # test C: *test
