@@ -22,8 +22,8 @@ Suffice it to say that the longer you shower, the more water you use. But just h
 
 Log into <https://ide.cs50.io/> and execute, if you haven't already, the below in a terminal window:
 
-	mkdir ~/module1
-	cd ~/module1
+	mkdir ~/module0
+	cd ~/module0
 
 Then, to start implementing this problem, create a new file called "water.c" and proceed below.
 

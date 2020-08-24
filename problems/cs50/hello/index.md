@@ -15,29 +15,45 @@ Meet your first C program:
         printf("hello, world\n");
     }
 
-## Listing Files
+## Dive into the IDE
 
-Hello, world! At right, in the *text editor*, is the very first program we wrote in C, in a file called `hello.c`.
+Hello, world! Hopefully you have succeeded in creating a CS50 IDE instance for yourself. You should have watched Doug's video on its use before continuing here. Let's make programs!
 
-Click the folder icon, and you'll see that `hello.c` is the only file that's present at the moment. Per the mention of `/root/sandbox` below that icon, `hello.c` happens to be in a folder (otherwise known as a *directory*) called `sandbox`, which itself is in another folder called `root`. Click the folder icon again to hide all that.
+- Now go to the Terminal and issue the following command:
 
-Next, in the *terminal window* at right, immediately to the right of the dollar sign (`$`), otherwise known as a *prompt*, type precisely the below (in lowercase), then hit Enter:
+      mkdir ~/module0
+
+  You should see in the file list on the left that your first folder has been created. We call it `module0` so it can contain all programs that you write for the current module.
+
+- Now, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `module1` folder that you just created and click on **Save**.
+
+- In your new file, type the C code for "Hello, World" as seen above. Save it once more.
+
+- Let's point the terminal towards our new folder:
+
+      cd ~/module0
+
+  The **prompt** is what the Terminal shows on your screen to "prompt" you to enter a new command. The prompt includes a portion to show what folder the Terminal is pointed towards. It should look like this, indicating that the **current folder** for the Terminal is indeed `~/module0`.
+
+      ~/module0/ $
+
+- Next, type precisely the below (in lowercase), then hit Enter:
 
     ls
 
-You should see just `hello.c`? That's because you've just listed the files in that same folder, this time using a command-line interface (CLI), using just your keyboard, rather than the graphical user interface (GUI) represented by that folder icon. In particular, you *executed* (i.e., ran) a command called `ls`, which is shorthand for "list." (It's such a frequently used command that its authors called it just `ls` to save keystrokes.) Make sense?
+  You should see just `hello.c`. That's because you've just listed the files in that same folder, this time using a command-line interface (CLI), using just your keyboard, rather than the graphical user interface (GUI) represented by that folder icon. In particular, you *executed* (i.e., ran) a command called `ls`, which is shorthand for "list." (It's such a frequently used command that its authors called it just `ls` to save keystrokes.) Make sense?
 
-Here on out, to execute (i.e., run) a command means to type it into a terminal window and then hit Enter. Commands are "case-sensitive," so be sure not to type in uppercase when you mean lowercase or vice versa.
+- Here on out, to execute (i.e., run) a command means to type it into a terminal window and then hit Enter. Commands are "case-sensitive," so be sure not to type in uppercase when you mean lowercase or vice versa.
 
 ## Compiling Programs
 
 Now, before we can execute the program at right, recall that we must *compile* it with a *compiler* (e.g., `clang`), translating it from *source code* into *machine code* (i.e., zeroes and ones). Execute the command below to do just that:
 
-    clang hello.c
+      clang hello.c
 
 And then execute this one again:
 
-    ls
+      ls
 
 This time, you should see not only `hello.c` but `a.out` listed as well? (You can see the same graphically if you click that folder icon again.) That's because `clang` has translated the source code in `hello.c` into machine code in `a.out`, which happens to stand for "assembler output," but more on that another time.
 
@@ -83,6 +99,8 @@ Suffice it to say, no matter how you compile or execute this program, it only ev
 
 Modify this program in such a way that it first prompts the user for their name and then prints `hello, so-and-so`, where `so-and-so` is their actual name.
 
+> David's Lecture 1 should help you find the right commands to include in your code. This is often the case: lectures include many examples of working code, along with an explanation of the inner workings, which should help you get started on some of the parts of an assignment.
+
 As before, be sure to compile your program with:
 
     make hello
@@ -97,7 +115,8 @@ To try out the staff's implementation of this problem, execute
 
     ./hello
 
-within [this sandbox](http://bit.ly/2Qp0a2g).
+within [this sandbox](http://bit.ly/2Qp0a2g). You can do that to be 100% sure that you understand
+what is required of your own program.
 
 ### Hints
 
@@ -123,6 +142,22 @@ Recall that, to use `get_string`, you need to include `cs50.h` (in which `get_st
 
     #include <cs50.h>
 
-## That's it!
+## Testing
 
-This was "Hello".
+To verify whether your program is indeed running well, you may use `check50` in the Terminal. Make sure that your Terminal is still pointing towards the directory that your `hello.c` resides in!
+
+    check50 -l minprog/cs50x/2020/hello
+
+## Submitting
+
+As soon as you're done, submit your `hello.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `hello.c` file (that's within your `module0` directory) and then select **Download**. You should find that your browser has downloaded `hello.c`.
+
+2. Make sure you are signed in to **this** website!
+
+3. In the form below, choose the file that you just downloaded.
+
+4. Press "Submit for grading". Presto!
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. If the check fails, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal!
