@@ -183,7 +183,7 @@ Before submitting, we expect you to take care that your program is as well-polis
 ### Correctness
 
 ~~~~
-check50 minprog/cs50x/2019/mario/less
+check50 -l minprog/cs50x/2020/mario/less
 ~~~~
 
 

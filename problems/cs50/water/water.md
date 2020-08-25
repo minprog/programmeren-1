@@ -70,7 +70,7 @@ You can use the function `get_int` to prompt the user to input an integer value,
 
 To verify whether your program is indeed running well, you may use `check50`.
 
-	check50 minprog/cs50x/2020/water
+	check50 -l minprog/cs50x/2020/water
 
 
 ## Submitting

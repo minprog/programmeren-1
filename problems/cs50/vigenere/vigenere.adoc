@@ -93,7 +93,7 @@ ciphertext: Negh zf av huf pcfx bt gzrwep oz
 
 [source]
 ----
-check50 minprog/cs50x/2019/vigenere
+check50 -l minprog/cs50x/2020/vigenere
 ----
 
 === Style
