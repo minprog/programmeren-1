@@ -61,7 +61,7 @@ Study this pseudocode; discuss the details. Do you understand every part? Do you
 
 ### Phase 2. Implementation
 
-> <svg class="bi" width="32" height="32" fill="currentColor" size="24x24" style="vertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-circle"></use></svg>
+> <svg class="bi" width="32" height="32" fill="currentColor" size="24x24" style="vertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
 >
 > Warning! This phase should be done individually. Keep in mind that you do not share C code with other students or tell each other what kinds of C code to use. Do ask for help from the course's staff!
 
@@ -72,6 +72,8 @@ To get started implementing this algorithm, create a file called `greedy.c` and 
 
 After those two lines, you might implement the algorithm based on the procedure that you came up with. Use `printf` from the Standard I/O library to output your final answer. Ask for help where needed!
 
+> <svg class="bi" width="32" height="32" fill="currentColor" size="24x24" style="vertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
+>
 > Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an *integer* followed by `\n`.
 
 When (almost) finished implementing the algorithm, it's time to test your program well. Run your program and see if it does indeed print `4` for the amount of 32 cents! And then change `amount` to 5 and see what it does.
