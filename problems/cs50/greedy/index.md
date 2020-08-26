@@ -91,7 +91,7 @@ Important to understand is that you should not change your algorithm to do the c
 
 First, to get the dollar amount from the keyboard, use `get_float` from the CS50 Library and assign the result to a variable named `dollars` of type `float`. Add code to do this right at the top of your `main` function.
 
-> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
 >
 > We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed $9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a $10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
 >
@@ -106,7 +106,7 @@ Hopefully, you've now written a few lines of code (with a loop!) that allow user
 
 Remember that the input variable `dollars` is a `float`, but the algorithm requires and `int`. So right after the point where we know the input is done, we need to convert it. What would be the right formula? Well, how many cents does one dollar equal? Write that conversion yourself.
 
-> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
 >
 > But even with the right mathematical formula for converting a dollar amount to cents, there may still be errors. This is because if your user types `0.41`, which should become 41 cents, this may actually be represented in the computer as `40.999999999..` cents. When converting to an integer, this will become `40` cents instead of `41`! That's why you should use the `round()` function that's available in the C standard library. Recall that if you round the number 40.99, this will indeed yield 41.
 {:.bg-light}
