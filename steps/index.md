@@ -48,15 +48,15 @@ Now you can have a look if you can verify that your algorithm is correct. Take a
 
 Testing thoroughly might also reveal some fundamental problems in your algorithm. You may have made an **assumption** about the input that makes the solution easier to find, but prevents your algorithm working with other input. Ideally, you are able to fix these bugs before you actually start coding your solution.
 
-## Phase 2: Implementing the solution
-
-![](implementation.png)
-
-> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#warning-triangle"></use></svg>
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
 >
 > Before moving into Phase 2, you should have documented your Phase 1 analysis and results. You will submit these together with your solution from Phase 2.
 {:.bg-warning}
 
+
+## Phase 2: Implementing the solution
+
+![](implementation.png)
 
 **Step 5. Translate to code (separately)**
 
@@ -78,14 +78,14 @@ Have you found an apparent problem with the program? Then find out what is going
 
 One thing to check is if you have a **systematic** error in your program or that it doesn't work for only part of the test cases. This may help you find the source of the problem.
 
-## Phase 3: Reviewing the code
-
-![](codereview.png)
-
-> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#warning-triangle"></use></svg>
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
 >
 > Before moving into phase 3, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
 {:.bg-warning}
+
+## Phase 3: Reviewing the code
+
+![](codereview.png)
 
 **Step 8. Peer review your programs (with partner)**
 
