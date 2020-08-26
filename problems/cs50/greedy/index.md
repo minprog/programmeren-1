@@ -61,6 +61,8 @@ Study this pseudocode; discuss the details. Do you understand every part? Do you
 
 ### Phase 2. Implementation
 
+> <svg class="bi" width="32" height="32" fill="currentColor" size="24x24" style="vertical-align:-0.255em; float:left;"><use xlink:href="/icons/bootstrap-icons.svg#question-circle-fill"></use></svg>
+>
 > Warning! This phase should be done individually. Keep in mind that you do not share C code with other students or tell each other what kinds of C code to use. Do ask for help from the course's staff!
 
 To get started implementing this algorithm, create a file called `greedy.c` and insert a standard `main` function. Within that `main` function, insert the following two lines, which create the variables that are needed for the algorithm:
