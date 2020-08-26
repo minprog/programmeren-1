@@ -39,9 +39,9 @@ If we turn this idea of greedy change into an algorithm, we notice that we need 
 - how many coins are going to be returned, the **count** (initially 0)
 - how much change do we still have to return, the **amount**
 
-Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You should do this with a partner to make it easier to come up with good examples and help each other out to work through your examples.
+Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a partner to make it easier to come up with good examples, and then help each other out to work through those example precisely.
 
-The goal of these first steps is to describe some procedure that will work well given reasonable input examples. Only then you proceed to implementing your solution in C.
+The goal of these first steps is to describe some procedure that will work well given reasonable input examples. The procedure is described in some kind of pseudo-code. Only when you are both satisfied you proceed to implementing your solution in C.
 
 <!-- In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following, if we assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). Note the presence of both `count` and `amount` in that code:
 
