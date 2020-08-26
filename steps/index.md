@@ -80,7 +80,7 @@ One thing to check is if you have a **systematic** error in your program or that
 
 > <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
 >
-> Before moving into phase 3, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
+> Before moving into Phase 3, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
 {:.bg-warning}
 
 ## Phase 3: Reviewing the code
