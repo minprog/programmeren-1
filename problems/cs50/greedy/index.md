@@ -28,7 +28,7 @@ It turns out that this greedy approach (i.e., algorithm) is not only locally opt
 For this problem, the most important part is the algorithm to calculate change in a greedy manner. We will use the [Problem solving steps](/steps) to create that algorithm in code.
 
 
-### 1. Analyzing the problem
+### Phase 1. Analyzing the problem
 
 Let Zamyla provide you with some more background on the problem:
 
@@ -59,7 +59,7 @@ The goal of these first steps is to describe some procedure that will work well 
 Study this pseudocode; discuss the details. Do you understand every part? Do you have a notion of how it would be translated into C? -->
 
 
-### 2. Basic implementation
+### Phase 2. Implementation
 
 To get started implementing this algorithm, create a file called `greedy.c` and insert a standard `main` function. Within that `main` function, insert the following two lines, which create the variables that are needed for the algorithm:
 
@@ -70,15 +70,12 @@ After those two lines, you might implement the algorithm based on the procedure 
 
 > Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an *integer* followed by `\n`.
 
-
-### 3. Testing
-
 When (almost) finished implementing the algorithm, it's time to test your program well. Run your program and see if it does indeed print `4` for the amount of 32 cents! And then change `amount` to 5 and see what it does.
 
-When satisfied with the results, we'll proceed to another important part of the program: allowing user input.
+When satisfied with the results, you have completed the basic implementation of the greedy algorithm. However, there is something still missing to make the program work with arbitrary input entered by users. That's the next step.
 
 
-## 4. User input
+## User input
 
 Your program currently has `amount` hardcoded into the program. You'll need to change it to allow a user to input an amount from the keyboard each time the program is run. As you can see in the example atop this problem document, input is actually given in *dollars*, not cents. Up until now you hardcoded the `amount` as cents.
 
@@ -92,7 +89,7 @@ First, to get the dollar amount from the keyboard, use `get_float` from the CS50
 
 Now, if the user fails to provide a non-negative value, your program should re-prompt the user for a valid amount again and again until the user complies. This is a perfect case for a `while`-loop, or even better, a `do`-`while`-loop!
 
-## 5. Connecting input to the algorithm
+## Connecting input to the algorithm
 
 Hopefully, you've now written a few lines of code (with a loop!) that allow user input. All that's left is connecting that input with the algorithm. The first thing you can do in preparation, is removing the `int amount` declaration. We're going to replace that one.
 
@@ -135,22 +132,13 @@ Change owed: 0.41
 4
 ~~~~
 
+
 ## Testing
 
-Before submitting, we expect you to take care that your program is as well-polished as possible. For some final feedback, use the tools `check50` and `style50` per the examples below!
-
-### Correctness
+Before submitting, use `check50` to make sure that you covered every corner case of this particular problem. Anything still wrong? First thing to try is to make sure your **procedure** from problem solving phase 1 works correctly with the example from `check50`. Are you sure it works? Then the problem is more likely to be found in your **implementation**.
 
 ~~~~
 check50 -l minprog/cs50x/2020/greedy
-~~~~
-
-### Style
-
-Keeping your code tidy might be hard at first. To get a bit of help, use `style50`! It will recommend, in **red**, to remove some newlines or spaces from your code, and, in **green**, to add some. It might even give you another hint or two.
-
-~~~~
-style50 greedy.c
 ~~~~
 
 
