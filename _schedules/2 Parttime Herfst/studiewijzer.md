@@ -81,8 +81,8 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
-- weet niet waar te beginnen
-- onvindbare bug
+- hulp via een videogesprek waar je je scherm kunt delen
+- je weet niet waar te beginnen of een onvindbare bug
 - moeite met verzinnen oplossing (met partner)
 - dagelijks 13-17 uur, wachttijd kan oplopen
 
