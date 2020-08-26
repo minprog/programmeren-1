@@ -25,10 +25,12 @@ It turns out that this greedy approach (i.e., algorithm) is not only locally opt
 
 ## Steps
 
-For this problem, the most important part is the algorithm to calculate change in a greedy manner. Your task is to understand the algorithm and then to implement it. Only then will you add other stuff, like allowing user input.
+For this problem, the most important part is the algorithm to calculate change in a greedy manner. We will use the [Problem solving steps](/steps) to create that algorithm in code.
 
 
-### 1. Understanding the algorithm
+### 1. Analyzing the problem
+
+Let Zamyla provide you with some more background on the problem:
 
 ![embed](https://player.vimeo.com/video/353578615?byline=0&portrait=0)
 
@@ -37,20 +39,24 @@ If we turn this idea of greedy change into an algorithm, we notice that we need 
 - how many coins are going to be returned, the **count** (initially 0)
 - how much change do we still have to return, the **amount**
 
-In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following, if we assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). Note the presence of both `count` and `amount` in that code:
+Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You should do this with a partner to make it easier to come up with good examples and help each other out to work through your examples.
 
-	set amount to 32 cents
-	set count to 0
-	while (quarters can be used)
-		increase count
-		decrease amount by one quarter
-	while (dimes can be used)
-		increase count
-		decrease amount by one dime
-	(etc...)
-	print number of coins used
+The goal of these first steps is to describe some procedure that will work well given reasonable input examples. Only then you proceed to implementing your solution in C.
 
-Study this pseudocode; discuss the details. Do you understand every part? Do you have a notion of how it would be translated into C?
+<!-- In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following, if we assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). Note the presence of both `count` and `amount` in that code:
+
+  set amount to 32 cents
+  set count to 0
+  while (quarters can be used)
+    increase count
+    decrease amount by one quarter
+  while (dimes can be used)
+    increase count
+    decrease amount by one dime
+  (etc...)
+  print number of coins used
+
+Study this pseudocode; discuss the details. Do you understand every part? Do you have a notion of how it would be translated into C? -->
 
 
 ### 2. Basic implementation
@@ -60,9 +66,9 @@ To get started implementing this algorithm, create a file called `greedy.c` and 
 	int amount = 32;
 	int count = 0;
 
-After those two lines, you might implement the algorithm using the pseudocode above. Use `printf` from the Standard I/O library to output your answer. Ask for help where needed!
+After those two lines, you might implement the algorithm based on the procedure that you came up with. Use `printf` from the Standard I/O library to output your final answer. Ask for help where needed!
 
-> Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an integer followed by `\n`.
+> Incidentally, so that we can automate some tests of your code, we ask that your program's last line of output be only the minimum number of coins possible: an *integer* followed by `\n`.
 
 
 ### 3. Testing

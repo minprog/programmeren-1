@@ -1,4 +1,4 @@
-# The Steps
+# Problem Solving Steps
 
 Below you'll find three phases that you are going to move through while solving some module's programming problems. For each problem, you will first perform an **analysis** together with your partner. Then, you will **implement** a solution in program code by yourself (with generous help from the course's staff, of course). Finally, for all of the problems together, you will do a **review** with your partner to learn how to improve code.
 
@@ -31,7 +31,9 @@ You might find that it's hard to do for some examples, because you can too easil
 
 **Step 3. Propose a general solution (with partner)**
 
-If you have three or four examples worked out, you should be able to start composing a more general solution. Carefully compare the different examples, finding which steps are similar and which are different. Especially note if you did something multiple times (how often?) and how this relates to the example.
+If you have three or four examples worked out, you should be able to start composing a more general solution. First thing is to define the **input** and the **output**: in step 2 you worked with concrete examples, but now you have to think of names for the input and output.
+
+Then, carefully compare the different examples, finding which steps are similar and which are different. Especially note if you did something multiple times (how often?) and how this relates to the example.
 
 If you can't quite find a difference, chances are that your steps are still too **abstract** and you may try specifying smaller steps. Also, try to work some more examples when you get stuck. Then, try comparing the steps again.
 
