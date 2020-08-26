@@ -61,6 +61,8 @@ Study this pseudocode; discuss the details. Do you understand every part? Do you
 
 ### Phase 2. Implementation
 
+> Warning! This phase should be done individually. Keep in mind that you do not share C code with other students or tell each other what kinds of C code to use. Do ask for help from the course's staff!
+
 To get started implementing this algorithm, create a file called `greedy.c` and insert a standard `main` function. Within that `main` function, insert the following two lines, which create the variables that are needed for the algorithm:
 
 	int amount = 32;
@@ -77,7 +79,7 @@ When satisfied with the results, you have completed the basic implementation of 
 
 ## User input
 
-Your program currently has `amount` hardcoded into the program. You'll need to change it to allow a user to input an amount from the keyboard each time the program is run. As you can see in the example atop this problem document, input is actually given in *dollars*, not cents. Up until now you hardcoded the `amount` as cents.
+Your program currently has `amount` **hardcoded** into the program (that is, you have to change the code to make the program behave differently). You'll need to change it to allow a user to input an amount from the keyboard each time the program is run. As you can see in the example atop this problem document, input is actually given in *dollars*, not cents. Up until now you hardcoded the `amount` as cents.
 
 Important to understand is that you should not change your algorithm to do the calculation in dollars entirely. That's not needed, and might introduce floating-point calculation errors! Instead, we take user input as a `float` (for dollars), and after we have a valid dollar amount, we **convert** it to an integer (for cents).
 
