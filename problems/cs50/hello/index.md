@@ -19,31 +19,31 @@ Meet your first C program:
 
 Hello, world! Hopefully you have succeeded in creating a CS50 IDE instance for yourself. You should have watched Doug's video on its use before continuing here. Let's make programs!
 
-- Now go to the Terminal and issue the following command:
+Go to the Terminal and issue the following command:
 
-      mkdir ~/module0
+    mkdir ~/module0
 
-  You should see in the file list on the left that your first folder has been created. We call it `module0` so it can contain all programs that you write for the current module.
+You should see in the file list on the left that your first folder has been created. We call it `module0` so it can contain all programs that you write for the current module.
 
-- Now, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `module1` folder that you just created and click on **Save**.
+Now, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `module1` folder that you just created and click on **Save**.
 
-- In your new file, type the C code for "Hello, World" as seen above. Save it once more.
+In your new file, type the C code for "Hello, World" as seen above. Save it once more.
 
-- Let's point the terminal towards our new folder:
+Let's point the terminal towards our new folder:
 
-      cd ~/module0
+    cd ~/module0
 
-  The **prompt** is what the Terminal shows on your screen to "prompt" you to enter a new command. The prompt includes a portion to show what folder the Terminal is pointed towards. It should look like this, indicating that the **current folder** for the Terminal is indeed `~/module0`.
+The **prompt** is what the Terminal shows on your screen to "prompt" you to enter a new command. The prompt includes a portion to show what folder the Terminal is pointed towards. It should look like this, indicating that the **current folder** for the Terminal is indeed `~/module0`.
 
-      ~/module0/ $
+    ~/module0/ $
 
-- Next, type precisely the below (in lowercase), then hit Enter:
+Next, type precisely the below (in lowercase), then hit Enter:
 
-    ls
+  ls
 
-  You should see just `hello.c`. That's because you've just listed the files in that same folder, this time using a command-line interface (CLI), using just your keyboard, rather than the graphical user interface (GUI) represented by that folder icon. In particular, you *executed* (i.e., ran) a command called `ls`, which is shorthand for "list." (It's such a frequently used command that its authors called it just `ls` to save keystrokes.) Make sense?
+You should see just `hello.c`. That's because you've just listed the files in that same folder, this time using a command-line interface (CLI), using just your keyboard, rather than the graphical user interface (GUI) represented by that folder icon. In particular, you *executed* (i.e., ran) a command called `ls`, which is shorthand for "list." (It's such a frequently used command that its authors called it just `ls` to save keystrokes.) Make sense?
 
-- Here on out, to execute (i.e., run) a command means to type it into a terminal window and then hit Enter. Commands are "case-sensitive," so be sure not to type in uppercase when you mean lowercase or vice versa.
+Here on out, to execute (i.e., run) a command means to type it into a terminal window and then hit Enter. Commands are "case-sensitive," so be sure not to type in uppercase when you mean lowercase or vice versa.
 
 ## Compiling Programs
 
@@ -99,7 +99,10 @@ Suffice it to say, no matter how you compile or execute this program, it only ev
 
 Modify this program in such a way that it first prompts the user for their name and then prints `hello, so-and-so`, where `so-and-so` is their actual name.
 
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
+>
 > David's Lecture 1 should help you find the right commands to include in your code. This is often the case: lectures include many examples of working code, along with an explanation of the inner workings, which should help you get started on some of the parts of an assignment.
+{:.bg-light}
 
 As before, be sure to compile your program with:
 

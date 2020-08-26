@@ -16,11 +16,14 @@ Most likely, your problem description already contains one or two examples of ru
 
 Do you have a problem getting to the right solution or finding how to make some calculation? That means that either the problem is **underspecified** or you might lack a tiny bit of **knowledge** from the problem domain. Try to figure out which one it is and ask for help if needed!
 
-> **Intermezzo. Watch the walkthrough**
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
+>
+> **Watch the walkthrough**
 > 
 > Some of our problems come with a **walkthrough** movie in which some of the core assumptions and ideas are explained. If it appears that you lack some domain knowledge, it is likely that this is explained in the walkthrough.
 > 
 > Ideally, you watch the walkthrough just after you have tried solving some of the problem instances yourself. Note that the walkthroughs often also explain practical matters of getting input and formatting output. The Steps only concern the core algorithm, so be sure to get back to the walkthrough as soon as you are ready to code your solution.
+{:.bg-light}
 
 
 **Step 2. Write down your steps (with partner)**
@@ -49,6 +52,12 @@ Testing thoroughly might also reveal some fundamental problems in your algorithm
 
 ![](implementation.png)
 
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#warning-triangle"></use></svg>
+>
+> Before moving into Phase 2, you should have documented your Phase 1 analysis and results. You will submit these together with your solution from Phase 2.
+{:.bg-warning}
+
+
 **Step 5. Translate to code (separately)**
 
 Once you are satisfied that your algorithm is general enough, and you have tested it thoroughly with your partner, you can start translating it into a working program. Some actual program code may already be provided by us, so make sure that you download that and use it as a starting point. Identify the place where you should be implementing your algorithm.
@@ -73,9 +82,12 @@ One thing to check is if you have a **systematic** error in your program or that
 
 ![](codereview.png)
 
-**Step 8. Peer review your programs (with partner)**
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#warning-triangle"></use></svg>
+>
+> Before moving into phase 3, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
+{:.bg-warning}
 
-> Before this step, you should have submitted your working programs as-is to meet the deadline. Only then you will do a peer review and make any changes to improve code quality.
+**Step 8. Peer review your programs (with partner)**
 
 When everything is in order, and your program is found to be correct, you are going to do a peer review with your partner. The idea is not to compare your solutions per se, but more to **improve** each solution as it is.
 
