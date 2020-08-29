@@ -25,7 +25,22 @@ It turns out that this greedy approach (i.e., algorithm) is not only locally opt
 
 ## Steps
 
-For this problem, the most important part is the algorithm to calculate change in a greedy manner. We will use the [Problem solving steps](/steps) to create that algorithm in code.
+So how do you tackle this problem? Let's take a look at the example from above:
+
+    $ ./greedy
+    Change owed: 0.41
+    4
+
+There's a few parts that can be identified in the input and output of this program:
+
+1. The program prints a **prompt**, which asks how much change is owed: `Change owed:`
+2. At the prompt, you type a floating point number, in this case `0.41`, and press ENTER.
+3. The program prints the number of coins that would be returned: `4`.
+
+Clearly, some kind of calculation is happening between steps 2 and 3. From the description of the calculation above, you may have inferred that doing the calculation is not as simple as the expression that you used when implementing your solution to the Water problem. No, instead, this calculation is your main **algorithm**.
+
+> From now on, you will be using the [Problem Solving Steps](/steps) to analyze problems and propose solutions. We suggest that you read about the steps now and then continue below.
+{:.bg-light}
 
 
 ### Phase 1. Analyzing the problem
@@ -39,9 +54,12 @@ If we turn this idea of greedy change into an algorithm, we notice that we need 
 - how many coins are going to be returned, the **count** (initially 0)
 - how much change do we still have to return, the **amount**
 
-Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a partner to make it easier to come up with good examples, and then help each other out to work through those example precisely.
+The question is then: what algorithm will correctly convert the number `amount` into a `count`?
 
-The goal of these first steps is to describe some procedure that will work well given reasonable input examples. The procedure is described in some kind of pseudo-code. Only when you are both satisfied you proceed to implementing your solution in C.
+> Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a partner to make it easier to come up with good examples, and then help each other out to work through those example precisely.
+>
+> The goal of these first steps is to describe some procedure that will work well given reasonable input examples. The procedure is described in some kind of pseudo-code. Only when you are both satisfied you proceed to implementing your solution in C.
+{:.bg-light}
 
 <!-- In fact, the idea of the algorithm is to *convert* the amount of change required into the count of coins that are minimally needed to make that amount. In pseudocode, our algorithm may look like this the following, if we assume that the only coins available are quarters (25¢), dimes (10¢), nickels (5¢), and pennies (1¢). Note the presence of both `count` and `amount` in that code:
 
