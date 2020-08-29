@@ -39,7 +39,7 @@ The **prompt** is what the Terminal shows on your screen to "prompt" you to ente
 
 Next, type precisely the below (in lowercase), then hit Enter:
 
-  ls
+    ls
 
 You should see just `hello.c`. That's because you've just listed the files in that same folder, this time using a command-line interface (CLI), using just your keyboard, rather than the graphical user interface (GUI) represented by that folder icon. In particular, you *executed* (i.e., ran) a command called `ls`, which is shorthand for "list." (It's such a frequently used command that its authors called it just `ls` to save keystrokes.) Make sense?
 
@@ -49,11 +49,11 @@ Here on out, to execute (i.e., run) a command means to type it into a terminal w
 
 Now, before we can execute the program at right, recall that we must *compile* it with a *compiler* (e.g., `clang`), translating it from *source code* into *machine code* (i.e., zeroes and ones). Execute the command below to do just that:
 
-      clang hello.c
+    clang hello.c
 
 And then execute this one again:
 
-      ls
+    ls
 
 This time, you should see not only `hello.c` but `a.out` listed as well? (You can see the same graphically if you click that folder icon again.) That's because `clang` has translated the source code in `hello.c` into machine code in `a.out`, which happens to stand for "assembler output," but more on that another time.
 
