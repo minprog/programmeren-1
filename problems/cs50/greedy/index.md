@@ -41,7 +41,7 @@ Clearly, some kind of calculation is happening between steps 2 and 3. From the d
 
 > <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
 >
-> From now on, you will be using the [Problem Solving Steps](/steps) to analyze problems and propose solutions. We suggest that you read about the steps now and then continue below.
+> From now on, you will be using the [Problem Solving Steps](/steps) to analyze problems and propose solutions. We have now identified the core algorithm for this problem, so you should be able to apply the steps to find that algorithm. We suggest that you read about the steps now and then continue below.
 {:.bg-light}
 
 
@@ -186,4 +186,6 @@ check50 -l minprog/cs50x/2020/greedy
 
 4. In the form below the problem, add the file that you downloaded.
 
-5. Press "Submit for grading". Presto!
+5. Then, create a PDF with the notes from your analysis (see Phase 1 above), and add that to the form.
+
+6. Press "Submit for grading". Presto!
