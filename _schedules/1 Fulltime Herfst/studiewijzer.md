@@ -117,7 +117,7 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | module   | onderdeel        | deadline oplossing | deadline verbeterd |
 | -------- | ---------------- | ------------------ | ------------------ |
-| Module 0 | Scratch          | di  1 sep  11:59   | -                  |
+| Module 0 | Scratch          | ma 31 aug  15:59   | di  1 sep  10:59   |
 | Module 0 | IDE + Oefeningen | wo  2 sep  17:59   | -                  |
 | Module 1 |                  | vr  4 sep  17:59   | ma  7 sep  20:59   |
 | Module 2 |                  | do 10 sep  17:59   | ma 14 sep  20:59   |
