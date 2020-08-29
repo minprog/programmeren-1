@@ -51,12 +51,12 @@ Let Zamyla provide you with some more background on the problem:
 
 ![embed](https://player.vimeo.com/video/353578615?byline=0&portrait=0)
 
-If we turn this idea of greedy change into an algorithm, we notice that we need to keep track of two things:
+If we turn this idea of greedy change into an algorithm, we notice that two numbers are in play:
 
-- how many coins are going to be returned, the **count** (initially 0)
 - how much change do we still have to return, the **amount**
+- how many coins are going to be returned, the **count**
 
-The question is then: what algorithm will correctly convert the number `amount` into a `count`?
+The question is then: what algorithm will correctly convert the number `amount` into a number `count`?
 
 > Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a **partner** to make it easier to come up with good examples, and then help each other out to work through those example precisely.
 >
