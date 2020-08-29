@@ -11,7 +11,7 @@ De coördinator van dit vak is Jelle van Assema en de examinator is Martijn Steg
 Bij dit vak wordt van je verwacht dat je:
 
 1. alle opdrachten in stappen maakt zoals beschreven onder [werkwijze](#werkwijze)
-2. alle [oefeningen](#basisboek) doet
+2. alle [oefeningen](#basisboek) uit het basisboek doet
 3. alle [werkgroepen](#werkgroepen) en [checkups](#checkups) bijwoont
 
 Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
