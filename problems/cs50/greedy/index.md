@@ -176,6 +176,13 @@ check50 -l minprog/cs50x/2020/greedy
 ~~~~
 
 
+## What about Phase 3 and 4?
+
+The Problem Solving Steps comprise four phases, of which you have now completed the first two (hopefully!). You should now first submit your `greedy.c` in the form below. Then, you can take a look at **Mario**, another problem for this module.
+
+After you have finished Greedy and Mario, you will start Phase 3. Together with a partner, you will review each other's code, and you will have the opportunity to revise your own solutions and resubmit. Only then do you continue to Phase 4.
+
+
 ## Submitting
 
 1. When ready to submit, log into [CS50 IDE](https://ide.cs50.io/).
