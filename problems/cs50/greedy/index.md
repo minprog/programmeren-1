@@ -37,7 +37,7 @@ There's a few parts that can be identified in the input and output of this progr
 2. At the prompt, you type a floating point number, in this case `0.41`, and press ENTER.
 3. The program prints the number of coins that would be returned: `4`.
 
-Clearly, some kind of calculation is happening between steps 2 and 3. From the description of the calculation above, you may have inferred that doing the calculation is not as simple as the expression that you used when implementing your solution to the Water problem. No, instead, this calculation is your main **algorithm**.
+Clearly, some kind of calculation is happening between steps 2 and 3. From the description of the calculation above, you may have inferred that doing the calculation is not as simple as the expression that you used when implementing your solution to the Water problem. No, instead, this calculation is more complicated. It is your main **algorithm**.
 
 > <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
 >
