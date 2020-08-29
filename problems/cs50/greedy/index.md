@@ -39,6 +39,8 @@ There's a few parts that can be identified in the input and output of this progr
 
 Clearly, some kind of calculation is happening between steps 2 and 3. From the description of the calculation above, you may have inferred that doing the calculation is not as simple as the expression that you used when implementing your solution to the Water problem. No, instead, this calculation is your main **algorithm**.
 
+> <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
+>
 > From now on, you will be using the [Problem Solving Steps](/steps) to analyze problems and propose solutions. We suggest that you read about the steps now and then continue below.
 {:.bg-light}
 
@@ -56,7 +58,7 @@ If we turn this idea of greedy change into an algorithm, we notice that we need 
 
 The question is then: what algorithm will correctly convert the number `amount` into a `count`?
 
-> Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a partner to make it easier to come up with good examples, and then help each other out to work through those example precisely.
+> Now, head to the [Problem solving steps](/steps) and work through steps 1 to 4. You do this with a **partner** to make it easier to come up with good examples, and then help each other out to work through those example precisely.
 >
 > The goal of these first steps is to describe some procedure that will work well given reasonable input examples. The procedure is described in some kind of pseudo-code. Only when you are both satisfied you proceed to implementing your solution in C.
 {:.bg-light}
@@ -81,7 +83,7 @@ Study this pseudocode; discuss the details. Do you understand every part? Do you
 
 > <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#exclamation-triangle"></use></svg>
 >
-> Warning! This phase should be done individually. Keep in mind that you do not share C code with other students or tell each other what kinds of C code to use. Do ask for help from the course's staff!
+> Warning! This phase should be done **individually**. Keep in mind that you do not share C code with other students or tell each other what kinds of C code to use. Do ask for help from the course's staff!
 {:.bg-warning}
 
 To get started implementing this algorithm, create a file called `greedy.c` and insert a standard `main` function. Within that `main` function, insert the following two lines, which create the variables that are needed for the algorithm:
@@ -111,7 +113,7 @@ First, to get the dollar amount from the keyboard, use `get_float` from the CS50
 
 > <svg class="bi" width="24" height="24" fill="currentColor" size="24x24" style="svertical-align:-0.255em; float:left; margin-right:0.75rem;"><use xlink:href="/icons/bootstrap-icons.svg#info-circle"></use></svg>
 >
-> We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed \$9.75 (as in the case where a newspaper costs 25¢ but the customer pays with a \$10 bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
+> We ask that you use `get_float` so that you can handle dollars and cents, albeit sans dollar sign. In other words, if some customer is owed 9.75 dollars (as in the case where a newspaper costs 25¢ but the customer pays with a 10 dollar bill), assume that your program's input will be `9.75` and not `$9.75` or `975`. However, if some customer is owed $9 exactly, assume that your program's input will be `9.00` or just `9` but, again, not `$9` or `900`. Of course, by nature of floating-point values, your program will likely work with inputs like `9.0` and `9.000` as well; you need not worry about checking whether the user's input is "formatted" like money should be.
 >
 > You need not try to check whether a user's input is too large to fit in a `float`. Using `get_float` alone will ensure that the user's input is indeed a floating-point (or integral) value but not that it is non-negative.
 {:.bg-light}
