@@ -2,11 +2,9 @@ Welkom:
     - syllabus
 Module 0:
     # - intro
-    Scratch:
-        - scratch
-    Oefeningen:
-        - hardware
-        - variables
+    - scratch
+    - hardware
+    - variables
 Module 1:
     - c
 Module 2:
