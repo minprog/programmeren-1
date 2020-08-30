@@ -115,14 +115,13 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
-| module   | onderdeel  | deadline oplossing | deadline verbeterd |
-| -------- | ---------- | ------------------ | ------------------ |
-| Module 0 | Scratch    | ma 31 aug  17:59   | -                  |
-| Module 0 | Oefeningen | di  1 sep  17:59   | -                  |
-| Module 1 |            | vr  4 sep  17:59   | ma  7 sep  20:59   |
-| Module 2 |            | do 10 sep  17:59   | ma 14 sep  20:59   |
-| Module 3 |            | do 17 sep  17:59   | ma 21 sep  20:59   |
-| Module 4 |            | do 24 sep  17:59   | vr 25 sep  20:59   |
+| module   | deadline opdracht | deadline oefeningen | deadline verbeterd |
+| -------- | ----------------- | ------------------- | ------------------ |
+| Module 0 | ma 31 aug  17:59  | di  1 sep  17:59    | -                  |
+| Module 1 | vr  4 sep  17:59  | ma  7 sep  17:59    | ma  7 sep  20:59   |
+| Module 2 | do 10 sep  17:59  | vr 11 sep  17:59    | ma 14 sep  20:59   |
+| Module 3 | do 17 sep  17:59  | vr 18 sep  17:59    | ma 21 sep  20:59   |
+| Module 4 | do 24 sep  17:59  | vr 25 sep  17:59    | vr 25 sep  20:59   |
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
