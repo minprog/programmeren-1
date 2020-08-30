@@ -1,7 +1,10 @@
 Welkom:
     - syllabus
 Module 0:
-    - intro
+    # - intro
+    - scratch
+    - hardware
+    - variables
 Module 1:
     - c
 Module 2:
