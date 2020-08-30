@@ -117,14 +117,13 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 
 | module   | onderdeel       | deadline oplossing | deadline verbeterd |  
 | -------- | --------------- | ------------------ | ------------------ |
-| Module 0 | Scratch         | wo  2 sep  20:59   |                    |  
-| Module 0 | C               | di  8 sep  20:59   |                    |  
-| Module 1 |                 | di 15 sep  20:59   | vr 18 sep  20:59   |  
-| Module 2 |                 | di 22 sep  20:59   | vr 25 sep  20:59   |  
-| Module 3 | Find            | di 29 sep  20:59   | vr  2 okt  20:59   |  
-| Module 3 | Fifteen         | di  6 okt  20:59   | vr  9 okt  20:59   |  
-| Module 4 | Whodunit/Filter | di 13 okt  20:59   | vr 16 okt  20:59   |  
-| Module 4 | Recover         | di 20 okt  20:59   | vr 23 okt  20:59   |  
+| Module 0 |                 | di  8 sep  17:59   |                    |  
+| Module 1 |                 | di 15 sep  17:59   | zo 20 sep  20:59   |  
+| Module 2 |                 | di 22 sep  17:59   | zo 27 sep  20:59   |  
+| Module 3 | Find            | di 29 sep  17:59   | zo  4 okt  20:59   |  
+| Module 3 | Fifteen         | di  6 okt  17:59   | zo 11 okt  20:59   |  
+| Module 4 | Whodunit/Filter | di 13 okt  17:59   | zo 18 okt  20:59   |  
+| Module 4 | Recover         | di 20 okt  17:59   | zo 25 okt  20:59   |  
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
@@ -183,7 +182,7 @@ In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programm
 
 ### Werkgroepen
 
-Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
+Werkgroepen zijn bijeenkomsten van zo'n 45--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
 ### Basisboek
 
