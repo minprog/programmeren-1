@@ -32,7 +32,7 @@ templates:
 # elsewhere, but you can also create grades without an accompanying submit.
 #
 # The following properties are supported:
-# 
+#
 # - `type` can be `integer`, `float` or `pass`, which influences presentation
 # and input
 #
