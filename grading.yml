@@ -103,7 +103,7 @@ grades:
         calculation: done
         hide_subgrades: true
 
-    retrospect-c:
+    retrospective-c:
         subgrades:
             done: boolean
         calculation: done
@@ -228,4 +228,4 @@ problems:
 retrospectives:
     show_progress: true
     submits:
-        retrospect-c: 1
+        retrospective-c: 1
