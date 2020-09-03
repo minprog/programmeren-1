@@ -225,7 +225,9 @@ problems:
         module 3: 1
         module 4: 1
 
-retrospectives:
+other:
     show_progress: true
     submits:
+        scratch: 1
+        hardware: 1
         retrospective-c: 1
