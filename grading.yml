@@ -63,11 +63,7 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    scratch:
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_calculated: true
+    scratch: *fullyauto
     hardware:
         subgrades:
             done: boolean
