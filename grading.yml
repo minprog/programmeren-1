@@ -63,9 +63,18 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
+    scratch:
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    hardware:
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
     hello: *fullyauto
     water: *fullyauto
-    scratch: *fullyauto
     greedy: *fullyauto
     mario_less: *fullyauto
     mario_more: *fullyauto
