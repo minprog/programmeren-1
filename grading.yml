@@ -68,7 +68,7 @@ grades:
         subgrades:
             done: boolean
         calculation: done
-        hide_calculated: true
+        hide_subgrades: true
     hello: *fullyauto
     water: *fullyauto
     greedy: *fullyauto
@@ -107,7 +107,7 @@ grades:
         subgrades:
             done: boolean
         calculation: done
-        hide_calculated: true
+        hide_subgrades: true
     
     module 1: *manual
     module 2: *manual
