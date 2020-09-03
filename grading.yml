@@ -102,6 +102,13 @@ grades:
             done: boolean
         calculation: done
         hide_subgrades: true
+
+    retrospect-c:
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    
     module 1: *manual
     module 2: *manual
     module 3: *manual
