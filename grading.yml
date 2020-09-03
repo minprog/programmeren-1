@@ -63,6 +63,7 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
+    hello: *fullyauto
     water: *fullyauto
     scratch: *fullyauto
     greedy: *fullyauto
