@@ -10,6 +10,7 @@ templates:
         automatic:
             correctness: (correctness_score * 100).floor
         calculation: -(correctness/100)
+        auto_publish: true
         hide_subgrades: true
     3: &manual
         type: float
@@ -210,15 +211,3 @@ problems:
         module 2: 1
         module 3: 1
         module 4: 1
-
-# tests:
-#     show_progress: true
-#     required: true
-#     submits:
-#         test A: 1
-#         test B: 1
-#         test C: 1
-#         test D: 1
-#         test E: 1
-#         test F: 1
-#         test G: 1
