@@ -142,9 +142,9 @@ grades:
 # You can leave this out if the modules feature will not be used.
 
 modules:
-    module 0:
-        - scratch
-        - hardware
+    # module 0:
+    #     - scratch
+    #     - hardware
     module 1:
         - hello
         - water
