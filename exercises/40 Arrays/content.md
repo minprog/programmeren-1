@@ -6,8 +6,6 @@ Watch this video for an introduction to arrays.
 
 After watching, collect chapters 8 and 9 of the practice book and do all exercises!
 
-In de opdracht find heb je binary search geïmplementeerd. Dat algoritme zal je niet hoeven te reproduceren op de test, maar je kan wel simpelere varianten verwachten, zoals linear search (zie het [college](https://prog1.mprog.nl/lectures/algorithms#searching)).
-
 ### Oefeningen
 
 Schrijf een loop die in de array `numbers` zoekt of het getal `3` voorkomt. De lengte van de array is gegeven door `length`.
