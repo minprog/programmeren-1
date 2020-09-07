@@ -102,35 +102,15 @@ grades:
             done: boolean
         calculation: done
         hide_subgrades: true
-
     retrospective-c:
         subgrades:
             done: boolean
         calculation: done
         hide_subgrades: true
-    
     module 1: *manual
     module 2: *manual
     module 3: *manual
     module 4: *manual
-    # module 5:
-    #     type: float
-    #     subgrades:
-    #         points: integer
-    #         extra: integer
-    #         late: float
-    #     calculation: (points / 6.0 * 9).round(1)
-    #     hide_calculated: true
-    # test A: *test
-    # test B: *test
-    # test C: *test
-    # test D: *test
-    # test E: *test
-    # test F: *test
-    # test G: *test
-    # pidac: *test
-    # resit:
-    #     type: float
 
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
