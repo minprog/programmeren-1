@@ -2,17 +2,15 @@ name: CI
 
 on:
   push:
-    branches: ['*']
+    branches: ['2020']
   pull_request:
-    branches: ['*']
+    branches: ['2020']
 
 jobs:
-  yaml_check:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Get code
         uses: actions/checkout@v2
       - name: YAML Lint
-        uses: ibiqlik/action-yamllint@v1
-        with:
-          config_data: "{extends: relaxed, rules: {}}"
+        uses: actionshub/yamllint@v1.0.0
