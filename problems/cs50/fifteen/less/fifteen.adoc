@@ -126,7 +126,7 @@ Note that `check50` assumes that your board's blank space is implemented in `boa
 
 [source]
 ----
-check50 minprog/cs50x/2019/fifteen/less
+check50 minprog/cs50x/2020/fifteen/less
 ----
 
 > Let op! Als je de hacker versie van deze opdracht hebt gemaakt, lever deze opdracht dan in op de link:/problems/fifteen-more[hacker editie pagina van Fifteen].
