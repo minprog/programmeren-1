@@ -94,8 +94,8 @@ grades:
 
     c: *manual
     crypto: *manual
-    module 3: *manual
-    module 4: *manual
+    fifteen: *manual
+    graphics: *manual
 
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
