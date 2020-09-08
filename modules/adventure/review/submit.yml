@@ -1,5 +1,0 @@
-name: m8a
-files:
-    required:
-        - adventure.py
-        - room.py
