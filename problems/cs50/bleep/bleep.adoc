@@ -96,7 +96,7 @@ What message would you like to censor?
 
 [source]
 ----
-check50 minprog/cs50x/2020/bleep
+check50 -l minprog/cs50x/2020/bleep
 ----
 
 === Style

@@ -28,4 +28,4 @@ In deze opdracht ga je de greedy opdracht van CS50 maken in Python.
 
 ## Testen
 
-	check50 minprog/cs50x/2020/py/greedy
+	check50 -l minprog/cs50x/2020/py/greedy

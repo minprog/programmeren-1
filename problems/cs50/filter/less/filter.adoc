@@ -212,7 +212,7 @@ Execute the below to evaluate the correctness of your code using `check50`. But 
 
 [source]
 ----
-check50 minprog/cs50x/2020/filter/less
+check50 -l minprog/cs50x/2020/filter/less
 ----
 
 Execute the below to evaluate the style of your code using `style50`.

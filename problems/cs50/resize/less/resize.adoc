@@ -112,7 +112,7 @@ Here's how to evaluate the correctness of your code using `check50`. But be sure
 
 [source]
 ----
-check50 minprog/cs50x/2020/resize/less
+check50 -l minprog/cs50x/2020/resize/less
 ----
 
 === `style50`

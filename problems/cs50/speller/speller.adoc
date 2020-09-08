@@ -366,7 +366,7 @@ To test your code less manually (though still not exhaustively), you may also ex
 
 [source]
 ----
-check50 minprog/cs50x/2020/speller
+check50 -l minprog/cs50x/2020/speller
 ----
 
 Note that `check50` will also check for memory leaks, so be sure you've run `valgrind` as well.
