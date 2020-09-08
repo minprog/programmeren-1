@@ -17,8 +17,7 @@ templates:
         subgrades:
             points: integer
             extra: integer
-            late: float
-        calculation: ((points + extra) / 6.0 * 9 + 1).round(1)
+        calculation: ([points + extra, 6].max / 6.0 * 9 + 1).round(1)
         hide_calculated: true
     4: &test
         type: pass
@@ -26,7 +25,7 @@ templates:
             passed: integer
         calculation: passed
         is_test: true
-        hide_subgrades: true
+        hide_calculated: true
     5: &check_off
         type: pass
         subgrades:
