@@ -19,7 +19,7 @@ Didn't find needle in haystack.
 
 [source,subs="macros"]
 ----
-$ wget https://prog1.mprog.nl/course/problems/find-less/find.zip
+$ wget https://github.com/minprog/cs50x/raw/2020/find/more/find.zip
 $ unzip find.zip
 $ rm find.zip
 $ cd find
