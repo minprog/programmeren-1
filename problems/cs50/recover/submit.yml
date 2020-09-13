@@ -1,6 +1,7 @@
 name: recover
 files:
     required:
+        - analysis.pdf
         - recover.c
 check:
     tool: check50
