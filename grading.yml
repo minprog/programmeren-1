@@ -82,15 +82,18 @@ grades:
     caesar: *fullyauto
     vigenere: *fullyauto
     crack: *fullyauto
+    retrospective-crypto: *check_off
 
     find_less: *fullyauto
     fifteen_less: *fullyauto
     fifteen_more: *fullyauto
+    retrospective-fifteen: *check_off
 
     whodunit: *check_off
     filter_less: *fullyauto
     recover: *fullyauto
     resize_more: *fullyauto
+    retrospective-graphics: *check_off
 
     c: *manual
     crypto: *manual
