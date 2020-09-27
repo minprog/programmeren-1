@@ -1,6 +1,7 @@
 name: bleep
 files:
     required:
+        - analysis.pdf
         - bleep.py
 check:
     tool: check50
