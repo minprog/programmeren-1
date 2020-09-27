@@ -131,9 +131,9 @@ modules:
         - fifteen_less
         - fifteen_more
     graphics:
+        - retrospective-fifteen
         - whodunit
         - filter_less
-        - resize_less
         - resize_more
         - recover
 
