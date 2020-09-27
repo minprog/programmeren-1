@@ -120,11 +120,13 @@ modules:
         - mario_less
         - credit
     crypto:
+        - retrospective-c
         - initials_less
         - caesar
         - vigenere
         - crack
     fifteen:
+        - retrospective-crypto
         - find_less
         - fifteen_less
         - fifteen_more
