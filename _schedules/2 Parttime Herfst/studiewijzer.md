@@ -115,6 +115,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
+<!--
 | module   | onderdeel       | deadline oplossing | deadline verbeterd |  
 | -------- | --------------- | ------------------ | ------------------ |
 | Module 0 |                 | di  8 sep  17:59   |                    |  
@@ -124,6 +125,58 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 | Module 3 | Fifteen         | di  6 okt  17:59   | zo 11 okt  20:59   |  
 | Module 4 | Whodunit/Filter | di 13 okt  17:59   | zo 18 okt  20:59   |  
 | Module 4 | Recover         | di 20 okt  17:59   | zo 25 okt  20:59   |  
+-->
+
+<table>
+  <thead>
+    <tr>
+      <th>module</th>
+      <th>onderdeel</th>
+      <th>deadline oplossing</th>
+      <th>deadline verbeterd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Module 0</td>
+      <td></td>
+      <td>di  8 sep  17:59</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Module 1</td>
+      <td></td>
+      <td>di 15 sep  17:59</td>
+      <td>zo 20 sep  20:59</td>
+    </tr>
+    <tr>
+      <td>Module 2</td>
+      <td></td>
+      <td>di 22 sep  17:59</td>
+      <td>zo 27 sep  20:59</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Module 3</td>
+      <td>Find</td>
+      <td>di 29 sep  17:59</td>
+      <td rowspan="2">zo 11 okt  20:59</td>
+    </tr>
+    <tr>
+      <td>Fifteen</td>
+      <td>di  6 okt  17:59</td>
+    </tr>
+    <tr>
+      <td rowspan="2">Module 4</td>
+      <td>Whodunit/Filter</td>
+      <td>di 13 okt  17:59</td>
+      <td rowspan="2">zo 25 okt  20:59</td>
+    </tr>
+    <tr>
+      <td>Recover</td>
+      <td>di 20 okt  17:59</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
