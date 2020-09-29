@@ -115,6 +115,18 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn, waarbij de correcte werking automatisch wordt getest met `check50`. Daarna volgt een deadline waarvoor je je werkende programma's verbetert en nogmaals inlevert.
 
+<!--
+| module   | onderdeel       | deadline oplossing | deadline verbeterd |  
+| -------- | --------------- | ------------------ | ------------------ |
+| Module 0 |                 | di  8 sep  17:59   |                    |  
+| Module 1 |                 | di 15 sep  17:59   | zo 20 sep  20:59   |  
+| Module 2 |                 | di 22 sep  17:59   | zo 27 sep  20:59   |  
+| Module 3 | Find            | di 29 sep  17:59   | zo  4 okt  20:59   |  
+| Module 3 | Fifteen         | di  6 okt  17:59   | zo 11 okt  20:59   |  
+| Module 4 | Whodunit/Filter | di 13 okt  17:59   | zo 18 okt  20:59   |  
+| Module 4 | Recover         | di 20 okt  17:59   | zo 25 okt  20:59   |  
+-->
+
 <table>
   <thead>
     <tr>
