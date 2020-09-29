@@ -127,7 +127,7 @@ Elke module moet op de vooraf bepaalde deadline volledig werkend ingeleverd zijn
 | Module 4 | Recover         | di 20 okt  17:59   | zo 25 okt  20:59   |  
 -->
 
-<table>
+<table class="kramdown-table">
   <thead>
     <tr>
       <th>module</th>
