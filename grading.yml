@@ -82,15 +82,18 @@ grades:
     caesar: *fullyauto
     vigenere: *fullyauto
     crack: *fullyauto
+    retrospective-crypto: *check_off
 
     find_less: *fullyauto
     fifteen_less: *fullyauto
     fifteen_more: *fullyauto
+    retrospective-fifteen: *check_off
 
     whodunit: *check_off
     filter_less: *fullyauto
     recover: *fullyauto
     resize_more: *fullyauto
+    retrospective-graphics: *check_off
 
     c: *manual
     crypto: *manual
@@ -119,18 +122,20 @@ modules:
         - mario_less
         - credit
     crypto:
+        - retrospective-c
         - initials_less
         - caesar
         - vigenere
         - crack
     fifteen:
+        - retrospective-crypto
         - find_less
         - fifteen_less
         - fifteen_more
     graphics:
+        - retrospective-fifteen
         - whodunit
         - filter_less
-        - resize_less
         - resize_more
         - recover
 
@@ -193,3 +198,6 @@ other:
         scratch: 1
         hardware: 1
         retrospective-c: 1
+        retrospective-crypto: 1
+        retrospective-fifteen: 1
+        retrospective-graphics: 1
