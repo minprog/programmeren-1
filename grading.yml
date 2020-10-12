@@ -193,6 +193,7 @@ mods:
         graphics: 1
 
 other:
+    required: true
     show_progress: true
     submits:
         scratch: 1
@@ -201,3 +202,4 @@ other:
         retrospective-crypto: 1
         retrospective-fifteen: 1
         retrospective-graphics: 1
+        engagement: 1
