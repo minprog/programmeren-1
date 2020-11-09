@@ -198,8 +198,8 @@ other:
     submits:
         scratch: 1
         hardware: 1
-        retrospective-c: 1
-        retrospective-crypto: 1
-        retrospective-fifteen: 1
-        retrospective-graphics: 1
-        engagement: 1
+        # retrospective-c: 1
+        # retrospective-crypto: 1
+        # retrospective-fifteen: 1
+        # retrospective-graphics: 1
+        # engagement: 1
