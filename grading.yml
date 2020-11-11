@@ -158,6 +158,8 @@ modules:
 calculation:
     eindcijfer:
         mods: 100
+    herkansing:
+        mods: 100
         # other: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
