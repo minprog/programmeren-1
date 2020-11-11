@@ -158,7 +158,7 @@ modules:
 calculation:
     eindcijfer:
         mods: 100
-        other: 0
+        # other: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
