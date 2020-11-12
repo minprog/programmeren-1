@@ -99,7 +99,7 @@ grades:
     crypto: *manual
     fifteen: *manual
     graphics: *manual
-    
+
     engagement: *check_off
 
 # MODULES - define overarching grades that comprise several different problems.
