@@ -1,9 +1,24 @@
 Welkom:
     - syllabus
 Module 0:
-    - scratch
+    Lecture 0: /lectures/computational-thinking
+    Scratch: /problems/cs50/scratch
+    Hardware: /modules/hardware
+    Expressies: /exercises/variables
 Module 1:
-    - c
+    Inleiding: /modules/c
+    Lecture 1: /lectures/c
+    Voorbereiding:
+        Maak je eigen CS50 IDE aan: /shorts/ide
+        Hello: /problems/cs50/hello
+    Lab:
+        Population: /problems/cs50/population
+    Opdrachten:
+        Greedy: /problems/cs50/greedy
+        Mario: /problems/cs50/mario/less
+        Control Flow: /exercises/control-flow
+        Credit: /problems/cs50/credit
+    Code review: review
 Module 2:
     - crypto
 Module 3:
