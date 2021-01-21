@@ -1,7 +1,9 @@
-Inleiding: /modules/mispellings
+Inleiding: .
 'Videocollege: Data structures': /lectures/data-structures
-Opdracht:
-    Speller: /problems/cs50/speller
-Afronding:
-    Code review: /modules/mispellings/review
-    Retrospective: /modules/mispellings/retrospective
+Opdrachten:
+    Analyseer Speller: analysis
+    Implementeer Speller: /problems/cs50/speller
+    Code review: review
+    Questions: questions
+Afronding (pas na verkrijgen van je feedback):
+    Retrospective: retrospective
