@@ -1,12 +1,65 @@
 Welkom:
     - syllabus
-Module 0:
-    - scratch
-Module 1:
-    - c
-Module 2:
-    - crypto
-Module 3:
-    - fifteen
-Module 4:
-    - graphics
+Week 1:
+    Dag 1:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+        Scratch: /problems/cs50/scratch
+    Dag 2:
+        Hardware: /modules/hardware
+        Expressies: /exercises/variables
+Week 2:
+    Dag 3:
+        # Inleiding: /modules/c
+        'Videocollege: C': /lectures/c
+        Maak je eigen CS50 IDE aan: /shorts/ide
+        Hello: /problems/cs50/hello
+        Population: /problems/cs50/population
+        Control Flow: /exercises/control-flow
+    Dag 4:
+        Greedy: /problems/cs50/greedy
+    Dag 5:
+        Mario: /problems/cs50/mario/less
+    Extra:
+        Credit: /problems/cs50/credit
+Week 3:
+    Dag 6:
+        'Videocollege: Arrays': /lectures/arrays
+        Strings: /practice/strings
+        Scrabble: /problems/cs50/scrabble
+    Dag 7:
+        Readability: /problems/cs50/readability
+    Dag 8:
+        Caesar: /problems/cs50/caesar
+        'Boek: strings en arrays': /exercises/arrays
+    Extra:
+        Crack: /problems/cs50/crack
+Week 4:
+    Dag 9:
+        Debuggen van je programma's: /shorts/debugging
+        Werken met command-line arguments: /shorts/arguments
+    Dag 10:
+        'Videocollege: Algorithms': /lectures/algorithms
+        Linear Search: /support/linear
+    Dag 11:
+        Sort: /labs/sort
+Week 5:
+    Dag 11a:
+        Find: /problems/cs50/find/less
+        De belangrijkste algoritmen: /shorts/algorithms
+    Dag 12:
+        Practice Big-O: /practice/big-o
+    Dag 13:
+        Complexity Puzzle: /practice/complexity-puzzle
+        Functions: /exercises/functions
+    Extra:
+        Fifteen: /problems/cs50/fifteen/more
+Week 6:
+    Dag 14:
+        Functions: /practice/functions
+    Dag 15:
+        'Videocollege: Memory': /lectures/memory
+        Whodunit: /problems/cs50/whodunit
+    Dag 16:
+        Anonymize: /support/anonymize
+    Extra:
+        Resize: /problems/cs50/resize/more
