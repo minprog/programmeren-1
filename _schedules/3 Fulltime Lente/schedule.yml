@@ -1,27 +1,61 @@
 Welkom:
     - syllabus
-Module 0:
-    Lecture 0: /lectures/computational-thinking
-    Scratch: /problems/cs50/scratch
-    Hardware: /modules/hardware
-    Expressies: /exercises/variables
-Module 1:
-    Inleiding: /modules/c
-    Lecture 1: /lectures/c
-    Voorbereiding:
+Week 1:
+    Dag 1:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+        Scratch: /problems/cs50/scratch
+    Dag 2:
+        Hardware: /modules/hardware
+        Expressies: /exercises/variables
+    Dag 3:
+        # Inleiding: /modules/c
+        'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
         Hello: /problems/cs50/hello
-    Lab:
         Population: /problems/cs50/population
-    Opdrachten:
-        Greedy: /problems/cs50/greedy
-        Mario: /problems/cs50/mario/less
         Control Flow: /exercises/control-flow
+    Dag 4:
+        Greedy: /problems/cs50/greedy
+    Dag 5:
+        Mario: /problems/cs50/mario/less
+    Extra:
         Credit: /problems/cs50/credit
-    Code review: review
-Module 2:
-    - crypto
-Module 3:
-    - fifteen
-Module 4:
-    - graphics
+Week 2:
+    Dag 6:
+        'Videocollege: Arrays': /lectures/arrays
+        Strings: /practice/strings
+        Scrabble: /problems/cs50/scrabble
+    Dag 7:
+        Readability: /problems/cs50/readability
+    Dag 8:
+        Caesar: /problems/cs50/caesar
+        'Boek: strings en arrays': /exercises/arrays
+    Dag 9:
+        Debuggen van je programma's: /shorts/debugging
+        Werken met command-line arguments: /shorts/arguments
+    Dag 10:
+        'Videocollege: Algorithms': /lectures/algorithms
+        Linear Search: /support/linear
+    Extra:
+        Crack: /problems/cs50/crack
+Week 3:
+    Dag 11:
+        Sort: /labs/sort
+        Find: /problems/cs50/find/less
+        De belangrijkste algoritmen: /shorts/algorithms
+    Dag 12:
+        Practice Big-O: /practice/big-o
+    Dag 13:
+        Complexity Puzzle: /practice/complexity-puzzle
+        Functions: /exercises/functions
+    Dag 14:
+        Functions: /practice/functions
+    Dag 15:
+        'Videocollege: Memory': /lectures/memory
+        Whodunit: /problems/cs50/whodunit
+
+Week 4:
+    Dag 16:
+        Anonymize: /support/anonymize
+    Extra:
+        Resize: /problems/cs50/resize/more
