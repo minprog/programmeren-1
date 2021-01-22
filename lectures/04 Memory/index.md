@@ -1,8 +1,8 @@
 # Lecture: Memory
 
-![embed](https://www.youtube.com/embed/pcbmiLUzr0w&offset=-90990&start=537)
+![![](thumbnail.jpg)](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
 
-[Open in CS50 video player](htthttps://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
+[Open in CS50 video player](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
 
 ## Hexadecimal
 

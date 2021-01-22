@@ -1,6 +1,6 @@
 # Lecture: C
 
-![embed](https://www.youtube.com/embed/iRkKEHybf9M?start=490)
+![![](thumbnail.jpg)](https://video.cs50.io/zYierUhIFNQ?screen=VmZ-cWfb2QM)
 
 [Open in CS50 video player](https://video.cs50.io/zYierUhIFNQ?screen=VmZ-cWfb2QM)
 

@@ -1,6 +1,6 @@
 # Lecture: Python<br><small>David Malan</small>
 
-![embed](https://www.youtube.com/embed/kM4oZTJaO8k?start=624&end=10665&offset=-37900)
+![![](thumbnail.jpg)](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
 
 [Open in CS50 video player](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
 

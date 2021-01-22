@@ -1,6 +1,6 @@
 # Lecture: SQL
 
-![embed](https://www.youtube.com/embed/u5pDdEKnbKA)
+![![](thumbnail.jpg)](https://video.cs50.io/SAmkH5WFQ-8?screen=1Yroj3rwKGI)
 
 [Open in CS50 video player](https://video.cs50.io/SAmkH5WFQ-8?screen=1Yroj3rwKGI)
 

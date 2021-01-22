@@ -1,13 +1,8 @@
 # Lecture: Computational thinking
 
-<p markdown="0">
- <a href="https://video.cs50.io/YoXxevp1WRQ?screen=mu28ADhzRQE">
-  <figure>
-   <img src="thumbnail.jpg" alt="Screen capture of the lecture">
-   <figcaption>Open in CS50 video player</figcaption>
-  </figure>
- </a>
-</p>
+![![](thumbnail.jpg)](https://video.cs50.io/zYierUhIFNQ?screen=VmZ-cWfb2QM)
+
+[Open in CS50 video player](https://video.cs50.io/YoXxevp1WRQ?screen=mu28ADhzRQE)
 
 ## Welcome
 

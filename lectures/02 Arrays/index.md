@@ -1,6 +1,6 @@
 # Lecture: Arrays
 
-![embed](https://www.youtube.com/embed/v7Ho89RMRIo?start=851)
+![![](thumbnail.jpg)](https://video.cs50.io/tI_tIZFyKBw?screen=SOJ4zTf_nkg)
 
 [Open in CS50 video player](https://video.cs50.io/tI_tIZFyKBw?screen=SOJ4zTf_nkg)
 
