@@ -6,14 +6,14 @@ Week 1:
         Scratch: /problems/cs50/scratch
     Dag 2:
         Hardware: /modules/hardware
-        Expressies: /exercises/variables
+        Expressies: /exercises/book/variables
     Dag 3:
         # Inleiding: /modules/c
         'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
         Hello: /problems/cs50/hello
         Population: /problems/cs50/population
-        Control Flow: /exercises/control-flow
+        Control Flow: /exercises/book/control-flow
     Dag 4:
         Greedy: /problems/cs50/greedy
     Dag 5:
