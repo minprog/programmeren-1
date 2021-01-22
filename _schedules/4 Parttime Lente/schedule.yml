@@ -41,25 +41,25 @@ Week 4:
         'Videocollege: Algorithms': /lectures/algorithms
         'Oefenen: Linear Search': /exercises/writing/linear
     Dag 11:
-        Sort: /labs/sort
+        Sort: /problems/cs50/sort
 Week 5:
     Dag 11a:
         Find: /problems/cs50/find/less
         De belangrijkste algoritmen: /shorts/algorithms
     Dag 12:
-        Practice Big-O: /practice/big-o
+        Practice Big-O: /exercises/study/big-o
     Dag 13:
-        Complexity Puzzle: /practice/complexity-puzzle
-        Functions: /exercises/functions
+        Complexity Puzzle: /exercises/study/complexity-puzzle
+        Functions: /exercises/book/functions
     Extra:
         Fifteen: /problems/cs50/fifteen/more
 Week 6:
     Dag 14:
-        Functions: /practice/functions
+        Functions: /exercises/writing/functions
     Dag 15:
         'Videocollege: Memory': /lectures/memory
         Whodunit: /problems/cs50/whodunit
     Dag 16:
-        Anonymize: /support/anonymize
+        Anonymize: /exercises/writing/anonymize
     Extra:
         Resize: /problems/cs50/resize/more

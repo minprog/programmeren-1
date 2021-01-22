@@ -40,16 +40,16 @@ Week 2:
         Crack: /problems/cs50/crack
 Week 3:
     Dag 11:
-        Sort: /labs/sort
+        Sort: /problems/cs50/sort
         Find: /problems/cs50/find/less
         De belangrijkste algoritmen: /shorts/algorithms
     Dag 12:
-        Practice Big-O: /practice/big-o
+        Practice Big-O: /exercises/study/big-o
     Dag 13:
-        Complexity Puzzle: /practice/complexity-puzzle
-        Functions: /exercises/functions
+        Complexity Puzzle: /exercises/study/complexity-puzzle
+        Functions: /exercises/book/functions
     Dag 14:
-        Functions: /practice/functions
+        Functions: /exercises/writing/functions
     Dag 15:
         'Videocollege: Memory': /lectures/memory
         Whodunit: /problems/cs50/whodunit
@@ -57,6 +57,6 @@ Week 3:
         Fifteen: /problems/cs50/fifteen/more
 Week 4:
     Dag 16:
-        Anonymize: /support/anonymize
+        Anonymize: /exercises/writing/anonymize
     Extra:
         Resize: /problems/cs50/resize/more
