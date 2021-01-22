@@ -7,7 +7,6 @@ Week 1:
     Dag 2:
         Hardware: /modules/hardware
         Expressies: /exercises/book/variables
-Week 2:
     Dag 3:
         # Inleiding: /modules/c
         'Videocollege: C': /lectures/c
@@ -15,49 +14,50 @@ Week 2:
         Hello: /problems/cs50/hello
         Population: /problems/cs50/population
         Control Flow: /exercises/book/control-flow
+Week 2:
     Dag 4:
         Mario: /problems/cs50/mario/less
     Dag 5:
         Greedy: /problems/cs50/greedy
-    Extra:
-        Credit: /problems/cs50/credit
-Week 3:
     Dag 6:
         'Videocollege: Arrays': /lectures/arrays
         'Oefenen: Strings': /exercises/writing/strings
         'Oefenen: Scrabble': /problems/cs50/scrabble
+    Extra:
+        Credit: /problems/cs50/credit
+Week 3:
     Dag 7:
         'Opdracht: Readability': /problems/cs50/readability
     Dag 8:
         'Opdracht: Caesar': /problems/cs50/caesar
         'Oefenen: Strings en Arrays': /exercises/book/arrays
-    Extra:
-        Crack: /problems/cs50/crack
-Week 4:
     Dag 9:
         Debuggen van je programma's: /shorts/debugging
     Dag 10:
         'Videocollege: Algorithms': /lectures/algorithms
         'Oefenen: Linear Search': /exercises/writing/linear
+    Extra:
+        Crack: /problems/cs50/crack
+Week 4:
     Dag 11:
         Sort: /problems/cs50/sort
-Week 5:
     Dag 11a:
         Find: /problems/cs50/find/less
         De belangrijkste algoritmen: /shorts/algorithms
     Dag 12:
         Practice Big-O: /exercises/study/big-o
+    Extra:
+        Fifteen: /problems/cs50/fifteen/more
+Week 5:
     Dag 13:
         Complexity Puzzle: /exercises/study/complexity-puzzle
         Functions: /exercises/book/functions
-    Extra:
-        Fifteen: /problems/cs50/fifteen/more
-Week 6:
     Dag 14:
         Functions: /exercises/writing/functions
     Dag 15:
         'Videocollege: Memory': /lectures/memory
         Whodunit: /problems/cs50/whodunit
+Week 6:
     Dag 16:
         Anonymize: /exercises/writing/anonymize
     Extra:
