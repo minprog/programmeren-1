@@ -2,7 +2,7 @@
 
 ![embed](https://www.youtube.com/embed/u5pDdEKnbKA)
 
-[Open in CS50 video player](https://video.cs50.io/u5pDdEKnbKA?screen=-nHi1mI60oI)
+[Open in CS50 video player](https://video.cs50.io/SAmkH5WFQ-8?screen=1Yroj3rwKGI)
 
 ## Spreadsheets
 

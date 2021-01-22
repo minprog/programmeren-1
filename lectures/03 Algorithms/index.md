@@ -2,7 +2,7 @@
 
 ![embed](https://www.youtube.com/embed/6KP7tu3JLSM)
 
-[Open in CS50 video player](https://video.cs50.io/6KP7tu3JLSM?screen=cVlKG2gnq_Q)
+[Open in CS50 video player](https://video.cs50.io/gR6nycuZKlM?screen=CRl1MoW0F-E)
 
 ## Last week
 

@@ -2,7 +2,7 @@
 
 ![embed](https://www.youtube.com/embed/iRkKEHybf9M?start=490)
 
-[Open in CS50 video player](https://video.cs50.io/iRkKEHybf9M?start=490)
+[Open in CS50 video player](https://video.cs50.io/zYierUhIFNQ?screen=VmZ-cWfb2QM)
 
 ## C
 
