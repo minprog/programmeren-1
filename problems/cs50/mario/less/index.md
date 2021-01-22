@@ -69,6 +69,8 @@ If the user doesn't, in fact, input a positive integer between 1 and 8, inclusiv
 
 How to begin? Let's approach this problem one step at a time.
 
+[Open on Youtube](https://youtu.be/NAs4FIWkJ4s)
+
 
 ## Pseudocode
 
