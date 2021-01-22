@@ -1,6 +1,6 @@
 # Lecture: Memory
 
-![![](thumbnail.jpg)](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
+[![](thumbnail.jpg)](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
 
 [Open in CS50 video player](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
 

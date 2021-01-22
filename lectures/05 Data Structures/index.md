@@ -1,6 +1,6 @@
 # Lecture: Data Structures
 
-![![](thumbnail.jpg)](https://video.cs50.io/2T-A_GFuoTo?screen=QdhPqzoTyUE)
+[![](thumbnail.jpg)](https://video.cs50.io/2T-A_GFuoTo?screen=QdhPqzoTyUE)
 
 [Open in CS50 video player](https://video.cs50.io/2T-A_GFuoTo?screen=QdhPqzoTyUE)
 

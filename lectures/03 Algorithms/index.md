@@ -1,6 +1,6 @@
 # Lecture: Algorithms
 
-![![](thumbnail.jpg)](https://video.cs50.io/gR6nycuZKlM?screen=CRl1MoW0F-E)
+[![](thumbnail.jpg)](https://video.cs50.io/gR6nycuZKlM?screen=CRl1MoW0F-E)
 
 [Open in CS50 video player](https://video.cs50.io/gR6nycuZKlM?screen=CRl1MoW0F-E)
 

@@ -1,6 +1,6 @@
 # Lecture: Python<br><small>David Malan</small>
 
-![![](thumbnail.jpg)](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
+[![](thumbnail.jpg)](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
 
 [Open in CS50 video player](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
 
