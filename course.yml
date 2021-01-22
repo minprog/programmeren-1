@@ -3,7 +3,7 @@ short_name: Prog1
 language: nl
 
 links:
-    '[diagram-3] Steps': /steps
+    # '[diagram-3] Steps': /steps
     '[terminal] IDE': https://ide.cs50.io/
     '[chat-text] Ed': https://us.edstem.org/courses/2328
     '[book] Manual': https://man.cs50.io/
