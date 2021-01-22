@@ -1,7 +1,11 @@
 # Lecture: Computational thinking
 
-<a href="https://video.cs50.io/YoXxevp1WRQ?screen=mu28ADhzRQE"><figure>
-<img src="thumbnail.jpg" alt="Screen capture of the lecture"><figcaption>Open in CS50 video player</figcaption></figure></a>
+<a markdown="0" href="https://video.cs50.io/YoXxevp1WRQ?screen=mu28ADhzRQE">
+ <figure>
+  <img src="thumbnail.jpg" alt="Screen capture of the lecture">
+  <figcaption>Open in CS50 video player</figcaption>
+ </figure>
+</a>
 
 ## Welcome
 
