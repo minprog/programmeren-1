@@ -15,9 +15,9 @@ Week 1:
         Population: /problems/cs50/population
         Control Flow: /exercises/book/control-flow
     Dag 4:
-        Greedy: /problems/cs50/greedy
-    Dag 5:
         Mario: /problems/cs50/mario/less
+    Dag 5:
+        Greedy: /problems/cs50/greedy
     Extra:
         Credit: /problems/cs50/credit
 Week 2:
