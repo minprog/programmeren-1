@@ -1,4 +1,4 @@
-# [Lab 1: Population Growth](#lab-1-population-growth)
+# Population Growth
 
 > You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
 
@@ -10,7 +10,7 @@ Determine how long it takes for a population to reach a particular size.
     Years: 9
 
 
-## [Background](#background)
+## Background
 
 Say we have a population of `n` llamas. Each year, `n / 3` new llamas are born, and `n / 4` llamas pass away.
 
@@ -19,12 +19,12 @@ For example, if we were to start with `n = 1200` llamas, then in the first year,
 To try another example, if we were to start with `n = 1000` llamas, at the end of the year, we would have `1000 / 3 = 333.33` new llamas. We can't have a decimal portion of a llama, though, so we'll truncate the decimal to get `333` new llamas born. `1000 / 4 = 250` llamas will pass away, so we'll end up with a total of `1000 + 333 - 250 = 1083` llamas at the end of the year.
 
 
-## [Getting Started](#getting-started)
+## Getting Started
 
-*   Copy the "distribution code" (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/1/population.c](https://cdn.cs50.net/2020/fall/labs/1/population.c) into a new file in your IDE called `population.c`.
+Copy the "distribution code" (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/1/population.c](https://cdn.cs50.net/2020/fall/labs/1/population.c) into a new file in your IDE called `population.c`.
 
 
-## [Implementation Details](#implementation-details)
+## Implementation Details
 
 Complete the implementation of `population.c`, such that it calculates the number of years required for the population to grow from the start size to the end size.
 
@@ -36,12 +36,12 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 *   Finally, your program should print the number of years required for the llama population to reach that end size, as by printing to the terminal `Years: n`, where `n` is the number of years.
 
 
-### [Walkthrough](#walkthrough)
+### Walkthrough
 
-![embed](https://video.cs50.io/dZmtRHHUB1M)
+[Open in CS50 Video Player](https://video.cs50.io/dZmtRHHUB1M)
 
 
-### [Hints](#hints)
+### Hints
 
 *   If you want to repeatedly re-prompt the user for the value of a variable until some condition is met, you might want to use a `do ... while` loop. For example, recall the following code from lecture, which prompts the user repeatedly until they enter a positive integer.
 
@@ -67,7 +67,7 @@ Complete the implementation of `population.c`, such that it calculates the numbe
     to specify that the variable `n` should fill in for the placeholder `%i`.
 
 
-### [How to Test Your Code](#how-to-test-your-code)
+### How to Test Your Code
 
 Your program should behave per the examples below.
 
@@ -98,7 +98,7 @@ Your program should behave per the examples below.
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-![embed](https://video.cs50.io/2CcqQnLbGOE)
+[Open in CS50 Video Player](https://video.cs50.io/2CcqQnLbGOE)
 </details>
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
@@ -110,5 +110,5 @@ Execute the below to evaluate the style of your code using `style50`.
     style50 population.c
 
 
-## [How to Submit](#how-to-submit)
+## How to Submit
 
