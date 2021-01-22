@@ -23,19 +23,19 @@ Week 1:
 Week 2:
     Dag 6:
         'Videocollege: Arrays': /lectures/arrays
-        Strings: /practice/strings
-        Scrabble: /problems/cs50/scrabble
+        'Oefenen: Strings': /exercises/writing/strings
+        'Oefenen: Scrabble': /problems/cs50/scrabble
     Dag 7:
-        Readability: /problems/cs50/readability
+        'Opdracht: Readability': /problems/cs50/readability
     Dag 8:
-        Caesar: /problems/cs50/caesar
-        'Boek: strings en arrays': /exercises/arrays
+        'Opdracht: Caesar': /problems/cs50/caesar
+        'Oefenen: Strings en Arrays': /exercises/book/arrays
     Dag 9:
         Debuggen van je programma's: /shorts/debugging
         Werken met command-line arguments: /shorts/arguments
     Dag 10:
         'Videocollege: Algorithms': /lectures/algorithms
-        Linear Search: /support/linear
+        'Oefenen: Linear Search': /exercises/writing/linear
     Extra:
         Crack: /problems/cs50/crack
 Week 3:
