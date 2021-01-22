@@ -1,218 +1,208 @@
 # Mario
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C-5-22ZvW40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## World 1-1
 
-## tl;dr
+Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
 
-Implement a program that prints out a half-pyramid of a specified height, per the below.
+![screenshot of Mario jumping up a right-aligned pyramid](pyramid.png)
 
-~~~~
-$ ./mario
-Height: 5
+Let's recreate that pyramid in C, albeit in text, using hashes (`#`) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramid itself is also be taller than it is wide.
+
+           #
+          ##
+         ###
+        ####
+       #####
+      ######
+     #######
+    ########
+
+The program we'll write will be called `mario`. And let's allow the user to decide just how tall the pyramid should be by first prompting them for a positive integer between, say, 1 and 8, inclusive.
+
+Here's how the program might work if the user inputs `8` when prompted:
+
+    $ ./mario
+    Height: 8
+           #
+          ##
+         ###
+        ####
+       #####
+      ######
+     #######
+    ########
+
+Here's how the program might work if the user inputs `4` when prompted:
+
+    $ ./mario
+    Height: 4
+       #
+      ##
+     ###
+    ####
+
+Here's how the program might work if the user inputs `2` when prompted:
+
+    $ ./mario
+    Height: 2
+     #
     ##
-   ###
-  ####
- #####
-######
 
-$ ./mario
-Height: 3
-  ##
- ###
-####
-~~~~
+And here's how the program might work if the user inputs `1` when prompted:
 
-## Background
+    $ ./mario
+    Height: 1
+    #
 
-Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend a "half-pyramid" of blocks before leaping (if he wants to maximize his score) toward a flag pole. Below is a screenshot.
+If the user doesn't, in fact, input a positive integer between 1 and 8, inclusive, when prompted, the program should re-prompt the user until they cooperate:
 
-![Super Mario Brothers](pyramid.png){: style="width: 50%"}
+    $ ./mario
+    Height: -1
+    Height: 0
+    Height: 42
+    Height: 50
+    Height: 4
+       #
+      ##
+     ###
+    ####
 
-## Steps
-
-It is nearly impossible to separate (decompose) parts of this problem. The only thing that you can **ignore** at first is getting user input and ensuring that it is valid. As you can see in the specification below, input is restricted to certain numbers.
-
-So to apply the Problem Solving Steps, you can take a slightly simpler problem: print a Mario-type pyramid *given a reasonable height*. And when your analysis is done, and you have implemented a program that can print a pyramid of say, height 4, then you can add user input and input validation.
-
-So when you're ready, call your partner and head to step 1 of the Problem Solving Steps!
+How to begin? Let's approach this problem one step at a time.
 
 
-<!--Let's deconstruct our problem and take it one step at a time. We will incrementally build our solution, starting from the most basic version that we can think of. It may not be obvious that these are the right steps to take, but in this particular problem, you will indeed be guided towards a correct solution.
+## Pseudocode
 
-###  1. Hash
+First, create a new directory (i.e., folder) called `mario` inside of your `pset1` directory, by executing
 
-For this first version, write a program (in a file named `mario.c`) that simply prints one single hash mark (#) to the screen. The program will look a lot like `hello.c` that you wrote, only shorter!
+    ~/ $ mkdir ~/pset1/mario
 
-The output should look like this:
+Add a new file called `pseudocode.txt` inside of your `mario` directory.
 
-~~~~
-$ ./mario
-#
-~~~~
+Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for [finding Mike Smith](https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing). Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
-Don't forget to print a newline (`\n`) after that hash mark, like you did in "Hello world"!
+### Spoiler (uitklapbaar)
 
-### 2. Line
+There's more than one way to do this, so here's just one!
 
-Now that you have set up the basic framework for your program, let's introduce a tiny bit of complexity. We now want our program to print a **line of five hash marks** instead of just one. And we would like to do it efficiently using a loop. Have a look at the `for`-loop example from lecture!
+1.  Prompt user for height
+2.  If height is less than 1 or greater than 8 (or not an integer at all), go back one step
+3.  Iterate from 1 through height:
+    1.  On iteration _i_, print _i_ hashes and then a newline
 
-The output should look like this:
+It's okay to edit your own after seeing this pseudocode here, but don't simply copy/paste ours into your own!
 
-~~~~
-$ ./mario
-#####
-~~~~
 
-Don't forget to print a single newline (`\n`) at the end of that line, but not after each hash mark!
+## Prompting for Input
 
-### 3. Parametrize
+Whatever your pseudocode, let's first write only the C code that prompts (and re-prompts, as needed) the user for input. Create a new file called `mario.c` inside of your `mario` directory.
 
-So currently you should have a program that can print one line of hash marks. Now we'll insert a variable atop the program that holds the **size** of the line that should be printed:
+Now, modify `mario.c` in such a way that it prompts the user for the pyramid's height, storing their input in a variable, re-prompting the user again and again as needed if their input is not a positive integer between 1 and 8, inclusive. Then, simply print the value of that variable, thereby confirming (for yourself) that you've indeed stored the user's input successfully, a la the below.
 
-	int size = 5;
+    $ ./mario
+    Height: -1
+    Height: 0
+    Height: 42
+    Height: 50
+    Height: 4
+    Stored: 4
 
-Now use this variable `size` in your loop to determine the number of times that the loop should run, and hence, how many hash marks should be printed. The output of your program should be the same as before, *unless* you change the value of the variable. In that case your loop should automatically print more (or less) hash marks.
+### Hints
 
-Note that while you could print exactly 5 hash marks *without* using a `for`-loop, now that you use a variable to determine the number of marks, you are required to use such a loop. You wouldn't be able to solve this problem without one!
+*   Recall that you can compile your program with `make`.
+*   Recall that you can print an `int` with `printf` using `%i`.
+*   Recall that you can get an integer from the user with `get_int`.
+*   Recall that `get_int` is declared in `cs50.h`.
+*   Recall that we prompted the user for a positive integer in class via `positive.c`.
 
-### 4. Block
 
-Let's say we would like to print a **block** of hash marks, like this:
+## Building the Opposite
 
-~~~~
-$ ./mario
-#####
-#####
-#####
-#####
-#####
-~~~~
+Now that your program is (hopefully!) accepting input as prescribed, it's time for another step.
 
-The height and the width of the block are equal: both have size 5. How do you get from your previous program to this block? Well, observe that this block is nothing more than 5 times the same line! So, you would need to repeat the whole program 5 times, right? Think how you might use another loop to accomplish this. Exactly which part of the program needs to be repeated?
+It turns out it's a bit easier to build a left-aligned pyramid than right-, a la the below.
 
-Ideally, you now have two loops: one which loops for every line that should be printed, and one that loops over the number of hash marks that is printed on each line. And not only that, the loops are **nested:** one is *inside* the other.
-
-### 5. Left pyramid
-
-Time to crunch your brain a little bit! To make a pyramid from a block, you'll need to notice that the number of hash marks varies on each line:
-
-~~~~
-$ ./mario
-##
-###
-####
-#####
-######
-~~~~
-
-So you will need to change the loop that determines the number of hashes that are printed on a single line. Instead of taking `size` each time, it needs to be **dependent** on the line number. But don't change the loop that determines the number of lines printed. That should still be the same as before. Ask for help if needed!
-
-### 6. Right pyramid
-
-Now how do we get that pyramid to right-align? It's a simple trick: the program needs to print **spaces** at the start of each line. If you print a space, it takes up... space, but you can't see it. Perfect!
-
-Like the number of hashes, the number or spaces also varies per line of output:
-
-~~~~
-$ ./mario
+    #
     ##
-   ###
-  ####
- #####
-######
-~~~~
+    ###
+    ####
+    #####
+    ######
+    #######
+    ########
 
-To get started, you might duplicate the loop that prints hash marks on a single line. In the duplicated loop, change the `#` into a space. And think about how the number of spaces on each line is related to the line number that is being printed. It's different from the number of hash marks.
+So let's build a left-aligned pyramid first and then, once that's working, right-align it instead!
 
+Modify `mario.c` at right such that it no longer simply prints the user's input but instead prints a left-aligned pyramid of that height.
 
-### 7. Testing
+### Hints
 
-Odds are that you have tested your program only for size 5 until now. So this is the time to check if you can again change the variable `size` to another number and that your program still works correctly. Compare to the examples atop this document! If stuck on a bug, be sure to ask for help.
--->
+*   Keep in mind that a hash is just a character like any other, so you can print it with `printf`.
 
+*   Just as Scratch has a [Repeat](https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing) block, so does C have a [`for`](https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing) loop, via which you can iterate some number times. Perhaps on each iteration, _i_, you could print that many hashes?
 
+*   You can actually "nest" loops, iterating with one variable (e.g., `i`) in the "outer" loop and another (e.g., `j`) in the "inner" loop. For instance, here's how you might print a square of height and width `n`, below. Of course, it's not a square that you want to print!
 
-## Specification
-
-Now that your basic algorithm is done, we need to take a look at the formal requirements for our program. As it happens, there are some extra elements that we didn't take into account yet.
-
-* To make things more interesting, first prompt the user for the half-pyramid's height, a non-negative integer no greater than `23`. (The height of the half-pyramid pictured above happens to be `8`.)
-* If the user fails to provide a non-negative integer no greater than `23`, you should re-prompt for the same again. A perfect case for using a `do`-`while` loop!
-* Then, generate (with the help of `printf` and one or more loops) the desired half-pyramid.
-* Take care to align the bottom-left corner of your half-pyramid with the left-hand edge of your terminal window.
-
-
-## Usage
-
-When you have taken into account all of the formal requirements in the specification, your program should behave exactly like in the examples below. A user starts `./mario`, types a height and ENTER, and then your program prints a pyramid of the desired height.
-
-~~~~
-$ ./mario
-Height: 4
-   ##
-  ###
- ####
-#####
-~~~~
-
-~~~~
-$ ./mario
-Height: 0
-~~~~
-
-~~~~
-$ ./mario
-Height: -5
-Height: 4
-   ##
-  ###
- ####
-#####
-~~~~
-
-~~~~
-$ ./mario
-Height: -5
-Height: five
-Height: 40
-Height: 24
-Height: 4
-   ##
-  ###
- ####
-#####
-~~~~
+          for (int i = 0; i < n; i++)
+          {
+              for (int j = 0; j < n; j++)
+              {
+                  printf("#");
+              }
+              printf("\n");
+          }
 
 
-## Testing
+## Right-Aligning with Dots
 
-Before submitting, we expect you to take care that your program is as well-polished as possible. For some final feedback, use the `check50` and `style50` tools per the examples below!
+Let's now right-align that pyramid by pushing its hashes to the right by prefixing them with dots (i.e., periods), a la the below.
+
+    .......#
+    ......##
+    .....###
+    ....####
+    ...#####
+    ..######
+    .#######
+    ########
+
+Modify `mario.c` in such a way that it does exactly that!
+
+### Hint
+
+Notice how the number of dots needed on each line is the "opposite" of the number of that line's hashes. For a pyramid of height 8, like the above, the first line has but 1 hash and thus 7 dots. The bottom line, meanwhile, has 8 hashes and thus 0 dots. Via what formula (or arithmetic, really) could you print that many dots?
 
 
-### Correctness
+### How to Test Your Code
 
-~~~~
-check50 -l minprog/cs50x/2020/mario/less
-~~~~
+Does your code work as prescribed when you input
 
-
-### Style
-
-~~~~
-style50 mario.c
-~~~~
+*   `-1` (or other negative numbers)?
+*   `0`?
+*   `1` through `8`?
+*   `9` or other positive numbers?
+*   letters or words?
+*   no input at all, when you only hit Enter?
 
 
-## Submitting
+## Removing the Dots
 
-1. When ready to submit, log into [CS50 IDE](https://ide.cs50.io/).
+All that remains now is a finishing flourish! Modify `mario.c` in such a way that it prints spaces instead of those dots!
 
-2. Toward CS50 IDE's top-left corner, within its "file browser", control-click or right-click your `mario.c` file (that's within your `module1` directory) and then select **Download**. You should find that your browser has downloaded you file `mario.c`.
 
-3. Make sure you are signed in to this website!
+### How to Test Your Code
 
-4. In the form below, browse for the file that you downloaded.
+Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-5. Then, create a PDF with the notes from your analysis (see Phase 1 above), and add that to the form.
+    check50 cs50/problems/2021/x/mario/less
 
-6. Press "Submit for grading". Presto!
+Execute the below to evaluate the style of your code using `style50`.
+
+    style50 mario.c
+
+### Hint
+
+A space is just a press of your space bar, just as a period is just a press of its key! Just remember that `printf` requires that you surround both with double quotes!
+
+
+## How to Submit
+
