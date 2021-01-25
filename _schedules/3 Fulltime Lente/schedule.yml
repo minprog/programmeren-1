@@ -6,13 +6,13 @@ Week 1:
         Scratch [individueel]: /problems/cs50/scratch
     Dag 2:
         Hardware: /modules/hardware
-        'Boek: Variabelen [individueel]': /exercises/book/variables
+        'Boek: Variabelen [boek]': /exercises/book/variables
     Dag 3:
         'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
         'Oefenen: Hello': /problems/cs50/hello
         Population [samen]: /problems/cs50/population
-        'Boek: Control Flow [individueel]': /exercises/book/control-flow
+        'Boek: Control Flow [boek]': /exercises/book/control-flow
     Dag 4:
         Mario [individueel]: /problems/cs50/mario/less
     Dag 5:
@@ -28,7 +28,7 @@ Week 2:
         'Readability [individueel]': /problems/cs50/readability
     Dag 8:
         'Caesar [individueel]': /problems/cs50/caesar
-        'Oefenen: Strings en Arrays': /exercises/book/arrays
+        'Boek: Strings en Arrays [boek]': /exercises/book/arrays
     Dag 9:
         Debuggen van je programma's: /shorts/debugging
     Dag 10:
@@ -45,7 +45,7 @@ Week 3:
         'Oefenen: Big-O': /exercises/study/big-o
     Dag 13:
         'Oefenen: Complexity Puzzle': /exercises/study/complexity-puzzle
-        'Boek: Functies [invididueel]': /exercises/book/functions
+        'Boek: Functies [boek]': /exercises/book/functions
     Dag 14:
         'Oefenen: Functies': /exercises/writing/functions
     Dag 15:
