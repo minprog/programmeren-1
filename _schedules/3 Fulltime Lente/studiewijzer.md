@@ -101,11 +101,11 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een dagschema dat je gaat aanhouden.
+Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken. Voor de hele cursus is er een dagschema dat het gewenste tempo aangeeft. Dit schema is zo goed mogelijk afgestemd op onze ervaring met de opdrachten.
 
-Daar waar het niet lukt het dagschema te halen stem je dit af met je mentor en de docenten. In zo'n geval ben je verplicht om deel te nemen aan een dagelijkse extra werkgroep onder leiding van één van de mentoren, waar de opdrachten rustig doorgenomen worden en je makkelijker hulp kunt krijgen.
+Ga je achterlopen, dan neem je contact op met je mentor. Je sluit dan aan bij een dagelijkse extra werkgroep, waar de opdrachten rustig doorgenomen worden en je makkelijker hulp kunt krijgen.
 
-De correcte werking van alle ingezonden programma's wordt automatisch wordt getest met `check50`. Een aantal individuele opdrachten moet op een vooraf bepaalde deadline volledig werkend ingeleverd zijn. Daarna is er een tweede deadline voor een "verbeterde versie" die tussendoor nagekeken wordt en van feedback voorzien.
+De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (check50), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
 | individuele opdracht | deadline opdracht | deadline verbeterd |
 | -------------------- | ----------------- | ------------------ |
@@ -137,7 +137,7 @@ Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel l
 
 ## Cijfers
 
-Modules 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
+De individuele opdrachten 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
