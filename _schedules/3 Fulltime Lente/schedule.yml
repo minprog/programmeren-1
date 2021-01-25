@@ -17,9 +17,9 @@ Week 1:
     Dag 4:
         Mario [individueel]: /problems/cs50/mario/less
     Dag 5:
-        Greedy: /problems/cs50/greedy
+        Greedy [individueel]: /problems/cs50/greedy
     Extra:
-        Credit: /problems/cs50/credit
+        Credit [individueel]: /problems/cs50/credit
 Week 2:
     Dag 6:
         'Videocollege: Arrays': /lectures/arrays
@@ -28,7 +28,7 @@ Week 2:
     Dag 7:
         'Opdracht: Readability': /problems/cs50/readability
     Dag 8:
-        'Opdracht: Caesar': /problems/cs50/caesar
+        'Caesar [individueel]': /problems/cs50/caesar
         'Oefenen: Strings en Arrays': /exercises/book/arrays
     Dag 9:
         Debuggen van je programma's: /shorts/debugging
@@ -36,13 +36,13 @@ Week 2:
         'Videocollege: Algorithms': /lectures/algorithms
         'Oefenen: Linear Search': /exercises/writing/linear
     Extra:
-        Crack: /problems/cs50/crack
+        Crack [individueel]: /problems/cs50/crack
 Week 3:
     Dag 11:
         Sort: /problems/cs50/sort
         De belangrijkste algoritmen: /shorts/algorithms
     Dag 12:
-        Find: /problems/cs50/find/less
+        Find [individueel]: /problems/cs50/find/less
         Practice Big-O: /exercises/study/big-o
     Dag 13:
         Complexity Puzzle: /exercises/study/complexity-puzzle
@@ -52,11 +52,11 @@ Week 3:
     Dag 15:
         'Videocollege: Memory': /lectures/memory
     Extra:
-        Fifteen: /problems/cs50/fifteen/more
+        Fifteen [individueel]: /problems/cs50/fifteen/more
 Week 4:
     Dag 16:
-        Whodunit: /problems/cs50/whodunit
+        Whodunit [individueel]: /problems/cs50/whodunit
     Dag 17:
-        Anonymize: /exercises/writing/anonymize
+        Anonymize [individueel]: /exercises/writing/anonymize
     Extra:
-        Resize: /problems/cs50/resize/more
+        Resize [individueel]: /problems/cs50/resize/more
