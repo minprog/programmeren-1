@@ -6,14 +6,13 @@ Week 1:
         Scratch [individueel]: /problems/cs50/scratch
     Dag 2:
         Hardware: /modules/hardware
-        Expressies: /exercises/book/variables
+        'Boek: Variabelen [individueel]': /exercises/book/variables
     Dag 3:
-        # Inleiding: /modules/c
         'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
-        Hello: /problems/cs50/hello
-        Population: /problems/cs50/population
-        Control Flow: /exercises/book/control-flow
+        'Oefenen: Hello': /problems/cs50/hello
+        Population [samen]: /problems/cs50/population
+        'Boek: Control Flow [individueel]': /exercises/book/control-flow
     Dag 4:
         Mario [individueel]: /problems/cs50/mario/less
     Dag 5:
@@ -24,9 +23,9 @@ Week 2:
     Dag 6:
         'Videocollege: Arrays': /lectures/arrays
         'Oefenen: Strings': /exercises/writing/strings
-        'Oefenen: Scrabble': /problems/cs50/scrabble
+        'Scrabble [samen]': /problems/cs50/scrabble
     Dag 7:
-        'Opdracht: Readability': /problems/cs50/readability
+        'Readability [individueel]': /problems/cs50/readability
     Dag 8:
         'Caesar [individueel]': /problems/cs50/caesar
         'Oefenen: Strings en Arrays': /exercises/book/arrays
@@ -34,28 +33,28 @@ Week 2:
         Debuggen van je programma's: /shorts/debugging
     Dag 10:
         'Videocollege: Algorithms': /lectures/algorithms
-        'Oefenen: Linear Search': /exercises/writing/linear
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
     Extra:
         Crack [individueel]: /problems/cs50/crack
 Week 3:
     Dag 11:
-        Sort: /problems/cs50/sort
+        Sort [samen]: /problems/cs50/sort
         De belangrijkste algoritmen: /shorts/algorithms
     Dag 12:
         Find [individueel]: /problems/cs50/find/less
-        Practice Big-O: /exercises/study/big-o
+        'Oefenen: Big-O': /exercises/study/big-o
     Dag 13:
-        Complexity Puzzle: /exercises/study/complexity-puzzle
-        Functions: /exercises/book/functions
+        'Oefenen: Complexity Puzzle': /exercises/study/complexity-puzzle
+        'Boek: Functies [invididueel]': /exercises/book/functions
     Dag 14:
-        Functions: /exercises/writing/functions
+        'Oefenen: Functies': /exercises/writing/functions
     Dag 15:
         'Videocollege: Memory': /lectures/memory
     Extra:
         Fifteen [individueel]: /problems/cs50/fifteen/more
 Week 4:
     Dag 16:
-        Whodunit [individueel]: /problems/cs50/whodunit
+        'Whodunit [samen?]': /problems/cs50/whodunit
     Dag 17:
         Anonymize [individueel]: /exercises/writing/anonymize
     Extra:
