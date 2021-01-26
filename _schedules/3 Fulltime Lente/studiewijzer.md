@@ -79,7 +79,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - problemen met je computer
 - problemen met de werking van je online IDE
 - hele nare bugs
-- aanmelden via [Calendly](https://calendly.com/proglab/helpdesk)
+- aanmelden via [Bookings](...)
 
 **Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
 
@@ -105,7 +105,7 @@ Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. W
 
 Ga je achterlopen, dan neem je contact op met je mentor. Je sluit dan aan bij een dagelijkse extra werkgroep, waar de opdrachten rustig doorgenomen worden en je makkelijker hulp kunt krijgen.
 
-De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (check50), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
+De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (`check50`), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
 | individuele opdracht | deadline opdracht | deadline verbeterd |
 | -------------------- | ----------------- | ------------------ |
@@ -115,7 +115,7 @@ De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadli
 | Opdracht 3           | vr 26 feb  17:59  | ma  1 maa  17:59   |
 | Opdracht 4           | di  2 maa  17:59  | wo  3 maa  17:59   |
 
-Latere deadlines zijn onder voorbehoud van wijzigingen op basis van de ervaringen in eerdere weken.
+De deadlines vanaf opdracht 2 zijn onder voorbehoud van wijzigingen, op basis van de ervaringen in eerdere weken.
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
@@ -135,7 +135,7 @@ Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel l
 </details>
 
 
-## Cijfers
+## Opdrachtcijfers
 
 De individuele opdrachten 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
 De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
@@ -148,16 +148,6 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
 
-<!-- Bij later inleveren voor de **oplossingsdeadline** geldt de volgende aftrek:
-
-| uitstel          | aftrek                            |
-| ---------------- | --------------------------------- |
-| maximaal 1 dag   | 1/2 punt, en hacker telt niet mee |
-| maximaal 3 dagen | 1 punt                            |   -->
-
-Het eindcijfer voor deze cursus wordt bepaald door het totaal aantal punten voor de modules. De puntenscore leidt tot een cijfer tussen 1 en 10, afgerond op halven, zoals gebruikelijk.
-
-<!-- Toetsjes leveren geen punten op voor het eindcijfer, maar moeten wel gehaald worden. -->
 
 ### Extra opdrachten
 
