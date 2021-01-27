@@ -1,64 +1,62 @@
 Welkom:
     - syllabus
-Week 1:
+Milestone 1:
     Dag 1:
         'Videocollege: Computational Thinking': /lectures/computational-thinking
-        Scratch: /problems/cs50/scratch
+        Scratch [individueel]: /problems/cs50/scratch
+Milestone 2:
     Dag 2:
-        Hardware: /modules/hardware
-        Expressies: /exercises/book/variables
+        Hardware [samen]: /modules/hardware
+        'Boek: Variabelen [boek]': /exercises/book/variables
     Dag 3:
-        # Inleiding: /modules/c
         'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
-        Hello: /problems/cs50/hello
-        Population: /problems/cs50/population
-        Control Flow: /exercises/book/control-flow
-Week 2:
+        'Oefenen: Hello': /problems/cs50/hello
+        Population [samen]: /problems/cs50/population
+        'Boek: Control Flow [boek]': /exercises/book/control-flow
     Dag 4:
-        Mario: /problems/cs50/mario/less
+        Mario [individueel]: /problems/cs50/mario/less
     Dag 5:
-        Greedy: /problems/cs50/greedy
+        Greedy [individueel]: /problems/cs50/greedy
+    Extra:
+        Credit [individueel]: /problems/cs50/credit
+Milestone 3:
     Dag 6:
         'Videocollege: Arrays': /lectures/arrays
         'Oefenen: Strings': /exercises/writing/strings
-        'Oefenen: Scrabble': /problems/cs50/scrabble
-    Extra:
-        Credit: /problems/cs50/credit
-Week 3:
+        'Scrabble [samen]': /problems/cs50/scrabble
     Dag 7:
-        'Opdracht: Readability': /problems/cs50/readability
+        'Readability [individueel]': /problems/cs50/readability
     Dag 8:
-        'Opdracht: Caesar': /problems/cs50/caesar
-        'Oefenen: Strings en Arrays': /exercises/book/arrays
-    Dag 9:
+        'Caesar [individueel]': /problems/cs50/caesar
+        'Boek: Strings en Arrays [boek]': /exercises/book/arrays
         Debuggen van je programma's: /shorts/debugging
+    Extra:
+        Crack [individueel]: /problems/cs50/crack
+Milestone 4:
     Dag 10:
         'Videocollege: Algorithms': /lectures/algorithms
-        'Oefenen: Linear Search': /exercises/writing/linear
-    Extra:
-        Crack: /problems/cs50/crack
-Week 4:
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
     Dag 11:
-        Sort: /problems/cs50/sort
-    Dag 11a:
-        Find: /problems/cs50/find/less
-        De belangrijkste algoritmen: /shorts/algorithms
+        Sort [samen]: /problems/cs50/sort
+        # De belangrijkste algoritmen: /shorts/algorithms
+Milestone 6:
     Dag 12:
-        Practice Big-O: /exercises/study/big-o
-    Extra:
-        Fifteen: /problems/cs50/fifteen/more
-Week 5:
+        Find [individueel]: /problems/cs50/find/less
+        'Oefenen: Big-O': /exercises/study/big-o
     Dag 13:
-        Complexity Puzzle: /exercises/study/complexity-puzzle
-        Functions: /exercises/book/functions
+        'Oefenen: Complexity Puzzle': /exercises/study/complexity-puzzle
+        'Boek: Functies [boek]': /exercises/book/functions
     Dag 14:
-        Functions: /exercises/writing/functions
+        'Oefenen: Functies': /exercises/writing/functions
     Dag 15:
         'Videocollege: Memory': /lectures/memory
-        Whodunit: /problems/cs50/whodunit
-Week 6:
-    Dag 16:
-        Anonymize: /exercises/writing/anonymize
     Extra:
-        Resize: /problems/cs50/resize/more
+        Fifteen [individueel]: /problems/cs50/fifteen/more
+Milestone 7:
+    Dag 16:
+        'Whodunit [samen?]': /problems/cs50/whodunit
+    Dag 17:
+        Anonymize [individueel]: /exercises/writing/anonymize
+    Extra:
+        Resize [individueel]: /problems/cs50/resize/more

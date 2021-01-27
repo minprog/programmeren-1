@@ -109,12 +109,12 @@ De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadli
 | onderdeel       | deadline oplossing | deadline verbeterd |  
 | --------------- | ------------------ | ------------------ |
 | dag 1           | wo 10 feb  17:59   |                    |  
-| dag 2--5        | wo 17 feb  17:59   | ma 22 feb  20:59   |  
-| dag 6--9        | wo 24 feb  17:59   | ma  1 maa  20:59   |  
-| dag 10-11       | wo  3 maa  17:59   | ma  8 maa  20:59   |  
-| dag 11-12       | wo 10 maa  17:59   | ma 15 maa  20:59   |  
-| dag 13-15       | wo 17 maa  17:59   | ma 22 maa  20:59   |  
-| dag 16-17       | wo 24 maa  17:59   | ma 29 maa  20:59   |  
+| dag 2--5        | wo 17 feb  17:59   | di 23 feb  20:59   |  
+| dag 6--9        | wo 24 feb  17:59   | di  2 maa  20:59   |  
+| dag 10-11       | wo  3 maa  17:59   | di  9 maa  20:59   |  
+| dag 11-12       | wo 10 maa  17:59   | di 16 maa  20:59   |  
+| dag 13-15       | wo 17 maa  17:59   | di 23 maa  20:59   |  
+| dag 16-17       | wo 24 maa  17:59   | di 30 maa  20:59   |  
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
