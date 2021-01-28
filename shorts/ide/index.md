@@ -21,8 +21,10 @@ If all is well, you should then be informed that CS50 IDE (aka Cloud9, the softw
 
 In the movie below, Doug explains how to use the Linux "command line" that is included in the CS50 IDE. You will need to use many of the commands while developing in C, but also later when you're advancing as a programmer.
 
-Note that currently, your **default** folder in the IDE is not called `~/workspace` but `~/` instead. This simply means that in Doug's version, all his files are in a subfolder called `workspace`, whereas in the current version of the IDE your files are in your main folder called `~` (home).
-
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](short.jpg)](https://www.youtube.com/watch?v=BnJ013X02b8)
+</div>
 
 [Open video on Operators on Youtube](https://www.youtube.com/watch?v=BnJ013X02b8)
+
+Note that currently, your **default** folder in the IDE is not called `~/workspace` but `~/` instead. This simply means that in Doug's version, all his files are in a subfolder called `workspace`, whereas in the current version of the IDE your files are in your main folder called `~` (home).
