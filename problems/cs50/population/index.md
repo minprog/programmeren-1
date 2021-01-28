@@ -49,12 +49,12 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 *   If you want to repeatedly re-prompt the user for the value of a variable until some condition is met, you might want to use a `do ... while` loop. For example, recall the following code from lecture, which prompts the user repeatedly until they enter a positive integer.
 
-          int n;
-          do
-          {
-              n = get_int("Positive Integer: ");
-          }
-          while (n < 1);
+        int n;
+        do
+        {
+            n = get_int("Positive Integer: ");
+        }
+        while (n < 1);
 
     How might you adapt this code to ensure a start size of at least 9, and an end size of at least the start size?
 
@@ -66,7 +66,7 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 *   To print an integer `n` to the terminal, recall that you can use a line of code like
 
-          printf("The number is %i\n", n);
+        printf("The number is %i\n", n);
 
     to specify that the variable `n` should fill in for the placeholder `%i`.
 
@@ -75,30 +75,38 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 Your program should behave per the examples below.
 
-    $ ./population
-    Start size: 1200
-    End size: 1300
-    Years: 1
+~~~~
+$ ./population
+Start size: 1200
+End size: 1300
+Years: 1
+~~~~
 
-    $ ./population
-    Start size: -5
-    Start size: 3
-    Start size: 9
-    End size: 5
-    End size: 18
-    Years: 8
+~~~~
+$ ./population
+Start size: -5
+Start size: 3
+Start size: 9
+End size: 5
+End size: 18
+Years: 8
+~~~~
 
-    $ ./population
-    Start size: 20
-    End size: 1
-    End size: 10
-    End size: 100
-    Years: 20
+~~~~
+$ ./population
+Start size: 20
+End size: 1
+End size: 10
+End size: 100
+Years: 20
+~~~~
 
-    $ ./population
-    Start size: 100
-    End size: 1000000
-    Years: 115
+~~~~
+$ ./population
+Start size: 100
+End size: 1000000
+Years: 115
+~~~~
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
