@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/minprog/cs50-lectures.git
 	branch = master
-	commit = b4090f0b62f029e7e60799da657b7233f91902b6
+	commit = 3b17779094400b90c3638644b68122df8707f593
 	parent = 188f9ddcffbbba2b41072ad872adaa0aa56c3e94
 	method = merge
 	cmdver = 0.4.1

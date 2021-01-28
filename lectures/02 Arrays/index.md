@@ -1,6 +1,8 @@
 # Lecture: Arrays
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](thumbnail.jpg)](https://video.cs50.io/tI_tIZFyKBw?screen=SOJ4zTf_nkg)
+</div>
 
 [Open in CS50 video player](https://video.cs50.io/tI_tIZFyKBw?screen=SOJ4zTf_nkg)
 

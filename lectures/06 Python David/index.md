@@ -1,6 +1,8 @@
 # Lecture: Python<br><small>David Malan</small>
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](thumbnail.jpg)](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
+</div>
 
 [Open in CS50 video player](https://video.cs50.io/ZEQh45W_UDo?screen=A4eeGBU4qTE)
 
