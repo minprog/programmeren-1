@@ -9,7 +9,7 @@
 2. Submit a form.
 {:start="0"}
 
-> Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you, per the course’s policy on academic honesty.
+> Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
 {:.bg-warning}
 
 ## Itching to Program?
@@ -26,9 +26,21 @@ Head to [the Scratch website](https://scratch.mit.edu/) and sign up for an accou
 
 ## Help and ideas
 
-You might find [David's examples from lecture](https://scratch.mit.edu/studios/25128634/) helpful. And, to get better acquainted to Scratch's blocks, watch Zamyla's walkthrough:
+If you'd like to try out some Scratch projects from past students, here are a few:
 
-![embed](https://www.youtube.com/embed/697pD31GCZg)
+- [It's Raining Men](https://scratch.mit.edu/projects/37412/), from lecture
+- [Ivy's Hardest Game](https://scratch.mit.edu/projects/326129587/), a game, Harvard edition
+- [Soccer](https://scratch.mit.edu/projects/37413/), a game
+- [Cookie Love Story](https://scratch.mit.edu/projects/26329196/), an animation
+- [Gingerbread tales](https://scratch.mit.edu/projects/26329196/), an interactive story
+- [Intersection](https://scratch.mit.edu/projects/75390754/), a game
+- [Oscartime](https://scratch.mit.edu/projects/277537196/), a game
+
+And, to get better acquainted to Scratch's blocks, watch Zamyla's walkthrough:
+
+[![](walkthrough.jpg)](https://www.youtube.com/embed/697pD31GCZg)
+
+[Open Walkthrough on Youtube](https://www.youtube.com/embed/697pD31GCZg)
 
 Stuck for ideas? Here are some of your [predecessors' projects](https://scratch.mit.edu/studios/4248580/). But try to think of an idea on your own, and then set out to implement it. However, don't try to implement the entirety of your project all at once: pluck off one piece at a time. In other words, take baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. And select **File > Save Now** every few minutes so that you don't lose any work!
 
