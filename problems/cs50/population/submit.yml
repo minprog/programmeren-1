@@ -1,8 +1,7 @@
-name: mario_less
+name: population
 files:
     required:
-        - analysis.pdf
-        - mario.c
+        - population.c
 check:
     tool: check50
-    slug: minprog/cs50x/2020/mario/less
+    slug: minprog/cs50x/2020/population

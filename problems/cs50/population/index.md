@@ -1,6 +1,6 @@
 # Population Growth
 
-> You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. Uiteindelijk is de bedoeling dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht.
 
 Determine how long it takes for a population to reach a particular size.
 
@@ -38,7 +38,9 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 ### Walkthrough
 
-[Open in CS50 Video Player](https://video.cs50.io/dZmtRHHUB1M)
+[![](thumbnail.jpg)](https://video.cs50.io/dZmtRHHUB1M)
+
+[Open in CS50 video player](https://video.cs50.io/dZmtRHHUB1M)
 
 
 ### Hints
@@ -98,17 +100,30 @@ Your program should behave per the examples below.
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-[Open in CS50 Video Player](https://video.cs50.io/2CcqQnLbGOE)
+[![](thumbnail.jpg)](https://video.cs50.io/2CcqQnLbGOE)
+
+[Open in CS50 video player](https://video.cs50.io/2CcqQnLbGOE)
 </details>
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 cs50/labs/2021/x/population
+    check50 minprog/cs50x/2020/population
 
 Execute the below to evaluate the style of your code using `style50`.
 
     style50 population.c
 
 
-## How to Submit
+## How to submit
 
+As soon as you're done, submit your `population.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `population.c` file (that's within your `module0` directory) and then select **Download**. You should find that your browser has downloaded `population.c`.
+
+2. Make sure you are signed in to **this** website!
+
+3. In the form below, choose the file that you just downloaded.
+
+4. Press "Submit for grading". Presto!
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.

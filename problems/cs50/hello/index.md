@@ -1,8 +1,13 @@
 # Hello
 
-Meet Zamyla! She'll be offering us tips and tricks throughout the modules of this course.
+> Deze opdracht is niet individueel, maar ook niet bedoeld voor samenwerken. Het doel is ervaring opdoen met belangrijke technieken en de bedoeling is dat je dit zelf doet. Maar schroom niet hulp te vragen, en als het nodig is kan iemand het even voordoen voor je. Als je naderhand ook zelfstandig alle stappen doorlopen hebt.
 
-![embed](https://www.youtube.com/embed/DmE9lCvrxgU)
+Here's Zamyla! She'll be offering us tips and tricks for some of the modules of this course.
+
+[![](still-operators.jpg)](https://www.youtube.com/watch?v=DmE9lCvrxgU)
+
+[Open video on Youtube](https://www.youtube.com/watch?v=DmE9lCvrxgU)
+
 
 ## Hello, World
 
@@ -151,7 +156,7 @@ To verify whether your program is indeed running well, you may use `check50` in 
 
     check50 -l minprog/cs50x/2020/hello
 
-## Submitting
+## How to submit
 
 As soon as you're done, submit your `hello.c` implementation, below! 
 
