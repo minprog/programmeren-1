@@ -1,7 +1,7 @@
 name: mario_less
 files:
     required:
-        - analysis.pdf
+        - pseudocode.txt
         - mario.c
 check:
     tool: check50

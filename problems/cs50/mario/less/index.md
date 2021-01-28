@@ -1,5 +1,8 @@
 # Mario
 
+> Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
+{:.bg-warning}
+
 ## World 1-1
 
 Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
@@ -82,7 +85,7 @@ Add a new file called `pseudocode.txt` inside of your `mario` directory.
 
 Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for [finding Mike Smith](https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing). Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
-### Spoiler (uitklapbaar)
+<details markdown="1"><summary markdown="span">Spoiler</summary>
 
 There's more than one way to do this, so here's just one!
 
@@ -92,6 +95,7 @@ There's more than one way to do this, so here's just one!
     1.  On iteration _i_, print _i_ hashes and then a newline
 
 It's okay to edit your own after seeing this pseudocode here, but don't simply copy/paste ours into your own!
+</details>
 
 
 ## Prompting for Input
