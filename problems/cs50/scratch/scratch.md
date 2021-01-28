@@ -38,7 +38,9 @@ If you'd like to try out some Scratch projects from past students, here are a fe
 
 And, to get better acquainted to Scratch's blocks, watch Zamyla's walkthrough:
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](walkthrough.jpg)](https://www.youtube.com/watch?v=697pD31GCZg)
+</div>
 
 [Open Walkthrough on Youtube](https://www.youtube.com/watch?v=697pD31GCZg)
 
