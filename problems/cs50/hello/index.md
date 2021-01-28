@@ -28,7 +28,7 @@ Hello, world! Hopefully you have succeeded in creating a CS50 IDE instance for y
 
 Go to the Terminal and issue the following command:
 
-    mkdir ~/module0
+    mkdir ~/problems
 
 You should see in the file list on the left that your first folder has been created. We call it `module0` so it can contain all programs that you write for the current module.
 
@@ -38,11 +38,11 @@ In your new file, type the C code for "Hello, World" as seen above. Save it once
 
 Let's point the terminal towards our new folder:
 
-    cd ~/module0
+    cd ~/problems
 
-The **prompt** is what the Terminal shows on your screen to "prompt" you to enter a new command. The prompt includes a portion to show what folder the Terminal is pointed towards. It should look like this, indicating that the **current folder** for the Terminal is indeed `~/module0`.
+The **prompt** is what the Terminal shows on your screen to "prompt" you to enter a new command. The prompt includes a portion to show what folder the Terminal is pointed towards. It should look like this, indicating that the **current folder** for the Terminal is indeed `~/problems`.
 
-    ~/module0/ $
+    ~/problems/ $
 
 Next, type precisely the below (in lowercase), then hit Enter:
 
