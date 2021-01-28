@@ -1,7 +1,6 @@
 # Exercises: Variables
 
 > Dit is je eerste opdracht om te oefenen met programmeerconcepten. Hiervoor gebruik je het [Basisboek Programmeren](https://www.stgm.nl/basics/). De bedoeling is dat je na het oefenen een online test (bijna) foutloos kunt doen. Zorg dat je je mentor in de loop van de weken laat zien dat je de verschillende oefeningen gedaan hebt. Bewaar daarom je aantekeningen en uitwerkingen.
-{:.bg-warning}
 
 Watch these videos for an introduction to data types and operators. The videos introduce concepts that you can then practice using the exercises linked below.
 

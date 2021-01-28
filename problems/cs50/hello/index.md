@@ -1,7 +1,6 @@
 # Hello
 
 > Deze opdracht is niet individueel, maar ook niet bedoeld voor samenwerken. Het doel is ervaring opdoen met belangrijke technieken en de bedoeling is dat je dit zelf doet. Maar schroom niet hulp te vragen, en als het nodig is kan iemand het even voordoen voor je. Als je naderhand ook zelfstandig alle stappen doorlopen hebt.
-{:.bg-warning}
 
 Here's Zamyla! She'll be offering tips and tricks for some of the modules of this course.
 

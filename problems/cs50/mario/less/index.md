@@ -1,7 +1,6 @@
 # Mario
 
 > Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
-{:.bg-warning}
 
 
 ## World 1-1

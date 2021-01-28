@@ -11,4 +11,3 @@ After completing your practice exercises you can take an online test. We intend 
 [Take test D now](https://practice.mprog.nl/entry/prog1)
 
 > Especially take care of writing 5.0 when the answer is a floating-point number, and writing 5 if the answer is an integer! We ask you to do this correctly so you show that you understand the difference.
-{:.bg-warning}
