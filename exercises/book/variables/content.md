@@ -5,11 +5,15 @@
 
 Watch these videos for an introduction to data types and operators. The videos introduce concepts that you can then practice using the exercises linked below.
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](still-datatypes.jpg)](https://www.youtube.com/watch?v=luDPUSmTcPc)
+</div>
 
 [Open video on Data Types on Youtube](https://www.youtube.com/watch?v=luDPUSmTcPc)
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](still-operators.jpg)](https://www.youtube.com/watch?v=f1xZf4iJDWE)
+</div>
 
 [Open video on Operators on Youtube](https://www.youtube.com/watch?v=f1xZf4iJDWE)
 
