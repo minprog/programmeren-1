@@ -72,7 +72,11 @@ If the user doesn't, in fact, input a positive integer between 1 and 8, inclusiv
 
 How to begin? Let's approach this problem one step at a time.
 
-[Open on Youtube](https://youtu.be/NAs4FIWkJ4s)
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+[![](mario.jpg)](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
+</div>
+
+[Open video on Youtube](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
 
 
 ## Pseudocode
@@ -210,5 +214,18 @@ Execute the below to evaluate the style of your code using `style50`.
 A space is just a press of your space bar, just as a period is just a press of its key! Just remember that `printf` requires that you surround both with double quotes!
 
 
-## How to Submit
+## How to submit
 
+As soon as you're done, submit your `mario.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `mario.c` file (that's within your `module0` directory) and then select **Download**. You should find that your browser has downloaded `mario.c`.
+
+2. Also download `pseudocode.txt`.
+
+2. Make sure you are signed in to **this** website!
+
+3. In the form below, choose the file that you just downloaded.
+
+4. Press "Submit for grading". Presto!
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.

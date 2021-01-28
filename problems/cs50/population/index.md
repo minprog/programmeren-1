@@ -39,7 +39,9 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 ### Walkthrough
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](walkthrough.jpg)](https://video.cs50.io/dZmtRHHUB1M)
+</div>
 
 [Open in CS50 video player](https://video.cs50.io/dZmtRHHUB1M)
 
@@ -101,7 +103,9 @@ Your program should behave per the examples below.
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](solving.jpg)](https://video.cs50.io/2CcqQnLbGOE)
+</div>
 
 [Open in CS50 video player](https://video.cs50.io/2CcqQnLbGOE)
 </details>
