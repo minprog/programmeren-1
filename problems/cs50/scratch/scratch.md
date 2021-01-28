@@ -9,6 +9,9 @@
 2. Submit a form.
 {:start="0"}
 
+> Collaboration on problem sets is not permitted except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you, per the course’s policy on academic honesty.
+{:.bg-warning}
+
 ## Itching to Program?
 
 It's time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
