@@ -3,6 +3,7 @@
 > Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
 {:.bg-warning}
 
+
 ## World 1-1
 
 Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
@@ -83,11 +84,11 @@ How to begin? Let's approach this problem one step at a time.
 
 First, create a new directory (i.e., folder) called `mario` inside of your `pset1` directory, by executing
 
-    ~/ $ mkdir ~/pset1/mario
+    ~/ $ mkdir ~/problems/mario
 
 Add a new file called `pseudocode.txt` inside of your `mario` directory.
 
-Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for [finding Mike Smith](https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing). Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
+Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for finding Mike Smith! Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
 <details markdown="1"><summary markdown="span">Spoiler</summary>
 
