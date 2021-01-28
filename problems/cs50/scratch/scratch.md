@@ -1,14 +1,5 @@
 # Scratch
 
-## tl;dr
-
-0. Watch the lecture on [Computational Thinking](/lectures/computational-thinking).
-
-1. Create an interactive visualization, game, or artwork in Scratch.
-
-2. Submit a form.
-{:start="0"}
-
 > Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
 
 ## Itching to Program?
