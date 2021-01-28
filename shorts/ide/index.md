@@ -3,7 +3,7 @@ title: Command line
 description: A thorough explanation of the command line.
 ---
 
-# Short: Working in the IDE
+# Working in the IDE
 
 The CS50 IDE is an online environment in which you can write code, compile your programs and debug those using built-in tools. In fact, you are provided with access to a Ubuntu Linux command line, which will be running somewhere in the United States.
 
