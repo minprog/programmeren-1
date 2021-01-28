@@ -2,9 +2,9 @@
 
 > Deze opdracht is niet individueel, maar ook niet bedoeld voor samenwerken. Het doel is ervaring opdoen met belangrijke technieken en de bedoeling is dat je dit zelf doet. Maar schroom niet hulp te vragen, en als het nodig is kan iemand het even voordoen voor je. Als je naderhand ook zelfstandig alle stappen doorlopen hebt.
 
-Here's Zamyla! She'll be offering us tips and tricks for some of the modules of this course.
+Here's Zamyla! She'll be offering tips and tricks for some of the modules of this course.
 
-[![](still-operators.jpg)](https://www.youtube.com/watch?v=DmE9lCvrxgU)
+[![](welcome.jpg)](https://www.youtube.com/watch?v=DmE9lCvrxgU)
 
 [Open video on Youtube](https://www.youtube.com/watch?v=DmE9lCvrxgU)
 
