@@ -2,8 +2,17 @@
 
 Watch these videos for an introduction to conditionals and loops. These are the two most important concepts you'll encounter, and both will be part of all programs that you will be writing (and reading!). 
 
-![embed](https://www.youtube.com/embed/1wsaV5nVC7g){: style="width:48%; display: inline-block;"}
-![embed](https://www.youtube.com/embed/WgX8e_O7eG8){: style="width:48%; display: inline-block;"}
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+[![](still-conditionals.jpg)](https://www.youtube.com/watch?v=1wsaV5nVC7g)
+</div>
+
+[Open Conditional Statements on Youtube](https://www.youtube.com/watch?v=1wsaV5nVC7g)
+
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+[![](still-loops.jpg)](https://www.youtube.com/watch?v=WgX8e_O7eG8)
+</div>
+
+[Open Loops on Youtube](https://www.youtube.com/watch?v=WgX8e_O7eG8)
 
 After watching, take your Programming Basics book and do all exercises from chapters 4, 5 and 6. It's important to do the exercises by hand (on paper), without using a calculator! When done like that, you'll develop a little bit of intuition about the basic calculations that are part of many computer programs. You will need it for the next module.
 
