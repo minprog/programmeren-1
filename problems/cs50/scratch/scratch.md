@@ -38,9 +38,9 @@ If you'd like to try out some Scratch projects from past students, here are a fe
 
 And, to get better acquainted to Scratch's blocks, watch Zamyla's walkthrough:
 
-[![](walkthrough.jpg)](https://www.youtube.com/embed/697pD31GCZg)
+[![](walkthrough.jpg)](https://www.youtube.com/watch?v=697pD31GCZg)
 
-[Open Walkthrough on Youtube](https://www.youtube.com/embed/697pD31GCZg)
+[Open Walkthrough on Youtube](https://www.youtube.com/watch?v=697pD31GCZg)
 
 Stuck for ideas? Here are some of your [predecessors' projects](https://scratch.mit.edu/studios/4248580/). But try to think of an idea on your own, and then set out to implement it. However, don't try to implement the entirety of your project all at once: pluck off one piece at a time. In other words, take baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. And select **File > Save Now** every few minutes so that you don't lose any work!
 
