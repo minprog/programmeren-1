@@ -25,6 +25,6 @@ In the movie below, Doug explains how to use the Linux "command line" that is in
 [![](short.jpg)](https://www.youtube.com/watch?v=BnJ013X02b8)
 </div>
 
-[Open video on Operators on Youtube](https://www.youtube.com/watch?v=BnJ013X02b8)
+[Open video on Youtube](https://www.youtube.com/watch?v=BnJ013X02b8)
 
 Note that currently, your **default** folder in the IDE is not called `~/workspace` but `~/` instead. This simply means that in Doug's version, all his files are in a subfolder called `workspace`, whereas in the current version of the IDE your files are in your main folder called `~` (home).
