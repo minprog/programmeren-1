@@ -38,7 +38,7 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 ### Walkthrough
 
-[![](thumbnail.jpg)](https://video.cs50.io/dZmtRHHUB1M)
+[![](walkthrough.jpg)](https://video.cs50.io/dZmtRHHUB1M)
 
 [Open in CS50 video player](https://video.cs50.io/dZmtRHHUB1M)
 
@@ -100,7 +100,7 @@ Your program should behave per the examples below.
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-[![](thumbnail.jpg)](https://video.cs50.io/2CcqQnLbGOE)
+[![](solving.jpg)](https://video.cs50.io/2CcqQnLbGOE)
 
 [Open in CS50 video player](https://video.cs50.io/2CcqQnLbGOE)
 </details>
