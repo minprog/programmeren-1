@@ -5,10 +5,11 @@
 
 Here's Zamyla! She'll be offering tips and tricks for some of the modules of this course.
 
+<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
 [![](welcome.jpg)](https://www.youtube.com/watch?v=DmE9lCvrxgU)
 
 [Open video on Youtube](https://www.youtube.com/watch?v=DmE9lCvrxgU)
-
+</div>
 
 ## Hello, World
 
