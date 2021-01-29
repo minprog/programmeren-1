@@ -2,6 +2,7 @@
 
 > Dit is je eerste opdracht om te oefenen met programmeerconcepten. Hiervoor gebruik je het [Basisboek Programmeren](https://www.stgm.nl/basics/). De bedoeling is dat je na het oefenen een online test (bijna) foutloos kunt doen. Zorg dat je je mentor in de loop van de weken laat zien dat je de verschillende oefeningen gedaan hebt. Bewaar daarom je aantekeningen en uitwerkingen.
 
+
 ## Data Types
 
 Watch the following video by Doug LLoyd to get introduced to C's basic data types (including a preview of more advanced types).
@@ -16,15 +17,16 @@ Then, answer the following questions:
 
 -   What is the "precision problem" concerning floats that Doug talked about?
 
-    <textarea name="form[precision_problem]" rows="4"></textarea>
+    <textarea name="form[precision_problem]" rows="4" required></textarea>
 
 -   Why would a variable of the `bool` data type only take 1 bit of storage in a computer's memory?
 
-    <textarea name="form[bool_size]" rows="4"></textarea>
+    <textarea name="form[bool_size]" rows="4" required></textarea>
 
 -   Describe the difference between *initializing* a variable and *assigning a value* to a variable.
 
-    <textarea name="form[precision_problem]" rows="4"></textarea>
+    <textarea name="form[precision_problem]" rows="4" required></textarea>
+
 
 ## Operators
 
@@ -35,6 +37,12 @@ C also has a lot of operators that allow you to combine values into calculations
 </div>
 
 [Open video on Operators on Youtube](https://www.youtube.com/watch?v=f1xZf4iJDWE)
+
+And another question:
+
+-   Discuss the difference between the equality operator and the assignment operator, including what symbols are to be used for each in C.
+
+    <textarea name="form[equal_assign]" rows="4" required></textarea>
 
 
 ## Practice Book
@@ -51,7 +59,7 @@ Remember to take a screenshot when you finish your test and submit it, below!
 
 [Take test A now](https://practice.mprog.nl/entry/prog1)
 
+
 ## Submitting
 
 When done with the test, take a screenshot of the results screen. You can attach it below. As you press "Submit", it will be uploaded together with your answers to the questions above.
-
