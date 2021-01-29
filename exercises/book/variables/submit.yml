@@ -1,5 +1,5 @@
 name: variables
-  form: true
+form: true
 files:
   required:
     - screenshot.png
