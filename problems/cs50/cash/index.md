@@ -58,7 +58,7 @@ Ultimately, your program should behave per the examples below.
 
 ## Walkthrough
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](cash.jpg)](https://www.youtube.com/watch?v=Y3nWGvqt_Cg)
 </div>
 
