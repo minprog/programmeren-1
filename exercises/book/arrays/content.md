@@ -4,7 +4,7 @@
 ## Video
 
 <div markdown="1" class="extend">
-[![](still-functions.jpg)](https://www.youtube.com/watch?v=K1yC1xshF40)
+[![](still-arrays.jpg)](https://www.youtube.com/watch?v=K1yC1xshF40)
 </div>
 
 [Open Loops on Youtube](https://www.youtube.com/watch?v=K1yC1xshF40)
