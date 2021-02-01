@@ -9,7 +9,7 @@ Implement a program that computes the approximate grade level needed to comprehe
 
 ## Specification
 
-*   Write, in a file called `readability.py` in `~/python/readability/`, a program that first asks the user to type in some text, and then outputs the grade level for the text, according to the Coleman-Liau formula.
+*   Write, in a file called `readability.py` in `~/problems/readability/`, a program that first asks the user to type in some text, and then outputs the grade level for the text, according to the Coleman-Liau formula.
 
     *   Recall that the Coleman-Liau index is computed as `0.0588 * L - 0.296 * S - 15.8`, where `L` is the average number of letters per 100 words in the text, and `S` is the average number of sentences per 100 words in the text.
 

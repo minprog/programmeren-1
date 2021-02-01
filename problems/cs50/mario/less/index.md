@@ -203,7 +203,7 @@ All that remains now is a finishing flourish! Modify `mario.c` in such a way tha
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 cs50/problems/2021/x/mario/less
+    check50 -l minprog/cs50x/2020/mario/less
 
 Execute the below to evaluate the style of your code using `style50`.
 

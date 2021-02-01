@@ -51,7 +51,7 @@ Your task is to write a program that will take a sequence of DNA and a CSV file 
 
 ## Specification
 
-In a file called `dna.py` in `~/python/dna/`, implement a program that identifies to whom a sequence of DNA belongs.
+In a file called `dna.py` in `~/problems/dna/`, implement a program that identifies to whom a sequence of DNA belongs.
 
 *   The program should require as its first command-line argument the name of a CSV file containing the STR counts for a list of individuals and should require as its second command-line argument the name of a text file containing the DNA sequence to identify.
 
