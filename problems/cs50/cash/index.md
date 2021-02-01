@@ -1,11 +1,13 @@
 # Cash
 
-> Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
+> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
 
 
 ## Greedy Algorithms
 
+<div markdown="1" class="extend bg-white">
 ![US coins](coins.jpg)
+</div>
 
 When making change, odds are you want to minimize the number of coins you're dispensing for each customer, lest you run out (or annoy the customer!). Fortunately, computer science has given cashiers everywhere ways to minimize numbers of coins due: greedy algorithms.
 

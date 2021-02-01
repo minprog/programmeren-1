@@ -1,6 +1,6 @@
 # Mario
 
-> Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
+> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
 
 
 ## World 1-1
@@ -72,7 +72,7 @@ If the user doesn't, in fact, input a positive integer between 1 and 8, inclusiv
 
 How to begin? Let's approach this problem one step at a time.
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](mario.jpg)](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
 </div>
 
