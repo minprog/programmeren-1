@@ -21,7 +21,7 @@ If all is well, you should then be informed that CS50 IDE (aka Cloud9, the softw
 
 In the movie below, Doug explains how to use the Linux "command line" that is included in the CS50 IDE. You will need to use many of the commands while developing in C, but also later when you're advancing as a programmer.
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](short.jpg)](https://www.youtube.com/watch?v=BnJ013X02b8)
 </div>
 
