@@ -5,7 +5,7 @@
 
 ## Greedy Algorithms
 
-<div markdown="1" class="extend bg-white">
+<div markdown="1" class="extend bg-white p-4">
 ![US coins](coins.jpg)
 </div>
 
