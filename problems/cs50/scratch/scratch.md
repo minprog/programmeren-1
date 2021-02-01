@@ -1,6 +1,6 @@
 # Scratch
 
-> Samenwerken bij deze opdracht is niet toegestaan anders dan het om hulp vragen bij medestudenten en anderen, als de hulp er maar niet op neerkomt dat iemand anders het werk voor je doet, zoals ook na te lezen in de regels over samenwerken in de studiewijzer.
+> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
 
 ## Itching to Program?
 
@@ -25,14 +25,6 @@ If you'd like to try out some Scratch projects from past students, here are a fe
 - [Gingerbread tales](https://scratch.mit.edu/projects/26329196/), an interactive story
 - [Intersection](https://scratch.mit.edu/projects/75390754/), a game
 - [Oscartime](https://scratch.mit.edu/projects/277537196/), a game
-
-And, to get better acquainted to Scratch's blocks, watch Zamyla's walkthrough:
-
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
-[![](walkthrough.jpg)](https://www.youtube.com/watch?v=697pD31GCZg)
-</div>
-
-[Open Walkthrough on Youtube](https://www.youtube.com/watch?v=697pD31GCZg)
 
 Stuck for ideas? Here are some of your [predecessors' projects](https://scratch.mit.edu/studios/4248580/). But try to think of an idea on your own, and then set out to implement it. However, don't try to implement the entirety of your project all at once: pluck off one piece at a time. In other words, take baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. And select **File > Save Now** every few minutes so that you don't lose any work!
 
