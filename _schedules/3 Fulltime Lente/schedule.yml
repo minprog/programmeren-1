@@ -8,7 +8,7 @@ Week 1:
         'Boek: Variabelen [boek]': /exercises/book/variables
         'Videocollege: C': /lectures/c
         Maak je eigen CS50 IDE aan: /shorts/ide
-        'Oefenen: Hello': /problems/cs50/hello
+        'Hello': /problems/cs50/hello
     Woensdag:
         Population [samen]: /problems/cs50/population
         Mario [individueel]: /problems/cs50/mario/less
