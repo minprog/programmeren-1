@@ -19,12 +19,12 @@ For example, if we were to start with `n = 1200` llamas, then in the first year,
 To try another example, if we were to start with `n = 1000` llamas, at the end of the year, we would have `1000 / 3 = 333.33` new llamas. We can't have a decimal portion of a llama, though, so we'll truncate the decimal to get `333` new llamas born. `1000 / 4 = 250` llamas will pass away, so we'll end up with a total of `1000 + 333 - 250 = 1083` llamas at the end of the year.
 
 
-## Getting Started
+## Getting started
 
-Copy the "distribution code" (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/1/population.c](https://cdn.cs50.net/2020/fall/labs/1/population.c) into a new file in your IDE called `population.c`.
+Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/cs50x/raw/2020/population/population.c](https://github.com/minprog/cs50x/raw/2020/population/population.c) into a new file in your IDE called `population.c`.
 
 
-## Implementation Details
+## Implementation details
 
 Complete the implementation of `population.c`, such that it calculates the number of years required for the population to grow from the start size to the end size.
 
@@ -38,7 +38,9 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 
 ### Walkthrough
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+Meet Brian Yu! He'll be helping you get started on some of the problems in this course.
+
+<div markdown="1" class="extend">
 [![](walkthrough.jpg)](https://video.cs50.io/dZmtRHHUB1M)
 </div>
 
@@ -71,7 +73,7 @@ Complete the implementation of `population.c`, such that it calculates the numbe
     to specify that the variable `n` should fill in for the placeholder `%i`.
 
 
-### How to Test Your Code
+### How to test your code
 
 Your program should behave per the examples below.
 
@@ -130,7 +132,7 @@ Execute the below to evaluate the style of your code using `style50`.
 
 As soon as you're done, submit your `population.c` implementation, below! 
 
-1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `population.c` file (that's within your `module0` directory) and then select **Download**. You should find that your browser has downloaded `population.c`.
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `population.c` file (that's within your `problems` directory) and then select **Download**. You should find that your browser has downloaded `population.c`.
 
 2. Make sure you are signed in to **this** website!
 
