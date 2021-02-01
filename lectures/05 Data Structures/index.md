@@ -1,6 +1,6 @@
 # Lecture: Data Structures
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](thumbnail.jpg)](https://video.cs50.io/2T-A_GFuoTo?screen=QdhPqzoTyUE)
 </div>
 

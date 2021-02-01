@@ -1,6 +1,6 @@
 # Lecture: Information
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 ![embed](https://www.youtube.com/embed/suzS0NWu8uQ)
 </div>
 

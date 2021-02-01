@@ -1,6 +1,6 @@
 # Lecture: Algorithms
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](thumbnail.jpg)](https://video.cs50.io/gR6nycuZKlM?screen=CRl1MoW0F-E)
 </div>
 

@@ -1,6 +1,6 @@
 # Lecture: Memory
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](thumbnail.jpg)](https://video.cs50.io/NKTfNv2T0FE?screen=7y81o-2rjeM)
 </div>
 
