@@ -1,11 +1,11 @@
-# Exercises: Variables and Expressions
+# Exercises: Variables and expressions
 
 > Dit is je eerste opdracht om te oefenen met programmeerconcepten. De bedoeling is dat je hierdoor de kleine details goed leert begrijpen, zodat je je daarna meer kan bezighouden met de "big picture". Bij het oefenen gebruik je video's waarin de concepten worden uitgelegd en het [Basisboek Programmeren](https://www.stgm.nl/basics/). Eerst beantwoord je zo goed mogelijk een paar vragen over de video's en dan ga je oefenen in het boek. De bedoeling is dat je na het oefenen de online test bijna foutloos kunt doen.
 >
 > Had je al programmeerervaring? Ook dan ken je waarschijnlijk een aantal van de details niet. Zorg dan dat je extra precies oefent om zeker te zijn dat je geen basiskennis overslaat.
 
 
-## Data Types
+## Data types
 
 Watch the following video by Doug LLoyd to get introduced to C's basic data types (including a preview of more advanced types).
 
@@ -43,7 +43,7 @@ Discuss the difference between the equality operator and the assignment operator
 <textarea name="form[equal_assign]" rows="4" required></textarea>
 
 
-## Practice Exercises
+## Practice exercises
 
 Take your Programming Basics book and do **all exercises** from chapters 1, 2 and 3. It's important to do the exercises by hand (on paper), without using a calculator. When done like that, you'll develop a little bit of intuition about the basic calculations that are part of many computer programs. You will need it for the next module.
 
@@ -58,6 +58,6 @@ Remember to take a screenshot when you finish your test and submit it, below!
 [Take test A now](https://practice.mprog.nl/entry/prog1){:.btn.btn-secondary}
 
 
-## How to Submit
+## How to submit
 
 When done with the test, take a screenshot of the results screen. You can attach it below; it will be uploaded together with your answers to the questions.
