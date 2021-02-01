@@ -2,6 +2,7 @@
 
 > Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
 
+
 ## Itching to Program?
 
 It's time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
@@ -14,9 +15,10 @@ It's time to choose your own adventure! Your assignment, quite simply, is to imp
 
 Head to [the Scratch website](https://scratch.mit.edu/) and sign up for an account on MIT's website by clicking **Join Scratch** atop the page. Any username (that's available) is fine, but take care to remember it and your choice of password.  After registering and confirming your email address, click the orange "**Start Creating**" button to begin.
 
-## Help and ideas
 
-If you'd like to try out some Scratch projects from past students, here are a few:
+## Ideas
+
+To get started, try to think of an idea on your own, and then set out to implement it. If you're stuck for ideas and you'd like to try out some Scratch projects from past students, here are a few:
 
 - [It's Raining Men](https://scratch.mit.edu/projects/37412/), from lecture
 - [Ivy's Hardest Game](https://scratch.mit.edu/projects/326129587/), a game, Harvard edition
@@ -26,11 +28,17 @@ If you'd like to try out some Scratch projects from past students, here are a fe
 - [Intersection](https://scratch.mit.edu/projects/75390754/), a game
 - [Oscartime](https://scratch.mit.edu/projects/277537196/), a game
 
-Stuck for ideas? Here are some of your [predecessors' projects](https://scratch.mit.edu/studios/4248580/). But try to think of an idea on your own, and then set out to implement it. However, don't try to implement the entirety of your project all at once: pluck off one piece at a time. In other words, take baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. And select **File > Save Now** every few minutes so that you don't lose any work!
+
+## Getting unstuck
 
 If, along the way, you find it too difficult to implement some feature, try not to fret; alter your design or work around the problem. If you set out to implement an idea that you find fun, odds are you won't find it too hard to satisfy the above requirements. 
 
+One strategy to try is taking baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. It should help you find your focus. Oh, and select **File > Save Now** every few minutes so that you don't lose any work!
+
+> If getting unstuck by yourself doesn't quite work out, feel free to ask for help! When you ask for help, it doesn't have to be about a specific technical problem. Getting lost in what you want to make is something that happens to the best of us! So it's fine to say "I need help getting unstuck." Try it.
+
 Alright, off you go. Make us proud! 
+
 
 ## How to Submit
 
