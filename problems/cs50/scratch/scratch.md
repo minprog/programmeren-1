@@ -50,4 +50,7 @@ Once finished with your project:
 
 - Below, you should find a form where you can attach your `.sb3` file and paste your project's URL. If there is no form, you might have forgotten to logon to this website and register your name!
 
+- If your file is too large because you included many sounds and large pictures, you can create a copy (**File > Save as a copy**), and in that copy delete some of those elements.
+
+
 If you have any questions or issues with the above steps, reach out to the TAs!

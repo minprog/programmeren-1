@@ -67,9 +67,9 @@ Ultimately, your program should behave per the examples below.
 
 First, create a new directory (i.e., folder) called `cash` inside of your `problems` directory, by executing
 
-    ~/ $ mkdir ~/problems/mario
+    ~/ $ mkdir ~/problems/cash
 
-Add a new file called `pseudocode.txt` inside of your `mario` directory.
+Add a new file called `pseudocode.txt` inside of your `cash` directory.
 
 Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for finding Mike Smith! Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
