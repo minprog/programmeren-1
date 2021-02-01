@@ -1,6 +1,8 @@
 # Exercises: Variables and Expressions
 
-> Dit is je eerste opdracht om te oefenen met programmeerconcepten. De bedoeling is dat je hierdoor de kleine details goed leert begrijpen, zodat je je daarna meer kan bezighouden met de "big picture". Bij het oefenen gebruik je video's waarin de concepten worden uitgelegd en het [Basisboek Programmeren](https://www.stgm.nl/basics/). Eerst beantwoordt je zo goed mogelijk een paar vragen over de video's en dan ga je oefenen in het boek. De bedoeling is dat je na het oefenen de online test bijna foutloos kunt doen.
+> Dit is je eerste opdracht om te oefenen met programmeerconcepten. De bedoeling is dat je hierdoor de kleine details goed leert begrijpen, zodat je je daarna meer kan bezighouden met de "big picture". Bij het oefenen gebruik je video's waarin de concepten worden uitgelegd en het [Basisboek Programmeren](https://www.stgm.nl/basics/). Eerst beantwoord je zo goed mogelijk een paar vragen over de video's en dan ga je oefenen in het boek. De bedoeling is dat je na het oefenen de online test bijna foutloos kunt doen.
+>
+> Had je al programmeerervaring? Ook dan ken je waarschijnlijk een aantal van de details niet. Zorg dan dat je extra precies oefent om zeker te zijn dat je geen basiskennis overslaat.
 
 
 ## Data Types
