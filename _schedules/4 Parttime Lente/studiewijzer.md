@@ -11,19 +11,21 @@ De coördinator van dit vak is Floor van de Leur en de examinator is Martijn Ste
 
 Bij dit vak werk je aan verschillende soorten opdrachten:
 
-- **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
-- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
-- **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
-- **Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
+**Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
+
+**Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+
+**Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
+
+**Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
 Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
-2. bijwonen van alle [checkups](#checkups) met je team
-3. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
-4. laag scoren op de ["plagiaatschaal"](#plagiaat)
+1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen) en code reviews
+2. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
+3. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
 
 ## Eindcijfer
@@ -99,34 +101,30 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken.
+Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema zo goed mogelijk aanhoudt. Als parttime-student heb je natuurlijk ook een ander vak om aan te werken, dus het is geen probleem als je de dagplanning wat aanpast. Het gaat erom dat je steeds weer "bij" bent.
 
-Je krijgt een planning waarin per dag staat aan welke opdrachten je gaat werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. Als parttime-student heb je natuurlijk ook een ander vak om aan te werken, dus het is geen probleem als je de planning iets aanpast. Het gaat erom dat je steeds weer "bij" bent.
+Als je meer dan een halve week **achterloopt**, dan kun je niet verder met het vak zonder een specifieke uitzondering van de vakcoördinator. Zorg dus dat je contact opneemt als je dreigt achter te lopen maar wél graag het vak wil halen.
 
-Ga je achterlopen, dan neem je contact op met je mentor.
+De meeste individuele opdrachten worden beoordeeld voor een cijfer. Daarvoor is een **deadline** die los staat van het dagschema, maar is afgestemd op de werkgroep. Je doet namelijk in je wekelijkse werkgroep een *code review*, waarna je de opdracht verbeterd inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
+Dit zijn de uiterste deadlines voor de verbeterde versies:
 
-
-De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (`check50`), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
-
-| onderdeel       | deadline oplossing | deadline verbeterd |  
-| --------------- | ------------------ | ------------------ |
-| dag 1           | wo 10 feb  17:59   |                    |  
-| dag 2--5        | wo 17 feb  17:59   | di 23 feb  20:59   |  
-| dag 6--9        | wo 24 feb  17:59   | di  2 maa  20:59   |  
-| dag 10-11       | wo  3 maa  17:59   | di  9 maa  20:59   |  
-| dag 11-12       | wo 10 maa  17:59   | di 16 maa  20:59   |  
-| dag 13-15       | wo 17 maa  17:59   | di 23 maa  20:59   |  
-| dag 16-17       | wo 24 maa  17:59   | di 30 maa  20:59   |  
+| onderdeel             | deadline           |  
+| --------------------- | ------------------ |
+| Mario en Greedy       | di 23 feb  20:59   |  
+| Readability en Caesar | di  9 mrt  20:59   |  
+| Find                  | di 16 mrt  20:59   |  
+| Whodunit en Anonymize | di 23 mrt  20:59   |  
 
 
-<details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-Als je ziek bent dan meld je het in ieder geval zo snel mogelijk even aan je mentor. Ben je één of twee dagen ziek dan ga je met hulp van een assistent of docent in de **versneller** een plan maken om bij te komen. Let op dat systematisch achterlopen niet mogelijk is.
+<details markdown="1"><summary markdown="span">Wat als ik ziek ben?</summary>
+
+Als je ziek bent dan meld je het in ieder geval zo snel mogelijk even aan je mentor. Ben je één of twee dagen ziek dan is dat geen probleem. Als je het netjes meldt dan kun je dit bijvoorbeeld in het weekend inhalen.
 
 Heb je een medisch noodgeval en ben je hierdoor langer uit de running? Dan moeten we gezamenlijk kijken hoe we het kunnen oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we wat mogelijk is.
 
-Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen hebt of niet genoeg focus kan vinden? Bespreek het dan gewoon eens met een docent of je studieadviseur. Stuur gerust een mailtje!
+Raak je uit tempo omdat je bijvoorbeeld toch teveel andere dingen hebt of niet genoeg focus kan vinden? Bespreek het dan eens met een docent of je studieadviseur. Stuur gerust een mailtje!
 </details>
 
 <details markdown="1"><summary markdown="span">Wat als ik al klaar ben?</summary>
@@ -154,7 +152,7 @@ Het totaal van 24 punten staat voor 75% van je eindcijfer.
 
 ### Extra opdrachten
 
-Bij veel modules bieden we ook een "extra opdracht" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
+Er zijn vier "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra voor een module als je vóór de deadline de extra opdracht hebt ingeleverd.
 

@@ -113,9 +113,9 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een dagschema dat het gewenste tempo aangeeft. Krijg je een opdracht niet af volgens het schema, dan neem je contact op met je mentor. Je sluit dan altijd aan bij een dagelijkse **versneller**-bijeenkomst, waar je plannen maakt om de opdrachten alsnog te doen en contact legt met andere studenten die aan dezelfde opdrachten werken.
+Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. Krijg je een opdracht niet af volgens het schema, dan neem je contact op met je mentor. Je sluit dan altijd aan bij een dagelijkse **versneller**-bijeenkomst, waar je plannen maakt om de opdrachten alsnog te doen en contact legt met andere studenten die aan dezelfde opdrachten werken.
 
-De meeste individuele opdrachten worden beoordeeld voor een cijfer. Die opdrachten maak je om te beginnen volgens het dagschema. Daarna ga je in je wekelijkse werkgroep een code review doen, waarna je de opdracht "verbeterd" inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
+De meeste individuele opdrachten worden beoordeeld voor een cijfer. Daarvoor is een **deadline** die los staat van het dagschema, maar is afgestemd op de werkgroep. Je doet namelijk in je wekelijkse werkgroep een *code review*, waarna je de opdracht verbeterd inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
@@ -161,7 +161,7 @@ Het totaal van 24 punten staat voor 75% van je eindcijfer.
 
 ### Extra opdrachten
 
-Bij veel modules bieden we ook een "extra opdracht" aan. Deze is bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
+Er zijn vier "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra voor een module als je vóór de deadline de extra opdracht hebt ingeleverd.
 
