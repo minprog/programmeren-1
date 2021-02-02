@@ -144,7 +144,11 @@ If the resulting index number is 16 or higher (equivalent to or greater than a s
 
 ## Walkthrough
 
-![Open in CS50 Video Player](https://youtu.be/AOVyZEh9zgE)
+<div markdown="1" class="extend">
+[![](walkthrough.jpg)](https://www.youtube.com/watch?v=AOVyZEh9zgE)
+</div>
+
+[Open video on Youtube](https://www.youtube.com/watch?v=AOVyZEh9zgE)
 
 
 ## How to Test Your Code
