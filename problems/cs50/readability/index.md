@@ -135,6 +135,12 @@ Modify `readability.c` so that instead of outputting the number of letters, word
 
 If the resulting index number is 16 or higher (equivalent to or greater than a senior undergraduate reading level), your program should output `"Grade 16+"` instead of giving the exact index number. If the index number is less than 1, your program should output `"Before Grade 1"`.
 
+
+### Pseudocode
+
+First, write some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for finding Mike Smith. Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
+
+
 ## Hints
 
 *   Recall that `math.h` declares a function called `round` that might be useful here.
