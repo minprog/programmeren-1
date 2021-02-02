@@ -10,6 +10,10 @@ Watch these videos for an introduction to conditionals and loops. These are the 
 
 [Open Conditional Statements on Youtube](https://www.youtube.com/watch?v=1wsaV5nVC7g)
 
+Discuss the differences between a chain of mutually exclusive conditional branches and a chain of **non-**mutually exclusive conditional branches.
+
+<textarea name="form[diff_exclusive_branches]" rows="4" required></textarea>
+
 
 ## Loops
 
@@ -18,6 +22,14 @@ Watch these videos for an introduction to conditionals and loops. These are the 
 </div>
 
 [Open Loops on Youtube](https://www.youtube.com/watch?v=WgX8e_O7eG8)
+
+Discuss the differences between a while-loop and a do-while-loop, including, but not limited to, how often the block of code inside the loop will run.
+
+<textarea name="form[diff_while_do]" rows="4" required></textarea>
+
+Have you used a for-loop in the programs that you previously wrote? Discuss if the for-loop was the "right" choice and if you could have substituted a while-loop to achieve the same result.
+
+<textarea name="form[example_for_loop]" rows="4" required></textarea>
 
 
 ## Practice exercises
