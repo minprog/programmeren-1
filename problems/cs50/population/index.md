@@ -112,7 +112,7 @@ Years: 115
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-<div markdown="1" class="mx-n3 mx-sm-n4 mx-lg-n5">
+<div markdown="1" class="extend">
 [![](solving.jpg)](https://video.cs50.io/2CcqQnLbGOE)
 </div>
 
