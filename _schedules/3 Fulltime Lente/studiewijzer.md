@@ -23,7 +23,7 @@ Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is 
 3. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
 4. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
 
 ## Activiteiten
