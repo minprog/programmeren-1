@@ -3,11 +3,10 @@ short_name: Prog1
 language: nl
 
 links:
-    # '[diagram-3] Steps': /steps
+    '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
     '[terminal] IDE': https://ide.cs50.io/
     '[chat-text] Ed': https://us.edstem.org/courses/2328
     '[book] Manual': https://man.cs50.io/
-    # '[camera-video] Assistentie': https://calendly.com/mprog-parttime/assistentie
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/college/2019/fall/ -- Copyright 2011--2019, David J. Malan.'
