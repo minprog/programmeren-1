@@ -1,25 +1,16 @@
 # Linear Search
 
-## Goal
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in.
 
 Write a program that can find a needle in a haystack using linear search. Well, we won't be using literal needles and haystacks (that would be too unwieldy), but rather integer numbers and arrays respectively.
 
+
 ## Getting started
 
-First create a new directory and step into it:
+    $ mkdir ~/problems/linear
+    $ cd ~/exercises/linear
+    $ wget https://github.com/minprog/exercises/raw/main/writing/linear/find-linear.c
 
-
-    mkdir ~/workspace/section3
-    cd ~/workspace/section3
-
-### Downloading
-
-    wget https://cs50x.mprog.nl/course/sections/03%20Search/linear.zip
-    unzip linear.zip
-    rm linear.zip
-    ls
-
-    find-linear.c
 
 ## Specification
 
@@ -29,19 +20,19 @@ In our case, we won't be looking for names in a phone book, but a number (intege
 
 
     $ ./find-linear 42
-
+    
     haystack[0] = 3
-
+    
     haystack[1] = 14
-
+    
     haystack[2] = 15
-
+    
     haystack[3] = 42
-
+    
     haystack[4] = 11235
-
+    
     haystack[5] = 1
-
+    
     haystack[6] = ^D
     ---------------------------------------------------------
     I will try to find needle "42" in the following haystack:
@@ -57,6 +48,7 @@ For this assignment you don't have to worry about the user input. This has alrea
 
 1. Implement the function `print_array`. This function will take an integer array as input and will have to print its contents.
 2. Implement the function `search`. With this function you will implement linear search. The input are an integer array and an integer value as input and will return `true` if and only if, the value is found in the array.
+
 
 ## Walkthrough
 
