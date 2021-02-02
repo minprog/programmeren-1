@@ -9,21 +9,37 @@ De coördinator van dit vak is Jelle van Assema en de examinator is Martijn Steg
 
 ## Verwachtingen
 
-Bij dit vak wordt van je verwacht dat je:
+Bij dit vak werk je aan verschillende soorten opdrachten.
 
-1. alle samenwerkopdrachten doet, met een partner
-2. alle individuele opdrachten helemaal correct werkend maakt, met onze hulp
-3. alle [oefenopdrachten](#basisboek) uit het basisboek doet
+- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+- **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten. Er zijn ook optionele "extra" opdrachten voor ervaren programmeurs.
+- **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
+- **Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
-Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-4. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
-5. bijwonen van alle [checkups](#checkups) met je team
-6. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of mondeling
-7. laag scoren op de ["plagiaatschaal"](#plagiaat)
-{: start="4"}
+1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
+2. bijwonen van alle [checkups](#checkups) met je team
+3. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
+4. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
+
+
+## Dagplanning
+
+We hebben een planning waarin per dag staat aan welke opdrachten je moet werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. We houden de voortgang van de groep nauwkeurig in de gaten en passen de planning aan waar nodig.
+
+Ook per student houden we de voortgang goed bij. Loop je achter? Dan doe je standaard de volgende ochtend mee met de versnellersessie.
+
+Elke maandag t/m vrijdag kun je de volgende activiteiten verwachten:
+
+|   tijd |                                                   |
+| -----: | ------------------------------------------------- |
+|   9:00 | opstarten en inlezen                              |
+|   9:30 | checkup met je team                               |
+|  10:00 | versneller voor wie de opdracht nog niet af heeft |
+|  13:00 | assistentie                                       |
 
 
 ## Eindcijfer
