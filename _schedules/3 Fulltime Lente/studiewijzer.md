@@ -26,18 +26,15 @@ Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
 
 
-## Planning
-
-We hebben een planning waarin per dag staat aan welke opdrachten je gaat werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. We houden de voortgang van de groep nauwkeurig in de gaten en passen de planning aan waar nodig.
-
-Ook per student houden we de voortgang goed bij. Loop je achter? Dan doe je standaard de volgende ochtend mee met de versnellersessie.
+## Activiteiten
 
 Elke maandag t/m vrijdag kun je de volgende activiteiten verwachten:
 
-|   9:00 | opstarten en inlezen                              |
-|   9:30 | checkup met je team                               |
-|  10:00 | versneller voor wie de opdracht nog niet af heeft |
-|  13:00 | assistentie                                       |
+|     9:00 | opstarten en inlezen                                |
+|     9:30 | checkup met je team                                 |
+|    10:00 | versneller (voor wie de opdracht nog niet af heeft) |
+|    13:00 | assistentie                                         |
+| na 17:00 | afsluiten                                           |
 
 
 ## Eindcijfer
@@ -113,7 +110,9 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. Krijg je een opdracht niet af volgens het schema, dan neem je contact op met je mentor. Je sluit dan altijd aan bij een dagelijkse **versneller**-bijeenkomst, waar je plannen maakt om de opdrachten alsnog te doen en contact legt met andere studenten die aan dezelfde opdrachten werken.
+Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema volledig kunt aanhouden.
+
+Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je sluit dan de volgende ochtend aan bij een **versneller**-bijeenkomst, waar je plannen maakt om de opdrachten alsnog te doen en contact legt met andere studenten die aan dezelfde opdrachten werken.
 
 De meeste individuele opdrachten worden beoordeeld voor een cijfer. Daarvoor is een **deadline** die los staat van het dagschema, maar is afgestemd op de werkgroep. Je doet namelijk in je wekelijkse werkgroep een *code review*, waarna je de opdracht verbeterd inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
@@ -125,6 +124,8 @@ Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 | Opdracht 2           | di 23 feb  17:59    |
 | Opdracht 3           | di  2 mrt  17:59    |
 | Opdracht 4           | wo  3 mrt  17:59    |
+
+Dit schema is afhankelijk van de werkgroeproostering en volledig onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>

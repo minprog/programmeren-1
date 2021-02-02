@@ -100,7 +100,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema zo goed mogelijk aanhoudt. Als parttime-student heb je natuurlijk ook een ander vak om aan te werken, dus het is geen probleem als je de dagplanning wat aanpast. Het gaat erom dat je steeds weer "bij" bent.
 
-Als je meer dan een halve week **achterloopt**, dan kun je niet verder met het vak zonder een specifieke uitzondering van de vakcoördinator. Zorg dus dat je contact opneemt als je dreigt achter te lopen maar wél graag het vak wil halen.
+Als je meer dan een halve week **achterloopt**, dan kun je niet verder met het vak zonder een specifieke uitzondering van de vakcoördinator. Dat komt omdat interacties met medestudenten en de docenten een essentieel onderdeel zijn. Zorg dus dat je contact opneemt als je dreigt achter te lopen maar wél graag het vak wil halen.
 
 De meeste individuele opdrachten worden beoordeeld voor een cijfer. Daarvoor is een **deadline** die los staat van het dagschema, maar is afgestemd op de werkgroep. Je doet namelijk in je wekelijkse werkgroep een *code review*, waarna je de opdracht verbeterd inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
