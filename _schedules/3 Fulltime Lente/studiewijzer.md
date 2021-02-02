@@ -11,9 +11,9 @@ De coördinator van dit vak is Jelle van Assema en de examinator is Martijn Steg
 
 Bij dit vak werk je aan verschillende soorten opdrachten.
 
-- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
-- **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten. Er zijn ook optionele "extra" opdrachten voor ervaren programmeurs.
 - **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
+- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+- **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
 - **Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
 Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
@@ -26,7 +26,7 @@ Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
 
 
-## Dagplanning
+## Planning
 
 We hebben een planning waarin per dag staat aan welke opdrachten je moet werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. We houden de voortgang van de groep nauwkeurig in de gaten en passen de planning aan waar nodig.
 
@@ -34,8 +34,6 @@ Ook per student houden we de voortgang goed bij. Loop je achter? Dan doe je stan
 
 Elke maandag t/m vrijdag kun je de volgende activiteiten verwachten:
 
-|   tijd |                                                   |
-| -----: | ------------------------------------------------- |
 |   9:00 | opstarten en inlezen                              |
 |   9:30 | checkup met je team                               |
 |  10:00 | versneller voor wie de opdracht nog niet af heeft |
@@ -44,17 +42,14 @@ Elke maandag t/m vrijdag kun je de volgende activiteiten verwachten:
 
 ## Eindcijfer
 
-Bij deze cursus wordt je cijfer grotendeels bepaald door de uitwerkingen van programmeeropdrachten:
+Als je alle opdrachten hebt gedaan dan wordt je cijfer als volgt bepaald:
 
-| onderdeel              | beoordeling                        | weging |  
-| ---------------------- | ---------------------------------- | ------ |
-| Oefenopdrachten        | punten aftekenen                   | 0%     |  
-| Samenwerkopdrachten    | punten aftekenen                   | 25%    |  
-| Individuele opdrachten | cijfer voor inhoudelijke kwaliteit | 75%    |  
+- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. Deze punten zou je dus al binnen moeten hebben.
+- 75% is op basis van de beoordeling van de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
 
-Voordat je een eindcijfer kunt krijgen moet je aan alle bovengenoemde verwachtingen hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
+Voordat je een eindcijfer kunt krijgen moet je aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
 
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen. Echt meedoen dus!
 
 
 ## Team en mentor
@@ -95,7 +90,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - problemen met je computer
 - problemen met de werking van je online IDE
 - hele nare bugs
-- aanmelden via [Bookings](...)
+- aanmelden via [Bookings](https://outlook.office365.com/owa/calendar/Programmeerbalie@Amsuni.onmicrosoft.com/bookings/s/eZ-DCn7rb0aul2G7UyseaA2)
 
 **Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
 
@@ -117,28 +112,26 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken. Voor de hele cursus is er een dagschema dat het gewenste tempo aangeeft. Dit schema is zo goed mogelijk afgestemd op onze ervaring met de opdrachten.
+Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken. Voor de hele cursus is er een dagschema dat het gewenste tempo aangeeft.
 
-Ga je achterlopen, dan neem je contact op met je mentor. Je sluit dan aan bij een dagelijkse extra werkgroep, waar de opdrachten rustig doorgenomen worden en je makkelijker hulp kunt krijgen.
+Ga je achterlopen, dan neem je contact op met je mentor. Je sluit dan aan bij een dagelijkse extra **versneller**, waar je plannen maakt om de opdrachten aan te pakken en contact legt met andere studenten die aan dezelfde opdrachten werken.
 
-De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (`check50`), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
+De meeste individuele opdrachten worden beoordeeld voor een cijfer. Die opdrachten maak je om te beginnen volgens het dagschema. Daarna ga je in je wekelijkse werkgroep een code review doen, waarna je de opdracht "verbeterd" inlevert. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
-| individuele opdracht | deadline opdracht | deadline verbeterd |
-| -------------------- | ----------------- | ------------------ |
-| Opdracht 0           | ma  8 feb  17:59  | -                  |
-| Opdracht 1           | vr 12 feb  17:59  | ma 15 feb  17:59   |
-| Opdracht 2           | vr 19 feb  17:59  | ma 22 feb  17:59   |
-| Opdracht 3           | vr 26 feb  17:59  | ma  1 maa  17:59   |
-| Opdracht 4           | di  2 maa  17:59  | wo  3 maa  17:59   |
+Dit zijn de uiterste deadlines voor de verbeterde versies:
 
-De deadlines vanaf opdracht 2 zijn onder voorbehoud van wijzigingen, op basis van de ervaringen in eerdere weken.
+| individuele opdracht | deadline            |
+| -------------------- | ------------------: |
+| Opdracht 1           | di 16 feb  17:59    |
+| Opdracht 2           | di 23 feb  17:59    |
+| Opdracht 3           | di  2 mrt  17:59    |
+| Opdracht 4           | wo  3 mrt  17:59    |
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
 In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je mentor de deadline één of twee dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
 
-Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
 
 Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
 

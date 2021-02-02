@@ -11,27 +11,27 @@ Week 1:
         'Hello': /problems/cs50/hello
     Woensdag:
         Population [samen]: /problems/cs50/population
-        Mario [individueel]: /problems/cs50/mario/less
+        Mario [individueel, cijfer]: /problems/cs50/mario/less
     Donderdag:
-        Cash [individueel]: /problems/cs50/cash
+        Cash [individueel, cijfer]: /problems/cs50/cash
     Vrijdag:
         'Videocollege: Arrays': /lectures/arrays
         'Oefenen: Strings [samen]': /exercises/writing/strings
         'Boek: Control Flow [boek]': /exercises/book/control-flow
     Extra:
-        Credit [individueel]: /problems/cs50/credit
+        Credit [extra]: /problems/cs50/credit
 Week 2:
     Maandag:
         'Scrabble [samen]': /problems/cs50/scrabble
-        'Readability [individueel]': /problems/cs50/readability
+        'Readability [individueel, cijfer]': /problems/cs50/readability
     Dinsdag:
-        'Readability [individueel]': /problems/cs50/readability
-        'Caesar [individueel]': /problems/cs50/caesar
+        'Readability [individueel, cijfer]': /problems/cs50/readability
+        'Caesar [individueel, cijfer]': /problems/cs50/caesar
     Woensdag:
-        'Caesar [individueel]': /problems/cs50/caesar
+        'Caesar [individueel, cijfer]': /problems/cs50/caesar
         'Videocollege: Algorithms': /lectures/algorithms
     Extra:
-        Crack [individueel]: /problems/cs50/crack
+        Crack [extra]: /problems/cs50/crack
     Donderdag:
         'Oefenen: Linear Search [samen]': /exercises/writing/linear
         Sort [samen]: /problems/cs50/sort
@@ -40,20 +40,20 @@ Week 2:
         'Boek: Strings en Arrays [boek]': /exercises/book/arrays
 Week 3:
     Maandag:
-        Find [individueel]: /problems/cs50/find/less
+        Find [individueel, cijfer]: /problems/cs50/find/less
     Extra (Algorithms):
-        Fifteen [individueel]: /problems/cs50/fifteen/more
+        Fifteen [extra]: /problems/cs50/fifteen/more
     Dinsdag:
         Hardware [samen]: /modules/hardware
         'Videocollege: Memory': /lectures/memory
     Woensdag:
         'Whodunit [samen]': /problems/cs50/whodunit
-        Anonymize [individueel]: /exercises/writing/anonymize
+        Anonymize [individueel, cijfer]: /exercises/writing/anonymize
     Donderdag:
-        Anonymize [individueel]: /exercises/writing/anonymize
+        Anonymize [individueel, cijfer]: /exercises/writing/anonymize
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
     Vrijdag:
         'Boek: Functies [boek]': /exercises/book/functions
         'Oefenen: Functies': /exercises/writing/functions
     Extra (Memory):
-        Resize [individueel]: /problems/cs50/resize/more
+        Resize [extra]: /problems/cs50/resize/more
