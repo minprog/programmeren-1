@@ -1,6 +1,6 @@
-# Lab: Sort
+# Sort
 
-> You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in.
 
 Analyze three sorting programs to determine which algorithms they use.
 
@@ -17,8 +17,9 @@ Recall from lecture that we saw a few algorithms for sorting a sequence of numbe
 ## Getting Started
 
 1.  Log into [ide.cs50.io](https://ide.cs50.io/) using your GitHub account.
-2.  In your terminal window, run `wget https://cdn.cs50.net/2020/fall/labs/3/lab3.zip` to download a Zip file of the lab distribution code.
-3.  In your terminal window, run `unzip lab3.zip` to unzip (i.e., decompress) that Zip file.
+2.  In your terminal window, run `cd ~/problems` to switch to your `problems` directory.
+2.  In your terminal window, run `wget https://github.com/minprog/cs50x/raw/2020/sort/sort.zip` to download a Zip file of the lab distribution code.
+3.  In your terminal window, run `unzip sort.zip` to unzip (i.e., decompress) that Zip file.
 4.  In your terminal window, run `cd lab3` to change directories into your `lab3` directory.
 
 
@@ -36,25 +37,46 @@ Provided to you are three already-compiled C programs, `sort1`, `sort2`, and `so
 *   Record your answers in `answers.txt`, along with an explanation for each program, by filling in the blanks marked `TODO`.
 
 
-### Walkthrough
+## Walkthrough
 
-![Open in CS50 Video Player](https://video.cs50.io/-Bhxxw6JKKY)
+<div markdown="1" class="extend">
+[![](walkthrough.jpg)](https://video.cs50.io/-Bhxxw6JKKY)
+</div>
+
+[Open the problem walkthrough in the CS50 video player](https://video.cs50.io/-Bhxxw6JKKY)
 
 
-### Hints
+## Hints
 
 *   The different types of `.txt` files may help you determine which sort is which. Consider how each algorithm performs with an already sorted list. How about a reversed list? Or shuffled list? It may help to work through a smaller list of each type and walk through each sorting process.
 
-Not sure how to solve?
+<details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-![Open in CS50 Video Player](https://video.cs50.io/uOYhrBs37j0)
+<div markdown="1" class="extend">
+[![](walkthrough.jpg)](https://video.cs50.io/uOYhrBs37j0)
+</div>
+
+[Open the solution walkthrough in the CS50 video player](https://video.cs50.io/uOYhrBs37j0)
+</details>
 
 
-### How to Check Your Answers
+## How to Check Your Answers
 
 Execute the below to evaluate the correctness of your answers using `check50`. But be sure to fill in your explanations as well, which `check50` won't check here!
 
-    check50 cs50/labs/2021/x/sort
+    check50 -l minprog/cs50x/2020/sort
 
 
-## How to Submit
+## How to submit
+
+As soon as you're done, submit `answers.txt`, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `answers.txt` file (that's within your `problems/sort` directory) and then select **Download**. You should find that your browser has downloaded `answers.txt`.
+
+2. Make sure you are signed in to **this** website!
+
+3. Type the names of students that you've worked with on this problem: <input type="text" required>
+
+4. In the form below, choose the file that you just downloaded.
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.

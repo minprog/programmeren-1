@@ -1,5 +1,7 @@
 # Readability
 
+> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
+
 Implement a program that computes the approximate grade level needed to comprehend some text, per the below.
 
     $ ./readability
@@ -56,7 +58,7 @@ within [this sandbox](http://bit.ly/2ulEXkw).
 
 Design and implement a program, `readability`, that computes the Coleman-Liau index of the text.
 
-*   Implement your program in a file called `readability.c` in a directory called `readability`.
+*   Implement your program in a file called `readability.c` in a directory called `~/problems/readability`.
 *   Your program must prompt the user for a `string` of text (using `get_string`).
 *   Your program should count the number of letters, words, and sentences in the text. You may assume that a letter is any lowercase character from `a` to `z` or any uppercase character from `A` to `Z`, any sequence of characters separated by spaces should count as a word, and that any occurrence of a period, exclamation point, or question mark indicates the end of a sentence.
 *   Your program should print as output `"Grade X"` where `X` is the grade level computed by the Coleman-Liau formula, rounded to the nearest integer.
@@ -171,12 +173,25 @@ Try running your program on the following texts.
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 cs50/problems/2021/x/readability
+    check50 -l minprog/cs50x/2020/readability
 
 Execute the below to evaluate the style of your code using `style50`.
 
     style50 readability.c
 
 
-## How to Submit
+## How to submit
 
+As soon as you're done, submit your `readability.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `readability.c` file (that's within your `problems` directory) and then select **Download**. You should find that your browser has downloaded `readability.c`.
+
+2. Also download `pseudocode.txt`.
+
+2. Make sure you are signed in to **this** website!
+
+3. In the form below, choose the file that you just downloaded.
+
+4. Press "Submit for grading". Presto!
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.

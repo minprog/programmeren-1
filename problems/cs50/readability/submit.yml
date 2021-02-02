@@ -1,7 +1,8 @@
-name: readability-py
+name: readability
 files:
     required:
-        - readability.py
+        - pseudocode.txt
+        - readability.c
 check:
     tool: check50
     slug: minprog/cs50x/2020/readability

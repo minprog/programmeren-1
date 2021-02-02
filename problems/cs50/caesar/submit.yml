@@ -1,6 +1,7 @@
 name: caesar
 files:
     required:
+        - pseudocode.txt
         - caesar.c
 check:
     tool: check50

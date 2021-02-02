@@ -36,7 +36,7 @@ Complete the implementation of `population.c`, such that it calculates the numbe
 *   Finally, your program should print the number of years required for the llama population to reach that end size, as by printing to the terminal `Years: n`, where `n` is the number of years.
 
 
-### Walkthrough
+## Walkthrough
 
 Meet Brian Yu! He'll be helping you get started on some of the problems in this course.
 
@@ -44,10 +44,10 @@ Meet Brian Yu! He'll be helping you get started on some of the problems in this 
 [![](walkthrough.jpg)](https://video.cs50.io/dZmtRHHUB1M)
 </div>
 
-[Open in CS50 video player](https://video.cs50.io/dZmtRHHUB1M)
+[Open the problem walkthrough in the CS50 video player](https://video.cs50.io/dZmtRHHUB1M)
 
 
-### Hints
+## Hints
 
 *   If you want to repeatedly re-prompt the user for the value of a variable until some condition is met, you might want to use a `do ... while` loop. For example, recall the following code from lecture, which prompts the user repeatedly until they enter a positive integer.
 
@@ -116,7 +116,7 @@ Years: 115
 [![](solving.jpg)](https://video.cs50.io/2CcqQnLbGOE)
 </div>
 
-[Open in CS50 video player](https://video.cs50.io/2CcqQnLbGOE)
+[Open the solution walkthrough in the CS50 video player](https://video.cs50.io/2CcqQnLbGOE)
 </details>
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
@@ -139,7 +139,5 @@ As soon as you're done, submit your `population.c` implementation, below!
 3. Type the names of students that you've worked with on this problem: <input type="text" required>
 
 4. In the form below, choose the file that you just downloaded.
-
-5. Press "Submit for grading". Presto!
 
 Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.

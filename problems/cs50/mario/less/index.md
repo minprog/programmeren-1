@@ -218,7 +218,7 @@ A space is just a press of your space bar, just as a period is just a press of i
 
 As soon as you're done, submit your `mario.c` implementation, below! 
 
-1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `mario.c` file (that's within your `module0` directory) and then select **Download**. You should find that your browser has downloaded `mario.c`.
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `mario.c` file (that's within your `problems` directory) and then select **Download**. You should find that your browser has downloaded `mario.c`.
 
 2. Also download `pseudocode.txt`.
 

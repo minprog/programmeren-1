@@ -1,6 +1,6 @@
-# Lab: Scrabble
+# Scrabble
 
-> You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in.
 
 Determine which of two Scrabble words is worth more.
 
@@ -23,9 +23,9 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ## Getting Started
 
-*   Copy the "distribution code" (i.e., starter code) from [cdn.cs50.net/2020/fall/labs/2/scrabble.c](https://cdn.cs50.net/2020/fall/labs/2/scrabble.c) into a new file in your IDE called `scrabble.c`.
+Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c](https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c) into a new file in your IDE called `scrabble.c`.
 
-    *   You can also download the distribution code by running the command `wget https://cdn.cs50.net/2020/fall/labs/2/scrabble.c` in CS50 IDE.
+You can also download the distribution code by running the command `wget https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c` in CS50 IDE.
 
 
 ## Implementation Details
@@ -51,7 +51,11 @@ Complete the implementation of `scrabble.c`, such that it determines the winner 
 
 ### Walkthrough
 
-![Open in CS50 Video Player](https://video.cs50.io/RtjxxxlN1gc)
+<div markdown="1" class="extend">
+[![](walkthrough.jpg)](https://video.cs50.io/RtjxxxlN1gc)
+</div>
+
+[Open the problem walkthrough in the CS50 video player](https://video.cs50.io/RtjxxxlN1gc)
 
 
 ### Hints
@@ -87,18 +91,34 @@ Your program should behave per the examples below.
     Player 2: wiNNeR
     Player 1 wins!
 
-Not sure how to solve?
+<details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
-![Open in CS50 Video Player](https://video.cs50.io/USiLkXuXJEg)
+<div markdown="1" class="extend">
+[![](solving.jpg)](https://video.cs50.io/USiLkXuXJEg)
+</div>
+
+[Open the solution walkthrough in the CS50 video player](https://video.cs50.io/USiLkXuXJEg)
+</details>
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 cs50/labs/2021/x/scrabble
+    check50 -l minprog/cs50x/2020/scrabble
 
 Execute the below to evaluate the style of your code using `style50`.
 
     style50 scrabble.c
 
 
-## How to Submit
+## How to submit
 
+As soon as you're done, submit your `scrabble.c` implementation, below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `scrabble.c` file (that's within your `problems/scrabble` directory) and then select **Download**. You should find that your browser has downloaded `scrabble.c`.
+
+2. Make sure you are signed in to **this** website!
+
+3. Type the names of students that you've worked with on this problem: <input type="text" required>
+
+4. In the form below, choose the file that you just downloaded.
+
+Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.
