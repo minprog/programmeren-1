@@ -103,13 +103,13 @@ Execute the below to evaluate the style of your code using `style50`.
 
 As soon as you're done, submit your `cash.c` implementation, below! 
 
-1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `cash.c` file (that's within your `problems` directory) and then select **Download**. You should find that your browser has downloaded `cash.c`.
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `cash.c` file (that's within your `~/problems/cash` directory) and then select **Download**. You should find that your browser has downloaded `cash.c`.
 
 2. Also download `pseudocode.txt`.
 
 3. Make sure you are signed in to **this** website!
 
-4. In the form below, choose the file that you just downloaded.
+4. In the form below, choose the files that you just downloaded.
 
 5. Press "Submit for grading". Presto!
 
