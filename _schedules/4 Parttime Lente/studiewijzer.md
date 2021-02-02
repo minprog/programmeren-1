@@ -9,35 +9,33 @@ De coördinator van dit vak is Floor van de Leur en de examinator is Martijn Ste
 
 ## Verwachtingen
 
-Bij dit vak wordt van je verwacht dat je:
+Bij dit vak werk je aan verschillende soorten opdrachten:
 
-1. alle samenwerkopdrachten doet, met een partner
-2. alle individuele opdrachten helemaal correct werkend maakt, met onze hulp
-3. alle [oefenopdrachten](#basisboek) uit het basisboek doet
+- **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
+- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+- **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
+- **Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
-Bovendien is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Zodra je alle opdrachten en toetsjes af hebt kun je het vak halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
-4. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
-6. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of mondeling
-7. laag scoren op de ["plagiaatschaal"](#plagiaat)
-{: start="4"}
+1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
+2. bijwonen van alle [checkups](#checkups) met je team
+3. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
+4. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen.
 
 
 ## Eindcijfer
 
-Bij deze cursus wordt je cijfer grotendeels bepaald door de uitwerkingen van programmeeropdrachten:
+Als je alle opdrachten hebt gedaan dan wordt je cijfer als volgt bepaald:
 
-| onderdeel              | beoordeling                        | weging |  
-| ---------------------- | ---------------------------------- | ------ |
-| Oefenopdrachten        | punten aftekenen                   | 0%     |  
-| Samenwerkopdrachten    | punten aftekenen                   | 25%    |  
-| Individuele opdrachten | cijfer voor inhoudelijke kwaliteit | 75%    |  
+- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. Deze punten heb je al binnen zodra alles af is.
+- 75% is op basis van de beoordeling van de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
 
-Voordat je een eindcijfer kunt krijgen moet je aan alle bovengenoemde verwachtingen hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
+Voordat je een eindcijfer kunt krijgen moet je aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
 
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen. Echt meedoen dus!
 
 
 ## Team en mentor
@@ -70,15 +68,16 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 - hulp via een videogesprek waar je je scherm kunt delen
 - je weet niet waar te beginnen of een onvindbare bug
-- moeite met verzinnen oplossing (met partner)
+- moeite met verzinnen oplossing
 - dagelijks 13-17 uur, wachttijd kan oplopen
+- bereikbaar via [Wonder](https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6)
 
 **Helpdesk:** direct contact met een assistent, voor technische problemen.
 
 - problemen met je computer
 - problemen met de werking van je online IDE
 - hele nare bugs
-- aanmelden via [Bookings](...)
+- aanmelden via [Bookings](https://outlook.office365.com/owa/calendar/Programmeerbalie@Amsuni.onmicrosoft.com/bookings/s/eZ-DCn7rb0aul2G7UyseaA2)
 
 **Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
 
@@ -100,9 +99,13 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken. Voor de hele cursus is er een dagschema dat het gewenste tempo aangeeft. Dit schema is zo goed mogelijk afgestemd op onze ervaring met de opdrachten.
+Het idee is dat je voor alle opdrachten een compleet werkende oplossing maakt. We checken dat met de tool `check50`, die je zelf ook kunt gebruiken.
 
-Ga je achterlopen, dan neem je contact op met je mentor. Je sluit dan aan bij een dagelijkse extra werkgroep, waar de opdrachten rustig doorgenomen worden en je makkelijker hulp kunt krijgen.
+Je krijgt een planning waarin per dag staat aan welke opdrachten je gaat werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. Als parttime-student heb je natuurlijk ook een ander vak om aan te werken, dus het is geen probleem als je de planning iets aanpast. Het gaat erom dat je steeds weer "bij" bent.
+
+Ga je achterlopen, dan neem je contact op met je mentor.
+
+
 
 De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadlines voor elke opdracht: bij de eerste moet de oplossing goed werken (`check50`), en bij de tweede lever je een "verbeterde versie" in. Dat is dan de versie waarvoor je een cijfer krijgt en waarover je feedback krijgt van je mentor.
 
@@ -119,23 +122,22 @@ De individuele opdrachten worden beoordeeld voor een cijfer. Er zijn twee deadli
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
-In het geval van planningsproblemen of een dag ziek zijn kun je in overleg met je mentor de deadline één of twee dagen opschuiven. Je opdracht wordt dan gewoon nagekeken. Breng altijd direct je mentor op de hoogte en vraag om advies over het halen van verdere deadlines. Systematisch achterlopen is niet mogelijk.
+Als je ziek bent dan meld je het in ieder geval zo snel mogelijk even aan je mentor. Ben je één of twee dagen ziek dan ga je met hulp van een assistent of docent in de **versneller** een plan maken om bij te komen. Let op dat systematisch achterlopen niet mogelijk is.
 
-Voor module 0 is geen uitstel mogelijk. Je moet op tijd gestart zijn met het vak om mee te mogen doen.
+Heb je een medisch noodgeval en ben je hierdoor langer uit de running? Dan moeten we gezamenlijk kijken hoe we het kunnen oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we wat mogelijk is.
 
-Nog later ingeleverd werk kan normaliter niet geaccepteerd worden, behalve in medische noodgevallen. Dat betekent dat je het vak niet kunt halen als je het tempo echt niet bijhoudt. Denk je dat dat gaat gebeuren, vraag dan meteen advies aan de docenten via <help@mprog.nl>. Vaak zijn er nog wel oplossingen te verzinnen.
+Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen hebt of niet genoeg focus kan vinden? Bespreek het dan gewoon eens met een docent of je studieadviseur. Stuur gerust een mailtje!
 </details>
 
 <details markdown="1"><summary markdown="span">Wat als ik al klaar ben?</summary>
 
-Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je af en toe via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
+Als je toch al vrij veel ervaring hebt of het programmeren ligt je gewoon heel lekker, dan is het de bedoeling dat je in de resterende tijd via Ed andere studenten helpt met hun vragen. Ook kun je afspreken met studenten uit je team als zij hulp nodig hebben. Let daarbij wel goed op de regels voor [samenwerken](#samenwerken). Andere studenten helpen is één van de [verwachtingen](#verwachtingen) voor het halen van dit vak, dus neem de taak serieus.
 </details>
 
 
 ## Opdrachtcijfers
 
-De individuele opdrachten 1 t/m 4 kunnen elk 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald.
-De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De schaal is als volgt:
+De individuele opdrachten 1 t/m 4 kunnen elk maximaal 6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. Deze aspecten gaan over *codekwaliteit*, waarover je in de eerste weken meer leert. De schaal is als volgt:
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
@@ -144,6 +146,10 @@ De aspecten gaan over *codekwaliteit*, waarover je in module 1 meer leert. De sc
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
+
+Het is niet zo makkelijk om de volle 6 punten te scoren. Studenten met programmeerervaring denken soms dat ze hoog zullen scoren omdat ze de regeltjes wel kennen. Maar voor de volle punten zul je ook echt zelf research moeten doen naar codekwaliteit en hoe je een systeem kunt samenstellen om écht geweldige code te schrijven.
+
+Het totaal van 24 punten staat voor 75% van je eindcijfer.
 
 
 ### Extra opdrachten
@@ -159,7 +165,7 @@ Het is niet mogelijk om via video-assistentie hulp te krijgen voor de extra opdr
 
 ### Hoorcolleges
 
-In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. <!-- Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen. -->
+In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen.
 
 ### Werkgroepen
 
@@ -272,9 +278,9 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
 <details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 
-  - Alle modules, ook die voldoende waren, moeten opnieuw worden ingeleverd.
+  - Alle individuele opdrachten, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
-  - Alle programma's moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
+  - Deze individuele opdrachten moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
 
   - Het maximumcijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
 </details>
@@ -294,13 +300,11 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
 <details markdown="1"><summary markdown="span">Ik heb niet aan de verwachtingen van het vak voldaan en wil herkansen</summary>
 
-  - Hier gaat het bijvoorbeeld om het niet meedoen met werkgroepen.
+  - Hier gaat het bijvoorbeeld om het niet meedoen met werkgroepen of op een andere manier geen contact onderhouden.
 
   - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
   - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
+
+  - Alle opdrachten en toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
 </details>
-
-<!-- - Alle toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd. -->
-
-

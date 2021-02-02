@@ -9,7 +9,7 @@ De coördinator van dit vak is Jelle van Assema en de examinator is Martijn Steg
 
 ## Verwachtingen
 
-Bij dit vak werk je aan verschillende soorten opdrachten.
+Bij dit vak werk je aan verschillende soorten opdrachten:
 
 - **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
 - **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
@@ -28,7 +28,7 @@ Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voo
 
 ## Planning
 
-We hebben een planning waarin per dag staat aan welke opdrachten je moet werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. We houden de voortgang van de groep nauwkeurig in de gaten en passen de planning aan waar nodig.
+We hebben een planning waarin per dag staat aan welke opdrachten je gaat werken. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. We houden de voortgang van de groep nauwkeurig in de gaten en passen de planning aan waar nodig.
 
 Ook per student houden we de voortgang goed bij. Loop je achter? Dan doe je standaard de volgende ochtend mee met de versnellersessie.
 
@@ -44,7 +44,7 @@ Elke maandag t/m vrijdag kun je de volgende activiteiten verwachten:
 
 Als je alle opdrachten hebt gedaan dan wordt je cijfer als volgt bepaald:
 
-- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. Deze punten zou je dus al binnen moeten hebben.
+- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. Deze punten heb je al binnen zodra alles af is.
 - 75% is op basis van de beoordeling van de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
 
 Voordat je een eindcijfer kunt krijgen moet je aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
@@ -176,7 +176,7 @@ In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programm
 
 ### Werkgroepen
 
-Werkgroepen zijn bijeenkomsten van zo'n 60-90 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
+Werkgroepen zijn bijeenkomsten van zo'n 60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist (laat weten als je omgeving niet geschikt is om te kunnen videobellen, dan kijken we of we een alternatieve werkplek kunnen vinden).
 
 ### Basisboek
 
