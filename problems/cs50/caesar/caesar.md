@@ -79,7 +79,7 @@ substituting a valid integer in place of `key`, within [this sandbox](http://bit
 </details>
 
 
-## [Specification](#specification)
+## Specification
 
 Design and implement a program, `caesar`, that encrypts messages using Caesar's cipher.
 
@@ -234,7 +234,7 @@ Now it's time to tie everything together! Instead of shifting the characters by 
 [![](walkthrough.jpg)](https://video.cs50.io/V2uusmv2wxI)
 </div>
 
-[Open the solution walkthrough in the CS50 video player](https://video.cs50.io/V2uusmv2wxI)
+[Open the problem walkthrough in the CS50 video player](https://video.cs50.io/V2uusmv2wxI)
 
 
 ## How to test your code
