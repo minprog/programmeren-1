@@ -1,7 +1,7 @@
 name: find_less
 files:
     required:
-        - analysis.pdf
+        - pseudocode.txt
         - helpers.c
 check:
     tool: check50
