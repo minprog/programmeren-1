@@ -117,7 +117,7 @@ Voor de meeste individuele opdrachten krijg je een beoordeling in punten. Je gaa
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
 | module |onderdeel              | deadline            |
-| -----: |---------------------- | ------------------: |
+| ------ |---------------------- | ------------------: |
 |      1 | Mario en Cash         | di 16 feb  17:59    |
 |      2 | Readability en Caesar | di 23 feb  17:59    |
 |      3 | Find                  | di  2 mrt  17:59    |
@@ -171,7 +171,7 @@ Er zijn vier "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten d
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
 | module | extra opdracht | deadline            |
-| -----: |--------------- | ------------------: |
+| ------ |--------------- | ------------------: |
 |      1 | Credit         | di 16 feb  17:59    |
 |      2 | Crack          | di 23 feb  17:59    |
 |      3 | Fifteen        | di  2 mrt  17:59    |
