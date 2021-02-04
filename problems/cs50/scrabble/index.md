@@ -117,7 +117,7 @@ As soon as you're done, submit your `scrabble.c` implementation, below!
 
 2. Make sure you are signed in to **this** website!
 
-3. Type the names of students that you've worked with on this problem: <input type="text" required>
+3. Type the names of students that you've worked with on this problem: <input name="form[samengewerkt]" type="text" required>
 
 4. In the form below, choose the file that you just downloaded.
 

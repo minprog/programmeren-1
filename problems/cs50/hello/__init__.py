@@ -13,8 +13,8 @@ def compiles():
 
 @check50.check(compiles)
 def veronica():
-    """responds to name Zamyla."""
-    check50.run("./hello").stdin("Zamyla").stdout("Zamyla").exit()
+    """responds to name Brian."""
+    check50.run("./hello").stdin("Brian").stdout("Brian").exit()
 
 @check50.check(compiles)
 def brian():
