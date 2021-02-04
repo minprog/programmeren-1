@@ -16,7 +16,7 @@ Bij dit vak werk je aan verschillende soorten opdrachten:
 - **Individuele opdrachten** bouwen op die ervaring. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
 - **Oefeningen** uit het [basisboek](#basisboek) trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
-Alle opdrachten en toetsjes netjes werkend inleveren is de basis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Alle opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen) en code reviews
 2. meerdere keren per week vragen stellen of beantwoorden op [Ed](#vragen-stellen) of per video
@@ -34,7 +34,7 @@ Je cijfer voor het vak wordt als volgt bepaald:
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
 
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen. Echt meedoen dus!
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
 
 ## Team en mentor
@@ -107,12 +107,11 @@ Voor de meeste individuele opdrachten krijg je een beoordeling in punten. Je gaa
 Dit zijn de uiterste deadlines voor de verbeterde versies:
 
 | module |onderdeel              | deadline           |  
-| -----: |---------------------- | ------------------ |
-| 1      | Mario en Cash         | di 23 feb  20:59   |  
-| 2      | Readability en Caesar | di  9 mrt  20:59   |  
-| 3      | Find                  | di 16 mrt  20:59   |  
-| 4      | Whodunit en Anonymize | di 23 mrt  20:59   |  
-
+| -----: |---------------------- | -----------------: |
+|      1 | Mario en Cash         | di 23 feb  20:59   |  
+|      2 | Readability en Caesar | di  9 mrt  20:59   |  
+|      3 | Find                  | di 16 mrt  20:59   |  
+|      4 | Whodunit en Anonymize | di 23 mrt  20:59   |  
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben?</summary>
@@ -146,7 +145,9 @@ De modules 1 t/m 4 kunnen elk maximaal 6 punten opleveren. Voor elke module zijn
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
 
-Het is niet zo makkelijk om de volle 6 punten te scoren. Studenten met programmeerervaring denken soms dat ze hoog zullen scoren omdat ze de regeltjes wel kennen. Maar voor de volle punten zul je ook echt zelf research moeten doen naar hoe je goede code kunt schrijven ("codekwaliteit"). Op internet is veel geschreven over dit onderwerp. Als het maar in lijn is met de principes die we in de cursus aanhouden.
+Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we aangeven, doe je actief mee aan de code review, en loop je kritisch elke regel code na met de aspecten en voorschriften in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
+
+Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
 
 Het totaal van 24 punten staat voor 75% van je eindcijfer.
 
@@ -155,7 +156,14 @@ Het totaal van 24 punten staat voor 75% van je eindcijfer.
 
 Er zijn vier "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
-Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Je krijgt 1 punt extra voor een module als je vóór de deadline de extra opdracht hebt ingeleverd.
+Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
+
+| module | extra opdracht | deadline           |
+| -----: |--------------- | -----------------: |
+|      1 | Credit         | di 23 feb  20:59   |
+|      2 | Crack          | di  9 mrt  20:59   |
+|      3 | Fifteen        | di 16 mrt  20:59   |
+|      4 | Resize         | di 23 mrt  20:59   |
 
 Het is niet mogelijk om via video-assistentie hulp te krijgen voor de extra opdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
@@ -197,11 +205,9 @@ ISBN 9780321776419
 
 ## Samenwerken
 
-De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, tenzij anders aangegeven in een opdracht.
+De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, tenzij anders aangegeven bij de samenwerkopdrachten.
 
-Natuurlijk is het nuttig om **interactie** te hebben met je medestudenten en kan dit helpen bij het beheersen van de stof. Nog sterker, we stimuleren dit door je te vragen samen een ontwerp te maken van je programma's vóórdat je ze zelfstandig implementeert. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
-
-Je mag niet samenwerken aan de **implementatie** van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
+Je mag niet samenwerken aan de **implementatie** van oplossingen voor de individuele opdrachten. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus ook niks voorzeggen.
 
 Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van de coördinator. Als je onredelijk handelt dan kan dit leiden tot een melding bij de examencommissie.
 
