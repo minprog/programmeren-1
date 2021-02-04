@@ -1,10 +1,10 @@
 # Lecture: Computational thinking
 
 <div markdown="1" class="extend">
-[![](thumbnail.jpg)](https://video.cs50.io/zYierUhIFNQ?screen=VmZ-cWfb2QM)
+[![](thumbnail.jpg)](https://video.cs50.io/zYierUhIFNQ?screen=YoXxevp1WRQ)
 </div>
 
-[Open in CS50 video player](https://video.cs50.io/YoXxevp1WRQ?screen=mu28ADhzRQE)
+[Open in CS50 video player](https://video.cs50.io/YoXxevp1WRQ?screen=YoXxevp1WRQ)
 
 ## Welcome
 
