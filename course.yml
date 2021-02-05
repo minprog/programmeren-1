@@ -5,7 +5,7 @@ language: nl
 links:
     '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
     '[terminal] IDE': https://ide.cs50.io/
-    '[chat-text] Ed': https://us.edstem.org/courses/2328
+    '[chat-text] Ed': https://edstem.org/us/courses/4552/
     '[book] Manual': https://man.cs50.io/
 
 acknowledgements:
