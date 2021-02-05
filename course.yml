@@ -3,7 +3,7 @@ short_name: Prog1
 language: nl
 
 links:
-    '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
+    # '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
     '[terminal] IDE': https://ide.cs50.io/
     '[chat-text] Ed': https://us.edstem.org/courses/2328
     '[book] Manual': https://man.cs50.io/
