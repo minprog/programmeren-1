@@ -76,24 +76,24 @@ grades:
     # water: *fullyauto
     # greedy: *fullyauto
     # mario_less: *fullyauto
-    # credit: *fullyauto
+    credit: *fullyauto
     # retrospective-c: *check_off
     #
     # initials_less: *fullyauto
     # caesar: *fullyauto
     # vigenere: *fullyauto
-    # crack: *fullyauto
+    crack: *fullyauto
     # retrospective-crypto: *check_off
     #
     # find_less: *fullyauto
     # fifteen_less: *fullyauto
-    # fifteen_more: *fullyauto
+    fifteen_more: *fullyauto
     # retrospective-fifteen: *check_off
     #
     # whodunit: *check_off
     # filter_less: *fullyauto
     # recover: *fullyauto
-    # resize_more: *fullyauto
+    resize_more: *fullyauto
     # retrospective-graphics: *check_off
     #
     c: *manual
@@ -239,14 +239,22 @@ samen:
 individueel:
     show_progress: true
     submits:
-        scratch: 0
-        hello: 0
+        scratch: 1
+        hello: 1
         mario_less: 1
         cash: 1
         readability: 1
         caesar: 1
         find: 1
         anonymize: 1
+
+extra:
+    show_progress: true
+    submits:
+        credit: 1
+        crack: 1
+        fifteen_more: 1
+        resize_more: 1
 
 mods:
     show_progress: true
