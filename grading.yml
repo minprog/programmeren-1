@@ -68,39 +68,62 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    scratch: *fullyauto
-    hardware: *check_off
-
-    hello: *fullyauto
-    water: *fullyauto
-    greedy: *fullyauto
-    mario_less: *fullyauto
-    credit: *fullyauto
-    retrospective-c: *check_off
-
-    initials_less: *fullyauto
-    caesar: *fullyauto
-    vigenere: *fullyauto
-    crack: *fullyauto
-    retrospective-crypto: *check_off
-
-    find_less: *fullyauto
-    fifteen_less: *fullyauto
-    fifteen_more: *fullyauto
-    retrospective-fifteen: *check_off
-
-    whodunit: *check_off
-    filter_less: *fullyauto
-    recover: *fullyauto
-    resize_more: *fullyauto
-    retrospective-graphics: *check_off
-
+    # scratch: *fullyauto
+    # hardware: *check_off
+    #
+    # hello: *fullyauto
+    # water: *fullyauto
+    # greedy: *fullyauto
+    # mario_less: *fullyauto
+    # credit: *fullyauto
+    # retrospective-c: *check_off
+    #
+    # initials_less: *fullyauto
+    # caesar: *fullyauto
+    # vigenere: *fullyauto
+    # crack: *fullyauto
+    # retrospective-crypto: *check_off
+    #
+    # find_less: *fullyauto
+    # fifteen_less: *fullyauto
+    # fifteen_more: *fullyauto
+    # retrospective-fifteen: *check_off
+    #
+    # whodunit: *check_off
+    # filter_less: *fullyauto
+    # recover: *fullyauto
+    # resize_more: *fullyauto
+    # retrospective-graphics: *check_off
+    #
     c: *manual
     crypto: *manual
     fifteen: *manual
     graphics: *manual
+    #
+    # engagement: *check_off
+    
+    basics-variables: *check_off
+    basics-control-flow: *check_off
+    basics-arrays: *check_off
+    basics-functions: *check_off
 
-    engagement: *check_off
+    population: *fullyauto
+    strings: *fullyauto
+    scrabble: *fullyauto
+    linear-search: *fullyauto
+    sort: *fullyauto
+    big-o: *fullyauto
+    hardware: *fullyauto
+    whodunit: *fullyauto
+    functions: *fullyauto
+
+    scratch: *check_off
+    mario_less: *fullyauto
+    cash: *fullyauto
+    readability: *fullyauto
+    caesar: *fullyauto
+    find: *fullyauto
+    anonymize: *fullyauto
 
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
