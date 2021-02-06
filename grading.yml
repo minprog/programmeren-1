@@ -72,7 +72,7 @@ grades:
     # scratch: *fullyauto
     # hardware: *check_off
     #
-    # hello: *fullyauto
+    hello: *fullyauto
     # water: *fullyauto
     # greedy: *fullyauto
     # mario_less: *fullyauto
