@@ -102,7 +102,7 @@ grades:
     graphics: *manual
     #
     # engagement: *check_off
-    
+
     basics-variables: *check_off
     basics-control-flow: *check_off
     basics-arrays: *check_off
