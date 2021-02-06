@@ -116,7 +116,7 @@ Voor de meeste individuele opdrachten krijg je een beoordeling in punten. Je gaa
 
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
-| module |onderdeel              | deadline            |
+| module | opdrachten            | deadline            |
 | ------ |---------------------- | ------------------: |
 |      1 | Mario en Cash         | di 16 feb  17:59    |
 |      2 | Readability en Caesar | di 23 feb  17:59    |

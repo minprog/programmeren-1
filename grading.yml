@@ -240,6 +240,7 @@ individueel:
     show_progress: true
     submits:
         scratch: 0
+        hello: 0
         mario_less: 1
         cash: 1
         readability: 1
