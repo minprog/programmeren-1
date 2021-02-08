@@ -62,6 +62,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - technische vragen over programmeren en bugs
 - vragen over de oefeningen in het basisboek
 - medestudenten en assistenten denken mee
+- bereikbaar via deze [Join Link](https://edstem.org/us/join/HN3TkV)
 
 **Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
