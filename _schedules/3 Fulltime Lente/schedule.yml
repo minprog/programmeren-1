@@ -5,9 +5,9 @@ Week 1:
         'Videocollege: Computational Thinking': /lectures/computational-thinking
         Scratch [individueel]: /problems/cs50/scratch
     Dinsdag:
-        'Boek: Variabelen [boek]': /exercises/book/variables
         'Videocollege: C': /lectures/c
         'Hello': /problems/cs50/hello
+        'Boek: Variabelen [boek]': /exercises/book/variables
     Woensdag:
         Population [samen]: /problems/cs50/population
         Mario [individueel, cijfer]: /problems/cs50/mario/less
