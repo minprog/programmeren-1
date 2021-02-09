@@ -11,7 +11,7 @@ templates:
         automatic:
             # correctness: (correctness_score * 100).floor
             done: -(correctness_score.floor)
-        calculation: -(done/100)
+        calculation: done
         auto_publish: true
         # hide_subgrades: true
         hide_calculated: true
