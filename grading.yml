@@ -11,8 +11,8 @@ templates:
             correctness: (correctness_score * 100).floor
         calculation: -(correctness/100)
         auto_publish: true
-        # hide_subgrades: true
-        hide_calculated: true
+        hide_subgrades: true
+        # hide_calculated: true
     3: &manual
         type: float
         subgrades:
