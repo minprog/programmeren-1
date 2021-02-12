@@ -7,5 +7,6 @@ files:
     - eek.c
     - palindrome.c
   optional:
+    - bob.c
     - taboo.c
     - bob.c
