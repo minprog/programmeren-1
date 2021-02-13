@@ -3,6 +3,7 @@ short_name: Prog1
 language: nl
 
 links:
+    '[vector-pen] Reviews': /reviews
     '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
     '[terminal] IDE': https://ide.cs50.io/
     '[chat-text] Ed': https://edstem.org/us/courses/4552/
