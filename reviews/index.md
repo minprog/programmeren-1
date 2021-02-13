@@ -4,13 +4,13 @@ Het doel van de code reviews en retrospectives is om te leren over **codekwalite
 
 ## Code reviews
 
-Je gaat code reviews doen met wisselende teamgenoten. De reviews vinden plaats tijdens de werkgroepen, zodat je mentor kan meekijken en meedenken. Je mentor wijst de reviewpartners aan.
+Je gaat code reviews doen met wisselende teamgenoten. De reviews vinden plaats tijdens de werkgroepen, zodat je mentor kan meekijken en meedenken, en je mentor wijst de reviewpartners aan.
 
 Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te maken op basis van de gekregen feedback. Dan lever je de uitwerkingen nog één keer in, zodat ze kunnen worden nagekeken door je mentor.
 
 Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules.
 
-- [Code review: C](/modules/c/review)
+- Code review: C (nog niet actief)
 
 
 
