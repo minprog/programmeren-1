@@ -17,12 +17,10 @@ Create a new directory and step into it.
 Download the required files for this assignment.
 
 
-    wget https://cs50x.mprog.nl/course/sections/05%20BS%20Tree/binary-tree.zip
+    wget https://github.com/minprog/exercises/raw/main/writing/search-tree/binary-tree.zip
     unzip binary-tree.zip
     rm binary-tree.zip
     cd binary-tree
-    ls
-    binary-tree.c
 
 ### Compiling and running
 

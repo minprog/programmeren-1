@@ -15,8 +15,8 @@ In elk algoritme zul je loops tegenkomen, bijvoorbeeld om herhaaldelijk iets te 
 
 **Voorbereiding**
 
-- Bestudeer de `do`--`while`-loop die je in [Mario](https://prog1.mprog.nl/problems/mario-less#specification) nodig had om te zorgen dat de gebruikersinvoer tussen 0 en 23 bleef.
-- Bestudeer hoe je een [blok](https://prog1.mprog.nl/problems/mario-less#block) en een [piramide](https://prog1.mprog.nl/problems/mario-less) heb gemaakt door `for`-loops te combineren.
+- Bestudeer de `do`--`while`-loop die je in **Mario** nodig had om te zorgen dat de gebruikersinvoer tussen 0 en 23 bleef.
+- Bestudeer hoe je een blok en een piramide hebt gemaakt door `for`-loops te combineren.
 
 **Oefeningen**
 
@@ -36,8 +36,8 @@ Loops kun je ook gebruiken om een hele string door te lopen en te verwerken. Hie
 
 **Voorbereiding**
 
-* Bestudeer goed het doorlopen en selectief printen van strings zoals in [Initials](https://prog1.mprog.nl/problems/initials-less).
-* Bestudeer het manipuleren van ascii-waardes zoals in [Caesar](https://prog1.mprog.nl/problems/caesar).
+* Bestudeer goed het doorlopen en selectief printen van strings zoals in **Initials**.
+* Bestudeer het manipuleren van ascii-waardes zoals in **Caesar**.
 
 **Oefeningen**
 

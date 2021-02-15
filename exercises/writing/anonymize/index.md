@@ -17,12 +17,12 @@ Your goal is to debug a program using valgrind. The program compiles and runs as
 
 First create a new directory and `cd` into it:
 
-    mkdir ~/workspace/section4
-    cd ~/workspace/section4
+    mkdir ~/exercises/numbers
+    cd ~/exercises/numbers
 
 Then, download the files for this problem:
 
-    wget https://cs50x.mprog.nl/course/sections/04%20Anonymize/numbers.zip
+    wget https://github.com/minprog/exercises/raw/main/writing/anonymize/numbers.zip
     unzip numbers.zip
     rm numbers.zip
     cd numbers
@@ -40,18 +40,20 @@ Use the [valgrind quick start guide](http://valgrind.org/docs/manual/quick-start
 
 ## Anonymize {#anonymize}
 
-Your goal is to modify an image. You'll take the image of a suspicious individual and cover their eyes with a black bar.
+Your goal is to modify an image. You'll take the image of some individual and cover their eyes with a black bar.
+
+
 
 ### Getting started
 
 First create a new directory and `cd` into it:
 
-    mkdir ~/workspace/section4
-    cd ~/workspace/section4
+    mkdir ~/exercises/anonymize
+    cd ~/exercises/anonymize
 
 ### Downloading
 
-    wget https://cs50x.mprog.nl/course/sections/04%20Anonymize/anonymize.zip
+    wget https://github.com/minprog/exercises/raw/main/writing/anonymize/anonymize.zip
     unzip anonymize.zip
     rm anonymize.zip
     cd anonymize

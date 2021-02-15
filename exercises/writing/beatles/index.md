@@ -4,7 +4,7 @@
 
     mkdir -p ~/workspace/practice/beatles
     cd ~/workspace/practice/beatles/
-    wget https://cs50x.mprog.nl/course/practice/40%20beatles/beatles.zip
+    wget https://github.com/minprog/exercises/raw/main/writing/beatles/beatles.zip
     unzip beatles.zip
     rm beatles.zip
 
