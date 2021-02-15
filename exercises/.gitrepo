@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/minprog/exercises.git
 	branch = main
-	commit = 4ad666caa95db8dfbf660e7b82fd3660492a4bc2
-	parent = 1fe7e149a2edb83769b3d93c115ee83b9985cd4c
+	commit = 5bed78566e47457985084a3bbbb64c1b9a664174
+	parent = d83b0ec0fde3c38a7eb7e6e885950884ad0e0f62
 	method = merge
-	cmdver = 0.4.1
+	cmdver = 0.4.3

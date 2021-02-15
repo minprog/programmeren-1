@@ -77,7 +77,7 @@ Write a program that takes a string from the user and tells you how many e's tha
 - Bonus: I always dislike it when a computer program says something ungrammatical like `The text` `"``one``"` `contains 1 e``'``s.`. Make sure it handles the singular case correctly by saying `The text` `"``one``"` `contains 1 e.`, instead.
 
 
-## emordnilaPalindrome {#palindrome}
+## emordnilaPalindrome (extra)
 
 Write a program that takes a string from the user and determines if it is a palindrome (a word that is the same spelled backwards).
 
@@ -146,7 +146,7 @@ As soon as you're done, submit your implementations below!
 
 2. Make sure you are signed in to **this** website!
 
-3. Type the names of students that you've worked with on this problem: <input type="text" required>
+3. Type the names of students that you've worked with on this problem: <input name="form[samen]" type="text" required>
 
 4. In the form below, choose the files that you just downloaded.
 
