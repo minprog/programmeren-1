@@ -3,13 +3,13 @@ import check50.c
 
 @check50.check()
 def exists():
-    """mario.c exists."""
+    """mario.c exists"""
     check50.exists("mario.c")
-    check50.include("1.txt", "2.txt", "23.txt")
+    check50.include("1.txt", "2.txt", "8.txt")
 
 @check50.check(exists)
 def compiles():
-    """mario.c compiles."""
+    """mario.c compiles"""
     check50.c.compile("mario.c", lcs50=True)
 
 @check50.check(compiles)
@@ -19,8 +19,8 @@ def test_reject_negative():
 
 @check50.check(compiles)
 def test0():
-    """handles a height of 0 correctly"""
-    check50.run("./mario").stdin("0").stdout(check50.EOF).exit(0)
+    """rejects a height of 0"""
+    check50.run("./mario").stdin("0").reject()
 
 @check50.check(compiles)
 def test1():
@@ -35,16 +35,16 @@ def test2():
     check_pyramid(out, open("2.txt").read())
 
 @check50.check(compiles)
-def test23():
-    """handles a height of 23 correctly"""
-    out = check50.run("./mario").stdin("23").stdout()
-    check_pyramid(out, open("23.txt").read())
+def test8():
+    """handles a height of 8 correctly"""
+    out = check50.run("./mario").stdin("8").stdout()
+    check_pyramid(out, open("8.txt").read())
 
 @check50.check(compiles)
-def test24():
-    """rejects a height of 24, and then accepts a height of 2"""
-    (check50.run("./mario").stdin("24").reject()
-            .stdin("2").stdout(open("2.txt")).exit(0))
+def test9():
+    """rejects a height of 9, and then accepts a height of 2"""
+    out = check50.run("./mario").stdin("9").reject().stdin("2").stdout()
+    check_pyramid(out, open("2.txt").read())
 
 @check50.check(compiles)
 def test_reject_foo():
@@ -56,20 +56,11 @@ def test_reject_empty():
     """rejects a non-numeric height of "" """
     check50.run("./mario").stdin("").reject()
 
-@check50.check(compiles)
-def test_reject_repeated():
-    """rejects any number of invalid inputs"""
-    check = check50.run("./mario")
-    for i in range(5):
-        for value in ["24", "foo", ""]:
-            check.stdin(value)
-    check.reject()
-
 def check_pyramid(output, correct):
     if output == correct:
         return
 
-    output = output.splitlines()
+    output = [line for line in output.splitlines() if line != ""]
     correct = correct.splitlines()
 
     help = None
