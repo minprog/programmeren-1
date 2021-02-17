@@ -167,3 +167,20 @@ When you implement `search`, think about the edge cases:
 - What happens if the haystack is empty?
 
 Make sure those cases are handled correctly!
+
+
+## How to submit
+
+As soon as you're done, submit your implementations below! 
+
+1. Toward CS50 IDE's top-left corner, within its "file browser" (not within a terminal window), control-click or right-click your `vertical.c` file (that's within your `~/exercises/strings` directory) and then select **Download**. You should find that your browser has downloaded `vertical.c`.
+
+2. Do the same for your other exercises.
+
+2. Make sure you are signed in to **this** website!
+
+3. Type the names of students that you've worked with on this problem: <input name="form[samen]" type="text" required>
+
+4. In the form below, choose the files that you just downloaded.
+
+5. Press "Submit for grading". Presto!
