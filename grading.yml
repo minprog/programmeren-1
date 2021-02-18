@@ -115,7 +115,7 @@ grades:
     scrabble: *fullyauto
     linear-search: *fullyauto
     sort: *fullyauto
-    big-o: *fullyauto
+    bigo: *fullyauto
     hardware: *fullyauto
     whodunit: *fullyauto
     functions: *fullyauto
@@ -233,7 +233,7 @@ samen:
         scrabble: 1
         linear-search: 1
         sort: 1
-        big-o: 1
+        bigo: 1
         hardware: 1
         whodunit: 1
         functions: 1
