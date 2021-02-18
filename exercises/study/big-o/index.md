@@ -264,6 +264,6 @@ For the following code fragment it is assumed that the input array `a` is alread
 
 Log into your CS50 IDE and upload your `answers.txt`. Then simply run:
 
-		check50 -l minprog/cs50x/2020/bigo
+	check50 -l minprog/cs50x/2020/bigo
 
 check50 will check the correctness of your answers. But be sure to fill in your explanations as well, which `check50` won't check here!
