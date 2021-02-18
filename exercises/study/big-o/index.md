@@ -11,6 +11,11 @@ And, this video discusses a number of sorting algorithms and their complexity:
 ![embed](https://www.youtube.com/embed/j_pXizwRKVw)
 
 
+## Getting Started
+
+First, download the answer template [here](https://github.com/minprog/cs50x/raw/2020/bigo/distro/answers.txt). The instructions for answering the questions live inside the template file, but be sure to pay special attention to the requested format of your answers. Once you're finished with the assignment, you can check your answers with check50. For instructions on how to do so, see the bottom of this page.
+
+
 ## Printing
 
 All the code fragments below have a variable `n`. Determine the worst-case running time (O(n)) complexity for these fragments. 
@@ -253,3 +258,12 @@ For the following code fragment it is assumed that the input array `a` is alread
 	    if(n <= 0) return 0;
 	    return (a[(n-1)/2] + a[n/2])/2;
 	}
+
+
+## How to Check Your Answers
+
+Log into your CS50 IDE and upload your `answers.txt`. Then simply run:
+
+		check50 -l minprog/cs50x/2020/bigo
+
+check50 will check the correctness of your answers. But be sure to fill in your explanations as well, which `check50` won't check here!
