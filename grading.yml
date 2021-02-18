@@ -109,9 +109,9 @@ grades:
     basics-control-flow: *check_off
     basics-arrays: *check_off
     basics-functions: *check_off
+    strings: *check_off
 
-    population: *fullyauto
-    strings: *fullyauto
+    population: *fullyauto    
     scrabble: *fullyauto
     linear-search: *fullyauto
     sort: *fullyauto
