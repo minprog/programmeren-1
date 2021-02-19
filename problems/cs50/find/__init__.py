@@ -5,6 +5,7 @@ import check50.c
 def exists():
     """helpers.c exists."""
     check50.exists("helpers.c")
+    check50.include("wrong.c")
 
 
 @check50.check(exists)
@@ -13,6 +14,7 @@ def compiles():
     check50.include("helpers.h", "find.c", "sort.c")
     check50.c.compile("sort.c", "helpers.c", exe_name="sort", lcs50=True)
     check50.c.compile("find.c", "helpers.c", exe_name="find", lcs50=True)
+    check50.c.compile("wrong.c", "helpers.c", exe_name="wrong", lcs50=True)
 
 
 @check50.check(compiles)
@@ -26,6 +28,12 @@ def sort_shuffled():
     """sorts {5,3,1,2,4,6}"""
     test_sorted([5, 3, 1, 2, 4, 6])
 
+
+@check50.check(compiles)
+def wrong_find():
+    """find() returns false for non-positive n"""
+    check50.run("./wrong").exit(0)
+    
 
 @check50.check(compiles)
 def first_among_three():
