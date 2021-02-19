@@ -113,7 +113,7 @@ grades:
 
     population: *fullyauto    
     scrabble: *fullyauto
-    linear-search: *fullyauto
+    linear: *check_off
     sort: *fullyauto
     bigo: *fullyauto
     hardware: *fullyauto
@@ -231,7 +231,7 @@ samen:
         population: 1
         strings: 1
         scrabble: 1
-        linear-search: 1
+        linear: 1
         sort: 1
         bigo: 1
         hardware: 1
