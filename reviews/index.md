@@ -11,6 +11,7 @@ Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te 
 Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules.
 
 - [Code review: C](/modules/c/review)
+- [Code review: Crypto](/modules/crypto/review)
 
 
 
