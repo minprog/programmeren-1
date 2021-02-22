@@ -1,0 +1,7 @@
+name: anonymize
+form: true
+files:
+  required:
+    - anonymize.c
+    - censor.c
+    - censor.h

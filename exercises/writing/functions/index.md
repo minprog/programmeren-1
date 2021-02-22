@@ -1,10 +1,6 @@
 # Functions
 
-## Goal
-
 Get some practice with writing functions. Before you start coding you might want to have look at this video:
-
-![embed](https://www.youtube.com/embed/n1glFqt3g38)
 
 ## Getting started
 
