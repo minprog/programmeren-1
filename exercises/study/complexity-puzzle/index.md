@@ -1,33 +1,30 @@
 # Complexity puzzle
 
-## Goal
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in **in eigen woorden**.
 
-Use your understanding of algorithmic complexity, to analyze code and figure out where to start optimizing.
+Use your understanding of algorithmic complexity to analyze code and figure out where to start optimizing.
 
 ## Though she be but little, she is fierce!
 
-Grand Maester Pycelle has noticed that the smaller people in Westoros are more likely to rise to power. Have you ever seen a Wun Wun the giant on a throne? Being quite the little data scientiest, he would like to have a better overview of the body height of all the people of importance in Westeros. Specifically he would like to know the deviation of the height from the average and median of the population of Westeros. So, Pycelle sat down in front of his computer and wrote a program to compute all of this.
+Grand Maester Pycelle has noticed that the smaller people in Westoros are more likely to rise to power. Have you ever seen a Wun Wun the giant on a throne? Being quite the little data scientist, he would like to have a better overview of the body height of all the people of importance in Westeros. Specifically he would like to know the deviation of the height from the average and median of the population of Westeros. So, Pycelle sat down in front of his computer and wrote a program to compute all of this. He entered some data that he could find, however he noticed that when he started adding data, his algorithm was getting unacceptably slow. Maybe you can help him figure out why?
 
-He entered some data that he could find, however he noticed that when he started adding data, his algorithm was getting unacceptably slow. Maybe you can help him figure out why.
-
-### Q3
+## Specification
 
 It is not your goal to optimice Pycelle's code, but to get a better understanding of why it is running slow. The code contains several functions `sort`, `median`, and `average`. The `main` function consists of three steps: 1) Compute the deviation from the average for all people of Westors, 2) compute the deviation from the median, and 3) print the results.
 
+1. Write down the worst-case running time (O(N)) for every part of the code:
 
-Write down the worst-case running time (O(N)) for every part of the code:
+    1. Sort: O(N) = ?
+    2. Average: O(N) = ?
+    3. median: O(N) = ?
+    4. Step 1 (compute the deviation from average for _all_ Westerosi): O(N) = ?
+    5. Step 2 (compute the deviation from median for _all_ Westerosi): O(N) = ?
+    6. Step 3 (print data): O(N) = ?
+    7. For the entire program: O(N) = ?
 
-1. Sort: O(N) = ?
-2. Average: O(N) = ?
-3. median: O(N) = ?
-4. Step 1 (compute the deviation from average for _all_ Westerosi): O(N) = ?
-5. Step 2 (compute the deviation from median for _all_ Westerosi): O(N) = ?
-6. Step 3 (print data): O(N) = ?
-7. For the entire program: O(N) = ?
+2. What part of the code should Pycelle focus on optimzing, if he wants to make the program more efficient? Clearly argue how your advice connects to the data.
 
-> What part of the code should Pycelle focus on optimzing, if he wants to make the program more efficient?
-
-#### Code
+### Code
 
 	#include <stdio.h>
 	#include <cs50.h>
@@ -108,7 +105,7 @@ Write down the worst-case running time (O(N)) for every part of the code:
 	    *b = tmp;
 	}
 
-#### Output
+### Output
 
 	     Westerosi | Height | d(avg) | d(median)
 	---------------+--------+--------+--------
@@ -132,6 +129,3 @@ Write down the worst-case running time (O(N)) for every part of the code:
 	         Jorah |  185cm |  -16cm |    7cm
 	     The Hound |  198cm |   -3cm |   20cm
 	       Wun Wun |  416cm |  215cm |  238cm
-
-
-

@@ -13,7 +13,7 @@ First create a new directory and `cd` into it:
 
 Then, download the files for this problem:
 
-    wget https://github.com/minprog/exercises/raw/main/writing/anonymize/numbers.zip
+    wget https://github.com/minprog/exercises/raw/main/writing/numbers/numbers.zip
     unzip numbers.zip
     rm numbers.zip
     cd numbers

@@ -2,5 +2,3 @@ name: numbers
 files:
   required:
     - numbers.c
-    - censor.c
-    - censor.h
