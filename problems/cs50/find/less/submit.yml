@@ -1,7 +1,6 @@
 name: find_less
 files:
     required:
-        - pseudocode.txt
         - helpers.c
 check:
     tool: check50

@@ -263,6 +263,4 @@ When you're done, submit your implementation, below!
 
 1. Download `helpers.c` from the `~/problems/find` directory in your IDE.
 
-2. Also download `pseudocode.txt`.
-
 3. In the form below, choose the files that you just downloaded.

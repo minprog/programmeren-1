@@ -1,7 +1,6 @@
 name: fifteen_more
 files:
     required:
-        - analysis.pdf
         - questions.txt
         - fifteen.c
         - Makefile
