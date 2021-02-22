@@ -111,7 +111,7 @@ grades:
     basics-functions: *check_off
     strings: *check_off
 
-    population: *fullyauto    
+    population: *fullyauto
     scrabble: *fullyauto
     linear: *check_off
     sort: *fullyauto
