@@ -109,13 +109,13 @@ grades:
     basics-control-flow: *check_off
     basics-arrays: *check_off
     basics-functions: *check_off
+    strings: *check_off
 
-    population: *fullyauto
-    strings: *fullyauto
+    population: *fullyauto    
     scrabble: *fullyauto
-    linear-search: *fullyauto
+    linear: *check_off
     sort: *fullyauto
-    big-o: *fullyauto
+    bigo: *fullyauto
     hardware: *fullyauto
     whodunit: *fullyauto
     functions: *fullyauto
@@ -231,9 +231,9 @@ samen:
         population: 1
         strings: 1
         scrabble: 1
-        linear-search: 1
+        linear: 1
         sort: 1
-        big-o: 1
+        bigo: 1
         hardware: 1
         whodunit: 1
         functions: 1
