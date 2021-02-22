@@ -18,6 +18,8 @@ $ [underline]#./whodunit clue.bmp verdict.bmp#
 
 [source,subs="macros"]
 ----
+$ mkdir ~/problems/whodunit
+$ cd ~/problems/whodunit
 $ wget https://github.com/minprog/cs50x/raw/2020/whodunit/whodunit.zip
 $ unzip whodunit.zip
 $ rm whodunit.zip
@@ -253,6 +255,6 @@ When submitting this problem, you'll be asked whodunit!
 
 Because `whodunit` can be implemented in several ways, afraid you can't check your implementation's correctness with `check50`!
 
-== Staff's Solution
+== How to submit
 
-No solution from the staff, lest it spoil your fun!
+Below, you will not only submit your implementation of `whodunit.c`, but also the `verdict.bmp` that comes out of it!
