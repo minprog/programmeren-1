@@ -27,6 +27,8 @@ Implement a program that covers the eyes of a suspect's photo with a black bar.
 - **It is OK to hardcode the program (the coordinates of the black bar) to only work for this image.**
 - We have already taken care of error checking the user input for you.
 
+> The CS50 IDE no longer shows coordinates upon creating a selection on an image. Instead you can use local programs such as preview on Mac or paint on Windows to extract the coordinates yourself. Alternatively, you can also use the following coordinates for the black bar in suspect.bmp: 170,80 (top left x,y) and 250,105 (bottom right x,y).
+
 ## Background
 
 As you may know an RGB colour is often represented in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) notation, which is wat we want you to use in this assigment as well. The color white `ffffff` means red: `ff`, green: `ff`, blue: `ff`. `ff` in decimal notation is `255`, which is why white can also be written as `(255,255,255)`. In C you can represent a hexadecimal value bij putting `0x` in front of it. `255` can thus be written as `0xff`.
@@ -51,7 +53,7 @@ Now it is up to you to implement `process_pixel` inside `censor.c`. Which pixels
 
 ## Usage
 
-If you want to change your program you can make it by either calling `make` ```anonymize` or just `make`. The makefile will do the rest. You can now run the program, for example like this:
+If you want to change your program you can make it by either calling `make anonymize` or just `make`. The makefile will do the rest. You can now run the program, for example like this:
 
     ./anonymize suspect.bmp censored.bmp
 
