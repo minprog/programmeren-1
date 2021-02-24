@@ -27,7 +27,7 @@ Implement a program that covers the eyes of a suspect's photo with a black bar.
 - **It is OK to hardcode the program (the coordinates of the black bar) to only work for this image.**
 - We have already taken care of error checking the user input for you.
 
-> The CS50 IDE no longer shows coordinates upon creating a selection on an image. Instead you can use local programs such as preview on Mac or paint on Windows to extract the coordinates yourself. Alternatively, you are free to use the following coordinates for the black bar in suspect.bmp: 170,80 (top left x,y) and 250,105 (bottom right x,y).
+> The CS50 IDE no longer shows coordinates upon selecting parts of an image. Instead you can use local programs such as preview on Mac or paint on Windows to extract the coordinates yourself. Alternatively, you are free to use the following coordinates for the black bar in suspect.bmp: 170,80 (top left x,y) and 250,105 (bottom right x,y).
 
 ## Background
 
