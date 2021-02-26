@@ -119,6 +119,8 @@ grades:
     hardware: *fullyauto
     whodunit: *fullyauto
     functions: *fullyauto
+    numbers: *check_off
+    complexity-puzzle: *check_off
 
     scratch: *check_off
     mario_less: *fullyauto
@@ -237,6 +239,7 @@ samen:
         hardware: 1
         whodunit: 1
         functions: 1
+        complexity-puzzle: 1
 
 individueel:
     show_progress: true
@@ -249,6 +252,7 @@ individueel:
         caesar: 1
         find: 1
         anonymize: 1
+        numbers: 1
 
 extra:
     show_progress: true
