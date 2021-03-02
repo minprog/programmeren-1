@@ -1,4 +1,4 @@
-name: filter_less
+name: filter_small
 files:
   required:
     - analysis.pdf
