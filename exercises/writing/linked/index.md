@@ -1,41 +1,30 @@
 # Linked
 
-## Goal
+> Bij deze opdracht is het helemaal prima om samen te werken met één of twee medestudenten. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in.
 
-Get a better understanding of how linked lists work and implement some basic concepts from the sections.
+This exercise gets you started building linked lists and deepening your understanding. Start out with a detailed explanation video and then just try implementing that data structure in C! This exercise specifially prepares you for the next, larger assignment, so definitely go and spend quite a bit of time on this one.
 
 ## Background
 
-Have another look at linked lists with this video:
+Have detailed look at linked lists with this video:
+
 ![embed](https://www.youtube.com/embed/xdkSNe43iNM)
 
 ## Getting started
 
-If you haven't done so yet, create a directory called `practice` in your workspace:
-
-    mkdir ~/workspace/practice
-
 Execute in a terminal window
 
-    mkdir -p ~/workspace/practice/linked
-    cd ~/workspace/practice/linked/
-    wget https://github.com/minprog/exercises/raw/main/writing/linked/linked.zip
-    unzip linked.zip
-    rm linked.zip
-
-## Data structures
-
-In a simple text file, answer the following question in your own words (preferably in Dutch).
-
-> Explain the difference between a hash table structure and a trie structure
+    mkdir -p ~/exercises/linked
+    cd ~/exercises/linked
+    wget https://github.com/minprog/exercises/raw/main/writing/linked/linked.c
 
 ## Linked lists
 
-For this exercise, the task is to build your own linked list. If you are not sure anymore what a linked list is and how to implement one, have a look at the [lecture notes of week 5](/lectures/week-5). For some additional reading, you might also want to have a look here: <https://study.cs50.net/linked_lists>
+You are going to build your own linked list. For some additional reading, you might also want to have a look at <https://study.cs50.net/linked_lists>.
 
-Jump in `linked.c`. We have provided you with a `printList` function which should print your linked list. As you compile and run this program, you see that the function only prints the brackets `[ ]`, which may seem correct since we haven't inserted anything. Yet, if you look at the code you may notice that the crucial part of `printList` is missing.
+Jump into `linked.c`. We have provided you with a `print_list` function which should print your linked list. As you compile and run this program, you see that the function only prints the brackets `[ ]`, which may seem correct since we haven't inserted anything. Yet, if you look at the code you may notice that the crucial part of `print_list` is missing.
 
-Finish the function `printList` in such a way that it loops through the linked list and prints out any number in that list. Don't forget to add a space between the numbers, for clarity. 
+Finish the function `print_list` in such a way that it loops through the linked list and prints out any number in that list. Don't forget to add a space between the numbers, for clarity. 
 
 It's now up to you to insert the numbers `2`, `3`, `4` and `5` in such a way that when you execute `./linked`, the program prints
 
@@ -43,4 +32,4 @@ It's now up to you to insert the numbers `2`, `3`, `4` and `5` in such a way tha
 
 To do this, implement an insertion method for a linked list in `insert`. Some basics are already there, such as the struct for `node` and a pointer to the head node.
 
-Note: it may be a good idea to first insert _any_ two numbers and test if your `printList` function works as intended.
+Note: it may be a good idea to first insert _any_ two numbers and test if your `print_list` function works as intended.
