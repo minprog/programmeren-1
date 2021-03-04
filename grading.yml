@@ -87,7 +87,7 @@ grades:
     crack: *fullyauto
     # retrospective-crypto: *check_off
     #
-    # find_less: *fullyauto
+    find_less: *fullyauto
     # fifteen_less: *fullyauto
     fifteen_more: *fullyauto
     # retrospective-fifteen: *check_off
