@@ -1,5 +1,0 @@
-name: functions
-form: true
-files:
-  required:
-    - functions.c
