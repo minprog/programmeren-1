@@ -1,6 +1,18 @@
-quality: https://github.com/minprog/quality.git
-cs50: https://github.com/minprog/cs50x.git
-shorts: https://github.com/minprog/cs50-shorts.git
-exercises: https://github.com/minprog/exercises.git
-lectures: https://github.com/minprog/cs50-lectures.git
-modules: https://github.com/minprog/modules.git
+quality:
+    remote: https://github.com/minprog/quality.git
+    branch: main
+cs50:
+    remote: https://github.com/minprog/cs50x.git
+    branch: 2020
+shorts:
+    remote: https://github.com/minprog/cs50-shorts.git
+    branch: main
+exercises:
+    remote: https://github.com/minprog/exercises.git
+    branch: main
+lectures:
+    remote: https://github.com/minprog/cs50-lectures.git
+    branch: master
+modules:
+    remote: https://github.com/minprog/modules.git
+    branch: main
