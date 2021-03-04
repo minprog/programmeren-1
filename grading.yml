@@ -250,7 +250,7 @@ individueel:
         cash: 1
         readability: 1
         caesar: 1
-        find: 1
+        find_less: 1
         anonymize: 1
         numbers: 1
 
