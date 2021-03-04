@@ -1,0 +1,4 @@
+name: speller-started
+files:
+    required:
+        - answers.md

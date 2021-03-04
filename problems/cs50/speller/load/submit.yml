@@ -1,0 +1,4 @@
+name: speller-load
+files:
+    required:
+        - dictionary.c

@@ -1,0 +1,4 @@
+name: speller-spec
+files:
+    required:
+        - analyse.pdf

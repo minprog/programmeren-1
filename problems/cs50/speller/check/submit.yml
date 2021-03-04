@@ -1,0 +1,4 @@
+name: speller-check
+files:
+    required:
+        - dictionary.c
