@@ -3,50 +3,50 @@ Welkom:
 Week 1:
     Maandag:
         'Videocollege: Computational Thinking': /lectures/computational-thinking
-        Scratch [individueel]: /problems/cs50/scratch
+        Scratch [individueel]: /cs50/scratch
     Dinsdag:
         'Videocollege: C': /lectures/c
-        'Hello': /problems/cs50/hello
+        'Hello': /cs50/hello
         'Boek: Variabelen [boek]': /exercises/book/variables
     Woensdag:
-        Population [samen]: /problems/cs50/population
-        Mario [individueel, cijfer]: /problems/cs50/mario/less
+        Population [samen]: /cs50/population
+        Mario [individueel, cijfer]: /cs50/mario/less
     Donderdag:
-        Cash [individueel, cijfer]: /problems/cs50/cash
+        Cash [individueel, cijfer]: /cs50/cash
     Vrijdag:
         'Videocollege: Arrays': /lectures/arrays
         'Oefenen: Strings [samen]': /exercises/writing/strings
         'Boek: Control Flow [boek]': /exercises/book/control-flow
     Extra:
-        Credit [extra]: /problems/cs50/credit
+        Credit [extra]: /cs50/credit
 Week 2:
     Maandag:
-        'Scrabble [samen]': /problems/cs50/scrabble
-        'Readability [individueel, cijfer]': /problems/cs50/readability
+        'Scrabble [samen]': /cs50/scrabble
+        'Readability [individueel, cijfer]': /cs50/readability
     Dinsdag:
-        'Readability [individueel, cijfer]': /problems/cs50/readability
-        'Caesar [individueel, cijfer]': /problems/cs50/caesar
+        'Readability [individueel, cijfer]': /cs50/readability
+        'Caesar [individueel, cijfer]': /cs50/caesar
     Woensdag:
-        'Caesar [individueel, cijfer]': /problems/cs50/caesar
+        'Caesar [individueel, cijfer]': /cs50/caesar
         'Videocollege: Algorithms': /lectures/algorithms
     Extra:
-        Crack [extra]: /problems/cs50/crack
+        Crack [extra]: /cs50/crack
     Donderdag:
         'Oefenen: Linear Search [samen]': /exercises/writing/linear
-        Sort [samen]: /problems/cs50/sort
+        Sort [samen]: /cs50/sort
     Vrijdag:
         'Oefenen: Big-O': /exercises/study/big-o
         'Boek: Strings en Arrays [boek]': /exercises/book/arrays
 Week 3:
     Maandag:
-        Find [individueel, cijfer]: /problems/cs50/find/less
+        Find [individueel, cijfer]: /cs50/find/less
     Extra (Algorithms):
-        Fifteen [extra]: /problems/cs50/fifteen/more
+        Fifteen [extra]: /cs50/fifteen/more
     Dinsdag:
         Hardware [samen]: /modules/hardware
         'Videocollege: Memory': /lectures/memory
     Woensdag:
-        'Whodunit [samen]': /problems/cs50/whodunit
+        'Whodunit [samen]': /cs50/whodunit
         Anonymize [individueel, cijfer]: /exercises/writing/anonymize
     Donderdag:
         Numbers: /exercises/writing/numbers
@@ -55,4 +55,4 @@ Week 3:
         'Boek: Functies [boek]': /exercises/book/functions
         'Oefenen: Functies': /exercises/writing/functions
     Extra (Memory):
-        Resize [extra]: /problems/cs50/resize/more
+        Resize [extra]: /cs50/resize/more
