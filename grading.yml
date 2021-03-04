@@ -128,7 +128,6 @@ grades:
     cash: *fullyauto
     readability: *fullyauto
     caesar: *fullyauto
-    find: *fullyauto
     anonymize: *fullyauto
 
 # MODULES - define overarching grades that comprise several different problems.
