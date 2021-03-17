@@ -187,8 +187,8 @@ calculation:
     eindcijfer:
         individueel: 0
         samen: 0
-        boek: 0
-        mods: 100
+        boek: 25
+        mods: 75
     herkansing:
         individueel: 0
         mods: 100
