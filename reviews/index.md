@@ -24,5 +24,5 @@ Retrospectives zijn er om je te helpen nog even actief naar de feedback te kijke
 
 - [Retrospective: C](/modules/c/retrospective)
 - [Retrospective: Crypto](/modules/crypto/retrospective)
-- Retrospective: Find, nog niet actief
-- Retrospective: Graphics, nog niet actief
+- [Retrospective: Find](/modules/crypto/retrospective)
+- [Retrospective: Graphics](/modules/crypto/retrospective)
