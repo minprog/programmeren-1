@@ -185,8 +185,8 @@ grades:
 
 calculation:
     eindcijfer:
-        individueel: 0
-        samen: 0
+        # individueel: 0
+        # samen: 0
         boek: 25
         mods: 75
     herkansing:
@@ -220,6 +220,7 @@ calculation:
 #         takehome: 1
 
 boek:
+    required: true
     show_progress: true
     submits:
         basics-variables: 1
