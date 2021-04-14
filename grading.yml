@@ -129,7 +129,7 @@ grades:
     readability: *fullyauto
     caesar: *fullyauto
     anonymize: *fullyauto
-    
+
     r-c: *check_off
     r-crypto: *check_off
     r-find: *check_off
