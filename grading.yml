@@ -129,6 +129,14 @@ grades:
     readability: *fullyauto
     caesar: *fullyauto
     anonymize: *fullyauto
+    
+    r-c: *check_off
+    r-crypto: *check_off
+    r-find: *check_off
+    r-fifteen: *check_off
+    retrospective-find: *check_off
+    retrospective-fifteen: *check_off
+    retrospective-graphics: *check_off
 
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
