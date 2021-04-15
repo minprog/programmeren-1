@@ -138,6 +138,9 @@ grades:
     retrospective-fifteen: *check_off
     retrospective-graphics: *check_off
 
+    filter_small: *manual
+    recover: *manual
+
 # MODULES - define overarching grades that comprise several different problems.
 # The names are simply the names as defined in `submit.yml` for each problem.
 # The most important effect of defining a module is that you can view the
