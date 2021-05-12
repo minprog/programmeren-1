@@ -1,0 +1,7 @@
+name: inter-3
+files:
+    required:
+        - dagverslag.txt
+    optional:
+        - code.c
+        - code.lua
