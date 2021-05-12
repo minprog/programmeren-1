@@ -1,15 +1,59 @@
 Welkom:
     - syllabus
-Module 0:
-    # - intro
-    - scratch
-    - hardware
-    - variables
-Module 1:
-    - c
-Module 2:
-    - crypto
-Module 3:
-    - fifteen
-Module 4:
-    - graphics
+Week 1:
+    Maandag:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+    Dinsdag:
+        Scratch [individueel]: /cs50/scratch
+    Woensdag:
+        'Videocollege: C': /lectures/c
+        'Hello': /cs50/hello
+    Donderdag:
+        'Boek: Variabelen [boek]': /exercises/book/variables
+    Vrijdag:
+        Population [samen]: /cs50/population
+Week 2:
+    Maandag:
+        Mario [individueel]: /cs50/mario/less
+    Dinsdag en woensdag:
+        Cash [individueel]: /cs50/cash
+    Extra:
+        Credit [extra]: /cs50/credit
+    Donderdag:
+        'Videocollege: Arrays': /lectures/arrays
+        'Oefenen: Strings [samen]': /exercises/writing/strings
+    Vrijdag:
+        'Boek: Control Flow [boek]': /exercises/book/control-flow
+Week 3:
+    Maandag:
+        'Scrabble [samen]': /cs50/scrabble
+    Dinsdag en woensdag:
+        'Readability [individueel]': /cs50/readability
+    Donderdag en vrijdag:
+        'Caesar [individueel]': /cs50/caesar
+Week 4:
+    Extra:
+        Crack [extra]: /cs50/crack
+    Maandag:
+        'Videocollege: Algorithms': /lectures/algorithms
+    Dinsdag:
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
+    Woensdag:
+        Sort [samen]: /cs50/sort
+    Donderdag:
+        'Oefenen: Big-O': /exercises/study/big-o
+    Vrijdag:
+        'Boek: Strings en Arrays [boek]': /exercises/book/arrays
+Week 5:
+    Maandag en dinsdag:
+        Find [individueel]: /cs50/find/less
+    Extra:
+        Fifteen [extra]: /cs50/fifteen/more
+    Woensdag:
+        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
+    Donderdag:
+        'Boek: Functies [boek]': /exercises/book/functions
+    Vrijdag:
+        'Oefenen: Functies': /exercises/writing/functions
+Week 6:
+    Kickoff Intermezzo: '#'

@@ -6,9 +6,28 @@ This is CS50x.
 
 Als je inlogt en registreert op de website krijg je toegang tot de volledige studiewijzer voor fulltime of parttime. Wil je meer informatie over dit vak? Kijk op <https://mprog.nl/> of stuur een e-mail naar <help@mprog.nl>.
 
+## Changelog
+
+**Nieuw in versie herfst 2021**
+
+- Whodunit en de theorie over geheugen zijn verplaatst naar Programmeren 2
+
+- Programmeren 1 heeft nu als afsluiter het "intermezzo", waarin op verschillende niveaus uitdagende eindopdrachten te kiezen zijn, een miniproject
+
+**Nieuw in versie lente 2021**
+
+- De Harvard-colleges van 2020 zijn beschikbaar
+
+- Caesar wordt nu vergezeld door Readability in plaats van Vigenere
+
+- Samenwerkopdrachten Population, Scrabble, Sort zijn toegevoegd
+
+- Fifteen is een hacker-opdracht geworden
+
+- Enkele oefeningen over algoritmen zijn toegevoegd
 
 ## Acknowledgements
 
-CS50 is copyright 2011--2018 David J. Malan. http://cs50.tv/2017/fall/
+CS50 is copyright 2011--2021 David J. Malan. http://cs50.tv/2017/fall/
 
-This course's content is licensed by David J. Malan of Harvard University under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+This course's content is licensed by David J. Malan of Harvard University under a [Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

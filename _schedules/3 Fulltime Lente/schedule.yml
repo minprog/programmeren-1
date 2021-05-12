@@ -27,32 +27,24 @@ Week 2:
         'Readability [individueel, cijfer]': /cs50/readability
         'Caesar [individueel, cijfer]': /cs50/caesar
     Woensdag:
-        'Caesar [individueel, cijfer]': /cs50/caesar
         'Videocollege: Algorithms': /lectures/algorithms
-    Extra:
-        Crack [extra]: /cs50/crack
+        'Caesar [individueel, cijfer]': /cs50/caesar
     Donderdag:
         'Oefenen: Linear Search [samen]': /exercises/writing/linear
         Sort [samen]: /cs50/sort
     Vrijdag:
         'Oefenen: Big-O': /exercises/study/big-o
         'Boek: Strings en Arrays [boek]': /exercises/book/arrays
+    Extra:
+        Crack [extra]: /cs50/crack
 Week 3:
     Maandag:
         Find [individueel, cijfer]: /cs50/find/less
-    Extra (Algorithms):
-        Fifteen [extra]: /cs50/fifteen/more
     Dinsdag:
-        Hardware [samen]: /modules/hardware
-        'Videocollege: Memory': /lectures/memory
-    Woensdag:
-        'Whodunit [samen]': /cs50/whodunit
-        Anonymize [individueel, cijfer]: /exercises/writing/anonymize
-    Donderdag:
-        Numbers: /exercises/writing/numbers
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
-    Vrijdag:
         'Boek: Functies [boek]': /exercises/book/functions
         'Oefenen: Functies': /exercises/writing/functions
-    Extra (Memory):
-        Resize [extra]: /cs50/resize/more
+    Woensdag:
+        Kickoff Intermezzo: '#'
+    Extra (Algorithms):
+        Fifteen [extra]: /cs50/fifteen/more

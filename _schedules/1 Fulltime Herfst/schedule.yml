@@ -1,15 +1,50 @@
 Welkom:
     - syllabus
-Module 0:
-    # - intro
-    - scratch
-    - hardware
-    - variables
-Module 1:
-    - c
-Module 2:
-    - crypto
-Module 3:
-    - fifteen
-Module 4:
-    - graphics
+Week 1:
+    Maandag:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+        Scratch [individueel]: /cs50/scratch
+    Dinsdag:
+        'Videocollege: C': /lectures/c
+        'Hello': /cs50/hello
+        'Boek: Variabelen [boek]': /exercises/book/variables
+    Woensdag:
+        Population [samen]: /cs50/population
+        Mario [individueel, cijfer]: /cs50/mario/less
+    Donderdag:
+        Cash [individueel, cijfer]: /cs50/cash
+    Vrijdag:
+        'Videocollege: Arrays': /lectures/arrays
+        'Oefenen: Strings [samen]': /exercises/writing/strings
+        'Boek: Control Flow [boek]': /exercises/book/control-flow
+    Extra:
+        Credit [extra]: /cs50/credit
+Week 2:
+    Maandag:
+        'Scrabble [samen]': /cs50/scrabble
+        'Readability [individueel, cijfer]': /cs50/readability
+    Dinsdag:
+        'Readability [individueel, cijfer]': /cs50/readability
+        'Caesar [individueel, cijfer]': /cs50/caesar
+    Woensdag:
+        'Videocollege: Algorithms': /lectures/algorithms
+        'Caesar [individueel, cijfer]': /cs50/caesar
+    Donderdag:
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
+        Sort [samen]: /cs50/sort
+    Vrijdag:
+        'Oefenen: Big-O': /exercises/study/big-o
+        'Boek: Strings en Arrays [boek]': /exercises/book/arrays
+    Extra:
+        Crack [extra]: /cs50/crack
+Week 3:
+    Maandag:
+        Find [individueel, cijfer]: /cs50/find/less
+    Dinsdag:
+        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
+        'Boek: Functies [boek]': /exercises/book/functions
+        'Oefenen: Functies': /exercises/writing/functions
+    Woensdag:
+        Kickoff Intermezzo: '#'
+    Extra (Algorithms):
+        Fifteen [extra]: /cs50/fifteen/more
