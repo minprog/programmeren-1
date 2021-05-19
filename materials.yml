@@ -12,7 +12,4 @@ exercises:
     branch: main
 lectures:
     remote: https://github.com/minprog/cs50-lectures.git
-    branch: master
-modules:
-    remote: https://github.com/minprog/modules.git
-    branch: main
+    branch: 2020

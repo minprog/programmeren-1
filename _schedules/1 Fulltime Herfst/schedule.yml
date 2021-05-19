@@ -1,50 +1,66 @@
 Welkom:
-    - syllabus
-Week 1:
+    Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+
+Module 0:
     Maandag:
         'Videocollege: Computational Thinking': /lectures/computational-thinking
         Scratch [individueel]: /cs50/scratch
+
+Module 1:
     Dinsdag:
+        'Boek: Variabelen [boek]': /exercises/book/variables
         'Videocollege: C': /lectures/c
         'Hello': /cs50/hello
-        'Boek: Variabelen [boek]': /exercises/book/variables
     Woensdag:
         Population [samen]: /cs50/population
         Mario [individueel, cijfer]: /cs50/mario/less
     Donderdag:
         Cash [individueel, cijfer]: /cs50/cash
     Vrijdag:
-        'Videocollege: Arrays': /lectures/arrays
-        'Oefenen: Strings [samen]': /exercises/writing/strings
         'Boek: Control Flow [boek]': /exercises/book/control-flow
+        Hardware [zelf]: /cs50t/hardware
     Extra:
         Credit [extra]: /cs50/credit
-Week 2:
+
+Module 2:
     Maandag:
-        'Scrabble [samen]': /cs50/scrabble
-        'Readability [individueel, cijfer]': /cs50/readability
+        'Videocollege: Arrays': /lectures/arrays
+        'Oefenen: Strings [samen]': /exercises/writing/strings
     Dinsdag:
-        'Readability [individueel, cijfer]': /cs50/readability
-        'Caesar [individueel, cijfer]': /cs50/caesar
+        'Scrabble [samen]': /cs50/scrabble
+        'Readability deel 1 [individueel, cijfer]': /cs50/readability
     Woensdag:
-        'Videocollege: Algorithms': /lectures/algorithms
-        'Caesar [individueel, cijfer]': /cs50/caesar
+        'Readability deel 2 [individueel, cijfer]': /cs50/readability
+        'Caesar deel 1 [individueel, cijfer]': /cs50/caesar
     Donderdag:
-        'Oefenen: Linear Search [samen]': /exercises/writing/linear
-        Sort [samen]: /cs50/sort
+        'Caesar deel 2 [individueel, cijfer]': /cs50/caesar
+        'Oefenen: Functies': /exercises/writing/functions
     Vrijdag:
-        'Oefenen: Big-O': /exercises/study/big-o
         'Boek: Strings en Arrays [boek]': /exercises/book/arrays
+        Internet [zelf]: /cs50t/internet
     Extra:
         Crack [extra]: /cs50/crack
-Week 3:
+
+Module 3:
     Maandag:
-        Find [individueel, cijfer]: /cs50/find/less
+        'Videocollege: Algorithms': /lectures/algorithms
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
     Dinsdag:
-        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
-        'Boek: Functies [boek]': /exercises/book/functions
-        'Oefenen: Functies': /exercises/writing/functions
+        'Oefenen: Algorithms [samen]': /exercises/study/algorithms
+        Sort [samen]: /cs50/sort
     Woensdag:
-        Kickoff Intermezzo: '#'
-    Extra (Algorithms):
+        Find [individueel, cijfer]: /cs50/find/less
+    Donderdag:
+        'Oefenen: Big-O': /exercises/study/big-o
+        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
+    Vrijdag:
+        'Boek: Functies [boek]': /exercises/book/functions
+        Security [zelf]: /cs50t/security
+    Extra:
         Fifteen [extra]: /cs50/fifteen/more
+
+Intermezzo:
+    Kickoff Intermezzo: /modules/intermezzo
+    Maandag: /modules/intermezzo/dag1
+    Dinsdag: /modules/intermezzo/dag2
+    Eindverslag: /modules/intermezzo/eindverslag
