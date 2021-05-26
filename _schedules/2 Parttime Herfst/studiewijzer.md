@@ -96,13 +96,19 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema volledig kunt aanhouden, en dat je elke opdracht **inlevert zodra je die af hebt**. Omdat je ook nog andere vakken volgt kun je maximaal drie dagen schuiven in het schema (inclusief weekends).
+Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema goed kunt aanhouden, en dat je elke opdracht **inlevert zodra je die af hebt**. Natuurlijk kun je een dagje schuiven als dat nodig is voor je planning van een ander vak.
 
-> Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Je mentor kan géén uitzonderingen geven, maar die breng je natuurlijk even op de hoogte als je uitloopt of als je afspraken met de docenten hebt gemaakt.
+> Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een **verbeterde** versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
+Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. De uiterste deadline voor het inleveren van een werkende oplossing is als volgt:
 
-Dit zijn de **uiterste** deadlines voor de verbeterde versies:
+| opdrachten            | deadline            |
+|---------------------- | ------------------: |
+| Mario en Cash         | vr 17 sep  17:59    |
+| Readability en Caesar | vr 24 sep  17:59    |
+| Find                  | vr  8 okt  17:59    |
+
+Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een **verbeterde** versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
 | opdrachten            | deadline            |
 |---------------------- | ------------------: |
