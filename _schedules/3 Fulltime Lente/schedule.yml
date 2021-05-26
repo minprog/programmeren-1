@@ -46,7 +46,7 @@ Module 3:
         'Videocollege: Algorithms': /lectures/algorithms
         'Oefenen: Linear Search [samen]': /exercises/writing/linear
     Dinsdag:
-        'Oefenen: Algorithms [samen]': /exercises/study/algorithms
+        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
         Sort [samen]: /cs50/sort
     Woensdag:
         Find [individueel, cijfer]: /cs50/find/less
