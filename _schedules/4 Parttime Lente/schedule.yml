@@ -8,11 +8,11 @@ Week 1:
         Scratch [individueel]: /cs50/scratch
     Woensdag:
         'Videocollege: C': /lectures/c
-        'Hello': /cs50/hello
+        'Hello [zelf]': /cs50/hello
     Donderdag:
         Population [samen]: /cs50/population
     Vrijdag:
-        'Boek: Variabelen [boek]': /exercises/book/variables
+        'Boek: Variabelen [basisboek]': /exercises/book/variables
 
 Week 2:
     Maandag:
@@ -20,7 +20,7 @@ Week 2:
     Dinsdag en woensdag:
         Cash [individueel]: /cs50/cash
     Donderdag:
-        'Boek: Control Flow [boek]': /exercises/book/control-flow
+        'Boek: Control Flow [basisboek]': /exercises/book/control-flow
     Vrijdag:
         Hardware [zelf]: /modules/hardware
     Extra:
@@ -40,9 +40,9 @@ Week 4:
     Maandag en dinsdag:
         'Caesar [individueel]': /cs50/caesar
     Woensdag:
-        'Oefenen: Functies': /exercises/writing/functions
+        'Oefenen: Functies [zelf]': /exercises/writing/functions
     Donderdag:
-        'Boek: Strings en Arrays [boek]': /exercises/book/arrays
+        'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
     Vrijdag:
         Internet [zelf]: /modules/internet
     Extra:
@@ -68,7 +68,7 @@ Week 6:
     Woensdag:
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
     Donderdag:
-        'Boek: Functies [boek]': /exercises/book/functions
+        'Boek: Functies [basisboek]': /exercises/book/functions
     Vrijdag:
         Security [zelf]: /modules/security
     Extra:

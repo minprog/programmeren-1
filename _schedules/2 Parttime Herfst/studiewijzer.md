@@ -11,7 +11,7 @@ Vakdocenten zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het
 
 Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een essentieel onderdeel van het vak, maar diverse opdrachten zijn juist weer om individueel te doen.
 
-- **Oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
+- **Zelfstandige oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
 - **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
 - **Individuele opdrachten** bouwen op de ervaring uit de samenwerkopdrachten. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
 - **Basisboek-oefeningen** trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
