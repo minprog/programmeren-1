@@ -13,3 +13,6 @@ exercises:
 lectures:
     remote: https://github.com/minprog/cs50-lectures.git
     branch: 2020
+cs50t:
+    remote: https://github.com/minprog/cs50t.git
+    branch: main
