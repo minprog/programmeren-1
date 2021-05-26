@@ -34,13 +34,13 @@ Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voo
 
 Je cijfer voor het vak wordt als volgt bepaald:
 
-- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. Deze punten heb je al binnen zodra alles af is.
-- 50% is op basis van de beoordeling van de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
-- 25% is op basis van het aftekenen van het Intermezzo. Deze punten heb je binnen zodra je vier dagen vol gewerkt hebt aan het intermezzo en een diepgaand verslag hebt geschreven.
+- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. De volledige punten heb je binnen zodra alles af is.
+- 50% is op basis van de punten die je krijgt voor de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
+- 25% is op basis van het aftekenen van het Intermezzo. Deze punten heb je binnen zodra je vier dagen vol gewerkt hebt aan het intermezzo en een voldoende diepgaand verslag hebt geschreven.
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
 
 ## Team en mentor
