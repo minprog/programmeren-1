@@ -100,23 +100,15 @@ Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De 
 
 > Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. De uiterste deadline voor het inleveren van een werkende oplossing is als volgt:
+Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
 
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Mario en Cash         | vr 18 feb  17:59    |
-| Readability en Caesar | vr 25 feb  17:59    |
-| Find                  | vr 11 mrt  17:59    |
+| opdrachten            | deadline            | verbeterd           |
+|---------------------- | ------------------: | ------------------: |
+| Mario en Cash         | vr 18 feb  17:59    | di 22 feb  17:59    |
+| Readability en Caesar | vr 25 feb  17:59    | di  1 mrt  17:59    |
+| Find                  | vr 11 mrt  17:59    | di 15 mrt  17:59    |
 
-Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een **verbeterde** versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines voor de verbeterde versies:
-
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Mario en Cash         | di 22 feb  17:59    |
-| Readability en Caesar | di  1 mrt  17:59    |
-| Find                  | di 15 mrt  17:59    |
-
-Bovenstaand schema is afhankelijk van de werkgroeproostering en volledig onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
+De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering.
 
 Het intermezzo wordt afgesloten met een eindverslag, ter afronding van het vak:
 
