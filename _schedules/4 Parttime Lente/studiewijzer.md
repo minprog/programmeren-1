@@ -175,10 +175,6 @@ Werkgroepen zijn bijeenkomsten van zo'n 60-90 minuten met je mentor. In de werkg
 
 Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Je studeert in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. Vragen over de oefeningen stel je via **Ed**. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
 
-### Checkups
-
-Elke dag om 9:00 doe je een checkup met je mentorgroep, maar zonder je mentor. Daarbij laat je weten hoe je ervoor staat met je opdracht, waar je aan gewerkt hebt en vooral waar je vandaag aan wil werken. Je kunt ook om advies vragen over je aanpak, bijvoorbeeld als je vastzit. Misschien is er een groepsgenoot die hetzelfde probleem al is tegengekomen.
-
 ### Naslag
 
 Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderwerpen, dan kunnen de volgende boeken je verder op weg helpen. Ze zijn niet noodzakelijk voor het halen van het vak.
