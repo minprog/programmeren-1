@@ -13,7 +13,6 @@ Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules
 - [Code review: C](/modules/c/review)
 - [Code review: Crypto](/modules/crypto/review)
 - [Code review: Find](/modules/find/review)
-- [Code review: Graphics](/modules/graphics/review)
 
 
 ## Retrospectives
@@ -25,4 +24,3 @@ Retrospectives zijn er om je te helpen nog even actief naar de feedback te kijke
 - [Retrospective: C](/modules/c/retrospective)
 - [Retrospective: Crypto](/modules/crypto/retrospective)
 - [Retrospective: Find](/modules/find/retrospective)
-- [Retrospective: Graphics](/modules/graphics/retrospective)
