@@ -30,10 +30,9 @@ Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben in
 
 ## Minimumeisen
 
-Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Alle opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
-2. bijwonen van alle [checkups](#checkups) met je team
 3. enkele keren individueel contact met je mentor
 4. dagelijks contact met assistenten over je opdrachten
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)

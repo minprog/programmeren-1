@@ -18,7 +18,7 @@ Wat kun je kiezen?
 
 Dit is een herhalingsopdracht. Je gaat elk dagdeel aan de slag met een challenge. Dit is een probleemomschrijving waarbij jij een programma gaat ontwerpen, implementeren en zorgvuldig uittesten en verbeteren. Het oefenen zit hier echt in het systematisch werken, kennis van programmeerconstructies verder uitbouwen en zelfstandig leren testen van je uitwerkingen. Je slaat niks over en zorgt dat je alles begrijpt wat je maakt.
 
-De opdrachten: [challenges](/intermezzo/challenges)
+De opdrachten: [challenges](/modules/intermezzo/challenges)
 
 ### 2. Löve
 
@@ -73,9 +73,9 @@ Mocht je voortijdig klaar zijn, dan kun je daarna direct aan de slag met één v
 
 Je moet elke dag je voortgang inleveren op de betreffende pagina:
 
-- [dinsdag](/intermezzo/dinsdag)
-- [woensdag](/intermezzo/woensdag)
-- [donderdag](/intermezzo/donderdag)
-- [vrijdag](/intermezzo/vrijdag)
+- [dinsdag](/modules/intermezzo/dinsdag)
+- [woensdag](/modules/intermezzo/woensdag)
+- [donderdag](/modules/intermezzo/donderdag)
+- [vrijdag](/modules/intermezzo/vrijdag)
 
-Het eindverslag lever je hier in: [eindverslag](/intermezzo/eindverslag)
+Het eindverslag lever je hier in: [eindverslag](/modules/intermezzo/eindverslag)
