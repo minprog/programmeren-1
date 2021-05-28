@@ -17,27 +17,28 @@ Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een ess
 - **Basisboek-oefeningen** trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
 
 
-## Minimumeisen
-
-Alle opdrachten en toetsjes netjes (volgens schema) werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
-
-1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
-2. enkele keren individueel contact met je mentor
-3. dagelijks contact met assistenten over je opdrachten
-4. laag scoren op de ["plagiaatschaal"](#plagiaat)
-
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
-
-
 ## Eindcijfer
 
 Je cijfer voor het vak wordt als volgt bepaald:
 
 - 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. De volledige punten heb je binnen zodra alles af is.
 - 50% is op basis van de punten die je krijgt voor de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
-- 25% is op basis van het aftekenen van het Intermezzo. Deze punten heb je binnen zodra je een week vol gewerkt hebt aan het intermezzo en een voldoende diepgaand verslag hebt geschreven.
+- 25% is op basis van het aftekenen van het Intermezzo. Deze punten heb je binnen zodra je twee dagen vol gewerkt hebt aan het intermezzo en een voldoende diepgaand verslag hebt geschreven.
 
-Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle bovengenoemde [verwachtingen](#verwachtingen) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
+Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
+
+
+## Minimumeisen
+
+Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+
+1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
+2. bijwonen van alle [checkups](#checkups) met je team
+3. enkele keren individueel contact met je mentor
+4. dagelijks contact met assistenten over je opdrachten
+5. laag scoren op de ["plagiaatschaal"](#plagiaat)
+
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
