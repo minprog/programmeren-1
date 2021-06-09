@@ -4,40 +4,47 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
-Vakdocenten zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+## Docenten en assistenten
+
+De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+
+Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
 
 
-## Opdrachten
+## Docenten en assistenten
 
-Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een essentieel onderdeel van het vak, maar diverse opdrachten zijn juist weer om individueel te doen.
+De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-- **Zelfstandige oefenopdrachten** helpen je kennis maken met programmeertechnieken. Je doet ze altijd zelf, voor de oefening, maar het is geen probleem als iemand het voordoet.
-- **Samenwerkopdrachten** doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
-- **Individuele opdrachten** bouwen op de ervaring uit de samenwerkopdrachten. Je doet ze alleen, waarbij je altijd hulp kunt krijgen van de docenten en assistenten.
-- **Basisboek-oefeningen** trainen je in het toepassen van de programmeertaal en helpen je de details goed te bestuderen. Oefenen doe je samen, de bijbehorende toetsjes individueel.
+Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
 
 
-## Eindcijfer
+## Opdrachten en eindcijfer
 
-Je cijfer voor het vak wordt als volgt bepaald:
+Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een essentieel onderdeel van het vak, maar een deel van de opdrachten is juist individueel. De cursus bestaat uit de volgende onderdelen:
 
-- 25% is op basis van het aftekenen van de Oefenopdrachten, Samenwerkopdrachten en Oefentoetsjes. De volledige punten heb je binnen zodra alles af is.
-- 50% is op basis van de punten die je krijgt voor de Individuele Opdrachten. Je krijgt voor deze opdrachten dan ook feedback waarvan je kunt leren over het schrijven van "goede code".
-- 25% is op basis van het aftekenen van het Intermezzo. Deze punten heb je binnen zodra je twee dagen vol gewerkt hebt aan het intermezzo en een voldoende diepgaand verslag hebt geschreven.
+- Aftekenen oefenopdrachten (25%). Je moet alle opdrachten helemaal gedaan hebben om het vak te kunnen halen. Er zijn drie soorten:
 
-Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
+    - *Zelfstandige oefenopdrachten* doe om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
+    - *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+    - *Basisboek-oefeningen* doe je liefst gezamenlijk, maar er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
+
+- Beoordeling individuele programmeeropdrachten (50%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
+
+- Beoordeling eindopdracht/tentamen (25%). Hiervoor moet je een voldoende halen om het vak af te kunnen ronden.
+
+Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docenten. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
 
 ## Minimumeisen
 
-Alle opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis om het vak te halen. Het is dus niet mogelijk om opdrachten over te slaan! Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
 3. enkele keren individueel contact met je mentor
 4. dagelijks contact met assistenten over je opdrachten
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. **Er is daarom ook niet voorzien in een schriftelijk tentamen (?).** Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
