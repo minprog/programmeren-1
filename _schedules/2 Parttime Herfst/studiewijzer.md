@@ -55,33 +55,28 @@ Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnem
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
+**Programmeerbalie:** direct contact met een assistent, voor hulp bij programmeren.
+
+- hulp op locatie (lokaal A1.24) of via een videogesprek
+- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+- moeite met verzinnen oplossing
+- dagelijks beschikbaar, vooraf afspraak maken via [afsprakensysteem](#)
+- beperkt ruimte voor inloop bij urgente vragen
+
 **Slack:** direct contact met je team.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
-- mentor is niet doorlopend beschikbaar!
+- mentor doet mededelingen en is bereikbaar voor ziekmeldingen
+- je mentor is alleen beschikbaar tijdens beperkte werktijden
 
-**Ed:** altijd beschikbaar, de belangrijkste plek voor hulp.
-
-- vragen over wat er in de opdracht bedoeld wordt
-- technische vragen over programmeren en bugs
-- vragen over de oefeningen in het basisboek
-- medestudenten en assistenten denken mee
-
-**Assistentie:** direct contact met een assistent, voor moeilijke vragen.
-
-- hulp via een videogesprek waar je je scherm kunt delen
-- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-- moeite met verzinnen oplossing (met partner)
-- dagelijks 13-17 uur, wachttijd kan oplopen
-- aanmelden via [afsprakensysteem](#)
-
-**Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
+**Spreekuur en e-mail:** contact met de docenten.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
+- aanmelden via [afsprakensysteem](#) of mail <help@mprog.nl>
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
