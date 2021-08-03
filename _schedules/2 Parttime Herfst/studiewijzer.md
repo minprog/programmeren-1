@@ -98,21 +98,21 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema goed kunt aanhouden, en dat je elke opdracht **inlevert zodra je die af hebt**. Natuurlijk kun je een dagje schuiven als dat nodig is voor je planning van een ander vak.
+Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema goed kunt aanhouden, en dat je elke opdracht inlevert zodra je die af hebt. Natuurlijk kun je een dagje schuiven als dat nodig is voor je planning van een ander vak.
 
 > Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst "werkend" maken en zoveel mogelijk inleveren volgens het dagschema. Je hebt ruimte om te sleutelen aan dat schema, maar de **uiterste** deadline is steeds op vrijdag.
+Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst "werkend" maken en zoveel mogelijk inleveren volgens het dagschema. Je hebt ruimte om te sleutelen aan dat schema, maar de uiterste deadline is steeds op vrijdag.
 
-Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
+Tijdens de werkgroep zul je een code review doen met medestudenten op basis van de programma's die je hebt ingeleverd. Na de review kun je verbeteringen doen en lever je een definitieve versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
-| opdrachten  | werkend          | verbeterd        |
-|:------------|:-----------------|:-----------------|
-| Mario       | vr 17 sep  17:59 | wo 22 sep  17:59 |
-| Cash        | vr 24 sep  17:59 | wo 29 sep  17:59 |
-| Readability | vr  1 okt  17:59 | wo  6 okt  17:59 |
-| Caesar      | vr  8 okt  17:59 | wo 13 okt  17:59 |
-| Find        | vr 15 okt  17:59 | wo 20 okt  17:59 |
+| opdrachten  | deadline werkend | deadline verbeterd |
+|:------------|:-----------------|:-------------------|
+| Mario       | vr 17 sep  17:59 | wo 22 sep  17:59   |
+| Cash        | vr 24 sep  17:59 | wo 29 sep  17:59   |
+| Readability | vr  1 okt  17:59 | wo  6 okt  17:59   |
+| Caesar      | vr  8 okt  17:59 | wo 13 okt  17:59   |
+| Find        | vr 15 okt  17:59 | wo 20 okt  17:59   |
 
 De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering. Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
