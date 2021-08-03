@@ -21,9 +21,9 @@ Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een ess
     - *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
     - *Basisboek-oefeningen* doe je liefst gezamenlijk, maar er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
-- Beoordeling individuele programmeeropdrachten (50%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
+- Beoordeling individuele programmeeropdrachten (75%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
 
-- Beoordeling eindopdracht/tentamen (25%). Hiervoor moet je een voldoende halen om het vak af te kunnen ronden.
+- Beoordeling tentamen (0%). We checken hier in gecontroleerde omstandigheden je programmeerskills. Het telt niet mee voor je eindcijfer, maar je moet een voldoende halen om het vak af te kunnen ronden.
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docenten. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
@@ -37,8 +37,9 @@ Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis
 3. enkele keren individueel contact met je mentor
 4. dagelijks contact met assistenten over je opdrachten
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
+6. algemene aanwezigheid van 9 tot 17 uur
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. **Er is daarom ook niet voorzien in een schriftelijk tentamen (?).** Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerde in de praktijk kleine programmeerproblemen effectief op te lossen.
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 

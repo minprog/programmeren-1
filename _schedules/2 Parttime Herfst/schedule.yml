@@ -57,16 +57,16 @@ Week 5:
 Week 6:
     Maandag:
         'Oefenen: Linear Search [samen]': /exercises/writing/linear
-    Dinsdag:
-        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
-    Woensdag:
-        Sort [samen]: /cs50/sort
+    Dinsdag en woensdag:
+        Find [individueel]: /cs50/find/less
     Donderdag:
-        'Oefenen: Big-O [zelf]': /exercises/study/big-o
+        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
 
 Week 7:
     Maandag en dinsdag:
-        Find [individueel]: /cs50/find/less
+        Sort [samen]: /cs50/sort
+    Dinsdag:
+        'Oefenen: Big-O [zelf]': /exercises/study/big-o
     Woensdag:
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
     Donderdag:

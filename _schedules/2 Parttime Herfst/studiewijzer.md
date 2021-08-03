@@ -21,9 +21,9 @@ Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een ess
     - *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
     - *Basisboek-oefeningen* doe je liefst gezamenlijk, maar er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
-- Beoordeling individuele programmeeropdrachten (50%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
+- Beoordeling individuele programmeeropdrachten (75%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
 
-- Beoordeling eindopdracht/tentamen (25%). Hiervoor moet je een voldoende halen om het vak af te kunnen ronden.
+- Beoordeling tentamen (0%). Het telt niet mee voor je eindcijfer, maar je moet een voldoende halen om het vak af te kunnen ronden.
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docenten. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
@@ -37,7 +37,7 @@ Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis
 4. dagelijks contact met assistenten over je opdrachten
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. **Er is daarom ook niet voorzien in een schriftelijk tentamen (?).** Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerde in de praktijk kleine programmeerproblemen effectief op te lossen.
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
@@ -49,6 +49,13 @@ Je zit bij dit vak in een team met twaalf à vijftien andere studenten. In het t
 Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
 
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is. Mochten we genoodzaakt zijn online-werkgroepen te houden dan ontvang je van je mentor een Zoom-link. Als je een probleem voorziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
+
+
+## Aanwezigheid en locatie
+
+Er is geen minimale aanwezigheidsplicht bij de parttime minor. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak.
+
+We raden studenten aan om regelmatig een studieplek op te zoeken, bijvoorbeeld in de buurt van het assistentielokaal A1.24. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
 
 
 ## Vragen stellen
@@ -97,20 +104,20 @@ Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De 
 
 Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
 
-| opdrachten            | deadline            | verbeterd           |
-|---------------------- | ------------------: | ------------------: |
-| Mario en Cash         | vr 17 sep  17:59    | di 21 sep  17:59    |
-| Readability en Caesar | vr 24 sep  17:59    | di 28 sep  17:59    |
-| Find                  | vr  8 okt  17:59    | di 12 okt  17:59    |
+| opdrachten            | deadline         | verbeterd        |
+|:----------------------|:-----------------|:-----------------|
+| Mario                 | vr 17 sep  17:59 | di 21 sep  17:59 |
+| Cash                  | vr 17 sep  17:59 | di 21 sep  17:59 |
+| Readability en Caesar | vr 24 sep  17:59 | di 28 sep  17:59 |
+| Find                  | vr  8 okt  17:59 | di 12 okt  17:59 |
 
 De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering.
 
 Het intermezzo wordt afgesloten met een eindverslag, ter afronding van het vak:
 
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Intermezzo-verslag    | vr 22 okt  17:59    |
-
+| opdrachten         | deadline         |
+|:-------------------|:-----------------|
+| Intermezzo-verslag | vr 22 okt  17:59 |
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
