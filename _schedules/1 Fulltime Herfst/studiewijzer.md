@@ -99,7 +99,11 @@ Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht lig
 
 > Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over switchen naar parttime. Je mentor kan géén uitzonderingen geven, maar die breng je natuurlijk even op de hoogte als je uitloopt of als je afspraken met de docenten hebt gemaakt.
 
-Voor de individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
+Voor de individuele opdrachten zijn er steeds twee deadlines:
+
+1. De deadline voor het volledig **werkend** hebben van de opdracht. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken. De deadline wordt bepaald door het dagschema.
+
+2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 

@@ -102,9 +102,11 @@ Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De 
 
 > Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst "werkend" maken en zoveel mogelijk inleveren volgens het dagschema. Je hebt ruimte om te sleutelen aan dat schema, maar de uiterste deadline is steeds op vrijdag.
+Voor de individuele opdrachten zijn er steeds twee deadlines:
 
-Tijdens de werkgroep zul je een code review doen met medestudenten op basis van de programma's die je hebt ingeleverd. Na de review kun je verbeteringen doen en lever je een definitieve versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
+1. De deadline voor het volledig **werkend** hebben van de opdracht. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken.
+
+2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
 | opdrachten  | deadline werkend | deadline verbeterd |
 |:------------|:-----------------|:-------------------|
