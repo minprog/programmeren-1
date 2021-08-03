@@ -103,19 +103,13 @@ Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaa
 
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Mario en Cash         | di 14 sep  17:59    |
-| Readability en Caesar | di 21 sep  17:59    |
-| Find                  | di 28 sep  17:59    |
+| opdrachten            | deadline         |
+|:----------------------|:-----------------|
+| Mario en Cash         | wo 15 sep  17:59 |
+| Readability en Caesar | wo 22 sep  17:59 |
+| Find                  | wo 29 sep  17:59 |
 
 Bovenstaand schema is afhankelijk van de werkgroeproostering en volledig onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
-
-Het intermezzo wordt afgesloten met een eindverslag, ter afronding van het vak:
-
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Intermezzo-verslag    | wo 29 sep  17:59    |
 
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
@@ -144,8 +138,6 @@ Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we 
 
 Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
 
-Het totaal van 24 punten staat voor 50% van je eindcijfer.
-
 
 ### Extra opdrachten
 
@@ -153,13 +145,13 @@ Er zijn drie "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten d
 
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
-| extra opdracht | deadline            |
-|--------------- | ------------------: |
-| Credit         | vr 10 sep  17:59    |
-| Crack          | vr 17 sep  17:59    |
-| Fifteen        | vr 24 sep  17:59    |
+| extra opdracht | deadline         |
+|:---------------|:-----------------|
+| Credit         | vr 10 sep  17:59 |
+| Crack          | vr 17 sep  17:59 |
+| Fifteen        | vr 24 sep  17:59 |
 
-Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
+Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
 
 ## Onderdelen
@@ -178,7 +170,7 @@ Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald e
 
 ### Werkuren
 
-Tijdens de werkuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Bereik ze via Slack en zet af en toe een videoverbinding op. Let daarbij wel op dat je op een "redelijke" manier samenwerkt, zoals vermeld aan het einde van deze studiewijzer.
+Tijdens de werkuren, dagelijks van 9 tot 17 uur, word je geacht te werken aan dit vak. Je ontwerpt en programmeert dan aan je opdrachten en je wisselt ideeën en oefeningen uit met de studenten uit je mentorgroep. Let daarbij wel op dat je op een "redelijke" manier samenwerkt, zoals vermeld aan het einde van deze studiewijzer.
 
 ### Checkups
 

@@ -102,22 +102,19 @@ Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De 
 
 > Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
+Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst "werkend" maken en zoveel mogelijk inleveren volgens het dagschema. Je hebt ruimte om te sleutelen aan dat schema, maar de **uiterste** deadline is steeds op vrijdag.
 
-| opdrachten            | deadline         | verbeterd        |
-|:----------------------|:-----------------|:-----------------|
-| Mario                 | vr 17 sep  17:59 | di 21 sep  17:59 |
-| Cash                  | vr 17 sep  17:59 | di 21 sep  17:59 |
-| Readability en Caesar | vr 24 sep  17:59 | di 28 sep  17:59 |
-| Find                  | vr  8 okt  17:59 | di 12 okt  17:59 |
+Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
 
-De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering.
+| opdrachten  | werkend          | verbeterd        |
+|:------------|:-----------------|:-----------------|
+| Mario       | vr 17 sep  17:59 | wo 22 sep  17:59 |
+| Cash        | vr 24 sep  17:59 | wo 29 sep  17:59 |
+| Readability | vr  1 okt  17:59 | wo  6 okt  17:59 |
+| Caesar      | vr  8 okt  17:59 | wo 13 okt  17:59 |
+| Find        | vr 15 okt  17:59 | wo 20 okt  17:59 |
 
-Het intermezzo wordt afgesloten met een eindverslag, ter afronding van het vak:
-
-| opdrachten         | deadline         |
-|:-------------------|:-----------------|
-| Intermezzo-verslag | vr 22 okt  17:59 |
+De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering. Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
 <details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
 
@@ -145,8 +142,6 @@ Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we 
 
 Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
 
-Het totaal van 24 punten staat voor 50% van je eindcijfer.
-
 
 ### Extra opdrachten
 
@@ -154,13 +149,13 @@ Er zijn drie "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten d
 
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
-| extra opdracht | deadline            |
-|--------------- | ------------------: |
-| Credit         | vr 17 sep  17:59    |
-| Crack          | vr 24 sep  17:59    |
-| Fifteen        | vr  8 okt  17:59    |
+| extra opdracht | deadline         |
+|:---------------|:-----------------|
+| Credit         | vr 17 sep  17:59 |
+| Crack          | vr 24 sep  17:59 |
+| Fifteen        | vr  8 okt  17:59 |
 
-Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
+Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
 
 ## Onderdelen
