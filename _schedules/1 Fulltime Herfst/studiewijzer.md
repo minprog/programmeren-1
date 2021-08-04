@@ -113,9 +113,9 @@ Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
 Bovenstaand schema is afhankelijk van de werkgroeproostering en volledig onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
-### Wat als ik ziek ben of achterloop?
+### Ziekte en inhalen
 
-Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via een berichtje op Slack. Het contact hierover houden is het belangrijkste dat je kunt doen.
+Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via een berichtje op Slack. Je hoeft het niet uitgebreid uit te leggen, maar wel meteen melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
 
 - Ben je één of twee dagen ziek of je hebt de opdracht niet af, dan ga je de volgende morgen direct aan de slag met een assistent in een "versnellersessie" ([maak een afspraak](#)). Let op dat systematisch achterlopen niet mogelijk is. Ga je regelmatig één of twee dagen achterlopen dan zullen we je naar de parttime-versie van het vak verwijzen.
 
