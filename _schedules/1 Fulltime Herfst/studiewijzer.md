@@ -95,9 +95,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema volledig kunt aanhouden, en dat je elke opdracht inlevert zodra je die af hebt. Er zijn dus dagelijkse deadlines.
 
-Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je sluit dan de volgende ochtend aan bij een **versneller**-bijeenkomst, waar je kort je plan bespreekt om bij te komen en extra hulp kunt krijgen.
-
-> Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over switchen naar parttime. Je mentor kan géén uitzonderingen geven, maar die breng je natuurlijk even op de hoogte als je uitloopt of als je afspraken met de docenten hebt gemaakt.
+Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je sluit dan de volgende ochtend aan bij een **versneller**-bijeenkomst ([maak een afspraak](#)) om weer goed op gang te komen.
 
 Voor de individuele opdrachten zijn er steeds twee deadlines:
 
