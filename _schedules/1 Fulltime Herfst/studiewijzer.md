@@ -140,7 +140,6 @@ Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we 
 
 Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
 
-
 ### Extra opdrachten
 
 Er zijn drie "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
@@ -198,6 +197,9 @@ Pearson Education, 2015
 ISBN 9780321776419
 </details>
 
+### Tentamen
+
+Tijdens het tentamen ga je aan de slag met een selectie van kleine programmeerproblemen. Aan jou de taak om deze te analyseren en een mooie oplossing te schrijven (op de computer!). De kennis en ervaring die je nodig hebt om dit te doen bouw je op tijdens het maken van de verschillende opdrachten in de cursus. Om te wennen aan de vorm is er natuurlijk ook een oefententamen.
 
 ## Samenwerken
 
