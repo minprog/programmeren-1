@@ -111,7 +111,7 @@ Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 | Readability en Caesar | wo 22 sep  17:59 |
 | Find                  | wo 29 sep  17:59 |
 
-Bovenstaand schema is afhankelijk van de werkgroeproostering en volledig onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
+Bovenstaand schema is afhankelijk van de werkgroeproostering en onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
 ### Ziekte en inhalen
 

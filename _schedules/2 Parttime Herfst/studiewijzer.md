@@ -108,7 +108,9 @@ Voor de individuele opdrachten zijn er steeds twee deadlines:
 
 2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
-| opdrachten  | deadline werkend | deadline verbeterd |
+Dit is een overzicht van de deadlines per week:
+
+| module      | deadline werkend | deadline verbeterd |
 |:------------|:-----------------|:-------------------|
 | Mario       | vr 17 sep  17:59 | wo 22 sep  17:59   |
 | Cash        | vr 24 sep  17:59 | wo 29 sep  17:59   |
