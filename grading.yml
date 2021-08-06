@@ -124,13 +124,13 @@ grades:
 
 calculation:
     eindcijfer_fulltime:
-        opdrachten: 0
+        opdrachten: 25
         basisboek: 0
         technology: 0
         reviews_fulltime: 75
         retrospectives: 0
     eindcijfer_parttime:
-        opdrachten: 0
+        opdrachten: 25
         basisboek: 0
         technology: 0
         reviews_parttime: 75
@@ -174,7 +174,6 @@ opdrachten:
         caesar: 1
         functions: 1
         linear: 1
-        scrabble: 1
         algorithms: 1
         sort: 1
         find: 1
