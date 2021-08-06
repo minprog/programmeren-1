@@ -180,13 +180,9 @@ opdrachten:
         find: 1
         big_o: 1
         complexity_puzzle: 1
-
-extra:
-    show_progress: true
-    submits:
-        credit: 1
-        crack: 1
-        fifteen_random: 1
+        credit: :bonus
+        crack: :bonus
+        fifteen_random: :bonus
 
 basisboek:
     show_progress: true
@@ -203,14 +199,14 @@ technology:
         internet: 1
         security: 1
 
-reviews-fulltime:
+reviews_fulltime:
     show_progress: true
     submits:
         fulltime_1: 1
         fulltime_2: 1
         fulltime_3: 1
 
-reviews-parttime:
+reviews_parttime:
     show_progress: true
     submits:
         parttime_1: 1
