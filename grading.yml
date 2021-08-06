@@ -70,7 +70,7 @@ grades:
     readability: *automatic
     caesar: *automatic
     functions: *check
-    linear: *automatic
+    linear: *check
     algorithms: *check
     sort: *automatic
     find_less: *automatic
