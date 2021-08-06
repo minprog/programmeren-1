@@ -24,7 +24,7 @@ In order to keep the task within reasonable limits, for each module we will prov
 
 5.  Now your partner will share their computer and you can browse through their code, ask questions and provide advice.
 
-6.  Finally, take an hour or so to **improve your programs** by considering the feedback that you got in the review. Don't forget to re-read the explanations of the aspects once more!
+6.  Finally, take an hour or so to **improve your programs** by considering the feedback that you got in the review. Don't forget to re-read the explanations of the aspects once more! In addition, it is completely acceptable to improve your programs in other ways.
 
 ## What to submit
 
