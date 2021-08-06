@@ -63,7 +63,7 @@ grades:
     scratch: *check
     hello: *automatic
     population: *automatic
-    mario: *automatic
+    mario_less: *automatic
     cash: *automatic
     strings: *check
     scrabble: *automatic
@@ -73,7 +73,7 @@ grades:
     linear: *automatic
     algorithms: *check
     sort: *automatic
-    find: *automatic
+    find_less: *automatic
     big_o: *automatic
     complexity_puzzle: *check
 
@@ -166,7 +166,7 @@ opdrachten:
         scratch: 1
         hello: 1
         population: 1
-        mario: 1
+        mario_less: 1
         cash: 1
         strings: 1
         scrabble: 1
@@ -176,7 +176,7 @@ opdrachten:
         linear: 1
         algorithms: 1
         sort: 1
-        find: 1
+        find_less: 1
         big_o: 1
         complexity_puzzle: 1
         credit: :bonus
