@@ -71,7 +71,6 @@ grades:
     caesar: *automatic
     functions: *check
     linear: *automatic
-    scrabble: *automatic
     algorithms: *check
     sort: *automatic
     find: *automatic
