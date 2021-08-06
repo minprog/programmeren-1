@@ -78,9 +78,9 @@ grades:
     big_o: *automatic
     complexity_puzzle: *check
 
-    credit: 1
-    crack: 1
-    fifteen_random: 1
+    credit: *automatic
+    crack: *automatic
+    fifteen_random: *automatic
 
     basics_variables: *check
     basics_control_flow: *check
