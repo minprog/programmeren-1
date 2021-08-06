@@ -18,25 +18,25 @@ The form below is your task for this final step in the current review cycle. Aft
 
 What are differences (or similarities!) between the feedback from your mentor and the things that you focused on when revising your code before submitting the final versions?
 
-<textarea name="form[q1]" rows="4"></textarea>
+<textarea name="form[q1]" rows="4" required></textarea>
 
 
 ## Question 2
 
 What did you learn about writing "good code" during this module's feedback cycle? You may have learned by doing research, from the partner who reviewed your code, and from your mentor's feedback.
 
-<textarea name="form[q2]" rows="4"></textarea>
+<textarea name="form[q2]" rows="4" required></textarea>
 
 
 ## Question 3
 
 What would you like to improve for the programs in the next module, given what you have learned during current and earlier feedback cycles?
 
-<textarea name="form[q3]" rows="4"></textarea>
+<textarea name="form[q3]" rows="4" required></textarea>
 
 
 ## Question 4
 
 If anything, what isn't completely clear from the feedback that your mentor provided on your submitted programs? Your mentor will be able to read your answer.
 
-<textarea name="form[q4]" rows="4"></textarea>
+<textarea name="form[q4]" rows="4" required></textarea>
