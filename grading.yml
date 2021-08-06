@@ -82,6 +82,10 @@ grades:
     crack: *automatic
     fifteen_random: *automatic
 
+    hardware: *check
+    internet: *check
+    security: *check
+
     basics_variables: *check
     basics_control_flow: *check
     basics_arrays: *check
@@ -189,7 +193,7 @@ basisboek:
     show_progress: true
     submits:
         basics_variables: 1
-        basics_control-flow: 1
+        basics_control_flow: 1
         basics_arrays: 1
         basics_functions: 1
 
