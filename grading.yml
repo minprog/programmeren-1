@@ -74,7 +74,7 @@ grades:
     algorithms: *check
     sort: *automatic
     find_less: *automatic
-    big_o: *automatic
+    big_o: *check
     complexity_puzzle: *check
 
     credit: *automatic
