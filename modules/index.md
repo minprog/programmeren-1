@@ -10,10 +10,15 @@ Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te 
 
 Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules.
 
-- [Code review: C](/modules/c/review)
-- [Code review: Crypto](/modules/crypto/review)
-- [Code review: Find](/modules/find/review)
+- [Code review: Fulltime 1](/modules/fulltime-1)
+- [Code review: Fulltime 2](/modules/fulltime-2)
+- [Code review: Fulltime 3](/modules/fulltime-3)
 
+- [Code review: Parttime 1](/modules/parttime-1)
+- [Code review: Parttime 2](/modules/parttime-2)
+- [Code review: Parttime 3](/modules/parttime-3)
+- [Code review: Parttime 4](/modules/parttime-4)
+- [Code review: Parttime 5](/modules/parttime-5)
 
 ## Retrospectives
 
@@ -21,6 +26,8 @@ Zodra je opdrachten zijn nagekeken krijg je een aantal feedbackpunten van je men
 
 Retrospectives zijn er om je te helpen nog even actief naar de feedback te kijken voordat je verder gaat. Op de pagina's hieronder vul je een retrospective in. Er is daar ook ruimte om aan te geven dat je een deel van de feedback niet begrijpt---maar vraag je mentor vooral gewoon om hulp als dit nodig is!
 
-- [Retrospective: C](/modules/c/retrospective)
-- [Retrospective: Crypto](/modules/crypto/retrospective)
-- [Retrospective: Find](/modules/find/retrospective)
+- [Retrospective 1](/modules/retrospective-1)
+- [Retrospective 2](/modules/retrospective-2)
+- [Retrospective 3](/modules/retrospective-3)
+- [Retrospective 4](/modules/retrospective-4)
+- [Retrospective 5](/modules/retrospective-5)

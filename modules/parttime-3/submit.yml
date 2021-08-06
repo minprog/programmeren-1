@@ -1,0 +1,4 @@
+name: parttime-3
+files:
+    required:
+        - readability.c
