@@ -8,11 +8,13 @@ Je gaat code reviews doen met wisselende teamgenoten. De reviews vinden plaats t
 
 Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te maken op basis van de gekregen feedback. Dan lever je de uitwerkingen nog één keer in, zodat ze kunnen worden nagekeken door je mentor.
 
-Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules.
+**Fulltime**
 
 - [Code review: Fulltime 1](/modules/fulltime-1)
 - [Code review: Fulltime 2](/modules/fulltime-2)
 - [Code review: Fulltime 3](/modules/fulltime-3)
+
+**Parttime**
 
 - [Code review: Parttime 1](/modules/parttime-1)
 - [Code review: Parttime 2](/modules/parttime-2)
@@ -25,6 +27,8 @@ Hieronder de link(s) naar de code-reviewinstructies van de verschillende modules
 Zodra je opdrachten zijn nagekeken krijg je een aantal feedbackpunten van je mentor. Dit kunnen nooit alle dingen zijn die verbeterd kunnen worden aan je uitwerking, maar een aantal belangrijke punten worden er wel uitgelicht. Aan jou om te kijken hoe je de feedback in volgende opdrachten kunt toepassen.
 
 Retrospectives zijn er om je te helpen nog even actief naar de feedback te kijken voordat je verder gaat. Op de pagina's hieronder vul je een retrospective in. Er is daar ook ruimte om aan te geven dat je een deel van de feedback niet begrijpt---maar vraag je mentor vooral gewoon om hulp als dit nodig is!
+
+De retrospectives gelden zowel voor Parttime als Fulltime, maar die laatste groep doet alleen de eerste drie.
 
 - [Retrospective 1](/modules/retrospective-1)
 - [Retrospective 2](/modules/retrospective-2)
