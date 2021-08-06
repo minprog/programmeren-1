@@ -1,4 +1,4 @@
-name: parttime-3
+name: parttime_3
 files:
     required:
         - readability.c

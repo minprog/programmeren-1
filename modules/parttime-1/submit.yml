@@ -1,4 +1,4 @@
-name: parttime-1
+name: parttime_1
 files:
     required:
         - mario.c

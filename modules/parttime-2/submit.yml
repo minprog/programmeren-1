@@ -1,4 +1,4 @@
-name: parttime-2
+name: parttime_2
 files:
     required:
         - cash.c

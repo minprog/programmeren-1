@@ -1,4 +1,4 @@
-name: fulltime-2
+name: fulltime_2
 files:
     required:
         - readability.c

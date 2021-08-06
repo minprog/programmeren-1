@@ -1,15 +1,15 @@
 quality:
     remote: https://github.com/minprog/quality.git
-    branch: main
+    branch: 2021
 cs50:
     remote: https://github.com/minprog/cs50x.git
-    branch: 2020
+    branch: 2021
 shorts:
     remote: https://github.com/minprog/cs50-shorts.git
     branch: main
 exercises:
     remote: https://github.com/minprog/exercises.git
-    branch: main
+    branch: 2021
 lectures:
     remote: https://github.com/minprog/cs50-lectures.git
     branch: 2020

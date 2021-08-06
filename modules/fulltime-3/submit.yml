@@ -1,4 +1,4 @@
-name: fulltime-3
+name: fulltime_3
 files:
     required:
         - helpers.c

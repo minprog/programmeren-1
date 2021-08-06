@@ -1,4 +1,4 @@
-name: fulltime-1
+name: fulltime_1
 files:
     required:
         - mario.c

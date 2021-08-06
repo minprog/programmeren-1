@@ -1,4 +1,4 @@
-name: parttime-4
+name: parttime_4
 files:
     required:
         - caesar.c

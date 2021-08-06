@@ -60,23 +60,48 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
+    scratch: *check
     hello: *automatic
+    population: *automatic
+    mario: *automatic
+    cash: *automatic
+    strings: *check
+    scrabble: *automatic
+    readability: *automatic
+    caesar: *automatic
+    functions: *check
+    linear: *automatic
+    scrabble: *automatic
+    algorithms: *check
+    sort: *automatic
+    find: *automatic
+    big_o: *automatic
+    complexity_puzzle: *check
 
-    fulltime-1: *manual
-    fulltime-2: *manual
-    fulltime-3: *manual
+    credit: 1
+    crack: 1
+    fifteen_random: 1
 
-    parttime-1: *manual
-    parttime-2: *manual
-    parttime-3: *manual
-    parttime-4: *manual
-    parttime-5: *manual
+    basics_variables: *check
+    basics_control_flow: *check
+    basics_arrays: *check
+    basics_functions: *check
 
-    retrospective-1: *check
-    retrospective-2: *check
-    retrospective-3: *check
-    retrospective-4: *check
-    retrospective-5: *check
+    fulltime_1: *manual
+    fulltime_2: *manual
+    fulltime_3: *manual
+
+    parttime_1: *manual
+    parttime_2: *manual
+    parttime_3: *manual
+    parttime_4: *manual
+    parttime_5: *manual
+
+    retrospective_1: *check
+    retrospective_2: *check
+    retrospective_3: *check
+    retrospective_4: *check
+    retrospective_5: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -95,13 +120,17 @@ grades:
 # calculations.
 
 calculation:
-    eindcijfer-fulltime:
+    eindcijfer_fulltime:
         opdrachten: 0
-        reviews-fulltime: 75
+        basisboek: 0
+        technology: 0
+        reviews_fulltime: 75
         retrospectives: 0
-    eindcijfer-parttime:
+    eindcijfer_parttime:
         opdrachten: 0
-        reviews-fulltime: 75
+        basisboek: 0
+        technology: 0
+        reviews_parttime: 75
         retrospectives: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -131,29 +160,67 @@ calculation:
 opdrachten:
     show_progress: true
     submits:
+        scratch: 1
         hello: 1
+        population: 1
+        mario: 1
+        cash: 1
+        strings: 1
+        scrabble: 1
+        readability: 1
+        caesar: 1
+        functions: 1
+        linear: 1
+        scrabble: 1
+        algorithms: 1
+        sort: 1
+        find: 1
+        big_o: 1
+        complexity_puzzle: 1
+
+extra:
+    show_progress: true
+    submits:
+        credit: 1
+        crack: 1
+        fifteen_random: 1
+
+basisboek:
+    show_progress: true
+    submits:
+        basics_variables: 1
+        basics_control-flow: 1
+        basics_arrays: 1
+        basics_functions: 1
+
+technology:
+    show_progress: true
+    submits:
+        hardware: 1
+        internet: 1
+        security: 1
 
 reviews-fulltime:
     show_progress: true
     submits:
-        fulltime-1: 1
-        fulltime-2: 1
-        fulltime-3: 1
+        fulltime_1: 1
+        fulltime_2: 1
+        fulltime_3: 1
 
 reviews-parttime:
     show_progress: true
     submits:
-        parttime-1: 1
-        parttime-2: 1
-        parttime-3: 1
-        parttime-4: 1
-        parttime-5: 1
+        parttime_1: 1
+        parttime_2: 1
+        parttime_3: 1
+        parttime_4: 1
+        parttime_5: 1
 
 retrospectives:
     show_progress: true
     submits:
-        retrospective-1: 1
-        retrospective-2: 1
-        retrospective-3: 1
-        retrospective-4: 1
-        retrospective-5: 1
+        retrospective_1: 1
+        retrospective_2: 1
+        retrospective_3: 1
+        retrospective_4: 1
+        retrospective_5: 1

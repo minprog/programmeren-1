@@ -1,4 +1,4 @@
-name: parttime-5
+name: parttime_5
 files:
     required:
         - helpers.c
