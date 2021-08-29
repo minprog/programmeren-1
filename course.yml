@@ -7,6 +7,7 @@ links:
     '[terminal] IDE': https://ide.cs50.io/
     '[book] Manual': https://man.cs50.io/
     '[people-fill] Assistentie': '#'
+    '[chat] Spreekuur': '#'
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/ -- Copyright 2011--2021, David J. Malan.'
