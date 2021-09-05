@@ -6,7 +6,7 @@
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <progik@mprog.nl>.
+De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
 Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
 
@@ -35,20 +35,20 @@ Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
 2. bijwonen van alle [checkups](#checkups) met je team
 3. enkele keren individueel contact met je mentor
-4. dagelijks contact met assistenten over je opdrachten
+4. regelmatig contact met assistenten over je opdrachten (hulp vragen!)
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
 6. algemene aanwezigheid van 9 tot 17 uur
 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerde in de praktijk kleine programmeerproblemen effectief op te lossen.
 
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten of werkgroepen, dan kun je het vak niet halen.
 
 
 ## Team en mentor
 
-Je zit bij dit vak in een team met acht à twaalf andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste week bekend gemaakt.
+Je zit bij dit vak in een team met twaalf à veertien andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **indeling** wordt op de eerste dag bekend gemaakt.
 
-Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
+Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack), vooral bedoeld voor snelle coördinatie met je mentor en team.
 
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is. Mochten we genoodzaakt zijn online-werkgroepen te houden dan ontvang je van je mentor een Zoom-link. Als je een probleem voorziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
 
@@ -95,7 +95,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema volledig kunt aanhouden, en dat je elke opdracht inlevert zodra je die af hebt. Er zijn dus dagelijkse deadlines.
 
-Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je sluit dan de volgende ochtend aan bij een **versneller**-bijeenkomst ([maak een afspraak](#)) om weer goed op gang te komen.
+Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je gaat de volgende dag naar het docentenspreekuur om afspraken te maken over het weer op gang komen, of om gewoon even je hart te luchten.
 
 Voor de individuele opdrachten zijn er steeds twee deadlines:
 
@@ -117,9 +117,9 @@ Bovenstaand schema is afhankelijk van de werkgroeproostering en onder voorbehoud
 
 Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via een berichtje op Slack. Je hoeft het niet uitgebreid uit te leggen, maar wel meteen melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
 
-- Ben je één of twee dagen ziek of je hebt de opdracht niet af, dan ga je de volgende morgen direct aan de slag met een assistent in een "versnellersessie" ([maak een afspraak](#)). Let op dat systematisch achterlopen niet mogelijk is. Ga je regelmatig één of twee dagen achterlopen dan zullen we je naar de parttime-versie van het vak verwijzen.
+- Ben je één of twee dagen ziek of je hebt de opdracht niet af, dan ga je de volgende morgen direct naar het docentenspreekuur ([maak een afspraak](#)). Let op dat systematisch achterlopen niet mogelijk is. Ga je regelmatig één of twee dagen achterlopen dan zullen we je naar de parttime-versie van het vak verwijzen.
 
-- Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk is.
+- Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen (houd wel contact!). Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk is.
 
 - Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet je mentor). Stuur maar een [mailtje](mailto:help@mprog.nl)!
 
