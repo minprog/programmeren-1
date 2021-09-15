@@ -155,9 +155,9 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 
 | extra opdracht | deadline         |
 |:---------------|:-----------------|
-| Credit         | vr 17 sep  17:59 |
-| Crack          | vr 24 sep  17:59 |
-| Fifteen        | vr  8 okt  17:59 |
+| Credit         | vr 24 sep  17:59 |
+| Crack          | vr  8 okt  17:59 |
+| Fifteen        | vr 22 okt  17:59 |
 
 Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
