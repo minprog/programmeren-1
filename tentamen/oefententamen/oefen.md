@@ -77,4 +77,56 @@ Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoog
      #                          #
     ##############################
 
+
 ## Temperaturen (niveau 2)
+
+Graden Celsius C en graden Fahrenheit F staan met elkaar in verband via `F = (18C + 320) / 10` en andersom `C = (10F - 320) / 18`. Schrijf een programma dat de gebruiker vraagt om de maat van temperatuur, of C van Celsius of F van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapsgrootte. Waarna een nette tabel wordt uitgeprint met op iedere rij de gekozen temperatuur en de temperatuur in de andere maat.
+
+Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen voor de maat van temperatuur. Vraag de gebruiker ook opnieuw om input als er een stapgrootte kleiner dan 1 wordt ingevuld. 
+
+    $ ./temperaturen
+    Welke maat van temperatuur (C of F)? C
+    Wat is de begintemperatuur? 0
+    Wat is de eindtemperatuur? 20
+    Wat is de stapgrootte? 5
+      C |   F
+      0 |  32
+      5 |  41
+     10 |  50
+     15 |  59
+     20 |  68
+
+    $ ./temperaturen
+    Welke maat van temperatuur (C of F)? F
+    Wat is de begintemperatuur? 0
+    Wat is de eindtemperatuur? 10
+    Wat is de stapgrootte? 2
+      F |   C
+      0 | -17
+      2 | -16
+      4 | -15
+      6 | -14
+      8 | -13
+     10 | -12
+
+    $ ./temperaturen 
+    Welke maat van temperatuur (C of F)? F
+    Wat is de begintemperatuur? 100
+    Wat is de eindtemperatuur? 0
+    Wat is de stapgrootte? 3
+      F |   C
+
+     $ ./temperaturen 
+    Welke maat van temperatuur (C of F)? c
+    Welke maat van temperatuur (C of F)? v
+    Welke maat van temperatuur (C of F)? F
+    Wat is de begintemperatuur? 0
+    Wat is de eindtemperatuur? 9
+    Wat is de stapgrootte? -3
+    Wat is de stapgrootte? 0
+    Wat is de stapgrootte? 3
+      F |   C
+      0 | -17
+      3 | -16
+      6 | -14
+      9 | -12
