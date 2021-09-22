@@ -18,6 +18,7 @@ Wanneer je vroeger in de trein stapte zonder kaartje betaalde je bij controle do
     Je betaalt gemiddeld 5.63 euro
     Dit is 141% van het normale bedrag
 
+> Let op, alle getallen moeten goed op halven worden afgerond en euro's mogen niet meer dan twee decimalen na de komma worden geprint.
 
 ## Babysitten (niveau 1)
 
