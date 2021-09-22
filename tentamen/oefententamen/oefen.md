@@ -46,6 +46,35 @@ In Amsterdam kost de gemiddelde tramrit nu 2,25 euro. Omdat er veel zonder kaart
     Hoe hoeg is de boete? 25 euro
     De pakkans moet minimaal 10% zijn.
 
+
 ## Holle driehoek (niveau 2)
+
+Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet hoger dan 15.
+
+    $ ./driehoek
+    Hoe hoog moet de driehoek zijn? 5
+        ##
+       #  #
+      #    #
+     #      #
+    ##########
+
+    $ ./driehoek
+    Hoe hoog moet de driehoek zijn? 15
+                  ##
+                 #  #
+                #    #
+               #      #
+              #        #
+             #          #
+            #            #
+           #              #
+          #                #
+         #                  #
+        #                    #
+       #                      #
+      #                        #
+     #                          #
+    ##############################
 
 ## Temperaturen (niveau 2)
