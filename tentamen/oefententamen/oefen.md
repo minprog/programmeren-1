@@ -130,3 +130,5 @@ Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen 
       3 | -16
       6 | -14
       9 | -12
+
+> Tip: zo print je een waarde uit met een vaste lengte `printf("%3d", getal)`. Is `getal` hier bijvoorbeeld `9`, dan worden er twee spaties uitgeprint voor de `9` om zo toch de opgegeven lengte 3 te krijgen.
