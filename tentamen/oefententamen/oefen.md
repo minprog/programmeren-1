@@ -1,6 +1,6 @@
 # Oefententamen
 
-Hieronder vind je vijf opdrachten van verschillende niveau's. Om het tentamen te halen moet je één werkend programma van het eerste niveau inleveren en twee werkende programma's van het tweede niveau. Je mag verder zelf kiezen welke opdrachten je maakt.
+Hieronder vind je vijf opdrachten van verschillende niveaus. Om het tentamen te halen moet je één werkend programma van het eerste niveau inleveren en twee werkende programma's van het tweede niveau. Je mag verder zelf kiezen welke opdrachten je maakt.
 
 ## Kaartje in de trein kopen (niveau 1)
 
