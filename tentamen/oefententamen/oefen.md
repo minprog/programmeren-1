@@ -37,7 +37,7 @@ Babysitten is tegenwoordig een lucratief bijbaantje. Wanneer babies zich koest h
     Je verdiende 44 euro
 
     $ ./babysitten
-    Wanneer begon je met babysitten? 2045
+    Wanneer begon je met babysitten? 2040
     Wanneer was je klaar met babysitten? 2320
     Je verdiende 24 euro
 
