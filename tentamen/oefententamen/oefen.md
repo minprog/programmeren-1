@@ -42,11 +42,11 @@ Babysitten is tegenwoordig een lucratief bijbaantje. Wanneer babies zich koest h
 In Amsterdam kost de gemiddelde tramrit nu 2,25 euro. Omdat er veel zonder kaartje gereden is de boete aanzienlijk. De pakkans (de kans dat een rijder zonder kaartje betrapt wordt) is niet zo groot, mede door de opzichtige kleding en de omvang van de controleteams. De GVB moet ieder jaar een afweging maken tussen de hoogte van de boete en de pakkans. Een te hoge boete wordt onredelijk gevonden en een hoge pakkans betekent ook de inzet van veel controleurs. Om ervoor te zorgen dat er toch kaartjes worden gekocht, moet de pakkans maal de boete boven de gemiddelde ritprijs liggen. Daarom heeft de GVB behoefte aan een programma dat gegeven de hoogte van een boete berekent hoe hoog de pakkans moet zijn in percentages.
 
     $ ./tram
-    Hoe hoog is de boete? 60 euro
+    Hoe hoog is de boete? 60
     De pakkans moet minimaal 4 procent zijn.
 
     $ ./tram
-    Hoe hoeg is de boete? 25 euro
+    Hoe hoeg is de boete? 25
     De pakkans moet minimaal 10 procent zijn.
 
 
