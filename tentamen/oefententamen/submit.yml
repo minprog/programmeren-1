@@ -1,0 +1,11 @@
+name: oefententamen
+files:
+    optional:
+        - trein.c
+        - babysitten.c
+        - tram.c
+        - driehoek.c
+        - temperaturen.c
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/oefententamen
