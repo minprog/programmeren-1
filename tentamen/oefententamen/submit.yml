@@ -3,7 +3,6 @@ files:
     optional:
         - trein.c
         - babysitten.c
-        - tram.c
         - driehoek.c
         - temperaturen.c
 check:
