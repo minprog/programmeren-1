@@ -36,6 +36,16 @@ Babysitten is tegenwoordig een lucratief bijbaantje. Wanneer babies zich koest h
     Wanneer was je klaar met babysitten? 0200
     Je verdiende 44 euro
 
+    $ ./babysitten
+    Wanneer begon je met babysitten? 2045
+    Wanneer was je klaar met babysitten? 2320
+    Je verdiende 24 euro
+
+    $ ./babysitten
+    Wanneer begon je met babysitten? 0033
+    Wanneer was je klaar met babysitten? 0133
+    Je verdiende 20 euro
+
 
 ## Tram zonder kaartje (niveau 2)
 
