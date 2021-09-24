@@ -93,12 +93,12 @@ Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoog
 
 ## Temperaturen (niveau 2)
 
-Graden Celsius C en graden Fahrenheit F staan met elkaar in verband via `F = (18C + 320) / 10` en andersom `C = (10F - 320) / 18`. Schrijf een programma dat de gebruiker vraagt om de maat van temperatuur, of C van Celsius of F van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapsgrootte. Waarna een nette tabel wordt uitgeprint met op iedere rij de gekozen temperatuur en de temperatuur in de andere maat.
+Graden Celsius C en graden Fahrenheit F staan met elkaar in verband via `F = (18C + 320) / 10` en andersom `C = (10F - 320) / 18`. Schrijf een programma dat de gebruiker vraagt om de eenheid van temperatuur, of C van Celsius of F van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapsgrootte. Waarna een nette tabel wordt uitgeprint met op iedere rij de gekozen temperatuur en de temperatuur in de andere eenheid.
 
-Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen voor de maat van temperatuur. Vraag de gebruiker ook opnieuw om input als er een stapgrootte kleiner dan 1 wordt ingevuld. 
+Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen voor de eenheid van temperatuur. Vraag de gebruiker ook opnieuw om input als er een stapgrootte kleiner dan 1 wordt ingevuld. 
 
     $ ./temperaturen
-    Welke maat van temperatuur (C of F)? C
+    Welke eenheid van temperatuur (C of F)? C
     Wat is de begintemperatuur? 0
     Wat is de eindtemperatuur? 20
     Wat is de stapgrootte? 5
@@ -110,7 +110,7 @@ Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen 
      20 |  68
 
     $ ./temperaturen
-    Welke maat van temperatuur (C of F)? F
+    Welke eenheid van temperatuur (C of F)? F
     Wat is de begintemperatuur? 0
     Wat is de eindtemperatuur? 10
     Wat is de stapgrootte? 2
@@ -123,16 +123,16 @@ Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen 
      10 | -12
 
     $ ./temperaturen 
-    Welke maat van temperatuur (C of F)? F
+    Welke eenheid van temperatuur (C of F)? F
     Wat is de begintemperatuur? 100
     Wat is de eindtemperatuur? 0
     Wat is de stapgrootte? 3
       F |   C
 
      $ ./temperaturen 
-    Welke maat van temperatuur (C of F)? c
-    Welke maat van temperatuur (C of F)? v
-    Welke maat van temperatuur (C of F)? F
+    Welke eenheid van temperatuur (C of F)? c
+    Welke eenheid van temperatuur (C of F)? v
+    Welke eenheid van temperatuur (C of F)? F
     Wat is de begintemperatuur? 0
     Wat is de eindtemperatuur? 9
     Wat is de stapgrootte? -3
