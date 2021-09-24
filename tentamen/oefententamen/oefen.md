@@ -52,7 +52,7 @@ In Amsterdam kost de gemiddelde tramrit nu 2,25 euro. Omdat er veel zonder kaart
 
 ## Holle driehoek (niveau 2)
 
-Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet hoger dan 15.
+Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet hoger dan 20.
 
     $ ./driehoek
     Hoe hoog moet de driehoek zijn? 5
