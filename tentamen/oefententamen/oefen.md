@@ -18,7 +18,7 @@ Wanneer je vroeger in de trein stapte zonder kaartje betaalde je bij controle do
     Je betaalt 5.63 euro
     Dit is 141 procent van het normale bedrag
 
-> Let op, alle getallen moeten goed worden afgerond en euro's mogen niet meer dan twee decimalen na de komma worden geprint.
+> Let op, alle resultaten moeten goed worden afgerond en euro's mogen niet meer dan twee decimalen na de komma worden geprint.
 
 
 
