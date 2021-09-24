@@ -43,11 +43,11 @@ In Amsterdam kost de gemiddelde tramrit nu 2,25 euro. Omdat er veel zonder kaart
 
     $ ./tram
     Hoe hoog is de boete? 60 euro
-    De pakkans moet minimaal 4% zijn.
+    De pakkans moet minimaal 4 procent zijn.
 
     $ ./tram
     Hoe hoeg is de boete? 25 euro
-    De pakkans moet minimaal 10% zijn.
+    De pakkans moet minimaal 10 procent zijn.
 
 
 ## Holle driehoek (niveau 2)
