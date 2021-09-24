@@ -10,15 +10,17 @@ Wanneer je vroeger in de trein stapte zonder kaartje betaalde je bij controle do
     Hoeveel kilometers ga je rijden? 100
     Wat is de kans dat je wordt gecontroleerd in procenten? 50
     Je betaalt gemiddeld 11.75 euro
-    Dit is 59% van het normale bedrag
+    Dit is 59 procent van het normale bedrag
 
     $ ./trein
     Hoeveel kilometers ga je rijden? 20
     Wat is de kans dat je wordt gecontroleerd in procenten? 75
     Je betaalt gemiddeld 5.63 euro
-    Dit is 141% van het normale bedrag
+    Dit is 141 procent van het normale bedrag
 
 > Let op, alle getallen moeten goed op halven worden afgerond en euro's mogen niet meer dan twee decimalen na de komma worden geprint.
+
+
 
 ## Babysitten (niveau 1)
 
