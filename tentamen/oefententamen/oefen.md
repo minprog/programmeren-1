@@ -1,6 +1,6 @@
 # Oefententamen
 
-Hieronder vind je vier opdrachten van verschillende niveaus (bij het tentamen zijn dit er vijf). Om het tentamen te halen moet je één werkend programma van het eerste niveau inleveren en twee werkende programma's van het tweede niveau.
+Hieronder vind je vier opdrachten van verschillende niveaus (bij het tentamen zijn dit er vijf). Om het tentamen te halen moet je minimaal één goedwerkend programma van het eerste niveau inleveren en twee goedwerkende programma's van het tweede niveau.
 
 Het doel is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren in C, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
