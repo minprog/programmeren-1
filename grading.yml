@@ -222,3 +222,8 @@ retrospectives:
         retrospective_3: 1
         retrospective_4: 1
         retrospective_5: 1
+
+tentamens:
+    show_progress: true
+    submits:
+        oefententamen: 0
