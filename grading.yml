@@ -107,6 +107,7 @@ grades:
     retrospective_5: *check
 
     oefententamen: *check
+    tentamen: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -229,3 +230,4 @@ tentamens:
     show_progress: true
     submits:
         oefententamen: 0
+        tentamen: 0
