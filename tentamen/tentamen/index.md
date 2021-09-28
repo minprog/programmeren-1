@@ -109,7 +109,7 @@ Schrijf een programma dat een keten van DNA aanneemt en de complementaire RNA-ke
 
 ## Spam (niveau 2)
 
-Omdat je emailbox volstroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo||ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige tekens te meten kan je inschatten of een email wel of geen spam is. Een tekst is spam als deze meer dan 10% niet-alfabetische tekens bevat. Spaties worden hierbij genegeerd en **niet** meegeteld.
+Omdat je emailbox volstroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige tekens te meten kan je inschatten of een email wel of geen spam is. Een tekst is spam als deze meer dan 10% niet-alfabetische tekens bevat. Spaties worden hierbij genegeerd en **niet** meegeteld.
 
 Schrijf een programma dat:
 
