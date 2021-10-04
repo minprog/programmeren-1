@@ -249,4 +249,4 @@ tentamens:
     show_progress: true
     submits:
         oefententamen: 0
-        tentamen: 0
+        tentamen: 1
