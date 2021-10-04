@@ -13,7 +13,7 @@ templates:
         auto_publish: true
         hide_calculated: true
     4: &semiautomatic
-        type: pass
+        type: float
         subgrades:
             done: boolean
         automatic:
