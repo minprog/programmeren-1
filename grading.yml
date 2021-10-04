@@ -12,6 +12,14 @@ templates:
         calculation: done
         auto_publish: true
         hide_calculated: true
+    4: &semiautomatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -(correctness_score.floor)
+        calculation: done
+        hide_calculated: true
     2: &manual
         type: float
         subgrades:
@@ -77,9 +85,9 @@ grades:
     big_o: *check
     complexity_puzzle: *check
 
-    credit: *automatic
-    crack: *automatic
-    fifteen_random: *automatic
+    credit: *semiautomatic
+    crack: *semiautomatic
+    fifteen_random: *semiautomatic
 
     hardware: *check
     internet: *check

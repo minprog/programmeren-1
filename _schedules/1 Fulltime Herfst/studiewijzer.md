@@ -39,7 +39,7 @@ Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
 6. algemene aanwezigheid van 9 tot 17 uur
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerde in de praktijk kleine programmeerproblemen effectief op te lossen.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je het geleerde in de praktijk kleine programmeerproblemen effectief op te lossen.
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten of werkgroepen, dan kun je het vak niet halen.
 
