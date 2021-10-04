@@ -139,14 +139,14 @@ calculation:
         basisboek: 0
         technology: 0
         cijfers_fulltime: 75
-        retrospectives: 0
+        # retrospectives: 0
         tentamens: 0
     eindcijfer_parttime:
         opdrachten: 25
         basisboek: 0
         technology: 0
         cijfers_parttime: 75
-        retrospectives: 0
+        # retrospectives: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -229,14 +229,21 @@ cijfers_parttime:
         crack: :bonus
         fifteen_random: :bonus
 
-retrospectives:
-    show_progress: true
-    submits:
-        retrospective_1: 1
-        retrospective_2: 1
-        retrospective_3: 1
-        retrospective_4: 1
-        retrospective_5: 1
+# retrospectives_fulltime:
+#     show_progress: true
+#     submits:
+#         retrospective_1: 1
+#         retrospective_2: 1
+#         retrospective_3: 1
+#
+# retrospectives_parttime:
+#     show_progress: true
+#     submits:
+#         retrospective_1: 1
+#         retrospective_2: 1
+#         retrospective_3: 1
+#         retrospective_4: 1
+#         retrospective_5: 1
 
 tentamens:
     show_progress: true
