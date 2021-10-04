@@ -138,14 +138,14 @@ calculation:
         opdrachten: 25
         basisboek: 0
         technology: 0
-        reviews_fulltime: 75
+        cijfers_fulltime: 75
         retrospectives: 0
         tentamens: 0
     eindcijfer_parttime:
         opdrachten: 25
         basisboek: 0
         technology: 0
-        reviews_parttime: 75
+        cijfers_parttime: 75
         retrospectives: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
