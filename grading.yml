@@ -18,7 +18,7 @@ templates:
             done: boolean
         automatic:
             done: -(correctness_score.floor)
-        calculation: done
+        calculation: done && 1.5 || 0
         hide_calculated: true
     2: &manual
         type: float
@@ -140,6 +140,7 @@ calculation:
         technology: 0
         reviews_fulltime: 75
         retrospectives: 0
+        tentamens: 0
     eindcijfer_parttime:
         opdrachten: 25
         basisboek: 0
@@ -190,9 +191,6 @@ opdrachten:
         find_less: 1
         big_o: 1
         complexity_puzzle: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
 
 basisboek:
     show_progress: true
@@ -209,14 +207,17 @@ technology:
         internet: 1
         security: 1
 
-reviews_fulltime:
+cijfers_fulltime:
     show_progress: true
     submits:
         fulltime_1: 1
         fulltime_2: 1
         fulltime_3: 1
+        credit: :bonus
+        crack: :bonus
+        fifteen_random: :bonus
 
-reviews_parttime:
+cijfers_parttime:
     show_progress: true
     submits:
         parttime_1: 1
@@ -224,6 +225,9 @@ reviews_parttime:
         parttime_3: 1
         parttime_4: 1
         parttime_5: 1
+        credit: :bonus
+        crack: :bonus
+        fifteen_random: :bonus
 
 retrospectives:
     show_progress: true
