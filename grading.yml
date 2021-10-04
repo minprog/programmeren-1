@@ -248,5 +248,5 @@ cijfers_parttime:
 tentamens:
     show_progress: true
     submits:
-        oefententamen: 0
+        # oefententamen: 0
         tentamen: 1
