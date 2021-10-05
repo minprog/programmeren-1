@@ -1,5 +1,0 @@
-name: inverslag
-files:
-    required:
-        - verslag.md
-        - code.zip
