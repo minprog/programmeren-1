@@ -8,19 +8,25 @@
 > - Stilte in de zaal.
 > - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
 > - Klaar is klaar, dan kun je inleveren en weggaan.
-> - Voor inleveren steek je je hand op, de surveillant komt meekijken.
-> - Als bronnen mag je gebruiken: 1) de lecture notes (en de rest van deze website), 2) de CS50 Manual waarin allerlei nuttige C-functies genoemd staan, 3) en je eigen uitwerkingen van eerdere opdrachten.
-> - (Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+> - Voor inleveren steek je je hand op, de surveillant komt controleren voordat je inlevert.
 
 Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
 Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder al te veel begeleiding. Door de tijdsbeperking kan het best zijn dat je een opdracht mist! Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst.
 
-In C mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan.
+Als bronnen mag je gebruiken:
+
+1. de lecture notes (en de rest van deze website),
+2. de CS50 Manual waarin allerlei nuttige C-functies genoemd staan,
+3. en je eigen uitwerkingen van eerdere opdrachten.
+
+In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan.
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
 De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
+
+(Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
 Succes!
 
