@@ -2,6 +2,8 @@
 
 > Regels voor het tentamen:
 > 
+> - Je mag tot uiterlijk 30 minuten na de begintijd starten.
+> - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
 > - Leg je collegekaart klaar op tafel (of een andere ID met foto).
 > - Stilte in de zaal.
 > - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
