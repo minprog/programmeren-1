@@ -1,59 +1,127 @@
 # Oefententamen
 
-Hieronder vind je vier opdrachten van verschillende niveaus (bij het tentamen zijn dit er vijf). Om het tentamen te halen moet je minimaal één goedwerkend programma van het eerste niveau inleveren en twee goedwerkende programma's van het tweede niveau.
+> Regels voor oefententamen:
+> 
+> - Leg je collegekaart klaar op tafel (of een andere ID met foto).
+> - Stilte in de zaal.
+> - Er is geen pauze, maar ga gerust naar het toilet.
+> - Klaar is klaar, dan kun je inleveren en weggaan.
+> - Inleveren op deze pagina, uiterlijk 15 minuten voor het einde van het laptopcollege (dus bijv. om 10:45). Wij moeten de zaal vrijmaken voor de volgende gebruiker.
+> - Ben je niet klaar, lever dan gewoon in. Je kunt thuis verder oefenen, maar we willen graag zien hoe ver iedereen komt.
+> - Als bronnen mag je gebruiken: de lecture notes (en de rest van deze website), de CS50 Manual waarin allerlei nuttige C-functies genoemd staan, en je eigen uitwerkingen van eerdere opdrachten.
+> - (Ook) voor het oefententamen is het essentieel dat je dit doet zonder verder internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+
+Hieronder vind je vijf opdrachten. Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder al te veel begeleiding. Het kan wel zijn dat je iets te weinig tijd hebt omdat je nu maar een goede 1,5 uur hebt.
+
+Je mag zelf kiezen of je de opdrachten in C of in Python doet, maar het is **zeer** sterk aan te raden dat je één taal kiest voor het oefententamen en het tentamen. We raden C aan omdat je hier recentelijk het meest in hebt geprogrammeerd, aan problemen die lijken op de problemen hieronder. Je mag ook Python kiezen als je er van overtuigd bent dat dit beter is voor jou.
 
 Het doel is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren in C, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
 Vanwege dit doel heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden"). Het is daarom ook aan te raden om zoveel mogelijk van de opdrachten te doen, mits de tijd dit toelaat. Dat geeft ruimte als je onbedoeld een antwoord hebt ge-hardcode.
 
-## Kaartje in de trein kopen (niveau 1)
-
-Wanneer je vroeger in de trein stapte zonder kaartje betaalde je bij controle door de conducteur een toeslag van 3,50 op de normale ritprijs. Het normale tarief voor de trein bedroeg 20 cent per kilometer. Een creatieve treinreiziger wil een programma hebben waarbij de kans dat hij gecontroleerd wordt (in procenten) en het aantal kilometers dat zijn treinreis lang is opgegeven kunnen worden, waarna de computer berekent hoeveel deze reiziger betaalt en hoeveel dit procentueel is van het bedrag dat een reiziger met kaartje moet betalen. Schrijf dit programma voor deze treinreiziger.
-
-    $ ./trein
-    Hoeveel kilometers ga je rijden? 100
-    Wat is de kans dat je wordt gecontroleerd in procenten? 50
-    Je betaalt 11.75 euro
-    Dit is 59 procent van het normale bedrag
-
-    $ ./trein
-    Hoeveel kilometers ga je rijden? 20
-    Wat is de kans dat je wordt gecontroleerd in procenten? 75
-    Je betaalt 5.63 euro
-    Dit is 141 procent van het normale bedrag
-
-> Let op, alle resultaten moeten goed worden afgerond en euro's mogen niet meer dan twee decimalen na de komma worden geprint.
+De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
 
+## Vakantie
 
-## Babysitten (niveau 1)
+Je wil in je eentje op vakantie naar een mooie accommodatie in Frankrijk. De kosten van de reis naar het verblijf zijn afhankelijk van het gebruikte vervoersmiddel. Met het vliegtuig kost het je 250 euro, met de trein kost het 100 euro, en met de auto kost het 150 euro. Het verblijf zelf kost 60 euro per nacht. Bovendien betaal je nog 3% servicekosten over de totale kosten (dus vermenigvuldig totaal met 0.03), afhankelijk dus van hoeveel nachten je verblijft. De servicekosten worden wel naar **beneden** afgerond op hele euro's vóórdat ze bij het totaalbedrag worden opgeteld!
 
-Babysitten is tegenwoordig een lucratief bijbaantje. Wanneer babies zich koest houden kun je lekker studeren zonder te worden afgeleid en je krijgt er nog voor betaald ook. Marieke krijgt vóór 12 uur ‘s nachts een vergoeding van 6 euro per uur en ná middernacht wordt dat 10. De mensen waar ze op de kleine kinderen past zijn soepel en ronden de tijd dat ze heeft opgepast op een vriendelijke manier af. Voor de tijd van aankomst nemen ze het laatste hele uur voorafgaand aan de werkelijke tijd van aankomst en de tijd van vertrek ronden ze af op het hele uur naar boven toe. Schrijf een programma waarmee Marieke kan uitrekenen wat ze verdienen zal, gegeven een door de gebruiker ingevoerd begintijdstip (na 7 uur ‘s avonds) en een door de gebruiker ingevoerd eindtijdstip (vóór 3 uur ‘s nachts).
+Schrijf een programma dat berekent hoeveel je vakantie kost op basis van het aantal dagen dat je op vakantie gaat en met welk vervoersmiddel je gaat. Controle op (on)geldige invoer is niet nodig.
 
-    $ ./babysitten
-    Wanneer begon je met babysitten? 1930
-    Wanneer was je klaar met babysitten? 0047
-    Je verdiende 40 euro
+    $ ./vakantie
+    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? v
+    Hoeveel nachten ga je verblijven? 1
+    Jouw vakantie kost: 319
 
-    $ ./babysitten
-    Wanneer begon je met babysitten? 2045
-    Wanneer was je klaar met babysitten? 0200
-    Je verdiende 44 euro
+    $ ./vakantie
+    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? t
+    Hoeveel nachten ga je verblijven? 10
+    Jouw vakantie kost: 721
 
-    $ ./babysitten
-    Wanneer begon je met babysitten? 2040
-    Wanneer was je klaar met babysitten? 2320
-    Je verdiende 24 euro
+    $ ./vakantie
+    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? a
+    Hoeveel nachten ga je verblijven? 7
+    Jouw vakantie kost: 587
 
-    $ ./babysitten
-    Wanneer begon je met babysitten? 0033
-    Wanneer was je klaar met babysitten? 0133
-    Je verdiende 20 euro
+Tip: begin altijd met het maken van een programma voor het **eerste** voorbeeld. Dit is het meest eenvoudig. Hiermee voorkom je dat je vastloopt in allerlei uitzonderingen. Zodra je programma werkt voor het eerste voorbeeld kun je gaan checken of het ook werkt voor de volgende voorbeelden, en je programma dan aanpassen.
 
 
-## Holle driehoek (niveau 2)
+## Caffeïne
 
-Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet hoger dan 20.
+Het internationale advies voor de maximale dagelijkse caffeïne-intake is 400mg voor een gezonde volwassene, 100mg voor iemand tussen 12 en 18 jaar oud, en helemaal geen caffeïne voor kinderen onder 12 jaar oud.
+
+Hierbij een lijst met de hoeveelheid caffeïne voor één portie van verschillende dranken.
+
+* Coffee - 90 mg
+* Thee - 45 mg
+* Energiedrankjes - 80 mg
+* Cola - 40 mg
+
+Schrijf een programma dat de caffeïne-inname van de gebruiker berekent en een waarschuwing print als deze te hoog is. Controle op (on)geldige invoer is niet nodig.
+
+    $ ./caffeine 
+    Hoeveel koppen koffie? 2
+    Hoeveel koppen thee? 1
+    Hoeveel energiedrankjes? 0
+    Hoeveel glazen cola? 0
+    Hoeveel jaar oud ben je? 22
+    Je krijgt 225 mg caffeïne binnen.
+    Dat is een veilige hoeveelheid caffeïne.
+
+    $ ./caffeine 
+    Hoeveel koppen koffie? 2
+    Hoeveel koppen thee? 0
+    Hoeveel energiedrankjes? 2
+    Hoeveel glazen cola? 0
+    Hoeveel jaar oud ben je? 17
+    Je krijgt 340 mg caffeïne binnen.
+    Kijk uit, dat is te veel caffeïne!
+
+    $ ./caffeine 
+    Hoeveel koppen koffie? 0
+    Hoeveel koppen thee? 0
+    Hoeveel energiedrankjes? 0
+    Hoeveel glazen cola? 1
+    Hoeveel jaar oud ben je? 10
+    Je krijgt 40 mg caffeïne binnen.
+    Kijk uit, dat is te veel caffeïne!
+
+    $ ./caffeine 
+    Hoeveel koppen koffie? 5
+    Hoeveel koppen thee? 0
+    Hoeveel energiedrankjes? 0
+    Hoeveel glazen cola? 0
+    Hoeveel jaar oud ben je? 38
+    Je krijgt 450 mg caffeïne binnen.
+    Kijk uit, dat is te veel caffeïne!
+
+
+## RNA
+
+Eiwitsynthese is het proces waarbij eiwitten worden gemaakt op basis van de informatie in het DNA. Simpel gezegd is eiwitsynthese het maken van een eiwit in een menselijke cel. De eerste stap van eiwitsynthese is de transcriptie van DNA naar RNA. (Je hoeft voorgaande niet te begrijpen.)
+
+DNA bestaat uit verschillende moleculen, waaronder 4 nucleotiden die de DNA-code vormen: Adenine (A), Guanine (G), Cytosine (C) en Thymine (T). RNA is een zogenaamde *complementaire* transcriptie van DNA. De complementaire nucleotide van Adenine is Uracil (U), van Guanine is Cytosine, van Cysotine is Guanine en van Thymine is Adenine.
+
+Een complementaire RNA-keten kan dus volgens een vast patroon beredeneerd worden uit de DNA-keten. Zo geeft een DNA-keten `ATGC` altijd de RNA-keten `UACG` als je bovenstaande regels toepast.
+
+Schrijf een programma dat een keten van DNA aanneemt en de complementaire RNA-keten print. Je mag aannemen dat de DNA-keten altijd in hoofdletters wordt ingevuld. Het programma print een error message als deze een ongeldige nucleotide bevat (dus een andere letter dan A, G, C of T).
+
+    $ ./rna
+    DNA-keten: ATGC
+    Dit is de bijbehorende RNA-keten: UACG
+
+    $ ./rna
+    DNA-keten: AAF
+    Ongeldige DNA-keten
+
+    $ ./rna
+    DNA-keten: AAGGTTCCAA
+    Dit is de bijbehorende RNA-keten: UUCCAAGGUU
+
+
+## Driehoek
+
+Schrijf een programma dat een driehoek uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet hoger dan 20, maar je hoeft dit **niet** te controleren!
 
     $ ./driehoek
     Hoe hoog moet de driehoek zijn? 5
@@ -82,7 +150,7 @@ Schrijf een programma dat een holle driehoek uitprint. De gebruiker mag een hoog
     ##############################
 
 
-## Temperaturen (niveau 2)
+## Temperaturen
 
 Graden Celsius C en graden Fahrenheit F staan met elkaar in verband via `F = (18C + 320) / 10` en andersom `C = (10F - 320) / 18`. Schrijf een programma dat de gebruiker vraagt om de eenheid van temperatuur, of C van Celsius of F van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapsgrootte. Waarna een nette tabel wordt uitgeprint met op iedere rij de gekozen temperatuur en de temperatuur in de andere eenheid.
 
@@ -136,3 +204,12 @@ Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen 
       9 | -12
 
 > Tip: zo print je een waarde uit met een vaste lengte `printf("%3d", getal)`. Is `getal` hier bijvoorbeeld `9`, dan worden er twee spaties uitgeprint voor de `9` om zo toch de opgegeven lengte 3 te krijgen.
+
+
+
+## Inleveren
+
+Heb je één van de opdrachten niet gedaan? Maak dan een leeg bestand aan met de juiste naam, en gebruik dit om hieronder in te leveren.
+
+Let op dat de website een automatische check doet (exact op de input/output die ook hierboven in de voorbeelden staat), maar deze kan nog geen Python-uitwerkingen checken. 
+
