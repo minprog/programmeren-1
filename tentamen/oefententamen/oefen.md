@@ -1,25 +1,26 @@
 # Oefententamen
 
-> Regels voor oefententamen:
+> Regels voor het tentamen:
 > 
 > - Leg je collegekaart klaar op tafel (of een andere ID met foto).
 > - Stilte in de zaal.
-> - Er is geen pauze, maar ga gerust naar het toilet.
+> - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
 > - Klaar is klaar, dan kun je inleveren en weggaan.
-> - Inleveren op deze pagina, uiterlijk 15 minuten voor het einde van het laptopcollege (dus bijv. om 10:45). Wij moeten de zaal vrijmaken voor de volgende gebruiker.
-> - Ben je niet klaar, lever dan gewoon in. Je kunt thuis verder oefenen, maar we willen graag zien hoe ver iedereen komt.
-> - Als bronnen mag je gebruiken: de lecture notes (en de rest van deze website), de CS50 Manual waarin allerlei nuttige C-functies genoemd staan, en je eigen uitwerkingen van eerdere opdrachten.
-> - (Ook) voor het oefententamen is het essentieel dat je dit doet zonder verder internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+> - Voor inleveren steek je je hand op, de surveillant komt meekijken.
+> - Als bronnen mag je gebruiken: 1) de lecture notes (en de rest van deze website), 2) de CS50 Manual waarin allerlei nuttige C-functies genoemd staan, 3) en je eigen uitwerkingen van eerdere opdrachten.
+> - (Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
-Hieronder vind je vijf opdrachten. Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder al te veel begeleiding. Het kan wel zijn dat je iets te weinig tijd hebt omdat je nu maar een goede 1,5 uur hebt.
+Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
-Je mag zelf kiezen of je de opdrachten in C of in Python doet, maar het is **zeer** sterk aan te raden dat je één taal kiest voor het oefententamen en het tentamen. We raden C aan omdat je hier recentelijk het meest in hebt geprogrammeerd, aan problemen die lijken op de problemen hieronder. Je mag ook Python kiezen als je er van overtuigd bent dat dit beter is voor jou.
+Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder al te veel begeleiding. Door de tijdsbeperking kan het best zijn dat je een opdracht mist! Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst.
 
-Het doel is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren in C, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
+In C mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan.
 
-Vanwege dit doel heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden"). Het is daarom ook aan te raden om zoveel mogelijk van de opdrachten te doen, mits de tijd dit toelaat. Dat geeft ruimte als je onbedoeld een antwoord hebt ge-hardcode.
+Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
 De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
+
+Succes!
 
 
 ## Vakantie
