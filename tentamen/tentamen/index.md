@@ -1,165 +1,205 @@
 # Tentamen
 
-*Fulltime Programmeren 1, 28 september 2021, 13:00--17:00 uur.*
+> Regels voor het tentamen:
+> 
+> - Je mag tot uiterlijk 30 minuten na de begintijd starten.
+> - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
+> - Leg je collegekaart klaar op tafel (of een andere ID met foto).
+> - Leg je telefoon op tafel (zet 'm uit).
+> - Zet whatsapp enzo uit op je laptop.
+> - Stilte in de zaal.
+> - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
+> - Klaar is klaar, dan kun je inleveren en weggaan.
+> - Voor inleveren steek je je hand op, de surveillant komt controleren voordat je inlevert.
 
-Hieronder vind je vijf opdrachten van verschillende niveaus. Om het tentamen te halen moet je minimaal één goedwerkend programma van het eerste niveau inleveren en twee goedwerkende programma's van het tweede niveau.
+Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
-Het doel is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren in C, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
+Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder begeleiding. Door de tijdsbeperking kan het best zijn dat je een opdracht niet kunt maken! Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst.
 
-Vanwege dit doel heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden"). Het is daarom ook aan te raden om zoveel mogelijk van de opdrachten te doen, mits de tijd dit toelaat. Dat geeft ruimte als je onbedoeld een antwoord hebt ge-hardcode.
+Als bronnen mag je gebruiken:
+
+1. de lecture notes (en de rest van deze website),
+2. de CS50 Manual waarin allerlei nuttige C-functies genoemd staan,
+3. en je eigen uitwerkingen van eerdere opdrachten.
+
+Verder gebruik van internet of hulp van anderen is niet toegestaan.
+
+In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan (of soortgelijke functies in Python als je het tentamen per se in Python wil doen).
+
+Programmeren moet in de CS50 IDE. Je hebt dus alleen je webbrowser geopend met daarin enkele tabs: de CS50 IDE, de CS50 Manual, en deze cursuswebsite. Je mag geen andere programma's open hebben.
+
+Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
 De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
-> Als bronnen mag je gebruiken: de lecture notes (en de rest van de website), de CS50 Manual waarin allerlei nuttige C-functies genoemd staan, en je eigen uitwerkingen van andere opdrachten. Je mag geen andere bronnen gebruiken en niet op één of andere manier met iemand anders communiceren over de opgaven tijdens het maken van het tentamen.
-
-## Vakantie (niveau 1)
-
-Je wil in je eentje op vakantie naar een mooie accommodatie in Frankrijk. De kosten van de reis naar het verblijf zijn afhankelijk van het gebruikte vervoersmiddel. Met het vliegtuig kost het je 250 euro, met de trein kost het 100 euro, en met de auto kost het 150 euro. Het verblijf zelf kost 60 euro per nacht. Bovendien betaal je nog 3% servicekosten over de totale kosten (dus vermenigvuldig totaal met 0.03), afhankelijk dus van hoeveel nachten je verblijft. De servicekosten worden wel naar **beneden** afgerond op hele euro's vóórdat ze bij het totaalbedrag worden opgeteld!
-
-Schrijf een programma dat berekent hoeveel je vakantie kost op basis van het aantal dagen dat je op vakantie gaat en met welk vervoersmiddel je gaat. Controle op (on)geldigde invoer is niet nodig.
-
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? v
-    Hoeveel nachten ga je verblijven? 1
-    Jouw vakantie kost: 319
-
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? t
-    Hoeveel nachten ga je verblijven? 10
-    Jouw vakantie kost: 721
-
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? a
-    Hoeveel nachten ga je verblijven? 7
-    Jouw vakantie kost: 587
+Succes!
 
 
-## Caffeïne (niveau 1)
-
-Het internationale advies voor de maximale dagelijkse caffeïne-intake is 400mg voor een gezonde volwassene, 100mg voor iemand tussen 12 en 18 jaar oud, en helemaal geen caffeïne voor kinderen onder 12 jaar oud.
-
-Hierbij een lijst met de hoeveelheid caffeïne voor één portie van verschillende dranken.
-
-* Coffee - 90 mg
-* Thee - 45 mg
-* Energiedrankjes - 80 mg
-* Cola - 40 mg
-
-Schrijf een programma dat de caffeïne-inname van de gebruiker berekent en een waarschuwing print als deze te hoog is. Controle op (on)geldige invoer is niet nodig.
-
-    $ ./caffeine 
-    Hoeveel koppen koffie? 2
-    Hoeveel koppen thee? 1
-    Hoeveel energiedrankjes? 0
-    Hoeveel glazen cola? 0
-    Hoeveel jaar oud ben je? 22
-    Je krijgt 225 mg caffeïne binnen.
-    Dat is een veilige hoeveelheid caffeïne.
-
-    $ ./caffeine 
-    Hoeveel koppen koffie? 2
-    Hoeveel koppen thee? 0
-    Hoeveel energiedrankjes? 2
-    Hoeveel glazen cola? 0
-    Hoeveel jaar oud ben je? 17
-    Je krijgt 340 mg caffeïne binnen.
-    Kijk uit, dat is te veel caffeïne!
-
-    $ ./caffeine 
-    Hoeveel koppen koffie? 0
-    Hoeveel koppen thee? 0
-    Hoeveel energiedrankjes? 0
-    Hoeveel glazen cola? 1
-    Hoeveel jaar oud ben je? 10
-    Je krijgt 40 mg caffeïne binnen.
-    Kijk uit, dat is te veel caffeïne!
-
-    $ ./caffeine 
-    Hoeveel koppen koffie? 5
-    Hoeveel koppen thee? 0
-    Hoeveel energiedrankjes? 0
-    Hoeveel glazen cola? 0
-    Hoeveel jaar oud ben je? 38
-    Je krijgt 450 mg caffeïne binnen.
-    Kijk uit, dat is te veel caffeïne!
 
 
-## RNA (niveau 2)
+## Elektrisch rijden
 
-Eiwitsynthese is het proces waarbij eiwitten worden gemaakt op basis van de informatie in het DNA. Simpel gezegd is eiwitsynthese het maken van een eiwit in een menselijke cel. De eerste stap van eiwitsynthese is de transcriptie van DNA naar RNA. (Je hoeft voorgaande niet te begrijpen.)
+De aanschaf van een elektrische auto is vaak nog duurder dan een benzineauto, maar de verbruikskosten niet. De benzineprijs is inmiddels gestegen naar 1,95 euro per liter, waarmee je ongeveer 1 op 25 km rijdt. Elektrisch laden kost gemiddeld 30 cent per kilowattuur, waarbij het verbruik ongeveer 1 op 5 km is.
 
-DNA bestaat uit verschillende moleculen, waaronder 4 nucleotiden die de DNA-code vormen: Adenine (A), Guanine (G), Cytosine (C) en Thymine (T). RNA is een zogenaamde *complementaire* transcriptie van DNA. De complementaire nucleotide van Adenine is Uracil (U), van Guanine is Cytosine, van Cysotine is Guanine en van Thymine is Adenine.
+Voor de handigheid hier de formules:
 
-Een complementaire RNA-keten kan dus volgens een vast patroon beredeneerd worden uit de DNA-keten. Zo geeft een DNA-keten `ATGC` altijd de RNA-keten `UACG` als je bovenstaande regels toepast.
+- Het aantal gebruikte liters benzine is `aantal kilometers / 25`
+- Het aantal gebruikte kilowattuur is `aantal kilometers / 5`
 
-Schrijf een programma dat een keten van DNA aanneemt en de complementaire RNA-keten print. Je mag aannemen dat de DNA-keten altijd in hoofdletters wordt ingevuld. Het programma print een error message als deze een ongeldige nucleotide bevat (dus een andere letter dan A, G, C of T).
+Schrijf een programma dat bij een gegeven aantal kilometers per maand laat zien hoeveel **goedkoper** elektrisch rijden is t.o.v. de benzineauto (dus het verschil tussen kosten elektrisch en benzine).
 
-    $ ./rna
-    DNA-keten: ATGC
-    Dit is de bijbehorende RNA-keten: UACG
+    $ ./elektrisch
+    Aantal kilometers: 200
+    Elektrisch rijden bespaart je 3.6 euro
 
-    $ ./rna
-    DNA-keten: AAF
-    Ongeldige DNA-keten
+    $ ./elektrisch
+    Aantal kilometers: -2
+    Aantal kilometers: 0
+    Aantal kilometers: 500
+    Elektrisch rijden bespaart je 9.0 euro
 
-    $ ./rna
-    DNA-keten: AAGGTTCCAA
-    Dit is de bijbehorende RNA-keten: UUCCAAGGUU
+## Postzegels
+
+Schrijf een programma dat het aantal benodigde postzegels berekent op basis van de volgende gegevens:
+
+- Gewicht van het poststuk (grammen)
+- Volume van het poststuk (dm<sup>3</sup>)
+- Land van bestemming (Nederland, Duitsland of Spanje)
+
+De volgende regels gelden:
+
+- Verzending binnen Nederland kost 1 postzegel per 120 gram.
+- Verzending naar Duitsland of Spanje kost 2 postzegels per 120 gram.
+- Als het volume groter is dan 4 dm<sup>3</sup> dan mag het niet via de normale post verzonden worden.
+
+Gewicht en volume worden ingevoerd als gehele getallen.
+Controle op (on)geldige invoer is alleen nodig voor de keuze Nederland, Duitsland of Spanje.
+
+    $ ./postzegels
+    Wat is het gewicht? 130
+    Wat is het volume? 2
+    Wat is de bestemming? N
+    Plak 2 postzegel(s).
+
+    $ ./postzegels
+    Wat is het gewicht? 300
+    Wat is het volume? 2
+    Wat is de bestemming? S
+    Plak 6 postzegel(s).
+
+    $ ./postzegels
+    Wat is het gewicht? 120
+    Wat is het volume? 2
+    Wat is de bestemming? N
+    Plak 1 postzegel(s).
+
+    $ ./postzegels
+    Wat is het gewicht? 120
+    Wat is het volume? 5
+    Wat is de bestemming? N
+    Dit kan niet met de post.
+
+    $ ./postzegels
+    Wat is het gewicht? 120
+    Wat is het volume? 3
+    Wat is de bestemming? A
+    Wat is de bestemming? B
+    Wat is de bestemming? D
+    Plak 2 postzegel(s).
 
 
-## Spam (niveau 2)
+## Trapezium
 
-Omdat je emailbox volstroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal hoofdletters, kleine letters overige tekens te meten kan je inschatten of een email wel of geen spam is. Een tekst is spam als deze meer dan 10% niet-alfabetische tekens bevat. Spaties worden hierbij genegeerd en **niet** meegeteld.
+Schrijf een programma dat een trapezium uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet groter dan 20.
 
-Schrijf een programma dat:
+    $ ./trapezium
+    Hoe hoog moet het trapezium zijn? 5
+        ##########
+       #        #
+      #        #
+     #        #
+    ##########
 
-- eerst het percentage niet-alfabetische tekens in een tekst print, dus  
-    `aantal niet-alfabetisch / (aantal alfabetisch + aantal niet-alfabetisch) * 100`
-- daarna een tekst als spam of als normale mail classificeert
+    $ ./trapezium
+    Hoe hoog moet het trapezium zijn? 15
+                  ##############################
+                 #                            #
+                #                            #
+               #                            #
+              #                            #
+             #                            #
+            #                            #
+           #                            #
+          #                            #
+         #                            #
+        #                            #
+       #                            #
+      #                            #
+     #                            #
+    ##############################
 
-Voorbeelden:
+    $ ./trapezium
+    Hoe hoog moet het trapezium zijn? -3
+    Hoe hoog moet het trapezium zijn? 40
+    Hoe hoog moet het trapezium zijn? 3
+    Hoe hoog moet het trapezium zijn? 5
+        ##########
+       #        #
+      #        #
+     #        #
+    ##########
 
-    $ ./spam
-    Geef de emailtekst: Ca$hh M0n3y
-    30 percent niet-alfabetische tekens.
-    Deze email is spam.
 
-    $ ./spam
-    Geef de emailtekst: Dit was zeker geen spam!
-    5 percent niet-alfabetische tekens.
-    Deze email is normaal.
+## Spraaksynthese
+
+Een getal kan worden opgedeeld in cijfer. Het getal 423 bijvoorbeeld, bestaat uit de cijfers 4, 2 en 3. Men wil een spraaksynthesizer gebruiken om getallen uit te spreken, en wel cijfer na cijfer. Het getal 423 moet dus worden uitgesproken als ‘vier’, ‘twee’, ‘drie’.
+
+Schrijf een programma dat een getal cijfer na cijfer, als woord, naar het scherm schrijft zó dat elk woord op een nieuwe regel komt.
+
+Tip: gebruik de functie `get_string()` om invoer te vragen. Gebruik geen `get_int()` of iets dergelijks.
+
+    $ ./synthese
+    Getal: 123
+    een
+    twee
+    drie
+
+    $ ./synthese
+    Getal: 4210
+    vier
+    twee
+    een
+    nul
+
+Als een ongeldige invoer wordt gegeven dan moet er een foutmelding komen:
+
+    $ ./synthese
+    Getal: 12o4
+    Dat is geen getal!
 
 
-## X-factor (niveau 2)
+## Wachtwoorden
 
-Je bent jurylid bij het talentenprogramma X-factor. De huidige kandidaat heeft maar weinig talent, dus je wil op de knop drukken en de grote rode 'X' laten oplichten. Maar helaas, de knop doet het niet! Je besluit dat het enige wat je nu kan doen is een programma in C schrijven dat een kruis uitprint.
+Om gebruikers zich te laten registreren wil een website dat de wachtwoorden tenminste 8 tekens (character) lang zijn, 1 kleine letter, 1 grote letter en 1 cijfer bevatten. Schrijf een programma dat checkt of een wachtwoord sterk genoeg is op basis van deze regels en blijft de gebruikers een nieuw wachtwoord vragen totdat die sterk genoeg is.
 
-De gebruiker mag aangeven hoe hoog het kruis moet zijn. Je mag er vanuit gaan (dus je hoeft niet te checken) dat dit altijd een positief oneven getal is. Vervolgens print het programma een kruis in een grid zoals de voorbeelden hieronder. Tussen ieder vakje in het grid staat een punt (`.`).
+    $ ./wachtwoord
+    Wachtwoord? aaa
+    Niet sterk genoeg!
+    Wachtwoord? AAA
+    Niet sterk genoeg!
+    Wachtwoord? aaaaAAAA
+    Niet sterk genoeg!
+    Wachtwoord? aaaaaaaaa
+    Niet sterk genoeg!
+    Wachtwoord? AAAAAAAAA
+    Niet sterk genoeg!
+    Wachtwoord? 000000000
+    Niet sterk genoeg!
+    Wachtwoord? aaaaAAAAA0000
+    Sterk genoeg!
 
-**Tip.** Deel het kruis op in drie delen voor het maken van je algoritme: een bovenste deel waarin steeds twee keer een `X` staat, die steeds dichter bij elkaar komen; een middelste regel met één `X`, en dan het onderste deel waarin weer twee `X` per regel staan.
-
-    $ ./kruis
-    Hoe hoog moet het kruis zijn? 9
-    .X. . . . . . . .X.
-    . .X. . . . . .X. .
-    . . .X. . . .X. . .
-    . . . .X. .X. . . .
-    . . . . .X. . . . .
-    . . . .X. .X. . . .
-    . . .X. . . .X. . .
-    . .X. . . . . .X. .
-    .X. . . . . . . .X.
-
-    $ ./kruis
-    Hoe hoog moet het kruis zijn? 5
-    .X. . . .X.
-    . .X. .X. .
-    . . .X. . .
-    . .X. .X. .
-    .X. . . .X.
-
-    $ ./kruis
-    Hoe hoog moet het kruis zijn? 3
-    .X. .X.
-    . .X. .
-    .X. .X.
+    $ ./wachtwoord
+    Wachtwoord? abc0D
+    Niet sterk genoeg!
+    Wachtwoord? abc0Defg
+    Sterk genoeg!
