@@ -4,7 +4,7 @@ files:
         - elektrisch.c
         - postzegels.c
         - trapezium.c
-        - synthese.c
+        - spraaksynthese.c
         - wachtwoord.c
 check:
     tool: check50
