@@ -1,0 +1,11 @@
+name: tentamen2
+files:
+    c:
+        - reistijd.c
+        - elektrisch.c
+        - huis.c
+        - alfabet.c
+        - raden.c
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/tentamen4
