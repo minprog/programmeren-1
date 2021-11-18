@@ -143,12 +143,25 @@ calculation:
         cijfers_fulltime: 75
         # retrospectives: 0
         tentamen_fulltime: 0
+    eindcijfer_fulltime_herkansing:
+        opdrachten: 25
+        basisboek: 0
+        technology: 0
+        cijfers_fulltime: 75
+        # retrospectives: 0
+        tentamen_parttime: 0
     eindcijfer_parttime:
         opdrachten: 25
         basisboek: 0
         technology: 0
         cijfers_parttime: 75
         tentamen_parttime: 0
+    eindcijfer_parttime_herkansing:
+        opdrachten: 25
+        basisboek: 0
+        technology: 0
+        cijfers_parttime: 75
+        tentamen2_parttime: 0
         # retrospectives: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -256,6 +269,14 @@ tentamen_fulltime:
         tentamen: 1
 
 tentamen_parttime:
+    show_progress: true
+    required: true
+    submits:
+        # oefententamen: 0
+        tentamenpt: 1
+        # tentamen2: 1
+
+tentamen2_parttime:
     show_progress: true
     required: true
     submits:
