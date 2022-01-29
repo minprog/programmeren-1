@@ -6,14 +6,7 @@
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
-
-Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
-
-
-## Docenten en assistenten
-
-De docenten bij dit vak zijn Jelle van Assema, Simon Pauw en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
 Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
 
@@ -28,9 +21,9 @@ Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een ess
     - *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
     - *Basisboek-oefeningen* doe je liefst gezamenlijk, maar er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
-- Beoordeling individuele programmeeropdrachten (50%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
+- Beoordeling individuele programmeeropdrachten (75%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
 
-- Beoordeling eindopdracht/tentamen (25%). Hiervoor moet je een voldoende halen om het vak af te kunnen ronden.
+- Beoordeling tentamen (0%). We checken hier in gecontroleerde omstandigheden je programmeerskills. Het telt niet mee voor je eindcijfer, maar je moet een voldoende halen om het vak af te kunnen ronden.
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docenten. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
@@ -41,54 +34,56 @@ Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis
 
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
 3. enkele keren individueel contact met je mentor
-4. dagelijks contact met assistenten over je opdrachten
+4. regelmatig contact met assistenten over je opdrachten (hulp vragen!)
 5. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. **Er is daarom ook niet voorzien in een schriftelijk tentamen (?).** Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
-
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan.
+Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerd om kleine programmeerproblemen effectief op te lossen.
+Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten of werkgroepen, dan kun je het vak niet halen.
 
 
 ## Team en mentor
 
-Je zit bij dit vak in een team met twaalf à vijftien andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste week bekend gemaakt.
+Je zit bij dit vak in een team met twaalf à zestien andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste week bekend gemaakt.
 
-Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
+Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack), vooral bedoeld voor snelle coördinatie met je mentor en team.
 
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is. Mochten we genoodzaakt zijn online-werkgroepen te houden dan ontvang je van je mentor een Zoom-link. Als je een probleem voorziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
+
+
+## Aanwezigheid en locatie
+
+Er is geen minimale aanwezigheidsplicht bij de parttime-versie van dit vak. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak.
+
+We raden studenten aan om regelmatig een studieplek op te zoeken, bijvoorbeeld voor de deur bij ons vaste lokaal A1.16. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
 
 
 ## Vragen stellen
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
+**Programmeerbalie:** direct contact met een assistent, voor hulp bij programmeren.
+
+- hulp op locatie (lokaal A1.24) of via een videogesprek
+- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+- moeite met verzinnen oplossing
+- dagelijks beschikbaar, vooraf afspraak maken via [afsprakensysteem](#)
+- beperkt ruimte voor inloop bij urgente vragen
+
 **Slack:** direct contact met je team.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
-- mentor is niet doorlopend beschikbaar!
+- mentor doet mededelingen en is bereikbaar voor ziekmeldingen
+- je mentor is alleen beschikbaar tijdens beperkte werktijden
 
-**Ed:** altijd beschikbaar, de belangrijkste plek voor hulp.
-
-- vragen over wat er in de opdracht bedoeld wordt
-- technische vragen over programmeren en bugs
-- vragen over de oefeningen in het basisboek
-- medestudenten en assistenten denken mee
-
-**Assistentie:** direct contact met een assistent, voor moeilijke vragen.
-
-- hulp via een videogesprek waar je je scherm kunt delen
-- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-- moeite met verzinnen oplossing (met partner)
-- dagelijks 13-17 uur, wachttijd kan oplopen
-- aanmelden via [afsprakensysteem](#)
-
-**Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
+**Spreekuur en e-mail:** contact met de docenten.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
+- aanmelden via [afsprakensysteem](#) of mail <help@mprog.nl>
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -105,9 +100,11 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema goed kunt aanhouden, en dat je elke opdracht **inlevert zodra je die af hebt**. Natuurlijk kun je een dagje schuiven als dat nodig is voor je planning van een ander vak.
 
-> Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
+Voor de individuele opdrachten zijn er steeds twee deadlines:
 
-Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaat deze opdrachten eerst gewoon "werkend" maken en inleveren volgens het dagschema. Tijdens de werkgroep zul je vervolgens een code review doen met medestudenten, en dan lever je nog een verbeterde versie in. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Dit zijn de **uiterste** deadlines:
+1. De deadline voor het volledig **werkend** hebben van de opdracht. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken. De deadline wordt bepaald door het dagschema.
+
+2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
 | opdrachten            | deadline            | verbeterd           |
 |---------------------- | ------------------: | ------------------: |
@@ -115,23 +112,17 @@ Voor de enkele individuele opdrachten krijg je een beoordeling in punten. Je gaa
 | Readability en Caesar | vr 25 feb  17:59    | di  1 mrt  17:59    |
 | Find                  | vr 11 mrt  17:59    | di 15 mrt  17:59    |
 
-De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering.
+Bovenstaand schema is afhankelijk van de werkgroeproostering en onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
-Het intermezzo wordt afgesloten met een eindverslag, ter afronding van het vak:
+### Ziekte en inhalen
 
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Intermezzo-verslag    | vr 25 mrt  17:59    |
+Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via een berichtje op Slack. Je hoeft het niet uitgebreid uit te leggen, maar wel meteen melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
 
+- Ben je één of twee dagen ziek of je hebt de opdracht niet af, overweeg dan contact op te nemen met de docenten via een mail naar <help@mprog.nl>. Let op dat echt systematisch achterlopen niet mogelijk is. De docenten kunnen helpen om je opties door te nemen.
 
-<details markdown="1"><summary markdown="span">Wat als ik ziek ben of achterloop?</summary>
+- Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen (houd wel contact!). Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk is.
 
-Als je ziek bent dan meld je het in ieder geval zo snel mogelijk even aan je mentor. Ben je één of twee dagen ziek dan ga je met hulp van een assistent of docent in de **versneller** een plan maken om bij te komen. Let op dat systematisch achterlopen niet mogelijk is. Ga je regelmatig één of twee dagen achterlopen dan zullen we je naar de parttime-versie van het vak verwijzen.
-
-Heb je een medisch noodgeval en ben je hierdoor langer uit de running? Dan moeten we gezamenlijk kijken hoe we het kunnen oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk is.
-
-Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet je mentor). Stuur maar een mailtje!
-</details>
+- Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet je mentor). Stuur maar een [mailtje](mailto:help@mprog.nl)!
 
 
 ## Opdrachtcijfers
@@ -140,8 +131,8 @@ De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdra
 
 6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 5. zeer goede kwaliteit, beperkt ruimte voor verbetering
-4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
-3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
+4. degelijke kwaliteit op alle genoemde aspecten, met ruimte voor verbetering
+3. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
 2. enige zichtbare aandacht voor een beperkt aantal aspecten
 1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
@@ -149,9 +140,6 @@ De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdra
 Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we aangeven, doe je actief mee aan de code review, en loop je kritisch elke regel code na met de aspecten en voorschriften in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
 
 Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
-
-Het totaal van 24 punten staat voor 50% van je eindcijfer.
-
 
 ### Extra opdrachten
 
@@ -165,7 +153,7 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 | Crack          | vr 25 feb  17:59    |
 | Fifteen        | vr 11 mrt  17:59    |
 
-Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Wel kun je er vragen over stellen via Ed. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
+Het is standaard niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
 
 ## Onderdelen
@@ -201,6 +189,10 @@ Stephen G. Kochan
 Pearson Education, 2015  
 ISBN 9780321776419
 </details>
+
+### Tentamen
+
+Tijdens het tentamen ga je aan de slag met een selectie van kleine programmeerproblemen. Aan jou de taak om deze te analyseren en een mooie oplossing te schrijven (op de computer!). De kennis en ervaring die je nodig hebt om dit te doen bouw je op tijdens het maken van de verschillende opdrachten in de cursus. Om te wennen aan de vorm is er natuurlijk ook een oefententamen.
 
 
 ## Samenwerken
