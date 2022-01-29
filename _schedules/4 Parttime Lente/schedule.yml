@@ -7,75 +7,69 @@ Week 1:
     Dinsdag:
         Scratch [individueel]: /cs50/scratch
     Woensdag:
+        'Boek: Variabelen [basisboek]': /exercises/book/variables
+    Donderdag:
         'Videocollege: C': /lectures/c
         'Hello [zelf]': /cs50/hello
-    Donderdag:
-        Population [samen]: /cs50/population
-    Vrijdag:
-        'Boek: Variabelen [basisboek]': /exercises/book/variables
 
 Week 2:
     Maandag:
+        Population [samen]: /cs50/population
+    Dinsdag:
         Mario [individueel]: /cs50/mario/less
-    Dinsdag en woensdag:
-        Cash [individueel]: /cs50/cash
-    Donderdag:
+    Woensdag:
         'Boek: Control Flow [basisboek]': /exercises/book/control-flow
+    Donderdag:
+        Hardware [zelf]: /cs50t/hardware
+
+Week 3:
+    Maandag en dinsdag:
+        Cash [individueel]: /cs50/cash
+    Woensdag:
+        'Videocollege: Arrays': /lectures/arrays
+    Donderdag:
+        'Oefenen: Strings [samen]': /exercises/writing/strings
     Vrijdag:
-        Hardware [zelf]: /modules/hardware
+        Internet [zelf]: /cs50t/internet
     Extra:
         Credit [extra]: /cs50/credit
 
-Week 3:
-    Maandag:
-        'Videocollege: Arrays': /lectures/arrays
-    Dinsdag:
-        'Oefenen: Strings [samen]': /exercises/writing/strings
-    Woensdag:
-        'Scrabble [samen]': /cs50/scrabble
-    Donderdag en vrijdag:
-        'Readability [individueel]': /cs50/readability
-
 Week 4:
+    Maandag:
+        'Scrabble [samen]': /cs50/scrabble
+    Dinsdag en woensdag:
+        'Readability [individueel]': /cs50/readability
+    Donderdag:
+        'Oefenen: Functies [zelf]': /exercises/writing/functions
+    Vrijdag:
+        Security [zelf]: /cs50t/security
+
+Week 5:
     Maandag en dinsdag:
         'Caesar [individueel]': /cs50/caesar
     Woensdag:
-        'Oefenen: Functies [zelf]': /exercises/writing/functions
-    Donderdag:
         'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
-    Vrijdag:
-        Internet [zelf]: /modules/internet
+    Donderdag:
+        'Videocollege: Algorithms': /lectures/algorithms
     Extra:
         Crack [extra]: /cs50/crack
 
-Week 5:
-    Maandag:
-        'Videocollege: Algorithms': /lectures/algorithms
-    Dinsdag:
-        'Oefenen: Linear Search [samen]': /exercises/writing/linear
-    Woensdag:
-        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
-    Donderdag:
-        Sort [samen]: /cs50/sort
-    Vrijdag:
-        Find (deel 1) [individueel]: /cs50/find/less
-
 Week 6:
     Maandag:
-        Find (deel 2) [individueel]: /cs50/find/less
+        'Oefenen: Linear Search [samen]': /exercises/writing/linear
+    Dinsdag en woensdag:
+        Find [individueel]: /cs50/find/less
+    Donderdag:
+        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
+
+Week 7:
+    Maandag en dinsdag:
+        Sort [samen]: /cs50/sort
     Dinsdag:
         'Oefenen: Big-O [zelf]': /exercises/study/big-o
     Woensdag:
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
     Donderdag:
         'Boek: Functies [basisboek]': /exercises/book/functions
-    Vrijdag:
-        Security [zelf]: /modules/security
     Extra:
-        Fifteen [extra]: /cs50/fifteen/more
-
-Intermezzo:
-    Kickoff Intermezzo: /modules/intermezzo
-    Maandag: /modules/intermezzo/dag1
-    Dinsdag: /modules/intermezzo/dag2
-    Eindverslag: /modules/intermezzo/eindverslag
+        Fifteen [extra]: /cs50/fifteen/random
