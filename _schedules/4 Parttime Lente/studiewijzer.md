@@ -6,9 +6,9 @@
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
+De hoofddocenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
+Daarnaast zijn er docenten en student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je mentor zijn, die je wekelijks ziet bij de werkgroep en die bovendien je werk nakijkt.
 
 
 ## Opdrachten en eindcijfer
@@ -42,9 +42,9 @@ Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerd om kl
 Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten of werkgroepen, dan kun je het vak niet halen.
 
 
-## Team en mentor
+## Werkgroep en mentor
 
-Je zit bij dit vak in een team met twaalf à zestien andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste week bekend gemaakt.
+Je zit bij dit vak in een groep met twaalf à zestien andere studenten. Met studenten uit de groep zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **groepsindeling** wordt na de eerste week bekend gemaakt.
 
 Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack), vooral bedoeld voor snelle coördinatie met je mentor en team.
 
@@ -64,7 +64,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Programmeerbalie:** direct contact met een assistent, voor hulp bij programmeren.
 
-- hulp op locatie (lokaal A1.24) of via een videogesprek
+- hulp op locatie (lokaal A1.16) of via een videogesprek
 - je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, vooraf afspraak maken via [afsprakensysteem](#)
@@ -83,7 +83,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
-- aanmelden via [afsprakensysteem](#) of mail <help@mprog.nl>
+- aanmelden via een mail naar <help@mprog.nl>
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -106,11 +106,15 @@ Voor de individuele opdrachten zijn er steeds twee deadlines:
 
 2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
-| opdrachten            | deadline            | verbeterd           |
-|---------------------- | ------------------: | ------------------: |
-| Mario en Cash         | vr 18 feb  17:59    | di 22 feb  17:59    |
-| Readability en Caesar | vr 25 feb  17:59    | di  1 mrt  17:59    |
-| Find                  | vr 11 mrt  17:59    | di 15 mrt  17:59    |
+| module      | deadline werkend | deadline verbeterd |
+|:------------|:-----------------|:-------------------|
+| Scratch     | wo  9 feb  17:59 | --                 |
+| Hello       | vr 11 feb  17:59 | --                 |
+| Mario       | do 17 feb  17:59 | ma 21 feb  21:59   |
+| Cash        | do 24 feb  17:59 | ma 28 feb  21:59   |
+| Readability | do  3 mrt  17:59 | ma  7 mrt  21:59   |
+| Caesar      | do 10 mrt  17:59 | ma 14 mrt  21:59   |
+| Find        | do 17 mrt  17:59 | ma 21 mrt  21:59   |
 
 Bovenstaand schema is afhankelijk van de werkgroeproostering en onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
@@ -149,9 +153,9 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 
 | extra opdracht | deadline            |
 | -------------- | ------------------: |
-| Credit         | vr 18 feb  17:59    |
-| Crack          | vr 25 feb  17:59    |
-| Fifteen        | vr 11 mrt  17:59    |
+| Credit         | vr 24 feb  17:59    |
+| Crack          | vr 11 mrt  17:59    |
+| Fifteen        | vr 25 mrt  17:59    |
 
 Het is standaard niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
