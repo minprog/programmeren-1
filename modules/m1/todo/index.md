@@ -2,7 +2,7 @@
 
 After you have studied your partner's code, you are ready to meet up and discuss the feedback. Do not just exchange to-do lists but try to have a fruitful discussion.
 
-1.  Just to be sure: who is who you are exchanging feedback with?
+1.  Just to be sure: who are you exchanging feedback with?
 
     <input name="form[partner]" type="text" required>
 
