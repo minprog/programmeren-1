@@ -69,11 +69,11 @@ Open up the `Ubuntu` terminal. Do this by pressing the windows keys, then type U
 
 Then run:
 
-    sudo apt-get update
+    sudo apt update
 
 Then run:
 
-    sudo apt install python3-pip ruby-sass -y
+    sudo apt install clang make python3-pip ruby-sass -y
 
 This will install Pip (Python's package manager) and Sass. Then run
 
