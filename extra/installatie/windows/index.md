@@ -77,13 +77,7 @@ Then run:
 
 This will install Pip (Python's package manager) and Sass.
 
-Run:
-
-    pip3 install requests numpy pandas matplotlib seaborn pandas
-
-This will install the Python packages _requests_, _numpy_, _matplotlib_ and _pandas_, and _seaborn_.
-
-> Please note that _only_ `python3`/`pip3` will open the right version of Python.
+> Please note that _only_  the commands `python3`  and `pip3` will open the right version of Python.
 > Always run your program with `python3` and install packages with `pip3` otherwise you will use an old version!
 
 ## Step 3: Atom
@@ -97,6 +91,6 @@ Download and install [Atom](https://atom.io/).
 - Open the current folder in VSCode from within WSL: Ubuntu: `code .`.
 - Open a terminal window in VSCode with `ctrl-j`.
 
-
 # Troubleshooting
+
 Ran into trouble? Contact the staff! It is important to get started quickly. You only have to do the above once, so get help now and you will be set for the remainder of the course!

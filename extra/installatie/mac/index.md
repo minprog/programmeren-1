@@ -57,20 +57,10 @@ And run:
 > Please note that _only_ the commands `python3` and `pip3` will open the right version of Python.
 > Always run your program with `python3` and install packages with `pip3` otherwise you will use an old version!
 
-
-## Step 4: Sass
-
-Open the Terminal app and run
-
-    brew install sass/sass/sass
-
-to install [Sass](https://sass-lang.com/).
+## Step 4: Atom
 
 
-## Step 5: Atom
-
-
-Download and install [Atom](https://atom.io/).
+Download and install [Atom](https://atom.io/) to write code in!
 
 
 # Troubleshooting
