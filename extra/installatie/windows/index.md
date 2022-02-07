@@ -86,11 +86,6 @@ This will install Pip (Python's package manager) and Sass.
 Download and install [Atom](https://atom.io/).
 
 
-## Tips and tricks
-
-- Open the current folder in VSCode from within WSL: Ubuntu: `code .`.
-- Open a terminal window in VSCode with `ctrl-j`.
-
 # Troubleshooting
 
 Ran into trouble? Contact the staff! It is important to get started quickly. You only have to do the above once, so get help now and you will be set for the remainder of the course!
