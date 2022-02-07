@@ -12,6 +12,7 @@ Module 1:
     Dinsdag:
         'Boek: Variabelen [basisboek]': /exercises/book/variables
         'Videocollege: C': /lectures/c
+        'Installatie': /extra/installatie
         'Hello [zelf]': /cs50/hello
     Woensdag:
         Population [samen]: /cs50/population
