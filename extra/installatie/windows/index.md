@@ -75,7 +75,14 @@ Then run:
 
     sudo apt install python3-pip ruby-sass -y
 
-This will install Pip (Python's package manager) and Sass.
+This will install Pip (Python's package manager) and Sass. Then run
+
+    pip3 install check50
+
+And finally run:
+
+    curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash
+    sudo apt install libcs50
 
 > Please note that _only_  the commands `python3`  and `pip3` will open the right version of Python.
 > Always run your program with `python3` and install packages with `pip3` otherwise you will use an old version!
