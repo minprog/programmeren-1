@@ -5,10 +5,9 @@ Module 0:
     Maandag:
         'Videocollege: Computational Thinking': /lectures/computational-thinking
         Scratch [individueel]: /cs50/scratch
+        Groepsopdracht systeemanalyse (optioneel): /extra/systeem
 
 Module 1:
-    Rest van de week:
-        Groepsopdracht systeemanalyse: /extra/systeem
     Dinsdag:
         'Installatie': /extra/installatie
         'Boek: Variabelen [basisboek]': /exercises/book/variables
