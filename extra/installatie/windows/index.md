@@ -1,10 +1,10 @@
 # Windows: Installing using WSL
 
-To develop with Python you need some tools on your laptop. This guide helps you with installing al these tools.
+To develop with C you need some tools on your laptop. This guide helps you with installing all these tools.
 
 We will be using the [_Windows Subsystem for Linux 2_](https://aka.ms/wsl2).
 
-Note: These instruction are written for Windows 10 and 11. If you are using Windows 8 or older please follow [these](/extra/installatie/windows8) instructions.
+Note: These instructions are written for Windows 10 and 11. If you are using Windows 8 or older please follow [these](/extra/installatie/windows8) instructions.
 
 
 # Step 1: Install the Windows Subsystem for Linux
@@ -38,7 +38,7 @@ Run:
 
     dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 
-This will enable the "Virtual Machine Platform", this is needed for WSL2.
+This will enable the "Virtual Machine Platform", which is needed for WSL2.
 
 Then enable WSL2:
 
@@ -50,45 +50,52 @@ Go to <https://aka.ms/wsl2kernel> and install the update and retry the command a
 
 ### Step 1.3: Install Ubuntu for WSL
 
-1. Head to [Microsoft Store Ubuntu](https://www.microsoft.com/store/apps/9n6svws3rx71)-page. And install Ubuntu 20.04.
-2. Launch Ubuntu 20.04, this will take a few minutes.
-3. Enter a username and password for Ubuntu.
-    - Linux will not show any characters while entering a password, this is normal.
-4. Start with updating Ubuntu run:
-
-        sudo apt update && sudo apt upgrade -y
+Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblggh4msv6)-page. And install Ubuntu 20.04.
 
 </details>
 
-
-## Step 2: Install Python, Pip, Sass and Requests
-
 > Remember to reboot your computer after installing WSL
 
-Open up the `Ubuntu` terminal. Do this by pressing the windows keys, then type Ubuntu and click on the app.
+
+## Step 2: Create an account
+
+1. Open up the `Ubuntu` terminal. Do this by pressing the windows keys, then type Ubuntu and click on the app.
+2. Ubuntu will now launch, this will take a few minutes.
+    - If you're getting the following error please ask our staff for help.
+
+            WslRegisterDistribution failed with error: 0x80370102
+            Error: 0x80370102 The virtual machine could not be started because a required feature is not installed.
+
+3. Enter a username and password for Ubuntu.
+
+> Linux will not show any characters while entering a password, this is normal.
+
+![](wsl/setupubuntu.png)
+
+
+## Step 3: Install Clang, Make and check50
+
+> You can paste into your terminal with right-click.
 
 Then run:
 
-    sudo apt-get update
+    sudo apt update && sudo apt upgrade -y
 
 Then run:
 
-    sudo apt install python3-pip ruby-sass -y
+    sudo apt install make clang python3-pip -y
 
-This will install Pip (Python's package manager) and Sass. Then run
+This will install Pip (Python's package manager). Then run
 
     pip3 install check50
 
-And finally run:
+And finally, run:
 
     curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash
     sudo apt install libcs50
 
-> Please note that _only_  the commands `python3`  and `pip3` will open the right version of Python.
-> Always run your program with `python3` and install packages with `pip3` otherwise you will use an old version!
 
-## Step 3: Atom
-
+## Step 4: Atom
 
 Download and install [Atom](https://atom.io/).
 
