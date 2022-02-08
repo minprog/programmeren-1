@@ -1,6 +1,6 @@
 # Systeemanalyse
 
-Groepsopdracht voor 4 personen.
+Groepsopdracht voor 4 personen. Deadline is vrijdag 11 februari om 13:00. We doen die middag informele presentaties/discussies over jullie analyses.
 
 1. Neem een "systeem": een manier van werken, of echt iets dat je zelf ook een systeem zou noemen, of een dienst die aangeboden wordt aan het grote publiek. Er moet wel op een of andere manier ook een computersysteem bij betrokken zijn.
 
