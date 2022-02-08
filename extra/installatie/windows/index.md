@@ -68,6 +68,8 @@ Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblgg
 
 3. Enter a username and password for Ubuntu.
 
+> Make sure your username contains __lowercase__ characters only.
+
 > Linux will not show any characters while entering a password, this is normal.
 
 ![](wsl/setupubuntu.png)

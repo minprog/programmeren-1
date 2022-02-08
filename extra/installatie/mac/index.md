@@ -32,12 +32,16 @@ to install Homebrew.
 
 3. Homebrew will ask for your password, no character will appear on screen, this is normal.
 
-4. _(Only for Apple Silicon M1 Macs!!!)_ Read the "Next steps" and execute the lines in the terminal, it probably looks like:
+4. Press __return__ (enter) to start the installation.
+
+5. _(Only for Apple Silicon (M1) Macs!!!)_ Read the "Next steps" and execute the lines in the terminal, it probably looks like:
 
         echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> .zprofile
         eval "$(/opt/homebrew/bin/brew shellenv)"
 
     But please execute the lines you see in your terminal, they can be slightly different!
+
+6. Please confirm `brew` is installed correctly by executing `brew --version`. You will see a version number as output.
 
 
 ## Step 3: Python
