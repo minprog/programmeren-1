@@ -1,6 +1,6 @@
 # macOS: Installing
 
-To develop with Python you need some tools on you laptop. This guide helps you with installing al these tools.
+To develop with C you need some tools on you laptop. This guide helps you with installing al these tools.
 
 
 ## Step 1: Install Command Line Tools
@@ -26,7 +26,7 @@ Some useful development tools can be installed on Mac using [_Homebrew_](https:/
 
 2. Run
 
-        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+        /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 to install Homebrew.
 
@@ -60,7 +60,9 @@ And run:
 ## Step 4: Atom
 
 
-Download and install [Atom](https://atom.io/) to write code in!
+Download and install [Atom](https://atom.io/) with:
+
+    brew install atom
 
 
 # Troubleshooting
