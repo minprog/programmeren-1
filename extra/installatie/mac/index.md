@@ -13,7 +13,3 @@ This is a script that will guide you through most of the installation. Whenever 
 ## Step 2: Atom
 
 Download and install [Atom](https://atom.io/).
-
-## Getting Started
-
-The install script has created a "Programming" directory inside your Documents directory. Start the Atom edit and then choose File->Open and navigate to that directory. Atom will open a new window with the directory in view.
