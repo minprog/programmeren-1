@@ -7,7 +7,6 @@ links:
     '[book] Manual': https://man.cs50.io/
     '[people-fill] Assistentie': 'https://balie.mprog.nl/planner/1-programmeerbalie'
     '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
-    '[pc-display-horizontal] Install': https://github.com/uvapl/installer
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/x/2021/ -- Copyright 2011--2021, David J. Malan.'
