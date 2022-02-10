@@ -7,16 +7,13 @@ We will be using the [_Windows Subsystem for Linux 2_](https://aka.ms/wsl2).
 Note: These instructions are written for Windows 10 and 11. If you are using Windows 8 or older please follow [these](/extra/installatie/windows8) instructions.
 
 
-# Step 1: Install the Windows Subsystem for Linux
+## Step 1: Install the Windows Subsystem for Linux
 
 Start with opening PowerShell as Administrator.
-Right-click the Start button and click "Windows PowerShell (Admin)"
-
-Run:
+Right-click the Start button and click "Windows PowerShell (Admin)".
+Then enter the following command:
 
     wsl --install
-
-This will install the Windows Subsystem for Linux and Ubuntu
 
 <details markdown="1"><summary markdown="span">Old instructions (only if the command above is not recognized)</summary>
 
@@ -54,52 +51,40 @@ Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblgg
 
 </details>
 
-> Remember to reboot your computer after installing WSL
+**Remember to reboot your computer after installing WSL.**
 
 
 ## Step 2: Create an account
 
-1. Open up the `Ubuntu` terminal. Do this by pressing the windows keys, then type Ubuntu and click on the app.
-2. Ubuntu will now launch, this will take a few minutes.
-    - If you're getting the following error please ask our staff for help.
+1.  Open up the Ubuntu terminal. Do this by pressing the Windows key on your keyboard, then type Ubuntu and click on the app.
 
-            WslRegisterDistribution failed with error: 0x80370102
-            Error: 0x80370102 The virtual machine could not be started because a required feature is not installed.
+2.  Ubuntu will now launch, this will take a few minutes.
 
-3. Enter a username and password for Ubuntu.
+    If you get the following error **please ask the staff for help**.
 
-> Linux will not show any characters while entering a password, this is normal.
+        WslRegisterDistribution failed with error: 0x80370102
+        Error: 0x80370102 The virtual machine could not be started because a required feature is not installed.
+
+3.  Enter a username and password for Ubuntu.  
+    **Linux will not show any characters while entering a password; this is normal.**
 
 ![](wsl/setupubuntu.png)
 
 
-## Step 3: Install Clang, Make and check50
+## Step 3: Tools
 
-> You can paste into your terminal with right-click.
+Open the Ubuntu terminal and enter the following line:
 
-Then run:
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/uvapl/installer/main/run.sh)"
 
-    sudo apt update && sudo apt upgrade -y
+Note: you can paste into your terminal using right-click.
 
-Then run:
-
-    sudo apt install make clang python3-pip -y
-
-This will install Pip (Python's package manager). Then run
-
-    pip3 install check50
-
-And finally, run:
-
-    curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash
-    sudo apt install libcs50
-
+The above is a script that will guide you through most of the installation. Whenever you get error messages that you don't understand, please contact the course's staff for help.
 
 ## Step 4: Atom
 
 Download and install [Atom](https://atom.io/).
 
+## Getting Started
 
-# Troubleshooting
-
-Ran into trouble? Contact the staff! It is important to get started quickly. You only have to do the above once, so get help now and you will be set for the remainder of the course!
+The install script has created a "Programming" directory inside your Documents directory. Start the Atom edit and then choose File->Open and navigate to that directory. Atom will open a new window with the directory in view.
