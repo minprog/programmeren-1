@@ -18,5 +18,5 @@ Now take these steps (click for instructions):
 
 1.  [Perform a review of your partner's code.](/modules/m1/review) (separately, 10 minutes)
 2.  [Share and discuss your feedback and create a plan to revise your code.](/modules/m1/todo) (together, 10 minutes each)
-3.  [Revise your solution and upload the final version.](/modules/m1/review) (separately, 30 minutes)
+3.  [Revise your solution and upload the final version.](/modules/m1/revised) (separately, 30 minutes)
 4.  Later, receive feedback from your mentor to learn even more.
