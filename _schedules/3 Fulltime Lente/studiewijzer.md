@@ -57,13 +57,14 @@ Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnem
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Programmeerbalie:** direct contact met een assistent, voor hulp bij programmeren.
+**Hands:** direct contact met een assistent, voor hulp bij programmeren.
 
-- hulp op locatie (lokaal A1.24) of via een videogesprek
+- hulp op locatie (lokaal A1.16) of via een videogesprek
 - je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
-- dagelijks beschikbaar, vooraf afspraak maken via [afsprakensysteem](#)
-- beperkt ruimte voor inloop bij urgente vragen
+- dagelijks beschikbaar, zet jezelf in de rij via het menu:
+
+    ![](../hands-menu.png)
 
 **Slack:** direct contact met je team.
 
