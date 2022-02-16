@@ -15,9 +15,9 @@ Module 1:
         'Hello [zelf]': /cs50/hello
     Woensdag:
         Population [samen]: /cs50/population
-        Mario [individueel, cijfer]: /cs50/mario/less
+        Mario [individueel]: /cs50/mario/less
     Donderdag:
-        Cash [individueel, cijfer]: /cs50/cash
+        Cash [individueel]: /cs50/cash
     Vrijdag:
         'Boek: Control Flow [basisboek]': /exercises/book/control-flow
         Hardware [zelf]: /cs50t/hardware
@@ -30,12 +30,12 @@ Module 2:
         'Oefenen: Strings [samen]': /exercises/writing/strings
     Dinsdag:
         'Scrabble [samen]': /cs50/scrabble
-        'Readability deel 1 [individueel, cijfer]': /cs50/readability
+        'Readability deel 1 [individueel]': /cs50/readability
     Woensdag:
-        'Readability deel 2 [individueel, cijfer]': /cs50/readability
-        'Caesar deel 1 [individueel, cijfer]': /cs50/caesar
+        'Readability deel 2 [individueel]': /cs50/readability
+        'Caesar deel 1 [individueel]': /cs50/caesar
     Donderdag:
-        'Caesar deel 2 [individueel, cijfer]': /cs50/caesar
+        'Caesar deel 2 [individueel]': /cs50/caesar
         'Oefenen: Functies [zelf]': /exercises/writing/functions
     Vrijdag:
         'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
@@ -51,7 +51,7 @@ Module 3:
         'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
         Sort [samen]: /cs50/sort
     Woensdag:
-        Find [individueel, cijfer]: /cs50/find/less
+        Find [individueel]: /cs50/find/less
     Donderdag:
         'Oefenen: Big-O [zelf]': /exercises/study/big-o
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
