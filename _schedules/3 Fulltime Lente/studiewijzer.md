@@ -106,11 +106,11 @@ Voor de individuele opdrachten zijn er steeds twee deadlines:
 
 Dit zijn de **uiterste** deadlines voor de verbeterde versies:
 
-| opdrachten            | deadline            |
-|---------------------- | ------------------: |
-| Mario en Cash         | wo 16 feb  17:59    |
-| Readability en Caesar | wo 23 feb  17:59    |
-| Find                  | wo  2 mrt  17:59    |
+| opdrachten   | deadline            |
+|------------- | ------------------: |
+| Mario        | wo 16 feb  17:59    |
+| Readability  | wo 23 feb  17:59    |
+| Find         | wo  2 mrt  17:59    |
 
 Bovenstaand schema is afhankelijk van de werkgroeproostering en onder voorbehoud. Het geeft wel een indicatie van wat de bedoeling is.
 
