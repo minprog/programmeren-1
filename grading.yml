@@ -108,6 +108,8 @@ grades:
     parttime_4: *manual
     parttime_5: *manual
 
+    m1_revised: *manual
+
     retrospective_1: *check
     retrospective_2: *check
     retrospective_3: *check
@@ -222,6 +224,11 @@ technology:
         hardware: 1
         internet: 1
         security: 1
+
+reviews:
+    show_progress: true
+    submits:
+        m1_revised: 1
 
 cijfers_fulltime:
     show_progress: true
