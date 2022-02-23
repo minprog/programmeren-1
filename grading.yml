@@ -109,6 +109,10 @@ grades:
     parttime_5: *manual
 
     m1_revised: *manual
+    m2_revised: *manual
+    m3_revised: *manual
+    m4_revised: *manual
+    m5_revised: *manual
 
     retrospective_1: *check
     retrospective_2: *check
@@ -229,28 +233,33 @@ reviews:
     show_progress: true
     submits:
         m1_revised: 1
-
-cijfers_fulltime:
-    show_progress: true
-    submits:
-        fulltime_1: 1
-        fulltime_2: 1
-        fulltime_3: 1
+        m3_revised: 1
+        m5_revised: 1
         credit: :bonus
         crack: :bonus
         fifteen_random: :bonus
 
-cijfers_parttime:
-    show_progress: true
-    submits:
-        parttime_1: 1
-        parttime_2: 1
-        parttime_3: 1
-        parttime_4: 1
-        parttime_5: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
+# cijfers_fulltime:
+#     show_progress: true
+#     submits:
+#         fulltime_1: 1
+#         fulltime_2: 1
+#         fulltime_3: 1
+#         credit: :bonus
+#         crack: :bonus
+#         fifteen_random: :bonus
+#
+# cijfers_parttime:
+#     show_progress: true
+#     submits:
+#         parttime_1: 1
+#         parttime_2: 1
+#         parttime_3: 1
+#         parttime_4: 1
+#         parttime_5: 1
+#         credit: :bonus
+#         crack: :bonus
+#         fifteen_random: :bonus
 
 # retrospectives_fulltime:
 #     show_progress: true
