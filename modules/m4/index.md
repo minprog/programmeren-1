@@ -1,4 +1,4 @@
-# Code review: module 3 (Readability)
+# Code review: module 4 (Caesar)
 
 Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. In the code review, you will give each other feedback and advice on improving your code.
 
@@ -15,10 +15,13 @@ For this module, you will assess and improve your code along the following aspec
 - [Comments](/quality/aspects/comments)
 - [Naming](/quality/aspects/naming)
 - [Cleanup](/quality/aspects/cleanup)
+- [Loops](/quality/aspects/loops)
+- [Scope](/quality/aspects/scope)
+- [Nesting](/quality/aspects/nesting)
 
 Now take these steps (click for instructions):
 
-1.  [Perform a review of your partner's code.](/modules/m3/review) (separately, 10 minutes)
-2.  [Share and discuss your feedback and create a plan to revise your code.](/modules/m3/todo) (together, 10 minutes each)
-3.  [Revise your solution and upload the final version.](/modules/m3/revised) (separately, 30 minutes)
+1.  [Perform a review of your partner's code.](/modules/m4/review) (separately, 10 minutes)
+2.  [Share and discuss your feedback and create a plan to revise your code.](/modules/m4/todo) (together, 10 minutes each)
+3.  [Revise your solution and upload the final version.](/modules/m4/revised) (separately, 30 minutes)
 4.  Later, receive feedback from your mentor to learn even more.
