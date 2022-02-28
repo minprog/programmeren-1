@@ -233,7 +233,9 @@ reviews:
     show_progress: true
     submits:
         m1_revised: 1
+        m2_revised: 1
         m3_revised: 1
+        m4_revised: 1
         m5_revised: 1
         credit: :bonus
         crack: :bonus
