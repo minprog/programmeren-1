@@ -63,6 +63,10 @@ Module 3:
 
 Tentamen:
     Maandag:
-        Oefententamen: '#'
+        Oefententamen: '/tentamen/oefententamen'
     Dinsdag:
-        Tentamen: '#'
+        Tentamen: '/tentamen/tentamen'
+    Woensdag:
+        Cypher (alleen als tentamen niet gehaald): '/other/cypher'
+    Donderdag:
+        Vigenere (alleen als tentamen niet gehaald): '/cs50x/vigenere'
