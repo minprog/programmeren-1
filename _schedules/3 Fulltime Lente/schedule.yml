@@ -65,8 +65,11 @@ Tentamen:
     Maandag:
         Oefententamen: '/tentamen/oefententamen'
     Dinsdag:
-        Tentamen: '/tentamen/tentamen'
+        Tentamen: '/tentamen/tentamen3'
     Woensdag:
         Cypher (alleen als tentamen niet gehaald): '/other/cypher'
     Donderdag:
-        Vigenere (alleen als tentamen niet gehaald): '/cs50x/vigenere'
+        Vigenere (alleen als tentamen niet gehaald): '/cs50/vigenere'
+    Extra oefening:
+        Tentamenoefening 1: '/tentamen/oefening1'
+        Tentamenoefening 2: '/tentamen/oefening2'
