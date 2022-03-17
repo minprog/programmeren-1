@@ -64,13 +64,13 @@ Week 6:
         'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
 
 Week 7:
-    Maandag en dinsdag:
-        Sort [samen]: /cs50/sort
-    Dinsdag:
+    # Maandag en dinsdag:
+    #     Sort [samen]: /cs50/sort
+    Maandag:
         'Oefenen: Big-O [zelf]': /exercises/study/big-o
-    Woensdag:
+    Dinsdag:
         'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
-    Donderdag:
+    Woensdag:
         'Boek: Functies [basisboek]': /exercises/book/functions
     Extra:
         Fifteen [extra]: /cs50/fifteen/random
