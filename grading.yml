@@ -206,12 +206,12 @@ opdrachten:
         strings: 1
         scrabble: 1
         readability: 1
-        caesar: 1
         functions: 1
+        caesar: 1
         linear: 1
-        algorithms: 1
-        sort: 1
         find_less: 1
+        algorithms: 1
+        # sort: 1
         big_o: 1
         complexity_puzzle: 1
 
