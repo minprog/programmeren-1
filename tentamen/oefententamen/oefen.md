@@ -16,19 +16,19 @@ Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonde
 
 Als bronnen mag je gebruiken:
 
-1. de lecture notes (en de rest van deze website),
-2. de CS50 Manual waarin allerlei nuttige C-functies genoemd staan,
+1. aantekeningen over de cursus in een tekstbestand,
+2. de `man` pages waarin je uitleg over C-functies kunt opzoeken,
 3. en je eigen uitwerkingen van eerdere opdrachten.
 
-In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan.
+In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat.
 
-Programmeren moet in de CS50 IDE. Je hebt dus alleen je webbrowser geopend met daarin enkele tabs: de CS50 IDE, de CS50 Manual, en deze cursuswebsite. Je mag geen andere programma's open hebben.
+Programmeren moet in Atom (!!) en compilen in de terminal. Je mag geen andere programma's open hebben.
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
 De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
-(Ook) voor het oefententamen is het essentieel dat je dit eerst doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+(Ook) voor het oefententamen is het essentieel dat je dit doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
 Succes!
 
@@ -222,5 +222,4 @@ Vraag de gebruiker opnieuw om input als er iets anders dan C of F wordt gekozen 
 
 Heb je één van de opdrachten niet gedaan? Maak dan een leeg bestand aan met de juiste naam, en gebruik dit om hieronder in te leveren.
 
-Let op dat de website een automatische check doet (exact op de input/output die ook hierboven in de voorbeelden staat), maar deze kan nog geen Python-uitwerkingen checken. 
-
+Let op dat de website een automatische check doet (**exact** op de input/output die ook hierboven in de voorbeelden staat).
