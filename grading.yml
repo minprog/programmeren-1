@@ -262,17 +262,17 @@ reviews_fulltime:
 #         crack: :bonus
 #         fifteen_random: :bonus
 #
-# cijfers_parttime:
-#     show_progress: true
-#     submits:
-#         parttime_1: 1
-#         parttime_2: 1
-#         parttime_3: 1
-#         parttime_4: 1
-#         parttime_5: 1
-#         credit: :bonus
-#         crack: :bonus
-#         fifteen_random: :bonus
+cijfers_parttime:
+    show_progress: true
+    submits:
+        parttime_1: 1
+        parttime_2: 1
+        parttime_3: 1
+        parttime_4: 1
+        parttime_5: 1
+        credit: :bonus
+        crack: :bonus
+        fifteen_random: :bonus
 
 # retrospectives_fulltime:
 #     show_progress: true
