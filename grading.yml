@@ -299,7 +299,7 @@ tentamen_fulltime:
         tentamen3: 1
 
 tentamen_parttime:
-    # show_progress: true
+    show_progress: true
     required: true
     submits:
         # oefententamen: 0
