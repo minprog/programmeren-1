@@ -126,6 +126,7 @@ grades:
     tentamenpt: *check
     tentamen3: *check
     tentamen4: *check
+    tentamen5: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -157,7 +158,7 @@ calculation:
         technology: 0
         reviews_fulltime: 75
         # retrospectives: 0
-        tentamen_parttime: 0
+        tentamen2_fulltime: 0
     eindcijfer_parttime:
         opdrachten: 25
         basisboek: 0
@@ -297,6 +298,13 @@ tentamen_fulltime:
     submits:
         # oefententamen: 0
         tentamen3: 1
+
+tentamen2_fulltime:
+    show_progress: true
+    required: true
+    submits:
+        # oefententamen: 0
+        tentamen5: 1
 
 tentamen_parttime:
     show_progress: true
