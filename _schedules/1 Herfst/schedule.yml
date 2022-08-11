@@ -8,7 +8,7 @@ Week 1:
         Scratch: /cs50/scratch
         Scratch review?: ''
         Variabelen [boek]: /exercises/book/variables
-        Control Flow [boek]': /exercises/book/control-flow
+        Control Flow [boek]: /exercises/book/control-flow
     Installatie:
         Installatie: /extra/installatie
         Hello: /cs50/hello
@@ -30,7 +30,7 @@ Week 3:
     Voorbereiding:
         'Videocollege: Arrays': /lectures/arrays
     Opdrachten:
-        Strings [oefenen]': /exercises/writing/strings
+        Strings [oefenen]: /exercises/writing/strings
         Scrabble [oefenen]: /cs50/scrabble
         RNA: /other/rna
         Cypher: /other/cypher
