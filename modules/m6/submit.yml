@@ -1,0 +1,4 @@
+name: parttime_6
+files:
+    required:
+        - helpers.c

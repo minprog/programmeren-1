@@ -1,5 +1,0 @@
-name: fulltime_1
-files:
-    required:
-        - mario.c
-        - cash.c

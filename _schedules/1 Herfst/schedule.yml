@@ -1,0 +1,76 @@
+Welkom:
+    Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+
+Week 1:
+    Voorbereiding:
+        'Videocollege: Computational Thinking': /lectures/computational-thinking
+    Opdrachten:
+        Scratch: /cs50/scratch
+        Scratch review?: ''
+        Variabelen [boek]: /exercises/book/variables
+        Control Flow [boek]': /exercises/book/control-flow
+    Installatie:
+        Installatie: /extra/installatie
+        Hello: /cs50/hello
+    Extra opdracht:
+        Figure: /other/figure
+
+Week 2:
+    Voorbereiding:
+        Videocollege: C: /lectures/c
+    Opdrachten:
+        Population [oefenen]: /cs50/population
+        Temperatuurtabellen: /other/conversion
+        Caffeine: /other/caffeine
+        Strings en Arrays [boek]': /exercises/book/arrays
+    Extra opdracht:
+        Goldbach: /other/goldbach
+
+Week 3:
+    Voorbereiding:
+        'Videocollege: Arrays': /lectures/arrays
+    Opdrachten:
+        Strings [oefenen]': /exercises/writing/strings
+        Scrabble [oefenen]: /cs50/scrabble
+        RNA: /other/rna
+        Cypher: /other/cypher
+    Extra opdracht:
+        Decryptor: /other/decryptor
+
+Week 4:
+    Opdrachten:
+        Functies [oefenen]: /exercises/writing/functions
+        Tiles: /other/tiles
+        Functies [boek]: /exercises/book/functions
+        Calendar: /other/calendar
+    Extra opdracht:
+        Ontwerpprincipes: /other/calendar/extra
+
+Week 5:
+    Voorbereiding:
+        'Videocollege: Algorithms': /lectures/algorithms
+    Opdrachten:
+        Algorithms [oefenen]': /exercises/study/algorithms
+        Measurements [oefenen]: /cs50/sort
+        Sort: /other/sort
+    Extra opdracht:
+        Find [extra]: '/other/find'
+
+Week 6:
+    Voorbereiding:
+        'Videocollege: Memory': /lectures/memory
+    Opdrachten:
+        'Whodunit [zelf]': /cs50/whodunit
+        Filter (t/m reflection) [individueel]: /cs50/filter/less
+        Beatles [zelf]: /exercises/writing/beatles
+        'Oefenen: Big-O': /exercises/study/big-o
+        'Oefenen: Complexity Puzzle': /exercises/study/complexity-puzzle
+    Extra opdracht:
+        Fifteen: /cs50/fifteen/random
+
+Week 7:
+    Voorbereiding:
+        'Videocollege: Data structures': /lectures/data-structures
+    Opdrachten:
+        Speller: /cs50/speller/startup
+        Questions: /questions/mispellings

@@ -1,0 +1,4 @@
+name: parttime_7
+files:
+    required:
+        - dictionary.c

@@ -1,5 +1,0 @@
-name: fulltime_2
-files:
-    required:
-        - readability.c
-        - caesar.c

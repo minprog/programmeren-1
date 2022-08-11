@@ -13,6 +13,8 @@ Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te 
 - [Code review: Readability](/modules/m3)
 - [Code review: Caesar](/modules/m4) (alleen voor parttime)
 - [Code review: Find](/modules/m5)
+- [Code review: Anonymize](/modules/m6)
+- [Code review: Speller](/modules/m7)
 
 <!--
 ## Retrospectives

@@ -8,6 +8,10 @@ Als je inlogt en registreert op de website krijg je toegang tot de volledige stu
 
 ## Changelog
 
+**Nieuw in versie herfst 2022**
+
+- Grotendeels nieuwe opdrachten, nog altijd met de Harvard-colleges van 2020.
+
 **Nieuw in versie herfst 2021**
 
 - Whodunit en de theorie over geheugen zijn verplaatst naar Programmeren 2
