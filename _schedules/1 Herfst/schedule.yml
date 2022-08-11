@@ -54,17 +54,15 @@ Week 5:
         Measurements [oefenen]: /cs50/sort
         Sort: /other/sort
     Extra opdracht:
-        Find [extra]: '/other/find'
+        Find: '/other/find'
 
 Week 6:
     Voorbereiding:
         'Videocollege: Memory': /lectures/memory
     Opdrachten:
-        'Whodunit [zelf]': /cs50/whodunit
-        Filter (t/m reflection) [individueel]: /cs50/filter/less
-        Beatles [zelf]: /exercises/writing/beatles
-        'Oefenen: Big-O': /exercises/study/big-o
-        'Oefenen: Complexity Puzzle': /exercises/study/complexity-puzzle
+        Whodunit: /cs50/whodunit
+        Filter (t/m reflection): /cs50/filter/less
+        Beatles: /exercises/writing/beatles
     Extra opdracht:
         Fifteen: /cs50/fifteen/random
 
