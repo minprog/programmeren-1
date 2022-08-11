@@ -61,7 +61,7 @@ Week 6:
         'Videocollege: Memory': /lectures/memory
     Opdrachten:
         Whodunit: /cs50/whodunit
-        Filter (t/m reflection): /cs50/filter/less
+        Filter: /cs50/filter/less
         Beatles: /exercises/writing/beatles
     Extra opdracht:
         Fifteen: /cs50/fifteen/random
