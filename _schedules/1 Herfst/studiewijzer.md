@@ -56,7 +56,7 @@ Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnem
 
 Er is geen minimale aanwezigheidsplicht bij de parttime minor. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak.
 
-We raden studenten aan om regelmatig een studieplek op te zoeken, bijvoorbeeld in de buurt van het assistentielokaal A1.24. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
+We raden studenten aan om regelmatig een studieplek op te zoeken in Lab42. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
 
 
 
