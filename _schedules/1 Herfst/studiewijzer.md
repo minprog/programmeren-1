@@ -211,17 +211,17 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **redelijke** acties</summary>
 
-* Praten met je klasgenoten over de opdrachten in het Nederlands (of een andere natuurlijke taal).
+* Praten met medestudenten over de opdrachten in het Nederlands (of een andere natuurlijke taal).
 
 * Het cursusmateriaal bespreken met anderen om het beter te begrijpen.
 
-* Een klasgenoot helpen bij het debuggen tijdens een laptopcollege of daarbuiten, of zelfs online, door het bekijken, compileren of draaien van zijn of haar code, zelfs op je eigen computer.
+* Een medestudent helpen bij het debuggen tijdens een laptopcollege of daarbuiten, of zelfs online, door het bekijken, compileren of draaien van zijn of haar code, zelfs op je eigen computer.
 
 * Het in je uitwerking opnemen van een paar regels code die je online of ergens anders vindt, gegeven dat deze regels niet de essentie van de opdracht vormen en dat je de bron van de code vermeldt.
 
 * Het inzien van tentamens van voorgaande jaren en oplossingen daarvan.
 
-* Code die jij hebt geschreven versturen of laten zien aan iemand anders, wellicht een klasgenoot, zodat deze jou kan helpen bij het debuggen.
+* Code die jij hebt geschreven versturen of laten zien aan iemand anders, wellicht een medestudent, zodat deze jou kan helpen bij het debuggen.
 
 * Het online delen van een paar regels van jouw code zodat anderen wellicht kunnen helpen met debuggen.
 
@@ -238,13 +238,13 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 * Een oplossing van een opdracht inzien voordat je jouw opdracht hebt ingeleverd.
 
-* Een klasgenoot vragen om zijn of haar oplossing, voordat je jouw opdracht hebt ingeleverd.
+* Een medestudent vragen om hun oplossing, voordat je jouw opdracht hebt ingeleverd.
 
 * Het decompileren, deobfusceren, of op andere manier achterhalen van een "staff" oplossing van een opdracht.
 
 * Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
 
-* Het aan een klasgenoot geven of laten zien van een oplossing voor een opdracht waar hij of zij (dus niet jij) moeite mee heeft.
+* Het aan een medestudent geven of laten zien van een oplossing voor een opdracht waar hij of zij (dus niet jij) moeite mee heeft.
 
 * Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
 
