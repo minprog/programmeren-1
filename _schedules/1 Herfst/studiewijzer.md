@@ -43,9 +43,9 @@ Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voo
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afsluiting van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
 
-## Team en mentor
+## Werkgroep en mentor
 
-Je zit bij dit vak in een team met twaalf à vijftien andere studenten. In het team zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **teamindeling** wordt na de eerste week bekend gemaakt.
+Je zit bij dit vak in een groep met twaalf à vijftien andere studenten. Binnen deze groep zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **groepsindeling** wordt na de eerste week bekend gemaakt.
 
 Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
 
@@ -54,10 +54,9 @@ Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnem
 
 ## Aanwezigheid en locatie
 
-Er is geen minimale aanwezigheidsplicht bij de parttime minor. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak.
+Studenten die de Minor Programmeren fulltime volgen hebben een aanwezigheidsplicht.
 
-We raden studenten aan om regelmatig een studieplek op te zoeken in Lab42. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
-
+Er is geen minimale aanwezigheidsplicht bij de parttime minor. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak. We raden studenten aan om regelmatig een studieplek op te zoeken in Lab42. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
 
 
 ## Vragen stellen
@@ -93,9 +92,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op beginnende programmeurs, dus zonder ervaring. De bedoeling is dat je dit schema goed kunt aanhouden, en dat je elke opdracht inlevert zodra je die af hebt. Natuurlijk kun je een dagje schuiven als dat nodig is voor je planning van een ander vak.
-
-> Red je het niet om bij te blijven? Neem dan via e-mail contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
+> Red je het niet om bij te blijven? Neem dan via [e-mail](mailto:help@mprog.nl) contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
 
 Voor de individuele opdrachten zijn er steeds twee deadlines:
 
@@ -108,18 +105,18 @@ Dit is een overzicht van de deadlines per week:
 |             | deadline werkend | deadline verbeterd |
 |:------------|:-----------------|:-------------------|
 | Module 1    | vr  9 sep  17:59 | -                  |
-| Module 2    | vr 16 sep  17:59 | di 20 sep  17:59   |
-| Module 3    | vr 23 sep  17:59 | di 27 sep  17:59   |
-| Module 4    | vr 30 sep  17:59 | di  4 okt  17:59   |
-| Module 5    | vr  7 okt  17:59 | di 11 okt  17:59   |
-| Module 6    | vr 14 okt  17:59 | di 18 okt  17:59   |
-| Module 7    | vr 21 okt  17:59 | di 25 okt  17:59   |
+| Module 2    | vr 16 sep  17:59 | di 20 sep  18:59   |
+| Module 3    | vr 23 sep  17:59 | di 27 sep  18:59   |
+| Module 4    | vr 30 sep  17:59 | di  4 okt  18:59   |
+| Module 5    | vr  7 okt  17:59 | di 11 okt  18:59   |
+| Module 6    | vr 14 okt  17:59 | di 18 okt  18:59   |
+| Module 7    | vr 21 okt  17:59 | di 25 okt  18:59   |
 
 De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering. Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
 ### Ziekte en inhalen
 
-Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via een berichtje op Slack. Je hoeft het niet uitgebreid uit te leggen, maar wel meteen melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
+Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via e-mail. Je hoeft het niet uitgebreid uit te leggen, maar wel meteen melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
 
 - Ben je één of twee dagen ziek dan is dat geen probleem en kun je de deadline vaak nog halen. Kom je toch niet uit met de laatste opdracht van de week, dan meld je heel duidelijk de stand van zaken aan je mentor en haal je deze opdracht tijdens het weekend in. Dit mag alleen als je de andere opdrachten al hebt ingeleverd.
 
@@ -146,16 +143,18 @@ Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangelever
 
 ### Extra opdrachten
 
-Er zijn drie "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
+Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
 Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
-| extra opdracht | deadline         |
-|:---------------|:-----------------|
-| Credit         | vr 24 sep  17:59 |
-| Crack          | vr  8 okt  17:59 |
-| Fifteen        | vr 22 okt  17:59 |
-| Resize {TODO}  | vr 22 okt  17:59 |
+| extra opdracht   | deadline         |
+|:-----------------|:-----------------|
+| Figure           | vr  9 sep  17:59 |
+| Goldbach         | vr 16 sep  17:59 |
+| Decryptor        | vr 23 sep  17:59 |
+| Design challenge | vr 30 sep  17:59 |
+| Find             | vr  7 okt  17:59 |
+| Resize           | vr 14 okt  17:59 |
 
 Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
@@ -164,11 +163,11 @@ Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrach
 
 ### Hoorcolleges
 
-In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. <!-- Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen. -->
+In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
 
 ### Werkgroepen
 
-Werkgroepen zijn bijeenkomsten van een uur met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Gebruik van camera is vereist als de werkgroep online plaatsvindt.
+Werkgroepen zijn bijeenkomsten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen.
 
 ### Basisboek
 

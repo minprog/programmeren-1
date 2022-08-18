@@ -22,7 +22,6 @@ Week 2:
         Population [oefenen]: /cs50/population
         Temperatuurtabellen: /other/conversion
         Caffeine: /other/caffeine
-        Strings en Arrays [boek]: /exercises/book/arrays
     Extra opdracht:
         Goldbach: /other/goldbach
 
@@ -30,6 +29,7 @@ Week 3:
     Voorbereiding:
         'Videocollege: Arrays': /lectures/arrays
     Opdrachten:
+        Strings en Arrays [boek]: /exercises/book/arrays
         Strings [oefenen]: /exercises/writing/strings
         Scrabble [oefenen]: /cs50/scrabble
         RNA: /other/rna
@@ -44,7 +44,7 @@ Week 4:
         Functies [boek]: /exercises/book/functions
         Calendar: /other/calendar
     Extra opdracht:
-        Ontwerpprincipes: /other/calendar/extra
+        Design challenge: /other/calendar/extra
 
 Week 5:
     Voorbereiding:
@@ -64,7 +64,7 @@ Week 6:
         Whodunit [oefenen]: /cs50/whodunit
         Filter: /cs50/filter/less
     Extra opdracht:
-        Fifteen: /cs50/fifteen/random
+        Resize: /cs50/resize/more
 
 Week 7:
     Voorbereiding:
