@@ -16,6 +16,7 @@ For this module, you will assess and improve your code along the following aspec
 - [Naming](/quality/aspects/naming)
 - [Cleanup](/quality/aspects/cleanup)
 - [Loops](/quality/aspects/loops)
+- [Cleanup](/quality/aspects/cleanup)
 - [Scope](/quality/aspects/scope) 🆕
 - [Nesting](/quality/aspects/nesting) 🆕
 
