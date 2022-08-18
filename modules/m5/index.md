@@ -1,15 +1,14 @@
 # Code review: Filter
 
-Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. In the code review, you will give each other feedback and advice on improving your code.
+Tijdens de code review ga je met een andere student naar elkaars code kijken en daarbij feedback en advies geven. We geven je hiervoor een aantal **aspecten** waarop je kunt concentreren. Deze aspecten worden ook gebruikt door de assistenten bij het nakijken van jouw definitieve programma's.
 
-In order to keep the task within reasonable limits, for each module we will provide a number of **aspects** that you should consider during the review. These are also the aspects that your programs will be *primarily* graded on by the staff.
+Let op dat je de code review niet begint voordat jij en je partner helemaal klaar zijn en je oplossingen hebt ingestuurd op de opdrachtpagina. Pas als jullie allebei klaar zijn ga je de code review doen en op deze pagina's krijg je gelegenheid je opdracht nogmaals in te sturen.
 
-> Warning: do not start code review until you **and** your partner are completely done and have submitted working versions of each program in the module. If you haven't finished your programs you should ask for help on that specifically and never look at someone else's code.
-> Additionaly, your mentor should assign a partner for you: each week, it will be a **different** one. This is make sure that you encounter as many insights as possible about writing good code.
+Je reviewpartner wisselt per week. Je mentor wijst tijdens de werkgroep de partners aan.
 
-## What to do
+## Aspecten
 
-For this module, you will assess and improve your code along the following aspects. Take your time to fully read and grasp the descriptions there before you contact your partner.
+Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbeteren. Neem de tijd om de uitlegpagina helemaal te lezen en goed te begrijpen. Je kunt hier ook vragen over stellen aan de assistenten.
 
 - [Formatting](/quality/aspects/formatting)
 - [Comments](/quality/aspects/comments)
@@ -20,9 +19,9 @@ For this module, you will assess and improve your code along the following aspec
 - [Scope](/quality/aspects/scope) 🆕
 - [Nesting](/quality/aspects/nesting) 🆕
 
-Now take these steps (click for instructions):
+## Stappenplan
 
-1.  [Perform a review of your partner's code.](/modules/m5/review) (separately, 10 minutes)
-2.  [Share and discuss your feedback and create a plan to revise your code.](/modules/m5/todo) (together, 10 minutes each)
-3.  [Revise your solution and upload the final version.](/modules/m5/revised) (separately, 30 minutes)
-4.  Later, receive feedback from your mentor to learn even more.
+1.  [Neem de code van je partner zelfstandig door, zonder al de discussie aan te gaan.](/modules/m2/review) (10 minuten)
+2.  [Deel je feedback en bespreek manieren om de code beter te maken. Bedenk hoe jij jouw code gaat verbeteren.](/modules/m2/todo) (10 minuten per uitwerking)
+3.  [Verbeter je oplossing en stuur de definitieve oplossing in zodat deze kan worden nagekeken door je mentor. Gooi je oplossing niet helemaal overhoop maar probeer deze met kleine aanpassingen beter te maken.](/modules/m2/revised) (30 minuten)
+4.  Later krijg je korte feedback van je mentor waarmee je de volgende week je voordeel kunt doen.
