@@ -52,7 +52,7 @@ Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een do
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is. Mochten we genoodzaakt zijn online-werkgroepen te houden dan ontvang je van je mentor een Zoom-link. Als je een probleem voorziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
 
 
-## Aanwezigheid en locatie
+## Aanwezigheid
 
 Studenten die de Minor Programmeren fulltime volgen hebben een aanwezigheidsplicht.
 
@@ -110,7 +110,7 @@ Dit is een overzicht van de deadlines per week:
 | Module 4    | vr 30 sep  17:59 | di  4 okt  18:59   |
 | Module 5    | vr  7 okt  17:59 | di 11 okt  18:59   |
 | Module 6    | vr 14 okt  17:59 | di 18 okt  18:59   |
-| Module 7    | vr 21 okt  17:59 | di 25 okt  18:59   |
+| Module 7    | vr 21 okt  17:59 | -                  |
 
 De deadline voor de verbeterde versie is afhankelijk van de werkgroeproostering. Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 

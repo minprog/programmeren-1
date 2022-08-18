@@ -1,4 +1,4 @@
-# Code review: module 3 (Readability)
+# Code review: Calendar
 
 Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. In the code review, you will give each other feedback and advice on improving your code.
 
@@ -14,7 +14,7 @@ For this module, you will assess and improve your code along the following aspec
 - [Formatting](/quality/aspects/formatting)
 - [Comments](/quality/aspects/comments)
 - [Naming](/quality/aspects/naming)
-- [Cleanup](/quality/aspects/cleanup)
+- [Loops](/quality/aspects/loops) 🆕
 
 Now take these steps (click for instructions):
 

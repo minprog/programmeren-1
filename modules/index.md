@@ -8,13 +8,11 @@ Je gaat code reviews doen met wisselende teamgenoten. De reviews vinden plaats t
 
 Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te maken op basis van de gekregen feedback. Dan lever je de uitwerkingen nog één keer in, zodat ze kunnen worden nagekeken door je mentor.
 
-- [Code review: Mario](/modules/m1)
-- [Code review: Cash](/modules/m2) (alleen voor parttime)
-- [Code review: Readability](/modules/m3)
-- [Code review: Caesar](/modules/m4) (alleen voor parttime)
-- [Code review: Find](/modules/m5)
-- [Code review: Anonymize](/modules/m6)
-- [Code review: Speller](/modules/m7)
+- [Code review: Caffeine](/modules/m1)
+- [Code review: Cypher](/modules/m2)
+- [Code review: Calendar](/modules/m3)
+- [Code review: Sort](/modules/m4)
+- [Code review: Filter](/modules/m5)
 
 <!--
 ## Retrospectives

@@ -1,4 +1,4 @@
-# Code review: module 2 (Cash)
+# Code review: Cypher
 
 Learning to assess your own code, and finding ways to improve it, is an important part of learning to program. For each module, you will do a code review with one or more other students. In the code review, you will give each other feedback and advice on improving your code.
 
@@ -12,8 +12,8 @@ In order to keep the task within reasonable limits, for each module we will prov
 For this module, you will assess and improve your code along the following aspects. Take your time to fully read and grasp the descriptions there before you contact your partner.
 
 - [Formatting](/quality/aspects/formatting)
-- [Comments](/quality/aspects/comments)
-- [Naming](/quality/aspects/naming)
+- [Comments](/quality/aspects/comments) 🆕
+- [Naming](/quality/aspects/naming) 🆕
 
 Now take these steps (click for instructions):
 
