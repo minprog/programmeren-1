@@ -47,7 +47,7 @@ Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je j
 
 Je zit bij dit vak in een groep met twaalf à vijftien andere studenten. Binnen deze groep zul je onder andere samen werken aan het ontwerpen van oplossingen voor de opdrachten en het bespreken en verbeteren van jouw code. De **groepsindeling** wordt na de eerste week bekend gemaakt.
 
-Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt van je mentor een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden met je team.
+Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden.
 
 Met je mentor heb je elke week een **werkgroep** waar alle teamleden aan deelnemen. Via Slack zal je mentor laten weten wanneer de eerste werkgroep is. Mochten we genoodzaakt zijn online-werkgroepen te houden dan ontvang je van je mentor een Zoom-link. Als je een probleem voorziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
 
