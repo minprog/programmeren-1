@@ -1,74 +1,75 @@
 Welkom:
-    Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+  Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
 Week 1:
-    Voorbereiding:
-        'Videocollege: Computational Thinking': /lectures/computational-thinking
-    Opdrachten:
-        Scratch: /cs50/scratch
-        Variabelen [boek]: /exercises/book/variables
-        Control Flow [boek]: /exercises/book/control-flow
-    Installatie:
-        Installatie: /extra/installatie
-        Hello, world: /cs50/helloworld
-    Extra opdracht:
-        Figure (onzeker of we dit doen): /other/figure
+  Voorbereiding:
+    "Videocollege: Computational Thinking": /lectures/computational-thinking
+  Opdrachten:
+    Scratch: /cs50/scratch
+    Variabelen [boek]: /exercises/book/variables
+    Control Flow [boek]: /exercises/book/control-flow
+  Installatie:
+    Installatie: /extra/installatie
+    Hello, world: /cs50/helloworld
+  Extra opdracht:
+    Figure (onzeker of we dit doen): /other/figure
 
 Week 2:
-    Voorbereiding:
-        'Videocollege: C': /lectures/c
-    Opdrachten:
-        Hello, you!: /cs50/hello
-        Population [oefenen]: /cs50/population
-        Temperatuurtabellen: /other/conversion
-        Caffeine: /other/caffeine
-    Extra opdracht:
-        Goldbach: /other/goldbach
+  Voorbereiding:
+    "Videocollege: C": /lectures/c
+  Opdrachten:
+    Hello, you!: /cs50/hello
+    Population [oefenen]: /cs50/population
+    Temperatuurtabellen: /other/conversion
+    Caffeine: /other/caffeine
+    Soda: /other/soda
+  Extra opdracht:
+    Goldbach: /other/goldbach
 
 Week 3:
-    Voorbereiding:
-        'Videocollege: Arrays': /lectures/arrays
-    Opdrachten:
-        Strings en Arrays [boek]: /exercises/book/arrays
-        Strings [oefenen]: /exercises/writing/strings
-        Scrabble [oefenen]: /cs50/scrabble
-        RNA: /other/rna
-        Cypher: /other/cypher
-    Extra opdracht:
-        Decryptor: /other/decryptor
+  Voorbereiding:
+    "Videocollege: Arrays": /lectures/arrays
+  Opdrachten:
+    Strings en Arrays [boek]: /exercises/book/arrays
+    Strings [oefenen]: /exercises/writing/strings
+    Scrabble [oefenen]: /cs50/scrabble
+    RNA: /other/rna
+    Cypher: /other/cypher
+  Extra opdracht:
+    Decryptor: /other/decryptor
 
 Week 4:
-    Opdrachten:
-        Functies [oefenen]: /exercises/writing/functions
-        Tiles: /other/tiles
-        Functies [boek]: /exercises/book/functions
-        Calendar: /other/calendar
-    Extra opdracht:
-        Design challenge: /other/calendar/extra
+  Opdrachten:
+    Functies [oefenen]: /exercises/writing/functions
+    Tiles: /other/tiles
+    Functies [boek]: /exercises/book/functions
+    Calendar: /other/calendar
+  Extra opdracht:
+    Design challenge: /other/calendar/extra
 
 Week 5:
-    Voorbereiding:
-        'Videocollege: Algorithms': /lectures/algorithms
-    Opdrachten:
-        Algorithms [oefenen]: /exercises/study/algorithms
-        Measurements [oefenen]: /cs50/sort
-        Sort: /other/sort
-    Extra opdracht:
-        Find: /other/find
+  Voorbereiding:
+    "Videocollege: Algorithms": /lectures/algorithms
+  Opdrachten:
+    Algorithms [oefenen]: /exercises/study/algorithms
+    Measurements [oefenen]: /cs50/sort
+    Sort: /other/sort
+  Extra opdracht:
+    Find: /other/find
 
 Week 6:
-    Voorbereiding:
-        'Videocollege: Memory': /lectures/memory
-    Opdrachten:
-        Beatles [oefenen]: /exercises/writing/beatles
-        Whodunit [oefenen]: /cs50/whodunit
-        Filter: /cs50/filter/less
-    Extra opdracht:
-        Resize: /cs50/resize/more
+  Voorbereiding:
+    "Videocollege: Memory": /lectures/memory
+  Opdrachten:
+    Beatles [oefenen]: /exercises/writing/beatles
+    Whodunit [oefenen]: /cs50/whodunit
+    Filter: /cs50/filter/less
+  Extra opdracht:
+    Resize: /cs50/resize/more
 
 Week 7:
-    Voorbereiding:
-        'Videocollege: Data structures': /lectures/data-structures
-    Opdrachten:
-        Speller: /cs50/speller/startup
-        Questions: /questions/mispellings
+  Voorbereiding:
+    "Videocollege: Data structures": /lectures/data-structures
+  Opdrachten:
+    Speller: /cs50/speller/startup
+    Questions: /questions/mispellings

@@ -1,0 +1,7 @@
+name: soda
+files:
+  required:
+    - soda.c
+check:
+  tool: check50
+  slug: minprog/programmeren-1/2022/other/soda
