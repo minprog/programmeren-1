@@ -4,4 +4,4 @@ files:
     - soda.c
 check:
   tool: check50
-  slug: minprog/programmeren-1/2022/other/soda
+  slug: minprog/checks/2022/soda

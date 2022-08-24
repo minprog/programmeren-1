@@ -85,6 +85,6 @@ First, test your program manually by `make`ing and running it with various forms
 
 Once confident, check your code with `check50` as follows:
 
-    check50 -l minprog/programmeren-1/2022/other/soda
+    check50 -l minprog/checks/2022/soda
 
 Before you hand in your solution, also check for obvious style mistakes using `style50`. But don't overdo it. You'll be doing a code review again next week.
