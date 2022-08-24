@@ -12,8 +12,8 @@ Week 1:
   Installatie:
     Installatie: /extra/installatie
     Hello, world: /cs50/helloworld
+  "Opdrachten #2":
     Hello, you!: /cs50/hello
-  Opdrachten:
     Control Flow [boek]: /exercises/book/control-flow
     Population [oefenen]: /cs50/population
     Temperatuurtabellen: /other/conversion
