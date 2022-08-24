@@ -1,8 +1,0 @@
-name: caffeine
-files:
-    required:
-        - pseudocode.txt
-        - caffeine.c
-check:
-    tool: check50
-    slug: minprog/programmeren-ki/2021/other/caffeine

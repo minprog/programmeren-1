@@ -19,12 +19,12 @@ Week 1:
 
 Week 2:
   Opdrachten:
-    Temperatuurtabellen: /other/conversion
+    Temperatuurtabellen: /problems/conversion
     Mario: /cs50/mario/less
-    Caffeine: /other/caffeine
-    Soda: /other/soda
+    Caffeine: /problems/caffeine
+    Soda: /problems/soda
   Extra opdracht:
-    Goldbach: /other/goldbach
+    Goldbach: /problems/goldbach
 
 Week 3:
   Voorbereiding:
@@ -33,19 +33,19 @@ Week 3:
     Strings en Arrays [boek]: /exercises/book/arrays
     Strings [oefenen]: /exercises/writing/strings
     Scrabble [oefenen]: /cs50/scrabble
-    RNA: /other/rna
-    Cypher: /other/cypher
+    RNA: /problems/rna
+    Cypher: /problems/cypher
   Extra opdracht:
-    Decryptor: /other/decryptor
+    Decryptor: /problems/decryptor
 
 Week 4:
   Opdrachten:
     Functies [oefenen]: /exercises/writing/functions
-    Tiles: /other/tiles
+    Tiles: /problems/tiles
     Functies [boek]: /exercises/book/functions
-    Calendar: /other/calendar
+    Calendar: /problems/calendar
   Extra opdracht:
-    Design challenge: /other/calendar/extra
+    Design challenge: /problems/calendar/extra
 
 Week 5:
   Voorbereiding:
@@ -53,9 +53,9 @@ Week 5:
   Opdrachten:
     Algorithms [oefenen]: /exercises/study/algorithms
     Measurements [oefenen]: /cs50/sort
-    Sort: /other/sort
+    Sort: /problems/sort
   Extra opdracht:
-    Find: /other/find
+    Find: /problems/find
 
 Week 6:
   Voorbereiding:
