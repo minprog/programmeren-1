@@ -4,4 +4,12 @@ files:
     - soda.c
 check:
   tool: check50
-  slug: minprog/checks/2022/soda
+  slug: &slug minprog/checks/2022/soda
+# plag:
+#   server: https://coda.quinner.nl/api/submission/
+#   slug: *slug
+#   course: minprog_2022_herfst
+# distro: https://raw.githubusercontent.com/uvaai/wcai/main/....
+# archives:
+#     - pyprog/2021/calendar
+#     - pyprog/2020/calendar
