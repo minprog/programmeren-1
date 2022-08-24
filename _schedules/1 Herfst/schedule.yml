@@ -7,20 +7,20 @@ Week 1:
   Opdrachten:
     Scratch: /cs50/scratch
     Variabelen [boek]: /exercises/book/variables
-    Control Flow [boek]: /exercises/book/control-flow
+  "Voorbereiding #2":
+    "Videocollege: C": /lectures/c
   Installatie:
     Installatie: /extra/installatie
     Hello, world: /cs50/helloworld
-  Extra opdracht:
-    Figure (onzeker of we dit doen): /other/figure
-
-Week 2:
-  Voorbereiding:
-    "Videocollege: C": /lectures/c
-  Opdrachten:
     Hello, you!: /cs50/hello
+  Opdrachten:
+    Control Flow [boek]: /exercises/book/control-flow
     Population [oefenen]: /cs50/population
     Temperatuurtabellen: /other/conversion
+
+Week 2:
+  Opdrachten:
+    Mario: /cs50/mario/less
     Caffeine: /other/caffeine
     Soda: /other/soda
   Extra opdracht:
