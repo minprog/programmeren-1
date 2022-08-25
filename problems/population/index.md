@@ -19,7 +19,7 @@ To try another example, if we were to start with `n = 1000` llamas, at the end o
 
 ## Getting started
 
-Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/programmeren-1/raw/2022/population/population.c](https://github.com/minprog/programmeren-1/raw/2022/population/population.c) into a new file in your IDE called `population.c`.
+Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c](https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c) into a new file in your IDE called `population.c`.
 
 ## Implementation details
 
