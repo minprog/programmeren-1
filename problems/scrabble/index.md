@@ -21,9 +21,9 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ## Getting Started
 
-Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c](https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c) into a new file in your IDE called `scrabble.c`.
+Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/programmeren-1/raw/2022/scrabble/scrabble.c](https://github.com/minprog/programmeren-1/raw/2022/scrabble/scrabble.c) into a new file in your IDE called `scrabble.c`.
 
-You can also download the distribution code by running the command `wget https://github.com/minprog/cs50x/raw/2020/scrabble/scrabble.c` in CS50 IDE.
+You can also download the distribution code by running the command `wget https://github.com/minprog/programmeren-1/raw/2022/scrabble/scrabble.c` in CS50 IDE.
 
 ## Implementation Details
 
