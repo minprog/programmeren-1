@@ -25,7 +25,7 @@ video::DL27z7YRxj4[youtube]
 
 == Getting Started
 
-Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into link:https://ide.cs50.io/[CS50 IDE] and then, in a terminal window, execute each of the below.
+Here's how to download this problem's "distribution code" (i.e., starter code). In a terminal window, execute each of the below.
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
 1. Execute `mkdir module4` to make (i.e., create) a directory called `module4` in your home directory.

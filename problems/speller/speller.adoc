@@ -154,7 +154,7 @@ TIME IN TOTAL:
 
 `TIME IN load` represents the number of seconds that `speller` spends executing your implementation of `load`. `TIME IN check` represents the number of seconds that `speller` spends, in total, executing your implementation of `check`. `TIME IN size` represents the number of seconds that `speller` spends executing your implementation of `size`. `TIME IN unload` represents the number of seconds that `speller` spends executing your implementation of `unload`. `TIME IN TOTAL` is the sum of those four measurements.
 
-*Note that these times may vary somewhat across executions of `speller`, depending on what else CS50 IDE is doing, even if you don't change your code.*
+*Note that these times may vary somewhat across executions of `speller`, depending on what else your computer is doing, even if you don't change your code.*
 
 Incidentally, to be clear, by "misspelled" we simply mean that some word is not in the `dictionary` provided.
 

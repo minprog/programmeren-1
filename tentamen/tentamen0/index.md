@@ -1,7 +1,7 @@
 # Tentamen
 
 > Regels voor het tentamen:
-> 
+>
 > - Je mag tot uiterlijk 30 minuten na de begintijd starten.
 > - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
 > - Leg je collegekaart klaar op tafel (of een andere ID met foto).
@@ -26,16 +26,13 @@ Verder gebruik van internet of hulp van anderen is niet toegestaan.
 
 In je uitwerking mag je alleen gebruik maken van de library-functies die ook in de CS50 Manual staan (of soortgelijke functies in Python als je het tentamen per se in Python wil doen).
 
-Programmeren moet in de CS50 IDE. Je hebt dus alleen je webbrowser geopend met daarin enkele tabs: de CS50 IDE, de CS50 Manual, en deze cursuswebsite. Je mag geen andere programma's open hebben.
+Programmeren moet in de IDE. Je hebt dus alleen je IDE geopend en een webbrowser met daarin enkele tabs: de CS50 Manual en deze cursuswebsite. Je mag geen andere programma's open hebben.
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
 De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
 Succes!
-
-
-
 
 ## Elektrisch rijden
 
@@ -107,7 +104,6 @@ Controle op (on)geldige invoer is alleen nodig voor de keuze Nederland, Duitslan
     Wat is de bestemming? D
     Plak 2 postzegel(s).
 
-
 ## Trapezium
 
 Schrijf een programma dat een trapezium uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet groter dan 20.
@@ -149,7 +145,6 @@ Schrijf een programma dat een trapezium uitprint. De gebruiker mag een hoogte op
      #        #
     ##########
 
-
 ## Spraaksynthese
 
 Een getal kan worden opgedeeld in cijfer. Het getal 423 bijvoorbeeld, bestaat uit de cijfers 4, 2 en 3. Men wil een spraaksynthesizer gebruiken om getallen uit te spreken, en wel cijfer na cijfer. Het getal 423 moet dus worden uitgesproken als ‘vier’, ‘twee’, ‘drie’.
@@ -176,7 +171,6 @@ Als een ongeldige invoer wordt gegeven dan moet er een foutmelding komen:
     $ ./synthese
     Getal: 12o4
     Dat is geen getal!
-
 
 ## Wachtwoorden
 
