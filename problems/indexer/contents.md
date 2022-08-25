@@ -32,7 +32,12 @@ When that index is loaded into memory, it allows us to quickly search the text w
 
     wget https://github.com/minprog/programmeren-1/raw/2022/problems/indexer/dist/indexer.zip
 
-Then unzip and get started!
+Then unzip:
+
+    unzip indexer.zip
+    rm indexer.zip
+
+And you are good to go!
 
 ### Understanding
 
