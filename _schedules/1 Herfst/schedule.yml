@@ -5,22 +5,22 @@ Week 1:
   Voorbereiding:
     "Videocollege: Computational Thinking": /lectures/computational-thinking
   Opdrachten:
-    Scratch: /cs50/scratch
+    Scratch: /problems/scratch
     Variabelen [boek]: /exercises/book/variables
   "Voorbereiding #2":
     "Videocollege: C": /lectures/c
   Installatie:
     Installatie: /extra/installatie
-    Hello, world: /cs50/helloworld
+    Hello, world: /problems/helloworld
   "Opdrachten #2":
-    Hello, you!: /cs50/hello
+    Hello, you!: /problems/hello
     Control Flow [boek]: /exercises/book/control-flow
-    Population [oefenen]: /cs50/population
+    Population [oefenen]: /problems/population
 
 Week 2:
   Opdrachten:
     Temperatuurtabellen: /problems/conversion
-    Mario: /cs50/mario/less
+    Mario: /problems/mario/less
     Soda: /problems/soda
     Caffeine: /problems/caffeine
   Extra opdracht:
@@ -32,7 +32,7 @@ Week 3:
   Opdrachten:
     Strings en Arrays [boek]: /exercises/book/arrays
     Strings [oefenen]: /exercises/writing/strings
-    Scrabble [oefenen]: /cs50/scrabble
+    Scrabble [oefenen]: /problems/scrabble
     RNA: /problems/rna
     Cypher: /problems/cypher
   Extra opdracht:
@@ -52,7 +52,7 @@ Week 5:
     "Videocollege: Algorithms": /lectures/algorithms
   Opdrachten:
     Algorithms [oefenen]: /exercises/study/algorithms
-    Measurements [oefenen]: /cs50/sort
+    Measurements [oefenen]: /problems/sort
     Sort: /problems/sort
   Extra opdracht:
     Find: /problems/find
@@ -62,14 +62,14 @@ Week 6:
     "Videocollege: Memory": /lectures/memory
   Opdrachten:
     Beatles [oefenen]: /exercises/writing/beatles
-    Whodunit [oefenen]: /cs50/whodunit
-    Filter: /cs50/filter/less
+    Whodunit [oefenen]: /problems/whodunit
+    Filter: /problems/filter/less
   Extra opdracht:
-    Resize: /cs50/resize/more
+    Resize: /problems/resize/more
 
 Week 7:
   Voorbereiding:
     "Videocollege: Data structures": /lectures/data-structures
   Opdrachten:
-    Speller: /cs50/speller/startup
+    Speller: /problems/speller/startup
     Questions: /questions/mispellings
