@@ -40,7 +40,7 @@ Although other configurations are possible, we shall assume that this game begin
 ## Downloading
 
     $ cd ~/problems
-    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/tiles/dist/tiles.zip
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/tiles/dist/tiles.zip
     $ unzip tiles.zip
     $ rm tiles.zip
     $ cd tiles

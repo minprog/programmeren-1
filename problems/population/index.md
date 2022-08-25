@@ -19,9 +19,9 @@ To try another example, if we were to start with `n = 1000` llamas, at the end o
 
 ## Distribution
 
-Download the "distrubition code" (i.e., starter code) by executing the following command in the terminal:
+Download the "distribution code" (i.e., starter code) by executing the following command in the terminal:
 
-    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c
 
 This will download a file called `population.c` and store it in the current directory. You can open the file by double clicking it in the file browser, or through the following command:
 

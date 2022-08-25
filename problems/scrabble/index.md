@@ -21,9 +21,13 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ## Getting Started
 
-Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/programmeren-1/raw/2022/problems/scrabble/scrabble.c](https://github.com/minprog/programmeren-1/raw/2022/problems/scrabble/scrabble.c) into a new file in your IDE called `scrabble.c`.
+Download the "distribution code" (i.e., starter code) by executing the following command in the terminal:
 
-You can also download the distribution code by running the command `wget https://github.com/minprog/programmeren-1/raw/2022/problems/scrabble/scrabble.c` in CS50 IDE.
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/scrabble/scrabble.c
+
+This will download a file called `scrabble.c` and store it in the current directory. You can open the file by double clicking it in the file browser, or through the following command:
+
+    $ code scrabble.c
 
 ## Implementation Details
 

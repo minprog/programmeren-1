@@ -13,7 +13,7 @@ Implement a program that sorts numbers, per the below.
 
 ## Distribution
 
-    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/sort/dist/sort.zip
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/sort/dist/sort.zip
     $ unzip sort.zip
     $ rm sort.zip
     $ cd sort

@@ -11,7 +11,7 @@ Implement a program that finds a number among numbers, per the below.
 
 ## Distribution
 
-    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/find/dist/find.zip
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/find/dist/find.zip
     $ unzip find.zip
     $ rm find.zip
     $ cd find

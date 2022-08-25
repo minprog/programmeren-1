@@ -89,7 +89,7 @@ For a pixel along the edge or corner, like pixel 15, we would still look for all
 Here's how to download this problem's "distribution code" (i.e., starter code). In a terminal window, execute each of the below.
 
 - Execute `cd problems` to ensure that you're in `~/problems`.
-- Execute `wget https://github.com/minprog/programmeren-1/raw/2022/problems/filter/less/filter.zip` to download a (compressed) ZIP file with this problem's distribution.
+- Execute `curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/filter/less/filter.zip` to download a (compressed) ZIP file with this problem's distribution.
 - Execute `unzip filter.zip` to uncompress that file.
 - Execute `rm filter.zip` followed by `yes` or `y` to delete that ZIP file.
 - Execute `ls`. You should see a directory called `filter`, which was inside of that ZIP file.
