@@ -5,7 +5,7 @@ Week 1:
   Voorbereiding:
     "Videocollege: Computational Thinking": /lectures/computational-thinking
   Opdrachten:
-    Scratch: /problems/scratch
+    Scratch [opdracht]: /problems/scratch
     Variabelen [boek]: /exercises/book/variables
   "Voorbereiding #2":
     "Videocollege: C": /lectures/c
@@ -13,18 +13,18 @@ Week 1:
     Installatie: /extra/installatie
     Hello, world: /problems/helloworld
   "Opdrachten #2":
-    Hello, you!: /problems/hello
+    Hello, you! [opdracht]: /problems/hello
     Control Flow [boek]: /exercises/book/control-flow
     Population [oefenen]: /problems/population
 
 Week 2:
   Opdrachten:
-    Temperatuurtabellen: /problems/conversion
-    Mario: /problems/mario/less
-    Soda: /problems/soda
-    Caffeine: /problems/caffeine
+    Temperatuurtabellen [opdracht]: /problems/conversion
+    Mario [opdracht]: /problems/mario/less
+    Soda [opdracht]: /problems/soda
+    Caffeine [opdracht]: /problems/caffeine
   Extra opdracht:
-    Goldbach: /problems/goldbach
+    Goldbach [opdracht]: /problems/goldbach
 
 Week 3:
   Voorbereiding:
@@ -33,19 +33,19 @@ Week 3:
     Strings en Arrays [boek]: /exercises/book/arrays
     Strings [oefenen]: /exercises/writing/strings
     Scrabble [oefenen]: /problems/scrabble
-    RNA: /problems/rna
-    Cypher: /problems/cypher
+    RNA [opdracht]: /problems/rna
+    Cypher [opdracht]: /problems/cypher
   Extra opdracht:
-    Decryptor: /problems/decryptor
+    Decryptor [opdracht]: /problems/decryptor
 
 Week 4:
   Opdrachten:
     Functies [oefenen]: /exercises/writing/functions
-    Tiles: /problems/tiles
+    Tiles [opdracht]: /problems/tiles
     Functies [boek]: /exercises/book/functions
-    Calendar: /problems/calendar
+    Calendar [opdracht]: /problems/calendar
   Extra opdracht:
-    Design challenge: /problems/calendar/extra
+    Design challenge [opdracht]: /problems/calendar/extra
 
 Week 5:
   Voorbereiding:
@@ -53,9 +53,9 @@ Week 5:
   Opdrachten:
     Algorithms [oefenen]: /exercises/study/algorithms
     Measurements [oefenen]: /problems/measurements
-    Sort: /problems/sort
+    Sort [opdracht]: /problems/sort
   Extra opdracht:
-    Find: /problems/find
+    Find [opdracht]: /problems/find
 
 Week 6:
   Voorbereiding:
@@ -63,13 +63,13 @@ Week 6:
   Opdrachten:
     Beatles [oefenen]: /exercises/writing/beatles
     Whodunit [oefenen]: /problems/whodunit
-    Filter: /problems/filter/less
+    Filter [opdracht]: /problems/filter/less
   Extra opdracht:
-    Resize: /problems/resize/more
+    Resize [opdracht]: /problems/resize/more
 
 Week 7:
   Voorbereiding:
     "Videocollege: Data structures": /lectures/data-structures
   Opdrachten:
-    Speller: /problems/speller
-    Questions: /problems/speller/questions
+    Speller [opdracht]: /problems/speller
+    Questions [opdracht]: /problems/speller/questions
