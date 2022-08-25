@@ -17,9 +17,15 @@ For example, if we were to start with `n = 1200` llamas, then in the first year,
 
 To try another example, if we were to start with `n = 1000` llamas, at the end of the year, we would have `1000 / 3 = 333.33` new llamas. We can't have a decimal portion of a llama, though, so we'll truncate the decimal to get `333` new llamas born. `1000 / 4 = 250` llamas will pass away, so we'll end up with a total of `1000 + 333 - 250 = 1083` llamas at the end of the year.
 
-## Getting started
+## Distribution
 
-Copy the "distribution code" (i.e., starter code) from [https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c](https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c) into a new file in your IDE called `population.c`.
+Download the "distrubition code" (i.e., starter code) by executing the following command in the terminal:
+
+    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c
+
+This will download a file called `population.c` and store it in the current directory. You can open the file by double clicking it in the file browser, or through the following command:
+
+    $ code population.c
 
 ## Implementation details
 
