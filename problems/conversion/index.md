@@ -1,5 +1,7 @@
 # Temperatuurtabellen
 
+> **Zelfstandig.**
+>
 > Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, maar ze mogen niks voorzeggen en zeker niet hun pseudocode of uitwerking laten zien. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
 
 ## Temperaturen

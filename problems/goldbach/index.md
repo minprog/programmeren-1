@@ -1,27 +1,26 @@
 # Goldbach
 
+> **Zelfstandig.**
+>
 > Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
-
 
 ## Het vermoeden van Goldbach
 
 Het vermoeden van Goldbach is een van de oudste onopgeloste problemen in de wiskunde. Goldbach stelde:
 
-*"Elk even getal groter dan 2 kan geschreven worden als de som van twee priemgetallen."*
+_"Elk even getal groter dan 2 kan geschreven worden als de som van twee priemgetallen."_
 
 Een priemgetal mag hierbij ook twee keer gebruikt worden (6=3+3). Hoewel dit vermoeden inderdaad blijkt te kloppen voor alle getallen tot $$4\cdot10^{18}$$ is er nog altijd geen analytisch bewijs voor de stelling. De computer is ongeschikt om het vermoeden te **bewijzen** (je kunt immers niet tot oneindig tellen). Onze enige kans is dus een even getal vinden dat niet aan de eisen voldoet.
 
-
 ## Specificatie
 
-Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inderdaad te schrijven zijn als de som van twee priemgetallen. Concreet: laat voor elk even getal ook *expliciet* zien (op het scherm) dat het te schrijven is als de som van twee priemgetallen:
+Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inderdaad te schrijven zijn als de som van twee priemgetallen. Concreet: laat voor elk even getal ook _expliciet_ zien (op het scherm) dat het te schrijven is als de som van twee priemgetallen:
 
     4 = 2 + 2
     6 = 3 + 3
     8 = 3 + 5
     10 = 3 + 7
     ...
-
 
 ## Hints
 
@@ -34,7 +33,6 @@ Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inder
 - Er wordt flink wat rekenwerk verricht. Je kunt op allerlei manieren je code optimaliseren door precies zoveel werk te doen als nodig is.
 
 - Gebruik geen bestaande algoritmen en geen Google. Dit probleem is zeer goed op te lossen met weinig programmeerkennis maar het moeilijkste deel zit 'm in de analyse.
-
 
 ## How to Test Your Code
 

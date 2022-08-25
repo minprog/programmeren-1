@@ -1,5 +1,7 @@
 # Scrabble
 
+> **Samenwerkopdracht.**
+>
 > Bij deze opdracht is het helemaal prima om samen te werken met één medestudent. Zorg dat je gezamenlijk op één scherm kunt kijken en echt samen het probleem probeert op te lossen. Heeft iemand een goed idee, dan moet die zorgen dat de anderen het ook begrijpen. De bedoeling is dat alle samenwerkers evenveel hebben bijgedragen aan de opdracht. Iedereen levert uiteindelijk een eigen versie in.
 
 Determine which of two Scrabble words is worth more.
