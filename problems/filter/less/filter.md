@@ -86,7 +86,7 @@ For a pixel along the edge or corner, like pixel 15, we would still look for all
 
 ## Getting Started
 
-Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
+Here's how to download this problem's "distribution code" (i.e., starter code). In a terminal window, execute each of the below.
 
 - Execute `cd problems` to ensure that you're in `~/problems`.
 - Execute `wget https://github.com/minprog/programmeren-1/raw/2022/problems/filter/less/filter.zip` to download a (compressed) ZIP file with this problem's distribution.
