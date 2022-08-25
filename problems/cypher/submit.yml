@@ -4,4 +4,4 @@ files:
     - cypher.c
 check:
   tool: check50
-  slug: minprog/programmeren-ki/2021/problems/cypher
+  slug: minprog/checks/2022/cypher

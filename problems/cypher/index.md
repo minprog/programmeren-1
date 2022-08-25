@@ -51,7 +51,7 @@ Design and implement a program, `cypher`, that encrypts messages using the cyphe
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 -l minprog/programmeren-ki/2021/problems/cypher
+    check50 -l minprog/checks/2022/cypher
 
 Execute the below to evaluate the style of your code using `style50`.
 

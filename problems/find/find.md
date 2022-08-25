@@ -128,4 +128,4 @@ you should see `1`, since `128` is, again, not among the 1,000 numbers outputted
 
 When you're completely satisfied that your program works as expected using manual testing, you can run `check50` to check for corner cases that may have escaped your attention.
 
-    check50 -l minprog/programmeren-ki/2021/problems/find
+    check50 -l minprog/checks/2022/find

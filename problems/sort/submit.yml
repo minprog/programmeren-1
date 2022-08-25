@@ -5,4 +5,4 @@ files:
     - helpers.c
 check:
   tool: check50
-  slug: minprog/programmeren-ki/2021/problems/sort
+  slug: minprog/checks/2022/sort

@@ -40,7 +40,7 @@ Although other configurations are possible, we shall assume that this game begin
 ## Downloading
 
     $ cd ~/problems
-    $ wget https://github.com/minprog/programmeren-ki/raw/2021/problems/tiles/dist/tiles.zip
+    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/tiles/dist/tiles.zip
     $ unzip tiles.zip
     $ rm tiles.zip
     $ cd tiles
@@ -136,4 +136,4 @@ You can automate execution of this game to help debugging. In fact, we have prov
 
 Note that `check50` assumes that your board's blank space is implemented in the array `board` as `0`; if you've chosen some other value, best to change to `0` for `check50`'s sake. Also note that `check50` assumes that you're indexing into `board` a la `board[row][column]`, not `board[column][row]`.
 
-    check50 -l minprog/programmeren-ki/2021/problems/tiles
+    check50 -l minprog/checks/2022/tiles

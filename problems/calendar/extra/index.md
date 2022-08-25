@@ -43,7 +43,7 @@ Om aan de opdracht te voldoen is het nodig om deze principes echt uit te probere
 
 Zorg dat je uiteindelijke programma nog steeds correct werkt met de checks van Calendar:
 
-    check50 -l minprog/programmeren-ki/2021/problems/calendar
+    check50 -l minprog/checks/2022/calendar
 
 ## Verslag
 

@@ -4,4 +4,4 @@ files:
     - goldbach.c
 check:
   tool: check50
-  slug: minprog/programmeren-ki/2021/problems/goldbach
+  slug: minprog/checks/2022/goldbach

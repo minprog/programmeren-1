@@ -98,7 +98,7 @@ Does your code work as prescribed when you input invalid DNA? Does it correctly 
 
 You can execute the below to evaluate the correctness of your code using `check50`.
 
-    check50 -l minprog/programmeren-ki/2021/problems/rna
+    check50 -l minprog/checks/2022/rna
 
 Execute the below to evaluate the style of your code using `style50`.
 

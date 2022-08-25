@@ -102,6 +102,6 @@ Don't forget that you need to write function **prototypes** above main to be abl
 
 You can use `check50` to find obvious mistakes, such as months starting on the wrong weekdate. But you should be able to easily test your program manually by `make`ing and running it.
 
-    check50 -l minprog/programmeren-ki/2021/problems/calendar
+    check50 -l minprog/checks/2022/calendar
 
 Before you hand in your solution, also check for obvious style mistakes using `style50`. But don't overdo it. You'll be doing a code review again next week.

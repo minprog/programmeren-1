@@ -13,7 +13,7 @@ Implement a program that sorts numbers, per the below.
 
 ## Distribution
 
-    $ wget https://github.com/minprog/programmeren-ki/raw/2021/problems/sort/dist/sort.zip
+    $ wget https://github.com/minprog/programmeren-1/raw/2022/problems/sort/dist/sort.zip
     $ unzip sort.zip
     $ rm sort.zip
     $ cd sort
@@ -188,4 +188,4 @@ It's up to you to test using different test cases, i.e. different numbers and di
 
 When you're completely satisfied that your program works as expected using manual testing, you can run `check50` to check for corner cases that may have escaped your attention.
 
-    check50 -l minprog/programmeren-ki/2021/problems/sort
+    check50 -l minprog/checks/2022/sort
