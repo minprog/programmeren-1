@@ -4,7 +4,6 @@ Implement a program that applies filters to BMPs, per the below.
 
     $ ./filter -r image.bmp reflected.bmp
 
-
 ## Background
 
 ### Bitmaps
@@ -15,9 +14,9 @@ Perhaps the simplest way to represent an image is with a grid of pixels (i.e., d
 
 In this sense, then, is an image just a bitmap (i.e., a map of bits). For more colorful images, you simply need more bits per pixel. A file format (like [BMP], [JPEG], or [PNG]) that supports "24-bit color" uses 24 bits per pixel. (BMP actually supports 1-, 4-, 8-, 16-, 24-, and 32-bit color.)
 
-[BMP]: https://en.wikipedia.org/wiki/BMP_file_format
-[JPEG]: https://en.wikipedia.org/wiki/JPEG
-[PNG]: https://en.wikipedia.org/wiki/Portable_Network_Graphics
+[bmp]: https://en.wikipedia.org/wiki/BMP_file_format
+[jpeg]: https://en.wikipedia.org/wiki/JPEG
+[png]: https://en.wikipedia.org/wiki/Portable_Network_Graphics
 
 A 24-bit BMP uses 8 bits to signify the amount of red in a pixel's color, 8 bits to signify the amount of green in a pixel's color, and 8 bits to signify the amount of blue in a pixel's color. If you've ever heard of RGB color, well, there you have it: red, green, blue.
 
@@ -85,19 +84,17 @@ The new value of each pixel would be the average of the values of all of the pix
 
 For a pixel along the edge or corner, like pixel 15, we would still look for all pixels within 1 row and column: in this case, pixels 10, 11, 12, 14, 15, and 16.
 
-
 ## Getting Started
 
 Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
-* Execute `cd problems` to ensure that you're in `~/problems`.
-* Execute `wget https://github.com/minprog/cs50x/raw/2021/filter/less/filter.zip` to download a (compressed) ZIP file with this problem's distribution.
-* Execute `unzip filter.zip` to uncompress that file.
-* Execute `rm filter.zip` followed by `yes` or `y` to delete that ZIP file.
-* Execute `ls`. You should see a directory called `filter`, which was inside of that ZIP file.
-* Execute `cd filter` to change into that directory.
-* Execute `ls`. You should see this problem's distribution, including `bmp.h`, `filter.c`, `helpers.h`, `helpers.c`, and `Makefile`. You'll also see a directory called `images`, with some sample Bitmap images.
-
+- Execute `cd problems` to ensure that you're in `~/problems`.
+- Execute `wget https://github.com/minprog/cs50x/raw/2021/filter/less/filter.zip` to download a (compressed) ZIP file with this problem's distribution.
+- Execute `unzip filter.zip` to uncompress that file.
+- Execute `rm filter.zip` followed by `yes` or `y` to delete that ZIP file.
+- Execute `ls`. You should see a directory called `filter`, which was inside of that ZIP file.
+- Execute `cd filter` to change into that directory.
+- Execute `ls`. You should see this problem's distribution, including `bmp.h`, `filter.c`, `helpers.h`, `helpers.c`, and `Makefile`. You'll also see a directory called `images`, with some sample Bitmap images.
 
 ## Understanding
 
@@ -151,7 +148,6 @@ Then, you can run the program by running:
 
 which takes the image at `images/yard.bmp`, and generates a new image called `out.bmp` after running the pixels through the `grayscale` function. `grayscale` doesn't do anything just yet, though, so the output image should look the same as the original yard.
 
-
 ## Specification
 
 Implement the functions in `helpers.c` such that a user can apply grayscale, sepia, reflection, or blur filters to their images. You should not modify any of the provided function signatures, nor should you modify any other files other than `helpers.c`.
@@ -164,31 +160,32 @@ Watch the introductory walkthrough for more information on how to get started:
 
 The function `grayscale` should take an image and turn it into a black-and-white version of the same image.
 
-1. Watch the walkthrough about grayscaling:
+1.  Watch the walkthrough about grayscaling:
 
     [![](walkthrough.jpg){: width="150px"}](https://youtu.be/A8LA2osnAwM?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
 
-1. Implement a separate `grayscale_pixel` function, which will take an image and the coordinates of a single pixel. The function returns a gray-scaled `RGBTRIPLE` value for that pixel:
+1.  Implement a separate `grayscale_pixel` function, which will take an image and the coordinates of a single pixel. The function returns a gray-scaled `RGBTRIPLE` value for that pixel:
 
-       RGBTRIPLE grayscale_pixel(int height, int width, RGBTRIPLE image[height][width], int x, int y)
-       {
-           // calculate the average pixel value
-           int average = 0; // <--- TODO
-           
+    RGBTRIPLE grayscale_pixel(int height, int width, RGBTRIPLE image[height][width], int x, int y)
+    {
+    // calculate the average pixel value
+    int average = 0; // <--- TODO
+
            // set each color value to the average value
            RGBTRIPLE triple;
            triple.rgbtBlue = average;
            triple.rgbtGreen = average;
            triple.rgbtRed = average;
-           
+
            return triple;
-       }
 
-1. Place the function *above* the `grayscale` function in `helpers.c`.
+    }
 
-1. Use this function in your `grayscale` function to make the black-and-white version of the full image.
+1.  Place the function _above_ the `grayscale` function in `helpers.c`.
 
-1. Test your code: `./filter -g images/infile.bmp outfile.bmp`. The resulting image will clearly be in grayscale.
+1.  Use this function in your `grayscale` function to make the black-and-white version of the full image.
+
+1.  Test your code: `./filter -g images/infile.bmp outfile.bmp`. The resulting image will clearly be in grayscale.
 
 ### Sepia
 
@@ -196,7 +193,7 @@ The function `sepia` should take an image and turn it into a sepia version of th
 
 1. Watch the walkthrough about the sepia filter:
 
-    [![](walkthrough.jpg){: width="150px"}](https://youtu.be/m0_vouQLufc?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
+   [![](walkthrough.jpg){: width="150px"}](https://youtu.be/m0_vouQLufc?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
 
 1. Implement a separate `sepia_pixel` function, like you did for `grayscale_pixel`.
 
@@ -210,7 +207,7 @@ The `reflect` function should take an image and reflect it horizontally.
 
 1. Watch the walkthrough about the reflection filter:
 
-    [![](walkthrough.jpg){: width="150px"}](https://youtu.be/dlWpx8gQdFo?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
+   [![](walkthrough.jpg){: width="150px"}](https://youtu.be/dlWpx8gQdFo?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
 
 1. For reflect, it's cleaner to **not** use an additional helper function. You can implement the full reflect inside the `reflect` function.
 
@@ -222,7 +219,7 @@ Finally, the `blur` function should take an image and turn it into a box-blurred
 
 1. Watch the walkthrough about blurring:
 
-    [![](walkthrough.jpg){: width="150px"}](https://youtu.be/6opWB7DaFCY?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
+   [![](walkthrough.jpg){: width="150px"}](https://youtu.be/6opWB7DaFCY?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
 
 1. Implement a separate `blur_pixel` function, like you did for `grayscale_pixel` and `sepia_pixel`.
 
@@ -232,11 +229,9 @@ Finally, the `blur` function should take an image and turn it into a box-blurred
 
 1. Test your code: `./filter -b images/infile.bmp outfile.bmp`. The resulting image should indeed be a little bit blurry.
 
-
 ## Hints
 
 The values of a pixel's `rgbtRed`, `rgbtGreen`, and `rgbtBlue` components are all integers, so be sure to **round** any floating-point numbers to the nearest integer when assigning them to a pixel value!
-
 
 ## Testing
 
@@ -244,4 +239,4 @@ Be sure to test all of your filters on the sample bitmap files provided!
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 -l minprog/cs50x/2021/filter/less
+    check50 -l minprog/checks/2022/filter/less
