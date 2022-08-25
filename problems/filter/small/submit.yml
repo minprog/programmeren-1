@@ -5,4 +5,4 @@ files:
     - helpers.c
 check:
   tool: check50
-  slug: minprog/cs50x/2020/filter/small
+  slug: minprog/checks/2022/filter/small

@@ -1,7 +1,7 @@
 name: population
 files:
-    required:
-        - population.c
+  required:
+    - population.c
 check:
-    tool: check50
-    slug: minprog/cs50x/2020/population
+  tool: check50
+  slug: minprog/checks/2022/population

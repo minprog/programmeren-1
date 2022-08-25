@@ -196,7 +196,7 @@ Execute the below to evaluate the correctness of your code using `check50`. But 
 
 [source]
 ----
-check50 -l minprog/cs50x/2020/filter/small
+check50 -l minprog/checks/2022/filter/small
 ----
 
 Execute the below to evaluate the style of your code using `style50`.
