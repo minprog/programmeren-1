@@ -1,4 +1,4 @@
-# Code review: Filter
+# Code review: Sort
 
 Tijdens de code review ga je met een andere student naar elkaars code kijken en daarbij feedback en advies geven. We geven je hiervoor een aantal **aspecten** waarop je kunt concentreren. Deze aspecten worden ook gebruikt door de assistenten bij het nakijken van jouw definitieve programma's.
 
@@ -13,11 +13,8 @@ Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbe
 - [Formatting](/quality/aspects/formatting)
 - [Comments](/quality/aspects/comments)
 - [Naming](/quality/aspects/naming)
-- [Cleanup](/quality/aspects/cleanup)
 - [Loops](/quality/aspects/loops)
-- [Cleanup](/quality/aspects/cleanup)
-- [Scope](/quality/aspects/scope) 🆕
-- [Nesting](/quality/aspects/nesting) 🆕
+- [Cleanup](/quality/aspects/cleanup) 🆕
 
 ## Stappenplan
 

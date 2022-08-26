@@ -1,4 +1,4 @@
-# Code review: Calendar
+# Code review: Cypher
 
 Tijdens de code review ga je met een andere student naar elkaars code kijken en daarbij feedback en advies geven. We geven je hiervoor een aantal **aspecten** waarop je kunt concentreren. Deze aspecten worden ook gebruikt door de assistenten bij het nakijken van jouw definitieve programma's.
 
@@ -11,9 +11,8 @@ Je reviewpartner wisselt per week. Je mentor wijst tijdens de werkgroep de partn
 Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbeteren. Neem de tijd om de uitlegpagina helemaal te lezen en goed te begrijpen. Je kunt hier ook vragen over stellen aan de assistenten.
 
 - [Formatting](/quality/aspects/formatting)
-- [Comments](/quality/aspects/comments)
-- [Naming](/quality/aspects/naming)
-- [Loops](/quality/aspects/loops) 🆕
+- [Comments](/quality/aspects/comments) 🆕
+- [Naming](/quality/aspects/naming) 🆕
 
 ## Stappenplan
 
