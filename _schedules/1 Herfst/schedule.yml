@@ -13,7 +13,7 @@ Week 1:
   "Opdrachten #2":
     Hello, you! [opdracht]: /problems/hello
     Control Flow [boek]: /exercises/book/control-flow
-    Population [oefenen]: /problems/population
+    Population [samen programmeren]: /problems/population
 
 Week 2:
   Opdrachten:
@@ -30,7 +30,7 @@ Week 3:
   Opdrachten:
     Strings en Arrays [boek]: /exercises/book/arrays
     Strings [oefenen]: /exercises/writing/strings
-    Scrabble [oefenen]: /problems/scrabble
+    Scrabble [samen programmeren]: /problems/scrabble
     RNA [opdracht]: /problems/rna
     Cypher [opdracht]: /problems/cypher
   Extra opdracht:
@@ -39,7 +39,7 @@ Week 3:
 Week 4:
   Opdrachten:
     Functies [oefenen]: /exercises/writing/functions
-    Tiles [opdracht]: /problems/tiles
+    Tiles [samen programmeren]: /problems/tiles
     Functies [boek]: /exercises/book/functions
     Calendar [opdracht]: /problems/calendar
   Extra opdracht:
@@ -50,7 +50,7 @@ Week 5:
     "Videocollege: Algorithms": /lectures/algorithms
   Opdrachten:
     Algorithms [oefenen]: /exercises/study/algorithms
-    Measurements [oefenen]: /problems/measurements
+    Measurements [samen programmeren]: /problems/measurements
     Sort [opdracht]: /problems/sort
   Extra opdracht:
     Find [opdracht]: /problems/find
@@ -60,7 +60,7 @@ Week 6:
     "Videocollege: Memory": /lectures/memory
   Opdrachten:
     Beatles [oefenen]: /exercises/writing/beatles
-    Whodunit [oefenen]: /problems/whodunit
+    Whodunit [samen programmeren]: /problems/whodunit
     Filter [opdracht]: /problems/filter/less
   Extra opdracht:
     Resize [opdracht]: /problems/resize/more
