@@ -14,7 +14,7 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 ## Opdrachten en eindcijfer
 
-Bij dit vak werk je aan verschillende soorten opdrachten.
+Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
 Er zijn verschillende soorten oefenopdrachten. Je moet ze allemaal doen want dit zijn de essentiële oefeningen om de basisvaardigheden op te pikken. Tot op zekere hoogte werk je hier samen.
 
