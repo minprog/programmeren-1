@@ -170,19 +170,31 @@ opdrachten:
         scratch: 1
         hello: 1
         population: 1
-        mario_less: 1
-        cash: 1
+
+        conversion: 1
+        mario: 1
+        soda: 1
+        caffeine: 1
+
         strings: 1
         scrabble: 1
-        readability: 1
+        rna: 1
+        cypher: 1
+
         functions: 1
-        caesar: 1
-        linear: 1
-        find_less: 1
+        tiles: 1
+        calendar: 1
+
         algorithms: 1
-        # sort: 1
-        big_o: 1
-        complexity_puzzle: 1
+        measurements: 1
+        sort: 1
+
+        beatles: 1
+        whodunit: 1
+        filter: 1
+
+        speller: 1
+        speller_questions: 1
 
 basisboek:
     show_progress: true
@@ -195,14 +207,16 @@ basisboek:
 punten:
     show_progress: true
     submits:
-        m1: 1
         m2: 1
         m3: 1
         m4: 1
         m5: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
+        m6: 1
+        goldbach: :bonus
+        decryptor: :bonus
+        design_challenge: :bonus
+        find: :bonus
+        resize: :bonus
 
 tentamen:
     show_progress: true
