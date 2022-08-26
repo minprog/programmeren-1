@@ -4,6 +4,8 @@
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
+Dit vak bestaat uit een heleboel verschillende elementen. Het kan even duren voor je overzicht hebt. Don't panic! Bespreek het met medestudenten en schakel de docenten in als je de weg even kwijt bent. Het advies is: begin bij de eerste opdracht en werk stug verder.
+
 
 ## Docenten en assistenten
 
@@ -99,13 +101,11 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-> Red je het niet om bij te blijven? Neem dan via [e-mail](mailto:help@mprog.nl) contact op met de docenten om goede afspraken te maken of advies in te winnen over het later afronden. Let op dat het echt om de docenten gaat, want je mentor kan géén uitzonderingen geven.
+Er zijn twee wekelijkse deadlines.
 
-Voor de individuele opdrachten zijn er steeds twee deadlines:
+1. De deadline voor het het goed inleveren van de oefenopdrachten en het volledig werkend hebben van de programmeeropdrachten. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken.
 
-1. De deadline voor het volledig **werkend** hebben van de opdracht. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken.
-
-2. De deadline voor de **verbeterde** versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
+2. De deadline voor de verbeterde versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
 
 Dit is een overzicht van de deadlines per week:
 
