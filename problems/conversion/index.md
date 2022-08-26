@@ -1,4 +1,4 @@
-# Temperatuurtabellen
+# Temperatuurconversie
 
 > **Individueel.**
 >

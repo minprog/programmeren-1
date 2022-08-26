@@ -1,4 +1,4 @@
-name: sorter
+name: sort
 files:
   required:
     - generate.c

@@ -1,4 +1,4 @@
-name: filter_less
+name: filter
 files:
   required:
     - helpers.c

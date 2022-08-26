@@ -1,5 +1,5 @@
-name: m4_revised
+name: m4
 form: true
 files:
     required:
-        - caesar.c
+        - calendar.c

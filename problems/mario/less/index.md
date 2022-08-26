@@ -192,7 +192,7 @@ All that remains now is a finishing flourish! Modify `mario.c` in such a way tha
 
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 -l minprog/checks/2022/mario/less
+    check50 -l minprog/checks/2022/mario
 
 ### Hint
 

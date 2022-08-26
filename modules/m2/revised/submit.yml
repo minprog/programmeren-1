@@ -1,5 +1,5 @@
-name: m2_revised
+name: m2
 form: true
 files:
     required:
-        - cash.c
+        - goldbach.c

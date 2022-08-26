@@ -71,62 +71,51 @@ grades:
     scratch: *check
     hello: *automatic
     population: *automatic
-    mario_less: *automatic
-    cash: *automatic
+
+    conversion: *automatic
+    mario: *automatic
+    soda: *automatic
+    caffeine: *automatic
+
     strings: *check
     scrabble: *automatic
-    readability: *automatic
-    caesar: *automatic
+    rna: *automatic
+    cypher: *automatic
+
     functions: *check
-    linear: *check
+    tiles: *automatic
+    calendar: *automatic
+
     algorithms: *check
+    measurements: *automatic
     sort: *automatic
-    find_less: *automatic
-    big_o: *check
-    complexity_puzzle: *check
 
-    credit: *semiautomatic
-    crack: *semiautomatic
-    fifteen_random: *semiautomatic
+    beatles: *check
+    whodunit: *check
+    filter: *automatic
 
-    hardware: *check
-    internet: *check
-    security: *check
+    speller: *automatic
+    speller_questions: *check
+
+    goldbach: *semiautomatic
+    decryptor: *semiautomatic
+    design_challenge: *semiautomatic
+    find: *semiautomatic
+    resize: *semiautomatic
 
     basics_variables: *check
     basics_control_flow: *check
     basics_arrays: *check
     basics_functions: *check
 
-    fulltime_1: *manual
-    fulltime_2: *manual
-    fulltime_3: *manual
-
-    parttime_1: *manual
-    parttime_2: *manual
-    parttime_3: *manual
-    parttime_4: *manual
-    parttime_5: *manual
-
-    m1_revised: *manual
-    m2_revised: *manual
-    m3_revised: *manual
-    m4_revised: *manual
-    m5_revised: *manual
-
-    retrospective_1: *check
-    retrospective_2: *check
-    retrospective_3: *check
-    retrospective_4: *check
-    retrospective_5: *check
+    m2: *manual
+    m3: *manual
+    m4: *manual
+    m5: *manual
+    m6: *manual
 
     oefententamen: *check
     tentamen: *check
-    tentamen2: *check
-    tentamenpt: *check
-    tentamen3: *check
-    tentamen4: *check
-    tentamen5: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -145,33 +134,16 @@ grades:
 # calculations.
 
 calculation:
-    eindcijfer_fulltime:
+    eindcijfer:
         opdrachten: 25
         basisboek: 0
-        technology: 0
-        reviews_fulltime: 75
-        # retrospectives: 0
-        tentamen_fulltime: 0
-    eindcijfer_fulltime_herkansing:
-        opdrachten: 25
-        basisboek: 0
-        technology: 0
-        reviews_fulltime: 75
-        # retrospectives: 0
-        tentamen2_fulltime: 0
-    eindcijfer_parttime:
-        opdrachten: 25
-        basisboek: 0
-        technology: 0
         reviews: 75
-        tentamen_parttime: 0
-    eindcijfer_parttime_herkansing:
+        tentamen: 0
+    herkansing:
         opdrachten: 25
         basisboek: 0
-        technology: 0
         reviews: 75
-        tentamen2_parttime: 0
-        # retrospectives: 0
+        hertentamen: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -191,11 +163,6 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
-
-# toets:
-#     # show_progress: true
-#     submits:
-#         takehome: 1
 
 opdrachten:
     show_progress: true
@@ -225,99 +192,20 @@ basisboek:
         basics_arrays: 1
         basics_functions: 1
 
-technology:
+punten:
     show_progress: true
     submits:
-        hardware: 1
-        internet: 1
-        security: 1
-
-reviews:
-    show_progress: true
-    submits:
-        m1_revised: 1
-        m2_revised: 1
-        m3_revised: 1
-        m4_revised: 1
-        m5_revised: 1
+        m1: 1
+        m2: 1
+        m3: 1
+        m4: 1
+        m5: 1
         credit: :bonus
         crack: :bonus
         fifteen_random: :bonus
 
-reviews_fulltime:
-    # show_progress: true
-    submits:
-        m1_revised: 1
-        m3_revised: 1
-        m5_revised: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
-
-# cijfers_fulltime:
-#     show_progress: true
-#     submits:
-#         fulltime_1: 1
-#         fulltime_2: 1
-#         fulltime_3: 1
-#         credit: :bonus
-#         crack: :bonus
-#         fifteen_random: :bonus
-#
-cijfers_parttime:
-    show_progress: true
-    submits:
-        parttime_1: 1
-        parttime_2: 1
-        parttime_3: 1
-        parttime_4: 1
-        parttime_5: 1
-        credit: :bonus
-        crack: :bonus
-        fifteen_random: :bonus
-
-# retrospectives_fulltime:
-#     show_progress: true
-#     submits:
-#         retrospective_1: 1
-#         retrospective_2: 1
-#         retrospective_3: 1
-#
-# retrospectives_parttime:
-#     show_progress: true
-#     submits:
-#         retrospective_1: 1
-#         retrospective_2: 1
-#         retrospective_3: 1
-#         retrospective_4: 1
-#         retrospective_5: 1
-
-tentamen_fulltime:
+tentamen:
     show_progress: true
     required: true
     submits:
-        # oefententamen: 0
-        tentamen3: 1
-
-tentamen2_fulltime:
-    show_progress: true
-    required: true
-    submits:
-        # oefententamen: 0
-        tentamen5: 1
-
-tentamen_parttime:
-    show_progress: true
-    required: true
-    submits:
-        # oefententamen: 0
-        tentamen4: 1
-        # tentamen2: 1
-
-tentamen2_parttime:
-    # show_progress: true
-    required: true
-    submits:
-        # oefententamen: 0
-        # tentamenpt: 1
-        tentamen5: 1
+        tentamen: 1

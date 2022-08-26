@@ -1,4 +1,4 @@
-name: resize_more
+name: resize
 files:
   required:
     - resize.c

@@ -9,9 +9,7 @@ Week 1:
     Variabelen [boek]: /exercises/book/variables
   "Voorbereiding #2":
     "Videocollege: C": /lectures/c
-  Installatie:
     Installatie: /extra/installatie
-    Hello, world: /problems/helloworld
   "Opdrachten #2":
     Hello, you! [opdracht]: /problems/hello
     Control Flow [boek]: /exercises/book/control-flow
@@ -72,4 +70,4 @@ Week 7:
     "Videocollege: Data structures": /lectures/data-structures
   Opdrachten:
     Speller [opdracht]: /problems/speller
-    Questions: /problems/speller/questions
+    Questions [opdracht]: /problems/speller/questions
