@@ -149,7 +149,6 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 
 | extra opdracht   | deadline         |
 |:-----------------|:-----------------|
-| Figure           | vr  9 sep  17:59 |
 | Goldbach         | vr 16 sep  17:59 |
 | Decryptor        | vr 23 sep  17:59 |
 | Design challenge | vr 30 sep  17:59 |
