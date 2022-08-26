@@ -14,17 +14,25 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 ## Opdrachten en eindcijfer
 
-Bij dit vak werk je aan verschillende soorten opdrachten. Samenwerken is een essentieel onderdeel van het vak, maar een deel van de opdrachten is juist individueel. De cursus bestaat uit de volgende onderdelen:
+Bij dit vak werk je aan verschillende soorten opdrachten.
 
-- Aftekenen oefenopdrachten (25%). Je moet alle opdrachten helemaal gedaan hebben om het vak te kunnen halen. Er zijn drie soorten:
+Er zijn verschillende soorten oefenopdrachten. Je moet ze allemaal doen want dit zijn de essentiële oefeningen om de basisvaardigheden op te pikken. Tot op zekere hoogte werk je hier samen.
 
-    - *Zelfstandige oefenopdrachten* doe om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
-    - *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
-    - *Basisboek-oefeningen* doe je liefst gezamenlijk, maar er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
+- *Basisboek-oefeningen* pak je zelfstandig aan en bespreek je liefst gezamenlijk. Er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
-- Beoordeling individuele programmeeropdrachten (75%). Ze worden automatisch gecheckt op correcte werking, en als dat helemaal goed gaat, dan kijkt je mentor ze na en geeft punten en feedback. Deze opdrachten doe je alleen, omdat je er een beoordeling voor krijgt. Je kunt wel altijd hulp krijgen van de docenten en assistenten.
+- *Kleine programmeeroefeningen* doe om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
 
-- Beoordeling tentamen (0%). Het telt niet mee voor je eindcijfer, maar je moet een voldoende halen om het vak af te kunnen ronden.
+- *Samenwerkopdrachten* doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
+
+Dan zijn er programmeeropdrachten om te werken aan je skills voor het oplossen van programmeerproblemen. Hier zul je vaak hulp van de assistenten inschakelen.
+
+- *Individuele programmeeropdrachten* zijn wat grotere problemen. Je kunt altijd de opdracht bespreken met medestudenten, maar niet de oplossing. Correctheid wordt gecheckt door de website en je krijgt er punten voor (telt samen voor 25%).
+
+- *Beoordeling na code review*. Eén opdracht per week ga je netjes maken en apart inleveren. Je mentor kijkt deze na en geeft punten en feedback. Het gaat dan niet om de correct werking maar de netheid en overzichtelijkheid van de code (telt samen voor 75%).
+
+Tot slot is er het tentamen:
+
+- Beoordeling tentamen. Het telt niet mee voor je eindcijfer, maar je moet wel een voldoende halen om het vak af te kunnen ronden.
 
 Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de docenten. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat je mentor of een assistent geen uitzonderingen kan verlenen.
 
