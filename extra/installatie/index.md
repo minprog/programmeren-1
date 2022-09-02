@@ -6,3 +6,4 @@ We will provide instructions for setting everything up on Mac and Windows. If yo
 
 - [Get started on macOS](/extra/installatie/mac)
 - [Get started on Windows](/extra/installatie/windows)
+- [Get started on Chrome OS](/extra/installatie/chrome)
