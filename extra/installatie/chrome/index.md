@@ -12,4 +12,4 @@ This is a script that will guide you through most of the installation. Whenever 
 
 ## Step 2: Atom
 
-Download and install [Atom](https://atom.io/).
+Download and install the `.deb` file from [Atom](https://atom.io/).
