@@ -1,11 +1,10 @@
 # Windows: Installing using WSL
 
-To develop with C you need some tools on your laptop. This guide helps you with installing all these tools.
-
-We will be using the [_Windows Subsystem for Linux 2_](https://aka.ms/wsl2).
+To develop with a C compiler you will need some tools on your laptop. This guide helps you to install these tools and a code editor.
 
 Note: These instructions are written for Windows 10 and 11. If you are using Windows 8 or older please follow [these](/extra/installatie/windows8) instructions.
 
+We will be using the [_Windows Subsystem for Linux 2_](https://aka.ms/wsl2).
 
 ## Step 1: Install the Windows Subsystem for Linux
 
@@ -51,6 +50,11 @@ Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblgg
 
 </details>
 
+
+**Remember to reboot your computer after installing WSL.**
+
+**Remember to reboot your computer after installing WSL.**
+
 **Remember to reboot your computer after installing WSL.**
 
 
@@ -68,7 +72,7 @@ Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblgg
 3.  Enter a username and password for Ubuntu.  
     **Linux will not show any characters while entering a password; this is normal.**
 
-![](wsl/setupubuntu.png)
+![](setupubuntu.png)
 
 
 ## Step 3: Tools

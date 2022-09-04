@@ -1,6 +1,8 @@
 # Windows 8: Installing
 
-To develop web apps you need some tools on you laptop. This guide helps you with installing al these tools.
+To develop with a C compiler you will need some tools on your laptop. This guide helps you to install these tools and a code editor.
+
+Note: These instructions are written for Windows 8. If you are using Windows 10 or newer please follow [these](/extra/installatie/windows) instructions.
 
 ## Step 1: Git
 
@@ -8,9 +10,9 @@ Head to [the git website](https://git-scm.com/downloads) and download git for wi
 
 During the installation change the following options
 
-![Choose "Use the Nano editor by default"](img/git_nano.png)
+![Choose "Use the Nano editor by default"](git_nano.png)
 
-![Choose "Use Windows' default console window](img/git_terminal.png)
+![Choose "Use Windows' default console window](git_terminal.png)
 
 ## Step 2: Sass
 
@@ -22,11 +24,11 @@ Extract the zip you've downloaded
 
 Click "Extract All"
 
-![](img/sass_extract1.png)
+![](sass_extract1.png)
 
 And extract it to `C:\`
 
-![](img/sass_extract2.png)
+![](sass_extract2.png)
 
 If you want to use Sass from the terminal you'll need to add it to you 'PATH'.
 
@@ -38,19 +40,19 @@ If you want to use Sass from the terminal you'll need to add it to you 'PATH'.
 2. Click "Advanced system settings".
 3. Click "Environment Variables".
 
-![](img/sass-path1.png)
+![](sass-path1.png)
 
 4. Under "System Variables", find the `PATH` variable, select it, and click "Edit".
 
-![](img/sass-path2.png)
+![](sass-path2.png)
 
 5. Click "New" and "Browse..."
 
-![](img/sass-path3.png)
+![](sass-path3.png)
 
 6. Navigate to your `C:\` drive and click "dart-sass"
 
-![](img/sass-path4.png)
+![](sass-path4.png)
 
 7. Click (all the) "Ok"-buttons(s) to save the settings
 
@@ -68,7 +70,7 @@ Now you should be able to use sass, execute `sass --version` in your terminal to
 Download Python 3.9 from the [Python website](https://www.python.org/downloads/).
 
 Install Python, make sure you check the "Add Python 3.9 to PATH" box.
-![](img/python.png)
+![](python.png)
 
 ## Step 4: Atom
 

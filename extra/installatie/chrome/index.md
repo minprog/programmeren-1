@@ -1,6 +1,6 @@
 # macOS: Installing
 
-To develop with C you need some tools on you laptop. This guide helps you with installing al these tools.
+To develop with a C compiler you will need some tools on your Chromebook. This guide helps you to install these tools and a code editor.
 
 ## Step 1: The Linux environment
 
