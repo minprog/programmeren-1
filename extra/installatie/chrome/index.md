@@ -1,4 +1,4 @@
-# macOS: Installing
+# Chromebook: Installing
 
 To develop with a C compiler you will need some tools on your Chromebook. This guide helps you to install these tools and a code editor.
 
