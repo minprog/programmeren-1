@@ -70,7 +70,7 @@ Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblgg
 3.  Enter a username and password for Ubuntu.  
     **Linux will not show any characters while entering a password; this is normal.**
 
-![](setupubuntu.png)
+    ![](setupubuntu.png)
 
 
 ## Step 3: Tools
