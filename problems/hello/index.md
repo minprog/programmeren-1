@@ -108,6 +108,10 @@ Hello there again!
 
 Recall from lecture that we can automate the process of executing `clang`, letting `make` figure out how to do so for us, thereby saving us some keystrokes.
 
+The installer tool can create a `Makefile` for you in your `Programming` directory. So run the installer once more and choose option 2 this time.
+
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/uvapl/installer/main/run.sh)"
+
 Now execute the below to compile your program one last time.
 
     make hello
