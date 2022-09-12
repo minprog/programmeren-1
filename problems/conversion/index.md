@@ -20,7 +20,7 @@ Graden Celsius C en graden Fahrenheit F staan met elkaar in verband via `F = (18
 
 **Voordat je gaat programmeren ga je pseudocode schrijven. Lees onderstaande details, bekijk de voorbeelden hieronder, en volg dan de instructies onder het kopje Getting Started.**
 
-Schrijf, in een bestand genaamd `conversion.c` in de directory `~/problems/conversion`, een programma dat de gebruiker vraagt om de eenheid van temperatuur: `C` van Celsius of `F` van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapgrootte. Daarna wordt een nette tabel uitgeprint, met op iedere rij de gekozen temperatuur en de temperatuur in de andere eenheid.
+Schrijf, in een bestand genaamd `conversion.c`, een programma dat de gebruiker vraagt om de eenheid van temperatuur: `C` van Celsius of `F` van Fahrenheit. Vervolgens vraagt het programma om de begintemperatuur, de eindtemperatuur en de stapgrootte. Daarna wordt een nette tabel uitgeprint, met op iedere rij de gekozen temperatuur en de temperatuur in de andere eenheid.
 
 - Gebruik `get_char` en `get_int` om de gebruikersinvoer op te vragen en `printf` om de tabel te printen.
 
@@ -84,9 +84,7 @@ Je programma moet uiteindelijk werken zoals in de voorbeelden hieronder.
 
 ## Getting Started
 
-- Maak de directory `~/problems/conversion` (Weet je nog hoe? Kijk anders bij Mario.)
-
-- Maak een bestand `pseudocode.txt` in die directory, om je programma in stappen op te delen en die stappen ook weer op te delen. Begin hiermee:
+- Maak een bestand `pseudocode_temp.txt` om je programma in stappen op te delen en die stappen ook weer op te delen. Begin hiermee:
 
       * Invoer
           * Celcius of Fahrenheit (geldige invoer: c/C/f/F)
