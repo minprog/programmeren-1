@@ -55,7 +55,7 @@ Write a program that decodes messages encrypted using a Caesar cypher without kn
 
 ## Specification
 
-- Implement your program in a file called `decrypt.c` in a directory called `decrypt`.
+- Implement your program in a file called `decrypt.c`.
 
 - Your program must accept any number of command line arguments equal to or greater than 1, meaning a sentence of at least one word.
 

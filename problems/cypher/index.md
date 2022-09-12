@@ -28,7 +28,7 @@ Implementing this cypher as a C program will yield output as per the example abo
 
 Design and implement a program, `cypher`, that encrypts messages using the cypher described above.
 
-- Implement your program in a file called `cypher.c` in a directory called `cypher`.
+- Implement your program in a file called `cypher.c`.
 - Your program must output `plaintext:` (without a newline) and then prompt the user for a `string` of plaintext (using `get_string`).
 - Your program must output `cyphertext:` (without a newline) followed by the plaintext's corresponding cyphertext.
 - After outputting cyphertext, you should print a newline. Your program should then exit by returning `0` from `main`.
