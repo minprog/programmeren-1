@@ -69,7 +69,7 @@ Write in `pseudocode.txt` some pseudocode that implements this program, even if 
 
 Whatever your pseudocode, let's first write only the C code that checks whether the program was run with a single command-line argument before adding additional functionality.
 
-Specifically, modify `rna.c` in such a way that: if the user provides exactly one command-line argument, it prints `Success`; if the user provides no command-line arguments, or two or more, it prints `Usage: ./rna ATGC`. Remember, since this string is coming from the command line at runtime, and not via `get_string`, we don't have an opportunity to re-prompt the user. The behavior of the resulting program should be like the below.
+Specifically, modify `rna.c` in such a way that: if the user provides exactly one command-line argument, it prints `Success`; if the user provides no command-line arguments, or two or more, it prints `Usage: ./rna ATGC`. Remember, since this string is coming from the command line at runtime, and not via `get_string`, we don't have an opportunity to re-prompt the user. The behavior of the resulting program should be like the examples below.
 
     $ ./rna ATGC
     Success
@@ -98,10 +98,10 @@ Later, you will also implement a check for invalid DNA. You are advised to first
 
 Does your code work as prescribed when you input invalid DNA? Does it correctly translate DNA to RNA? You should be able to verify this yourself using the examples above. If you find it hard to be precise, make sure that you keep trying, because `check50` will not always be with you!
 
-You can execute the below to evaluate the correctness of your code using `check50`.
+You can execute the check50 command below to evaluate the correctness of your code using `check50`.
 
     check50 -l minprog/checks/2022/rna
 
-Execute the below to evaluate the style of your code using `style50`.
+Execute the command below to evaluate the style of your code using `style50`.
 
     style50 rna.c
