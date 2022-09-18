@@ -16,7 +16,8 @@ Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbe
 
 ## Stappenplan
 
-1.  [Neem de code van je partner zelfstandig door, zonder al de discussie aan te gaan.](/modules/m2/review) (10 minuten)
-2.  [Deel je feedback en bespreek manieren om de code beter te maken. Bedenk hoe jij jouw code gaat verbeteren.](/modules/m2/todo) (10 minuten per uitwerking)
-3.  [Verbeter je oplossing en stuur de definitieve oplossing in zodat deze kan worden nagekeken door je mentor. Gooi je oplossing niet helemaal overhoop maar probeer deze met kleine aanpassingen beter te maken.](/modules/m2/revised) (30 minuten)
-4.  Later krijg je korte feedback van je mentor waarmee je de volgende week je voordeel kunt doen.
+1.  Neem de code van je partner zelfstandig door, zonder al de discussie aan te gaan (10 minuten).
+2.  Deel je feedback en bespreek manieren om de code beter te maken. Bedenk hoe jij jouw code gaat verbeteren (10 minuten per uitwerking).
+3.  Verbeter je oplossing. Gooi je oplossing niet helemaal overhoop maar probeer deze met kleine aanpassingen beter te maken (30--60 minuten).
+4.  [Lever je nieuwe versie in](/modules/m3/revised).
+5.  Later krijg je korte feedback van je mentor waarmee je de volgende week je voordeel kunt doen.

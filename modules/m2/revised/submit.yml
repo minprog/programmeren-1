@@ -1,5 +1,5 @@
-name: m6
+name: m2
 form: true
 files:
     required:
-        - resize.c
+        - caffeine.c
