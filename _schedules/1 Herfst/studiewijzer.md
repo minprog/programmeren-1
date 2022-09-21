@@ -127,13 +127,13 @@ Als je ziek bent dan meld je het in ieder geval meteen even aan je mentor via e-
 
 De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdracht zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. Deze aspecten gaan over _codekwaliteit_, waarover je in de eerste weken meer leert. De schaal is als volgt:
 
-6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-7. zeer goede kwaliteit, beperkt ruimte voor verbetering
-8. degelijke kwaliteit op alle genoemde aspecten, met ruimte voor verbetering
-9. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
-10. enige zichtbare aandacht voor een beperkt aantal aspecten
-11. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-    {: start="6" reversed=""}
+1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
+2. zeer goede kwaliteit, beperkt ruimte voor verbetering
+3. degelijke kwaliteit op alle genoemde aspecten, met ruimte voor verbetering
+4. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
+5. enige zichtbare aandacht voor een beperkt aantal aspecten
+6. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
+   {: start="6" reversed=""}
 
 Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we aangeven, doe je actief mee aan de code review, en loop je kritisch elke regel code na met de aspecten en voorschriften in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
 
