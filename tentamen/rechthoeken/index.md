@@ -1,15 +1,12 @@
 # Tentamen: Rechthoeken
 
-Dit is een oefenopdracht voor het tentamen. Je gaat hier maximaal 30 minuten aan besteden en dan lever je in wat je hebt. Na het laptopcollege ga je de opdracht afmaken.
+Dit is een oefenopdracht voor het tentamen. Je gaat hier maximaal 30 minuten aan besteden en dan lever je in wat je hebt. Na het college ga je de opdracht afmaken.
 
-**Kom je er niet uit**, stuur dan een e-mail naar <progki@mprog.nl>. Het is cruciaal dat je op die manier om hulp vraagt, want dit is een rechtstreekse voorbereiding voor het tentamen. Lukt het niet deze in redelijke tijd te maken, dan heb je simpelweg hulp nodig en die moet je dan vragen.
+Later deze week kun je buiten de werkgroep de tentamenopdracht afmaken. Je hoeft deze niet meer in te leveren, want het gaat om de momentopname.
 
-> Als bronnen mag je gebruiken:
-> 
-> 1. de lecture notes (en de rest van deze website),
-> 2. het boek van Beej over C (gelinkt vanaf deze site),
-> 3. de CS50 Manual waarin allerlei nuttige C-functies genoemd staan (gelinkt van deze site),
-> 4. en je eigen uitwerkingen van eerdere opdrachten (LIEVER NIET!).
+Als bron mag je je eigen uitwerkingen van voorgaande opdrachten gebruiken. Maar liever maak je deze opdracht zonder daarnaar te kijken.
+
+Wat te doen als je er totaal niet uitkomt? Oefenen oefenen oefenen en herhalen herhalen herhalen. Gebruik hierbij het boek en de filmpjes van Doug. Je mag ook vragen over de theorie stellen aan assistenten en docenten.
 
 ## Rechthoeken
 
