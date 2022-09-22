@@ -67,6 +67,8 @@ Write a program that decodes messages encrypted using a Caesar cypher without kn
 
 - **Restriction:** You may not change the input string in-place or create a new string for storing the output. Instead, after deciding on the correct decryption key, you must decode each letter and print it to the screen immediately.
 
+> If two or more different letters are both the most frequent letters in the text, it is okay to just pick one as the most frequent. Your program does not need to deal with this specific case. In the end only the example at the very top of this assignment needs to work.
+
 ## How to Test Your Code
 
 Use the examples above, and your own examples, to check whether your program works perfectly. After submitting your programma will also be automatically checked.
