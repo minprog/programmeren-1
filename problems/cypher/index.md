@@ -47,6 +47,8 @@ Design and implement a program, `cypher`, that encrypts messages using the cyphe
 
   As soon as you have made all necessary changes, you can then display the string to your user using `printf`.
 
+- To compare two strings you cannot do `str1 == str2`. Instead, you must use `strcmp`. See the man page for more information.
+
 - Take care to design the different steps of your program by sketching it out and writing pseudocode! This will help you understand the problem better.
 
 ## How to test your code
