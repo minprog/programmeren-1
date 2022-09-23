@@ -10,7 +10,7 @@
 > - hoe je ze concreet gebruikt, en
 > - hoe je nested for-loops kunt gebruiken om met 2D-arrays te werken.
 >
-> Na maken van de opdracht kun je extra bestuderen hoe je bovenstaande dingen hebt aangepakt.
+> na het maken van de opdracht kun je extra bestuderen hoe je bovenstaande dingen hebt aangepakt.
 
 Implement Tiles, per the below.
 

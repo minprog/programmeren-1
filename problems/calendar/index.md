@@ -9,7 +9,7 @@
 > - Hoe je een programma kunt opdelen in (veel) functies, en
 > - hoe functies samenwerken om een probleem op te lossen.
 >
-> Na maken van de opdracht kun je extra bestuderen hoe je bovenstaande dingen hebt aangepakt.
+> na het maken van de opdracht kun je extra bestuderen hoe je bovenstaande dingen hebt aangepakt.
 
 Implement a month calendar display, per the below:
 
