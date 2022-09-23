@@ -6,7 +6,7 @@ Later deze week kun je buiten de werkgroep de tentamenopdracht afmaken. Je hoeft
 
 Als bron mag je je eigen uitwerkingen van voorgaande opdrachten gebruiken. Maar liever maak je deze opdracht zonder daarnaar te kijken.
 
-Wat te doen als je er totaal niet uitkomt? Oefenen oefenen oefenen en herhalen herhalen herhalen. Gebruik hierbij het boek en de filmpjes van Doug. Je mag ook vragen over de theorie stellen aan assistenten en docenten.
+Wat te doen als je er totaal niet uitkomt? Oefenen oefenen oefenen en herhalen herhalen herhalen. Je mag ook vragen over de theorie stellen aan assistenten en docenten.
 
 ## Driehoek
 
