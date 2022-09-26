@@ -7,7 +7,7 @@
 #define DIM_MAX 9
 
 // Board
-int board[DIM_MAX][DIM_MAX];
+extern int board[DIM_MAX][DIM_MAX];
 
 // Dimensions
-int d;
+extern int d;
