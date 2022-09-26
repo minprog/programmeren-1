@@ -26,6 +26,9 @@ void init_board(void);
 bool move(int tile);
 bool is_won(void);
 
+int board[DIM_MAX][DIM_MAX];
+int d;
+
 int main(int argc, string argv[])
 {
     // Validate arguments, else stop program
