@@ -45,13 +45,15 @@ _Getting the year and month_ from the command-line arguments can be done in one 
      |---- display header (f)
      \---- display grid (f)
 
-_Displaying the header_ consist of displaying the month and year, then a horizontal line (its width is always the same, so no problem to hard-code!). We'll leave it up to you if you'd like to implement these in separate functions. _Displaying the grid_ is again quite a big task. You will need two crucial pieces of information: what weekday is the first day of the month, and how many days are in the month. When combined with the printing task, we can decompose into four tasks:
+_Displaying the header_ consist of displaying the month and year, then a horizontal line (its width is always the same, so no problem to hard-code!). We'll leave it up to you if you'd like to implement these in separate functions.
+
+_Displaying the grid_ is again quite a big task. You will need two crucial pieces of information: what weekday is the first day of the month, and how many days are in the month. When combined with the printing task, we can decompose into four tasks:
 
     display grid
      |---- get first day of month (f)
      |---- get number of days in month (f)
-     |---- print spaces as padding
-     \---- print number grid
+     |---- print spaces as padding so day 1 is correctly aligned
+     \---- print the number grid
 
 _Getting the first day of month_ can be done using a straightforward algorithm if we pick a reasonable starting point. Let's take 1 January 1800 as that starting point. We can find out that it's a Wednesday, so we'll define a constant `START_1800` to be `3`. What we can then do is count the number of days between 1 January 1800, and then we can use this expression to calculate the first day of the month: `(number_of_days_from_1800 + START_1800) % 7`.
 
@@ -109,3 +111,11 @@ You can use `check50` to find obvious mistakes, such as months starting on the w
     check50 -l minprog/checks/2022/calendar
 
 Before you hand in your solution, also check for obvious style mistakes using `style50`. But don't overdo it. You'll be doing a code review again next week.
+
+### What is &lt;padding&gt;?
+
+When `check50` reports the following:
+
+    expected "<padding> 1"
+
+it means that it expects the correct number of spaces to be printed before the first day of the month. In the example atop this problem, there are exactly 6 spaces before the number 1 that is the first day of the month.
