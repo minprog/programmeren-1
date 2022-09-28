@@ -80,6 +80,10 @@ Incidentally, did you notice that **decomposition** is more or less the same as 
 
 Implement the calendar program, using _at least_ the functions that are implied in the diagrams in the Decomposition section, above (marked with `(f)`). You may decompose problems further to your liking.
 
+The program should print exactly the following when run with a wrong number of command-line arguments:
+
+    Usage: ./calendar year month
+
 To get started, create a file called `calendar.c` and write a `main` function according to the specification. Then write the `display_calendar()` function that's used in `main`. And so on, until everything works. One or two functions will be a bit more of an algorithmical challenge, the rest of the functions will remain quite small.
 
 Don't forget that you need to write function **prototypes** above main to be able to compile correctly, like so:
