@@ -108,6 +108,11 @@ grades:
     basics_arrays: *check
     basics_functions: *check
 
+    tentamen-oefening-regen: *automatic
+    tentamen-oefening-rechthoeken: *automatic
+    tentamen-oefening-hoofdletters: *automatic
+    tentamen-oefening-driehoek: *automatic
+
     m2: *manual
     m3: *manual
     m4: *manual
@@ -217,6 +222,14 @@ punten:
         design_challenge: :bonus
         find: :bonus
         resize: :bonus
+
+tentamenoefeningen:
+    show_progress: true
+    submits:
+        tentamen-oefening-regen: 1
+        tentamen-oefening-rechthoeken: 1
+        tentamen-oefening-hoofdletters: 1
+        tentamen-oefening-driehoek: 1
 
 tentamen:
     show_progress: true
