@@ -17,8 +17,8 @@ Recall from lecture that we saw a few algorithms for sorting a sequence of numbe
 ## Getting Started
 
 - `cd` to your Programming directory
-- In your terminal window, run `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/sort/dist/sort.zip` to download a Zip file of the lab distribution code.
-- In your terminal window, run `unzip sort.zip` to unzip (i.e., decompress) that Zip file.
+- In your terminal window, run `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements.zip` to download a Zip file of the lab distribution code.
+- In your terminal window, run `unzip measurements.zip` to unzip (i.e., decompress) that Zip file.
 
 ## Instructions
 
@@ -59,7 +59,7 @@ Provided to you are three already-compiled C programs, `sort1`, `sort2`, and `so
 
 Execute the below to evaluate the correctness of your answers using `check50`. But be sure to fill in your explanations as well, which `check50` won't check here!
 
-    check50 -l minprog/checks/2022/sort
+    check50 -l minprog/checks/2022/measurements
 
 ## How to submit
 
