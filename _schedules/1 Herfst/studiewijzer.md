@@ -133,7 +133,7 @@ De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdra
 4. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
 5. enige zichtbare aandacht voor een beperkt aantal aspecten
 6. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-   {: start="6" reversed=""}
+{: start="6" reversed=""}
 
 Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we aangeven, doe je actief mee aan de code review, en loop je kritisch elke regel code na met de aspecten en voorschriften in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
 
