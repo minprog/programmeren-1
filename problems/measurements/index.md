@@ -17,7 +17,9 @@ Recall from lecture that we saw a few algorithms for sorting a sequence of numbe
 ## Getting Started
 
 - `cd` to your Programming directory
-- In your terminal window, run `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements.zip` to download a Zip file of the lab distribution code.
+- In your terminal window, run a command to download a Zip file of the lab distribution code.
+     - For Ubuntu: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements.zip`
+     - For Mac: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements-mac.zip`
 - In your terminal window, run `unzip measurements.zip` to unzip (i.e., decompress) that Zip file.
 
 ## Instructions
@@ -29,8 +31,10 @@ Provided to you are three already-compiled C programs, `sort1`, `sort2`, and `so
   - For example, `reversed10000.txt` contains 10000 lines of numbers that are reversed from `10000`, while `random100000.txt` contains 100000 lines of numbers that are in random order.
 - To run the sorts on the text files, in the terminal, run `./[program_name] [text_file.txt]`.
   - For example, to sort `reversed10000.txt` with `sort1`, run `./sort1 reversed10000.txt`.
-- You may find it helpful to time your sorts. To do so, run `time ./[sort_file] [text_file.txt]`.
-  - For example, you could run `time ./sort1 reversed10000.txt` to run `sort1` on 10,000 reversed numbers. At the end of your terminal's output, you can look at the `real` time to see how much time actually elapsed while running the program.
+- You may find it helpful to time your sorts.
+    - On Ubuntu, run `time ./[sort_file] [text_file.txt]`.
+    - On Mac, run `command time -p ./[sort_file] [text_file.txt]`.
+- For example, you could run `time ./sort1 reversed10000.txt` to run `sort1` on 10,000 reversed numbers. At the end of your terminal's output, you can look at the `real` time to see how much time actually elapsed while running the program.
 - Record your answers in `answers.txt`, along with an explanation for each program, by filling in the blanks marked `TODO`.
 
 ## Walkthrough
