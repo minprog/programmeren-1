@@ -27,9 +27,7 @@ Download the "distribution code" (i.e., starter code) by executing the following
 
     $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/scrabble/scrabble.c
 
-This will download a file called `scrabble.c` and store it in the current directory. You can open the file by double clicking it in the file browser, or through the following command:
-
-    $ code scrabble.c
+This will download a file called `scrabble.c` and store it in the current directory.
 
 ## Implementation Details
 
