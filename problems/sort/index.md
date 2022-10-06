@@ -153,11 +153,12 @@ Sort must be implemented using the following algorithm, which is **not** any of 
 
 **Do not attempt do this assignment before studying the other sorting algorithms very well.**
 
-- The algorithm must consider each number in the array from left to right, and progressively sort the numbers.
+- The algorithm must consider each position in the array from left to right, and progressively sort the numbers.
   - This means that, in each step, more numbers get sorted from left to right, unless they're already sorted, of course.
   - This also means that the algorithm need never consider the last number in the array, because as soon as that number is reached, it has already been sorted while considering the other numbers. (In other words, if `n-1` numbers are indeed sorted, the last number would by definition also be sorted.)
-- Then **for each** of the numbers that we consider from left to right, consider **all** numbers to the right of it.
-  - For each **combination** of numbers, if the first one is larger, swap those numbers.
+- Then **for each** of the positions that we consider from left to right, consider **all** positions to the right of it.
+  - For each **combination** of positions, if the first one is larger, swap those numbers.
+  - For example, for position 0, you consider positions 1, 2, 3, etc... and try to swap each time.
 - You may not alter the function's declaration. Its prototype must remain:
 
       void sort(int values[], int n);
