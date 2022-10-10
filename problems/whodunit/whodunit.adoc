@@ -78,13 +78,20 @@ Because we've presented these bits from left to right, top to bottom, in 8 colum
 
 To be clear, recall that a hexadecimal digit represents 4 bits. Accordingly, `ffffff` in hexadecimal actually signifies `111111111111111111111111` in binary.
 
-WARNING: Okay, stop! Don't proceed further until you're sure you understand why `0000ff` represents a red pixel in a 24-bit BMP file.
+> WARNING: Okay, stop! Don't proceed further until you're sure you understand why `0000ff` represents a red pixel in a 24-bit BMP file.
 
 Okay, let's transition from theory to practice. Within the file browser, double-click *smiley.bmp*, and you should see a tiny smiley face that's only 8 pixels by 8 pixels. Via the drop-down menu in that file's newly opened tab, change *100%* to *800%* to zoom in a bit, and you should see a larger version, a la the below. (If it seems blurry, be sure that **Smooth** atop the window isn't checked.) At this zoom level, you can really see the image's pixels (as big squares).
 
 image:smiley.png[smiley.png]
 
-Okay, let's now look at the underlying bytes that compose `smiley.bmp`. Within the file browser, right- or control-click *smiley.bmp* and select *Open as hexadecimal* in order to view the file's bytes in hexadecimal (i.e., base-16). In the tab that appears, change *Start with byte* to *54*, change *Bytes per row* to *24*, change *Bytes per column* to *3*. Then click *Set*. **If unable to change these values, try clicking View > Night Mode and try again**. You should see the below, byte 54 onward of `smiley.bmp`. (Recall that a 24-bit BMP's first 14 + 40 = 54 bytes are filled with metadata, so we're simply ignoring that for now.) As before, we've highlighted in red all instances of `0000ff`.
+Okay, let’s now look at the underlying bytes that compose smiley.bmp using xxd, a command-line "hex editor." Execute
+
+[source]
+----
+xxd -c 24 -g 3 -s 54 smiley.bmp
+----
+
+in a terminal window, and you should see the below. (You might have to increase the terminal window’s size.) As before, we’ve highlighted in red all instances of 0000ff.
 
 [source,subs=quotes]
 ----
@@ -98,13 +105,29 @@ ffffff [red]#0000ff# ffffff ffffff ffffff ffffff [red]#0000ff# ffffff
 ffffff ffffff [red]#0000ff# [red]#0000ff# [red]#0000ff# [red]#0000ff# ffffff ffffff
 ----
 
-So, `smiley.bmp` is 8 pixels wide by 8 pixels tall, and it's a 24-bit BMP (each of whose pixels is represented with 24 ÷ 8 = 3 bytes). Each row (aka "scanline") thus takes up (8 pixels) × (3 bytes per pixel) = 24 bytes, which happens to be a multiple of 4. It turns out that BMPs are stored a bit differently if the number of bytes in a scanline is not, in fact, a multiple of 4. In `small.bmp`, for instance, is another 24-bit BMP, a green box that's 3 pixels wide by 3 pixels wide. If you view it (as by double-clicking it), you'll see that it resembles the below, albeit much smaller. (Indeed, you might need to zoom in again to see it.)
+In the leftmost column above are addresses within the file or, equivalently, offsets from the file’s first byte, all of them given in hex. Note that 00000036 in hexadecimal is 54 in decimal. You’re thus looking at byte 54 onward of smiley.bmp. Recall that a 24-bit BMP’s first 14 + 40 = 54 bytes are filled with metadata. If you really want to see that metadata in addition to the bitmap, execute the command below.
+
+[source]
+----
+xxd -c 24 -g 3 smiley.bmp
+----
+
+If smiley.bmp actually contained ASCII characters, you’d see them in xxd's rightmost column instead of all of those dots.
+
+So, smiley.bmp is 8 pixels wide by 8 pixels tall, and it’s a 24-bit BMP (each of whose pixels is represented with 24 ÷ 8 = 3 bytes). Each row (aka "scanline") thus takes up (8 pixels) × (3 bytes per pixel) = 24 bytes, which happens to be a multiple of 4. It turns out that BMPs are stored a bit differently if the number of bytes in a scanline is not, in fact, a multiple of 4. In small.bmp, for instance, is another 24-bit BMP, a green box that’s 3 pixels wide by 3 pixels wide. If you view it (as by double-clicking it), you’ll see that it resembles the below, albeit much smaller. (Indeed, you might need to zoom in again to see it.)
 
 image:small.png[small.png]
 
-Each scanline in `small.bmp` thus takes up (3 pixels) × (3 bytes per pixel) = 9 bytes, which is not a multiple of 4. And so the scanline is "padded" with as many zeroes as it takes to extend the scanline's length to a multiple of 4. In other words, between 0 and 3 bytes of padding are needed for each scanline in a 24-bit BMP. (Understand why?) In the case of `small.bmp`, 3 bytes' worth of zeroes are needed, since (3 pixels) × (3 bytes per pixel) + (3 bytes of padding) = 12 bytes, which is indeed a multiple of 4.
+Each scanline in small.bmp thus takes up (3 pixels) × (3 bytes per pixel) = 9 bytes, which is not a multiple of 4. And so the scanline is "padded" with as many zeroes as it takes to extend the scanline’s length to a multiple of 4. In other words, between 0 and 3 bytes of padding are needed for each scanline in a 24-bit BMP. (Understand why?) In the case of small.bmp, 3 bytes' worth of zeroes are needed, since (3 pixels) × (3 bytes per pixel) + (3 bytes of padding) = 12 bytes, which is indeed a multiple of 4.
 
-To "see" this padding, right- or control-click *small.bmp* in the file browser and select *Open as hexadecimal*. In the tab that appears, change *Start with byte* to *54*, change *Bytes per row* to *12*, and change *Bytes per column* to *3*. Then click *Set*. You should see output like the below; we've highlighted in green all instances of `00ff00`.
+To "see" this padding, go ahead and run the below.
+
+[source]
+----
+xxd -c 12 -g 3 -s 54 small.bmp
+----
+
+Note that we’re using a different value for -c than we did for smiley.bmp so that xxd outputs only 4 columns this time (3 for the green box and 1 for the padding). You should see output like the below; we’ve highlighted in green all instances of 00ff00.
 
 [source,subs=quotes]
 ----
@@ -113,7 +136,14 @@ To "see" this padding, right- or control-click *small.bmp* in the file browser a
 [green]#00ff00# [green]#00ff00# [green]#00ff00# 000000
 ----
 
-For contrast, let's next look at `large.bmp`, which looks identical to `small.bmp` but, at 12 pixels by 12 pixels, is four times as large. Right- or control-click it in the file browser, then select *Open as hexadecimal*. You should see output like the below; we've again highlighted in green all instances of `00ff00`
+For contrast, let’s use xxd on large.bmp, which looks identical to small.bmp but, at 12 pixels by 12 pixels, is four times as large. Go ahead and execute the below; you may need to widen your window to avoid wrapping.
+
+[source]
+----
+xxd -c 36 -g 3 -s 54 large.bmp
+----
+
+You should see output like the below; we’ve again highlighted in green all instances of 00ff00
 
 [source,subs=quotes]
 ----
@@ -135,35 +165,35 @@ Worthy of note is that this BMP lacks padding! After all, (12 pixels) × (3 byte
 
 Knowing all this has got to be useful!
 
-Okay, this only showed you the bytes in these BMPs. How do we actually get at them programmatically? Well, in `copy.c` is a program whose sole purpose in life is to create a copy of a BMP. Of course, you could just use `cp` for that. But `cp` isn't going to help Mr. Boddy. Let's hope that `copy.c` does!
+Okay, xxd only showed you the bytes in these BMPs. How do we actually get at them programmatically? Well, in copy.c is a program whose sole purpose in life is to create a copy of a BMP, piece by piece. Of course, you could just use cp for that. But cp isn’t going to help Mr. Boddy. Let’s hope that copy.c does!
 
-Go ahead and compile `copy.c` into a program called `copy` using `make`. (Remember how?) Then execute a command like the below.
+Go ahead and compile copy.c into a program called copy using make. (Remember how?) Then execute a command like the below.
 
 [source]
 ----
 ./copy smiley.bmp copy.bmp
 ----
 
-If you then execute ls (with the appropriate switch), you should see that `smiley.bmp` and `copy.bmp` are indeed the same size. Let's double-check that they're actually the same! Execute the below.
+If you then execute ls (with the appropriate switch), you should see that smiley.bmp and copy.bmp are indeed the same size. Let’s double-check that they’re actually the same! Execute the below.
 
 [source]
 ----
 diff smiley.bmp copy.bmp
 ----
 
-If that command tells you nothing, the files are indeed identical. (Note that some programs, like Photoshop, include trailing zeroes at the ends of some BMPs. Our version of `copy` throws those away, so don't be too worried if you try to copy a BMP that you've downloaded or made only to find that the copy is actually a few bytes smaller than the original.) Feel free to open both files (as by double-clicking each) to confirm as much visually. But diff does a byte-by-byte comparison, so its eye is probably sharper than yours!
+If that command tells you nothing, the files are indeed identical. (Note that some programs, like Photoshop, include trailing zeroes at the ends of some BMPs. Our version of copy throws those away, so don’t be too worried if you try to copy a BMP that you’ve downloaded or made only to find that the copy is actually a few bytes smaller than the original.) Feel free to open both files (as by double-clicking each) to confirm as much visually. But diff does a byte-by-byte comparison, so its eye is probably sharper than yours!
 
-So how now did that copy get made? It turns out that `copy.c` relies on `bmp.h`. Let's take a look. Open up `bmp.h`, and you'll see actual definitions of those headers we've mentioned, adapted from Microsoft's own implementations thereof. In addition, that file defines `BYTE`, `DWORD`, `LONG`, and `WORD`, data types normally found in the world of Windows programming. Notice how they're just aliases for primitives with which you are (hopefully) already familiar. It appears that `BITMAPFILEHEADER` and `BITMAPINFOHEADER` make use of these types. This file also defines a `struct` called `RGBTRIPLE` that, quite simply, "encapsulates" three bytes: one blue, one green, and one red (the order, recall, in which we expect to find RGB triples actually on disk).
+So how now did that copy get made? It turns out that copy.c relies on bmp.h. Let’s take a look. Open up bmp.h, and you’ll see actual definitions of those headers we’ve mentioned, adapted from Microsoft’s own implementations thereof. In addition, that file defines BYTE, DWORD, LONG, and WORD, data types normally found in the world of Windows programming. Notice how they’re just aliases for primitives with which you are (hopefully) already familiar. It appears that BITMAPFILEHEADER and BITMAPINFOHEADER make use of these types. This file also defines a struct called RGBTRIPLE that, quite simply, "encapsulates" three bytes: one blue, one green, and one red (the order, recall, in which we expect to find RGB triples actually on disk).
 
-Why are these ``struct``s useful? Well, recall that a file is just a sequence of bytes (or, ultimately, bits) on disk. But those bytes are generally ordered in such a way that the first few represent something, the next few represent something else, and so on. "File formats" exist because the world has standardized what bytes mean what. Now, we could just read a file from disk into RAM as one big array of bytes. And we could just remember that the byte at location `[i]` represents one thing, while the byte at location `[j]` represents another. But why not give some of those bytes names so that we can retrieve them from memory more easily? That's precisely what the ``struct``s in `bmp.h` allow us to do. Rather than think of some file as one long sequence of bytes, we can instead think of it as a sequence of ``struct``s.
+Why are these structs useful? Well, recall that a file is just a sequence of bytes (or, ultimately, bits) on disk. But those bytes are generally ordered in such a way that the first few represent something, the next few represent something else, and so on. "File formats" exist because the world has standardized what bytes mean what. Now, we could just read a file from disk into RAM as one big array of bytes. And we could just remember that the byte at location [i] represents one thing, while the byte at location [j] represents another. But why not give some of those bytes names so that we can retrieve them from memory more easily? That’s precisely what the structs in bmp.h allow us to do. Rather than think of some file as one long sequence of bytes, we can instead think of it as a sequence of structs.
 
-Recall that `smiley.bmp` is 8 by 8 pixels, and so it should take up 14 + 40 + (8 × 8) × 3 = 246 bytes on disk. (Confirm as much if you'd like using `ls`.) Here's what it thus looks like on disk according to Microsoft:
+Recall that smiley.bmp is 8 by 8 pixels, and so it should take up 14 + 40 + (8 × 8) × 3 = 246 bytes on disk. (Confirm as much if you’d like using ls.) Here’s what it thus looks like on disk according to Microsoft:
 
 image:disk.png[smiley.bmp on disk]
 
-As this figure suggests, order does matter when it comes to ``struct``s' members. Byte 57 is `rgbtBlue` (and not, say, `rgbtRed`), because `rgbtBlue` is defined first in `RGBTRIPLE`. Our use, incidentally, of the `__attribute__` called `__packed__` ensures that `clang` does not try to "word-align" members (whereby the address of each member's first byte is a multiple of 4), lest we end up with "gaps" in our ``struct``s that don't actually exist on disk. No need to worry about that particular implementation detail, though.
+As this figure suggests, order does matter when it comes to structs' members. Byte 57 is rgbtBlue (and not, say, rgbtRed), because rgbtBlue is defined first in RGBTRIPLE. Our use, incidentally, of the attribute called packed ensures that clang does not try to "word-align" members (whereby the address of each member’s first byte is a multiple of 4), lest we end up with "gaps" in our structs that don’t actually exist on disk. No need to worry about that particular implementation detail, though.
 
-Lastly, you may have noticed in `copy.c` that, whenever we output an error message, we use `fprintf` (the first argument to which is `stderr`) instead of the more-familiar `printf`. It turns out that `printf` prints messages to "standard output" (aka `stdout`), the destination of which is typically a user's terminal window. But "standard error (aka `stderr`) also exists, the destination of which is also typically (and perhaps confusingly!) a user's terminal window. But via `stdout` and `stderr` can a programmer keep error messages separated from non-error messages so that, if the user wants, one or the other (or both) can be "redirected" (with `>`) or "piped" (with `|`) somewhere other than the user's terminal window.
+Lastly, you may have noticed in copy.c that, whenever we output an error message, we use fprintf (the first argument to which is stderr) instead of the more-familiar printf. It turns out that printf prints messages to "standard output" (aka stdout), the destination of which is typically a user’s terminal window. But "standard error (aka stderr) also exists, the destination of which is also typically (and perhaps confusingly!) a user’s terminal window. But via stdout and stderr can a programmer keep error messages separated from non-error messages so that, if the user wants, one or the other (or both) can be "redirected" (with >) or "piped" (with |) somewhere other than the user’s terminal window.
 
 In other words,
 
