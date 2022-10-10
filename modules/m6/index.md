@@ -13,7 +13,6 @@ Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbe
 - [Formatting](/quality/aspects/formatting)
 - [Comments](/quality/aspects/comments)
 - [Naming](/quality/aspects/naming)
-- [Cleanup](/quality/aspects/cleanup)
 - [Loops](/quality/aspects/loops)
 - [Cleanup](/quality/aspects/cleanup)
 - [Scope](/quality/aspects/scope) 🆕
