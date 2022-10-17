@@ -1,5 +1,6 @@
-name: m6
+name: m7
 form: true
 files:
     required:
-        - helpers.c
+        - dictionary.c
+        - dictionary.h
