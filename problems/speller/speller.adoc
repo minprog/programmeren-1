@@ -284,4 +284,4 @@ If you'd like to put your code to the test against classmates' code (just for fu
 
 == Submit
 
-Just upload your `dictionary.{c|h}` and you're done!
+Just upload your `dictionary.{c|h}` and README.md and you're done!
