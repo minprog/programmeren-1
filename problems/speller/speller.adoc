@@ -269,6 +269,8 @@ that means your program (whose output is on the left) does not think that `Thelo
 
 === `check50`
 
+> If you are on a Mac, please run `check50` on https://code.cs50.io. Underneath the hood `check50` will run `valgrind` for you, but `valgrind` won't work correctly on a Mac.
+
 To test your code less manually (though still not exhaustively), you may also execute the below.
 
 [source]
