@@ -20,5 +20,5 @@ Voor deze module gebruik je de volgende aspecten om code te reviewen en te verbe
 
 1.  Neem je code zelfstandig door. Dit doe je het best nadat je de opdracht al even hebt laten liggen.
 2.  Verbeter je oplossing aan de hand van bovenstaande aspecten. Gooi je oplossing niet helemaal overhoop, maar probeer deze met kleine aanpassingen beter te maken (30--60 minuten).
-3.  [Lever je nieuwe versie in](/modules/m6/revised).
+3.  [Lever je nieuwe versie in](/modules/m7/revised).
 4.  Later krijg je korte feedback van je mentor.
