@@ -1,0 +1,5 @@
+name: m6
+form: true
+files:
+    required:
+        - helpers.c

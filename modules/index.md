@@ -11,3 +11,4 @@ Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te 
 - [Code review: Calendar](/modules/m4)
 - [Code review: Sort](/modules/m5)
 - [Code review: Filter](/modules/m6)
+- [Code review: Speller](/modules/m7)
