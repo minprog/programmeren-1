@@ -3,6 +3,7 @@ files:
   required:
     - dictionary.c
     - dictionary.h
+    - README.md
   optional:
     - Makefile
     - some_other_file.c

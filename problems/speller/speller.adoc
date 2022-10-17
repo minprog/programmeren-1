@@ -4,6 +4,8 @@ layout: 2018/spring
 
 = Speller
 
+> For this assignment you will need to use a tool called valgrind. *Sad to say, `valgrind` does not work consistently on Macs*. So in case you are using a Mac, we recommend you to sign up for a GitHub account over at: https://github.com/signup. Then use that GitHub account to login over at https://code.cs50.io/. This will give you an online editor (Visual Studio Code) and a Linux terminal. From there, whenever you want to run valgrind upload your code to https://code.cs50.io/ and run`valgrind` there instead. Alternatively, for this one assignment, you can choose to work in https://code.cs50.io/ altogether. 
+
 == tl;dr
 
 Implement a program that spell-checks a file, per the below.
@@ -119,14 +121,7 @@ Now, as you should know from having read over `speller.c` carefully, the output 
 ./speller texts/lalaland.txt
 ----
 
-will eventually resemble the below. For now, try executing the staff's solution (using the default dictionary) with the below.
-
-[source]
-----
-~cs50/2019/x/pset4/speller texts/lalaland.txt
-----
-
-Below's some of the output you'll see. For information's sake, we've excerpted some examples of "misspellings." And lest we spoil the fun, we've omitted our own statistics for now.
+will eventually resemble the below. For information's sake, we've excerpted some examples of "misspellings." And lest we spoil the fun, we've omitted our own statistics for now.
 
 [source]
 ----
@@ -204,13 +199,6 @@ valgrind ./speller texts/ralph.txt
 
 If you run `valgrind` without specifying a `text` for `speller`, your implementations of `load` and `unload` won't actually get called (and thus analyzed).
 
-If unsure how to interpret the output of `valgrind`, do just ask `help50` for help:
-
-[source]
-----
-help50 valgrind ./speller texts/ralph.txt
-----
-
 == Testing
 
 How to check whether your program is outting the right misspelled words? Well, you're welcome to consult the "answer keys" that are inside of the `keys` directory that's inside of your `speller` directory. For instance, inside of `keys/lalaland.txt` are all of the words that your program _should_ think are misspelled.
@@ -222,29 +210,14 @@ You could therefore run your program on some text in one window, as with the bel
 ./speller texts/lalaland.txt
 ----
 
-And you could then run the staff's solution on the same text in another window, as with the below.
-
-[source]
-----
-~cs50/2019/x/pset4/speller texts/lalaland.txt
-----
-
-And you could then compare the windows visually side by side. That could get tedious quickly, though. So you might instead want to "redirect" your program's output to a file, as with the below.
+And you could then compare the `keys/lalaland.txt` and your output visually side by side. That could get tedious quickly, though. So you might instead want to "redirect" your program's output to a file, as with the below.
 
 [source]
 ----
 ./speller texts/lalaland.txt > student.txt
-~cs50/2019/x/pset4/speller texts/lalaland.txt > staff.txt
 ----
 
 You can then compare both files side by side in the same window with a program like `diff`, as with the below.
-
-[source]
-----
-diff -y student.txt staff.txt
-----
-
-Alternatively, to save time, you could just compare your program's output (assuming you redirected it to, e.g., `student.txt`) against one of the answer keys without running the staff's solution, as with the below.
 
 [source]
 ----
@@ -286,4 +259,4 @@ If you'd like to put your code to the test against classmates' code (just for fu
 
 == Submit
 
-Just upload your `dictionary.{c|h}` and you're done!
+Just upload your `dictionary.{c|h}` and README.md and you're done!

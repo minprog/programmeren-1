@@ -1,6 +1,6 @@
 # Questions: Mispellings
 
-> Beantwoord de volgende vragen in je eigen woorden, in Nederlands of Engels. Doe dit **na** het maken van de opdrachten!
+> Beantwoord de volgende vragen in je eigen woorden, in Nederlands of Engels.
 
 ## 1
 
@@ -14,13 +14,11 @@ What's one advantage that using a linked list has over using an array?
 
 <textarea name="form[q1b]" rows="8" required></textarea>
 
-
 ## 2
 
 Recall from lecture that looking up a value in a hash table takes O(n) (i.e., linear) time. We also saw that looking up a value in a linked list takes linear time, too. If both data structures require linear time to look up a value, why might we prefer a hash table nevertheless?
 
 <textarea name="form[q2]" rows="8" required></textarea>
-
 
 ## 3
 
