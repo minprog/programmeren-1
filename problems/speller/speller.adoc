@@ -4,7 +4,7 @@ layout: 2018/spring
 
 = Speller
 
-> For this assignment you will need to use a tool called `valgrind`. Sad to say, `valgrind` does not work consistently on Macs. So in case you are using a Mac, we recommend you to sign up for a GitHub account over at: https://github.com/signup. Then use that GitHub account to login over at https://code.cs50.io/. This will give you an online editor (Visual Studio Code) and a Linux terminal. From there, whenever you want to run `valgrind` upload your code to https://code.cs50.io/ and run `valgrind` there instead. Alternatively, for this one assignment, you can choose to work in https://code.cs50.io/ altogether. 
+> For this assignment you will need to use a tool called `valgrind`. *Sad to say, `valgrind` does not work consistently on Macs*. So in case you are using a Mac, we recommend you to sign up for a GitHub account over at: https://github.com/signup. Then use that GitHub account to login over at https://code.cs50.io/. This will give you an online editor (Visual Studio Code) and a Linux terminal. From there, whenever you want to run `valgrind` upload your code to https://code.cs50.io/ and run `valgrind` there instead. Alternatively, for this one assignment, you can choose to work in https://code.cs50.io/ altogether. 
 
 == tl;dr
 
