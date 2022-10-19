@@ -2,10 +2,8 @@ name: oefententamen
 files:
     optional:
         - vakantie.c
-        - caffeine.c
-        - rna.c
-        - driehoek.c
-        - temperaturen.c
+        - spam.c
+        - afgebroken.c
 check:
     tool: check50
     slug: minprog/tentamen-checks/2021/oefententamen-nieuw
