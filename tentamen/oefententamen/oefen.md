@@ -66,7 +66,7 @@ Je wil in je eentje op vakantie naar een mooie accommodatie in Frankrijk. De kos
 
 ## Spam
 
-Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo||ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is. Schrijf een programma dat het percentage spaties, hoofdletter, kleine letters en overige karakters in een email print.
+Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is. Schrijf een programma dat het percentage spaties, hoofdletter, kleine letters en overige karakters in een email print.
 
 Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Spaties worden genegeerd en niet meegeteld.
 
