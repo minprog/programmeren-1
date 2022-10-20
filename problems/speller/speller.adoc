@@ -266,6 +266,6 @@ If you'd like to put your code to the test against classmates' code (just for fu
 
 <p>Als je de opdracht toch wil inleveren terwijl je naar (delen van) bestaande uitwerkingen hebt gekeken dan moet je deze expliciet linken in een comment bij de opdracht en bovenaan de opdracht vermelden dat je dit hebt gedaan. Je zult dan sowieso geen punten krijgen voor de gehele opdracht. Stuur je per ongeluk een versie in zonder deze comments dan gaat de uitwerking naar de examencommissie.</p>
 
-<input type="checkbox" required id="geen_plagiaat" name="geen_plagiaat" value="bevestigd">
-<label for="geen_plagiaat"> Ik heb bij het maken van de opdracht geen "onredelijke acties" gepleegd (zie studiewijzer) en specifiek heb ik niet naar een bestaande uitwerking van de opdracht of een klein deel daarvan gekeken. Als ik dat wel heb gedaan heb ik in de ingestuurde code overduidelijk de bron aangegeven, maar dan begrijp ik dat ik geen punten krijg. Ik begrijp dat inleveren van de opdracht niet verplicht is en dat ik ook gewoon de punten kan laten lopen.</label>
+
+<label for="geen_plagiaat"> <input type="checkbox" required id="geen_plagiaat" name="geen_plagiaat" value="bevestigd"> Ik heb bij het maken van de opdracht geen "onredelijke acties" gepleegd (zie studiewijzer) en specifiek heb ik niet naar een bestaande uitwerking van de opdracht of een klein deel daarvan gekeken. Als ik dat wel heb gedaan heb ik in de ingestuurde code overduidelijk de bron aangegeven, maar dan begrijp ik dat ik geen punten krijg. Ik begrijp dat inleveren van de opdracht niet verplicht is en dat ik ook gewoon de punten kan laten lopen.</label>
 ++++
