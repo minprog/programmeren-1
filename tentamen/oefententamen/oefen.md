@@ -29,18 +29,17 @@ Je kunt in je uitwerking laten zien dat je:
 - Om kunt gaan met command-line arguments
 - Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
 - Kunt werken met strings en characters
-- Zorgvuldig de output kunt construeren met printf's
-- ...
+- Zorgvuldig de output kunt construeren met print statements.
 
 ## Beperkingen
 
 - In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat. Je mag de documentatie van library-functies opzoeken met hulp van het `man`-commando in de terminal.
 
-- Programmeren moet een code editor en compilen in de terminal. Je mag geen andere programma's open hebben.
+- Programmeren moet in een code editor en compilen in de terminal. Je mag geen andere programma's open hebben.
 
 - De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 
-- (Ook) voor het oefententamen is het essentieel dat je dit doet zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+- (Ook) voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
 ## Dit oefententamen
 
@@ -57,10 +56,11 @@ Succes!
 
 ---
 
-
 ## Leestijd
 
-Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat. Schrijf een programma dat het totaal aantal gelezen pagina's berekent, gegeven het aantal gelezen minuten. De gebruiker mag één of meer gelezen minuten invoeren. Als er geen invoer meer is, dan kan de gebruiker -1 intikken om af te sluiten. Rond af op hele pagina's.
+Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat. Schrijf een programma dat het totaal aantal gelezen pagina's berekent, gegeven het aantal gelezen minuten. De gebruiker mag één of meer gelezen minuten invoeren. Als er geen invoer meer is, dan kan de gebruiker -1 intikken om af te sluiten. Rond af op hele pagina's. Voor het afronden kan je de `round` functie gebruiken.
+
+Gebruik indien nodig `man round`.
 
 Controle op (on)geldige invoer is niet nodig.
 
@@ -76,14 +76,13 @@ Controle op (on)geldige invoer is niet nodig.
     Hoeveel minuten heb je gelezen? -1
     Je hebt niet gelezen.
 
-
 ## Spam
 
 Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is (nou ja, min of meer).
 
-Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Zorg dat je het percentage netjes afrondt. Spaties worden genegeerd en niet meegeteld.
+Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Zorg dat je het percentage netjes afrondt. Daarvoor kan je de `round` functie gebruiken. Spaties worden genegeerd en niet meegeteld.
 
-Gebruik indien nodig nog `man 3 round`.
+Gebruik indien nodig `man round`.
 
     $ ./spam CaZhh M0n3y
     Er zijn 20 percent niet alfabetische karakters.
@@ -98,20 +97,19 @@ Gebruik indien nodig nog `man 3 round`.
 
 ## Afgebroken
 
-Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel paste in het oorspronkelijke bericht.  Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie. Schrijf een programma dat de tekst print zonder deze streepjes en spaties.
+Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel paste in het oorspronkelijke bericht. Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie. Schrijf een programma dat de tekst print zonder deze streepjes en spaties.
 
     $ ./afgebroken
     Tekst: Nederlanders worden steeds ouder, vooral door- dat ze na hun 65ste ...
     Nederlanders worden steeds ouder, vooral doordat ze na hun 65ste langer in ...
 
-    $ ./afgebroken    
+    $ ./afgebroken
     Tekst: Over de identiteit van de schutter zegt de po- litie: 'Als het de ...
     Over de identiteit van de schutter zegt de politie: 'Als het de man is die ...
 
-    $ ./afgebroken    
+    $ ./afgebroken
     Tekst: Een 36-jarige Geldropse heeft deze week een in- breker in haar ...
     Een 36-jarige Geldropse heeft deze week een inbreker in haar schuurtje net ...
-
 
 ## Inleveren
 
