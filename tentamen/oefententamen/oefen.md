@@ -19,6 +19,17 @@ Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonde
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
+## Waar we naar op zoek zijn
+
+Je kunt in je uitwerking laten zien dat je:
+
+- De basisconstructies if, else, for, while en dergelijke beheerst
+- Om kunt gaan met command-line arguments
+- Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
+- Kunt werken met strings en characters
+- Zorgvuldig de output kunt construeren met printf's
+- ...
+
 ## Beperkingen
 
 - In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat. Je mag de documentatie van library-functies opzoeken met hulp van het `man`-commando in de terminal.
@@ -44,39 +55,37 @@ Succes!
 
 ---
 
-## Vakantie
 
-Je wil in je eentje op vakantie naar een mooie accommodatie in Frankrijk. De kosten van de reis naar het verblijf zijn afhankelijk van het vervoersmiddel. Met het vliegtuig kost het je 250 euro, met de trein kost het 100 euro en met de auto kost het 150 euro. Het verblijf zelf kost 60 euro per nacht. Bovendien betaal je nog 3% servicekosten over de totale kosten, afhankelijk dus van hoeveel nachten je verblijft. De servicekosten worden naar beneden afgerond op hele euro's. Schrijf een programma dat berekent hoeveel je vakantie kost op basis van het aantal dagen dat je op vakantie gaat en met welk vervoersmiddel je gaat.
+## Leestijd
 
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? v
-    Hoeveel nachten ga je verblijven? 1
-    Jouw vakantie kost: 319
+Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat. Schrijf een programma dat het totaal aantal gelezen pagina's berekent, gegeven het aantal gelezen minuten. De gebruiker mag Ã©Ã©n of meer gelezen minuten invoeren. Als er geen invoer meer is, dan kan de gebruiker -1 intikken om af te sluiten. Rond af op hele pagina's.
 
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? t
-    Hoeveel nachten ga je verblijven? 10
-    Jouw vakantie kost: 721
+Controle op (on)geldige invoer is niet nodig.
 
-    $ ./vakantie
-    Hoe ga je reizen (v)liegtuig/(t)rein/(a)uto? a
-    Hoeveel nachten ga je verblijven? 7
-    Jouw vakantie kost: 587
+    $ ./leestijd
+    Hoeveel minuten heb je gelezen? 35
+    Hoeveel minuten heb je gelezen? 50
+    Hoeveel minuten heb je gelezen? 10
+    Hoeveel minuten heb je gelezen? 15
+    Hoeveel minuten heb je gelezen? -1
+    Je hebt ongeveer 92 pagina's gelezen.
+
+    $ ./leestijd
+    Hoeveel minuten heb je gelezen? -1
+    Je hebt niet gelezen.
 
 
 ## Spam
 
-Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is. Schrijf een programma dat het percentage spaties, hoofdletter, kleine letters en overige karakters in een email print.
+Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is (nou ja, min of meer).
 
-Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Spaties worden genegeerd en niet meegeteld.
+Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Zorg dat je het percentage netjes afrondt. Spaties worden genegeerd en niet meegeteld.
 
-    $ ./spam
-    Geef de emailtekst: Ca$hh M0n3y
-    Er zijn 30 percent niet alfabetische karakters.
+    $ ./spam CaZhh M0n3y
+    Er zijn 20 percent niet alfabetische karakters.
     Deze email is spam.
 
-    $ ./spam
-    Geef de emailtekst: Dit was zeker geen spam!
+    $ ./spam Dit was zeker geen spam!
     Er zijn 5 percent niet alfabetische karakters.
     Deze email is normaal.
 
