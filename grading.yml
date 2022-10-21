@@ -118,6 +118,7 @@ grades:
     m4: *manual
     m5: *manual
     m6: *manual
+    m7: *manual
 
     oefententamen: *check
     tentamen: *check
