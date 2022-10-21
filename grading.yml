@@ -217,6 +217,7 @@ punten:
         m4: 1
         m5: 1
         m6: 1
+        m7: 1
         goldbach: :bonus
         decryptor: :bonus
         design_challenge: :bonus
@@ -230,6 +231,7 @@ tentamenoefeningen:
         tentamen-oefening-rechthoeken: 1
         tentamen-oefening-hoofdletters: 1
         tentamen-oefening-driehoek: 1
+        oefententamen: 1
 
 tentamen:
     show_progress: true
