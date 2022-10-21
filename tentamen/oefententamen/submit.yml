@@ -1,7 +1,7 @@
 name: oefententamen
 files:
     optional:
-        - vakantie.c
+        - leestijd.c
         - spam.c
         - afgebroken.c
 check:
