@@ -58,7 +58,7 @@ Succes!
 
 ## Leestijd
 
-Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat. Schrijf een programma dat het totaal aantal gelezen pagina's berekent, gegeven het aantal gelezen minuten. De gebruiker mag Ã©Ã©n of meer gelezen minuten invoeren. Als er geen invoer meer is, dan kan de gebruiker -1 intikken om af te sluiten. Rond af op hele pagina's.
+Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat. Schrijf een programma dat het totaal aantal gelezen pagina's berekent, gegeven het aantal gelezen minuten. De gebruiker mag één of meer gelezen minuten invoeren. Als er geen invoer meer is, dan kan de gebruiker -1 intikken om af te sluiten. Rond af op hele pagina's.
 
 Controle op (on)geldige invoer is niet nodig.
 
@@ -89,6 +89,8 @@ Schrijf een programma dat een email als spam of als normale mail classificeert. 
     Er zijn 5 percent niet alfabetische karakters.
     Deze email is normaal.
 
+    $ ./spam
+    Usage: ./spam text...
 
 ## Afgebroken
 
