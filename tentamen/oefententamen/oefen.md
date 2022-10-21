@@ -8,6 +8,8 @@ Regels voor het tentamen:
 - Leg je collegekaart klaar op tafel (of een andere officiële ID met foto).
 - Stilte in de zaal.
 - Er is geen pauze, overdrijf niet met drinken, toiletbezoek op verzoek.
+- Wifi is uit tijdens het tentamen, geen andere dingen in scherm dan editor en terminal.
+- Alleen man pages zijn toegestaan als documentatie.
 - Klaar is klaar, dan kun je inleveren en weggaan.
 - Voor inleveren steek je je hand op, de surveillant komt controleren voordat je inlevert.
 
@@ -80,6 +82,8 @@ Controle op (on)geldige invoer is niet nodig.
 Omdat je emailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is (nou ja, min of meer).
 
 Schrijf een programma dat een email als spam of als normale mail classificeert. Een email is spam als het meer dan 10% niet alfabetische karakters bevat. Zorg dat je het percentage netjes afrondt. Spaties worden genegeerd en niet meegeteld.
+
+Gebruik indien nodig nog `man 3 round`.
 
     $ ./spam CaZhh M0n3y
     Er zijn 20 percent niet alfabetische karakters.
