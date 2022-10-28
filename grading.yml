@@ -200,7 +200,7 @@ opdrachten:
         filter: 1
 
         speller: 1
-        speller_questions: 1
+        # speller_questions: 1
 
 basisboek:
     show_progress: true
