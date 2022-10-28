@@ -112,7 +112,7 @@ Odds are, you didn't spend enough time looking over `speller.c`. Go back one squ
 
 ==== `texts/`
 
-So that you can test your implementation of `speller`, we've also provided you with a whole bunch of texts, among them the script from _La La Land_, the text of the Affordable Care Act, three million bytes from Tolstoy, some excerpts from _The Federalist Papers_ and Shakespeare, the entirety of the King James V Bible and the Koran, and more. So that you know what to expect, open and skim each of those files, all of which are in a directory called `texts` within your `module5` directory.
+So that you can test your implementation of `speller`, we've also provided you with a whole bunch of texts, among them the script from _La La Land_, the text of the Affordable Care Act, three million bytes from Tolstoy, some excerpts from _The Federalist Papers_ and Shakespeare, the entirety of the King James V Bible and the Koran, and more. So that you know what to expect, open and skim each of those files, all of which are in a directory called `texts` within your `speller` directory.
 
 Now, as you should know from having read over `speller.c` carefully, the output of `speller`, if executed with, say,
 
@@ -257,6 +257,16 @@ Note that `check50` will also check for memory leaks, so be sure you've run `val
 
 If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our https://bigboard.quinner.nl/[Big Board] website before or after you submit!
 
-== Submit
+++++
+<hr>
 
-Just upload your `dictionary.{c|h}` and README.md and you're done!
+<p><b>LET OP. Zoals in de studiewijzer vermeld zijn er redelijke en onredelijke acties wat betreft werken aan de opdrachten. Heel specifiek is het nooit toegestaan om een uitwerking van iemand anders te bekijken terwijl je zelf de opdracht nog aan het maken bent.</b></p>
+
+<p>Bij het inleveren geef je hier aan dat je tijdens het maken van de opdracht niet naar een bestaande uitwerking van de opdracht hebt gekeken, met uitzondering van het zoeken naar en overnemen van een hashfunctie (met bronvermelding).</p>
+
+<p>Als je de opdracht toch wil inleveren terwijl je naar (delen van) bestaande uitwerkingen hebt gekeken dan moet je deze expliciet linken in een comment bij de opdracht en bovenaan de opdracht vermelden dat je dit hebt gedaan. Je zult dan sowieso geen punten krijgen voor de gehele opdracht. Stuur je per ongeluk een versie in zonder deze comments dan gaat de uitwerking naar de examencommissie.</p>
+
+<p><b>Lees de tekst van de checkbox goed voordat je deze aanvinkt. Ingeleverde opdrachten zonder vinkje worden als niet ingestuurd beschouwd.</b></p>
+
+<label for="geen_plagiaat"> <input type="checkbox" required id="geen_plagiaat" name="form[geen_plagiaat]" value="bevestigd"> Ik heb bij het maken van de opdracht geen "onredelijke acties" gepleegd (zie studiewijzer) en specifiek heb ik niet naar een bestaande uitwerking van de opdracht of een klein deel daarvan gekeken (uitgezonderd de hash-functie, die overgenomen mocht worden). Als ik dat wel heb gedaan heb ik in de ingestuurde code overduidelijk de bron aangegeven, maar dan begrijp ik dat ik geen punten krijg. Ik begrijp dat inleveren van de opdracht niet verplicht is en dat ik ook gewoon de punten kan laten lopen.</label>
+++++
