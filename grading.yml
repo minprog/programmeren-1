@@ -173,6 +173,7 @@ calculation:
 
 opdrachten:
     show_progress: true
+    convert_passes_to_grade: true
     submits:
         scratch: 1
         hello: 1
