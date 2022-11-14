@@ -141,9 +141,9 @@ grades:
 
 calculation:
     eindcijfer:
-        opdrachten: 25
+        # opdrachten: 25
         # basisboek: 0
-        # punten: 75
+        punten: 75
         # tentamen: 0
     herkansing:
         opdrachten: 25
