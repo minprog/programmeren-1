@@ -122,6 +122,7 @@ grades:
 
     oefententamen: *check
     tentamen: *check
+    hertentamen: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
