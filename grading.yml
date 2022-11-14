@@ -145,7 +145,7 @@ calculation:
         basisboek: 0
         punten: 75
         tentamen: 0
-    herkansing:
+    eindcijfer_herkansing:
         opdrachten: 25
         basisboek: 0
         punten: 75
@@ -239,3 +239,9 @@ tentamen:
     required: true
     submits:
         tentamen: 1
+
+hertentamen:
+    show_progress: true
+    required: true
+    submits:
+        hertentamen: 1
