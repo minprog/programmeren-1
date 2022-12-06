@@ -1,0 +1,4 @@
+name: tentamen-oefening-makelaar
+files:
+    optional:
+        - makelaar.c

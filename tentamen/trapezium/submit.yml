@@ -1,0 +1,4 @@
+name: tentamen-oefening-trapezium
+files:
+    optional:
+        - trapezium.c
