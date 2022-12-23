@@ -6,6 +6,6 @@ files:
         - gelijkbenig.c
         - dobbelsteen.c
         - som.c
-# check:
-#     tool: check50
-#     slug: minprog/tentamen-checks/2021/tentamen10
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/tentamen11
