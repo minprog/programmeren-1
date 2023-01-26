@@ -83,7 +83,7 @@ grades:
     cypher: *automatic
 
     functions: *check
-    # tiles: *automatic
+    tiles: *automatic
     calendar: *automatic
 
     algorithms: *check
