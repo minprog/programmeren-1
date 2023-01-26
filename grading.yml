@@ -171,7 +171,7 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-opdrachten:
+opdrachten_week_1:
     show_progress: true
     convert_passes_to_grade: true
     submits:
@@ -181,30 +181,54 @@ opdrachten:
         basics_control_flow: 1
         population: 1
 
+opdrachten_week_2:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         conversion: 1
         mario: 1
         soda: 1
         caffeine: 1
 
+opdrachten_week_3:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         basics_arrays: 1
         strings: 1
         scrabble: 1
         rna: 1
         cypher: 1
 
+opdrachten_week_4:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         functions: 1
         tiles: 1
         basics_functions: 1
         calendar: 1
 
+opdrachten_week_5:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         algorithms: 1
         measurements: 1
         sort: 1
 
+opdrachten_week_6:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         beatles: 1
         whodunit: 1
         filter: 1
 
+opdrachten_week_7:
+    show_progress: true
+    convert_passes_to_grade: true
+    submits:
         speller_questions: 1
         speller: 1
 
