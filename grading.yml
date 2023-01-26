@@ -176,7 +176,9 @@ opdrachten:
     convert_passes_to_grade: true
     submits:
         scratch: 1
+        basics_variables: 1
         hello: 1
+        basics_control_flow: 1
         population: 1
 
         conversion: 1
@@ -184,13 +186,15 @@ opdrachten:
         soda: 1
         caffeine: 1
 
+        basics_arrays: 1
         strings: 1
         scrabble: 1
         rna: 1
         cypher: 1
 
         functions: 1
-        # tiles: 1
+        tiles: 1
+        basics_functions: 1
         calendar: 1
 
         algorithms: 1
@@ -201,16 +205,8 @@ opdrachten:
         whodunit: 1
         filter: 1
 
+        speller_questions: 1
         speller: 1
-        # speller_questions: 1
-
-basisboek:
-    show_progress: true
-    submits:
-        basics_variables: 1
-        basics_control_flow: 1
-        basics_arrays: 1
-        basics_functions: 1
 
 punten:
     show_progress: true
@@ -228,7 +224,7 @@ punten:
         resize: :bonus
 
 tentamenoefeningen:
-    show_progress: true
+    # show_progress: true
     submits:
         tentamen-oefening-regen: 1
         tentamen-oefening-rechthoeken: 1
@@ -237,13 +233,13 @@ tentamenoefeningen:
         oefententamen: 1
 
 tentamen:
-    show_progress: true
+    # show_progress: true
     required: true
     submits:
         tentamen: 1
 
 hertentamen:
-    show_progress: true
+    # show_progress: true
     required: true
     submits:
         hertentamen: 1
