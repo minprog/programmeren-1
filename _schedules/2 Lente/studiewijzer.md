@@ -195,13 +195,15 @@ ISBN 9780321776419
 
 Tijdens het tentamen ga je aan de slag met een selectie van kleine programmeerproblemen. Aan jou de taak om deze te analyseren en een mooie oplossing te schrijven (op de computer!). De kennis en ervaring die je nodig hebt om dit te doen bouw je op tijdens het maken van de verschillende opdrachten in de cursus. Om te wennen aan de vorm is er natuurlijk ook een oefententamen.
 
-## Samenwerken
+## Zelfstandig werken
 
 De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, behalve waar het gaat om de samenwerkopdrachten.
 
 Natuurlijk is het nuttig om bij het maken van individuele opdrachten **interactie** te hebben met je medestudenten, en dat kan ook enorm helpen bij het beheersen van de stof. Maar er is een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hieronder karakteriseren we beide kanten van die grens.
 
 Je mag niet samenwerken aan de **implementatie** van je programma's. Uitzondering is dat je medestudenten om hulp mag vragen, zolang dat er niet op neer komt dat een ander een deel van het werk voor jou doet. Over het algemeen mag je, als je om hulp vraagt, jouw code laten zien, maar kijk je niet naar de code van een ander. Je laat je dus niks voorzeggen.
+
+Ook externe hulp inschakelen in de vorm van Youtube-filmpjes met standaarduitwerkingen, oplossingen die op internet zijn gepost, of robots die code kunnen schrijven is niet toegestaan. Extra uitleg over de theorie op internet zoeken is geen probleem, maar voor extra uitleg **over de opdracht** moet je de assistenten en docenten inschakelen.
 
 Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk of onredelijk bestempelen. Twijfel je of een handeling redelijk is, vraag het, en wacht tot je per e-mail toestemming hebt gekregen van een docent (niet assistent). Als je onredelijk handelt dan kan dit leiden tot een melding bij de examencommissie.
 
@@ -223,30 +225,28 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 - Een aan het vak verbonden assistent om hulp vragen.
 
-- Naar het internet gaan voor tutorials buiten het vak, voor referenties, en voor oplossingen bij technische problemen, maar niet voor gehele oplossingen voor (de essentie van) opdrachten.
+- Naar het internet gaan voor tutorials buiten het vak, voor referenties, en voor oplossingen bij technische problemen, maar niet voor oplossingen voor (de essentie van) opdrachten.
 
 - Het uittekenen of uitwerken van oplossingen op een whiteboard door middel van diagrammen of pseudocode, maar niet "echte" code.
-
-- Werken met (en zelfs betalen voor) een tutor om je te helpen met het vak, gegeven dat de tutor niet het werk voor je doet.
 </details>
 
 <details markdown="1"><summary markdown="span">Voorbeelden van **onredelijke** acties</summary>
 
-- Een oplossing van een opdracht inzien voordat je jouw opdracht hebt ingeleverd.
+- Een oplossing van een deel van de opdracht inzien voordat je jouw opdracht hebt ingeleverd.
 
 - Een medestudent vragen om hun oplossing, voordat je jouw opdracht hebt ingeleverd.
 
-- Het decompileren, deobfusceren, of op andere manier achterhalen van een "staff" oplossing van een opdracht.
+- Het decompileren, deobfusceren, of op andere manier achterhalen van een "officiële" oplossing van een opdracht.
 
 - Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
 
 - Het aan een medestudent geven of laten zien van een oplossing voor een opdracht waar hij of zij (dus niet jij) moeite mee heeft.
 
-- Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
+- Betalen, of het aanbieden om te betalen, voor het recht om (denk)werk van een ander als onderdeel van jouw eigen werk in te leveren.
 
 - Het beschikbaar stellen van oplossingen voor opdrachten van dit vak aan anderen die dit vak in de toekomst wellicht gaan volgen.
 
-- Het opzoeken van complete oplossingen voor opdrachten online of ergens anders.
+- Het opzoeken van oplossingen voor opdrachten online of ergens anders.
 
 - Werk van een opdracht opsplitsen met een ander.
 
@@ -254,7 +254,7 @@ Waar de grens **onduidelijk** is vragen we je om "redelijk" te handelen. Hierond
 
 - Hetzelfde of bijna hetzelfde werk inleveren bij dit vak dat je hebt ingeleverd of gaat inleveren bij een ander vak.
 
-- Het inleveren van werk voor dit vak, waarbij je intentie is om dit ook ergens anders voor in te zetten (zeg voor een baan), zonder daar eerst toestemming voor te hebben gekregen van een docent.
+- Het inleveren van werk voor dit vak, waarbij je intentie is om dit ook ergens anders voor in te zetten (bijvoorbeeld voor een werkgever), zonder daar eerst toestemming voor te hebben gekregen van de hoofddocent.
 
 - Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 </details>
@@ -275,7 +275,7 @@ Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoel
 
 <details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
 
-Dit betekent dat je onvoldoende aandacht hebt besteed aan de kwaliteit van je programma's. De herkansing komt erop neer dat je dit alsnog doet. Deze vorm van herkansing kan alleen direct na bekendmaking van de eindcijfers.
+Als je je tentamen voldoende hebt maar voor het vak een onvoldoende staat, dan betekent dit dat je onvoldoende aandacht hebt besteed aan de kwaliteit van je programma's. De herkansing komt erop neer dat je dit alsnog doet. Deze vorm van herkansen kan alleen plaatsvinden direct na bekendmaking van de eindcijfers.
 
 - Alle individuele opdrachten, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
@@ -297,6 +297,8 @@ Dit betekent dat je ergens tijdens het vak een opdracht niet af hebt gemaakt, hi
 - Vernieuwde opdrachten moeten op moment van herkansen gewoon gedaan worden.
 
 - Alle nieuwe beoordelingen vinden plaats zoals gangbaar op het moment van herkansen.
+
+- Als de beoordelingswijze zodanig is aangepast dat overdracht van punten te lastig wordt (naar beslissing door de examinator) dan moet het hele vak opnieuw gedaan worden.
 </details>
 
 <details markdown="1"><summary markdown="span">Ik heb niet aan de verwachtingen van het vak voldaan en wil herkansen</summary>
@@ -308,4 +310,6 @@ Dit betekent dat je niet mee hebt gedaan met verplichte onderdelen of op een and
 - Er moet een concrete afspraak zijn over het inhalen van minimumeisen vóór je start. Neem hiervoor contact op met de docenten.
 
 - Alle opdrachten en toetsjes moeten opnieuw gedaan worden indien de samenstelling inmiddels is veranderd.
+
+- Als de beoordelingswijze zodanig is aangepast dat overdracht van punten te lastig wordt (naar beslissing door de examinator) dan moet het hele vak opnieuw gedaan worden.
 </details>
