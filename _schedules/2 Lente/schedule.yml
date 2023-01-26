@@ -1,76 +1,77 @@
 Welkom:
-    Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+  Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
 Week 1:
-    Maandag:
-        'Videocollege: Computational Thinking': /lectures/computational-thinking
-    Dinsdag:
-        Scratch [individueel]: /cs50/scratch
-    Woensdag:
-        'Boek: Variabelen [basisboek]': /exercises/book/variables
-        'Installatie': /extra/installatie
-    Donderdag:
-        'Videocollege: C': /lectures/c
-        'Hello [zelf]': /cs50/hello
+  Voorbereiding:
+    "Videocollege: Computational Thinking": /lectures/computational-thinking
+  Opdrachten:
+    Scratch [opdracht]: /problems/scratch
+    Variabelen [boek]: /exercises/book/variables
+  "Voorbereiding #2":
+    "Videocollege: C": /lectures/c
+    Installatie: /extra/installatie
+  "Opdrachten #2":
+    Hello, you! [opdracht]: /problems/hello
+    Control Flow [boek]: /exercises/book/control-flow
+    Population [samen programmeren]: /problems/population
 
 Week 2:
-    Maandag:
-        Population [samen]: /cs50/population
-    Dinsdag:
-        Mario [individueel]: /cs50/mario/less
-    Woensdag:
-        'Boek: Control Flow [basisboek]': /exercises/book/control-flow
-    Donderdag:
-        Hardware [zelf]: /cs50t/hardware
+  Opdrachten:
+    Temperatuurtabellen [opdracht]: /problems/conversion
+    Mario [opdracht]: /problems/mario/less
+    Soda [opdracht]: /problems/soda
+    Caffeine [opdracht]: /problems/caffeine
+  Extra opdracht:
+    Goldbach [opdracht]: /problems/goldbach
 
 Week 3:
-    Maandag en dinsdag:
-        Cash [individueel]: /cs50/cash
-    Woensdag:
-        'Videocollege: Arrays': /lectures/arrays
-    Donderdag:
-        'Oefenen: Strings [samen]': /exercises/writing/strings
-    Vrijdag:
-        Internet [zelf]: /cs50t/internet
-    Extra:
-        Credit [extra]: /cs50/credit
+  Voorbereiding:
+    "Videocollege: Arrays": /lectures/arrays
+  Opdrachten:
+    Strings en Arrays [boek]: /exercises/book/arrays
+    Strings [oefenen]: /exercises/writing/strings
+    Scrabble [samen programmeren]: /problems/scrabble
+    RNA [opdracht]: /problems/rna
+    Cypher [opdracht]: /problems/cypher
+  Extra opdracht:
+    Decryptor [opdracht]: /problems/decryptor
 
 Week 4:
-    Maandag:
-        'Scrabble [samen]': /cs50/scrabble
-    Dinsdag en woensdag:
-        'Readability [individueel]': /cs50/readability
-    Donderdag:
-        'Oefenen: Functies [zelf]': /exercises/writing/functions
-    Vrijdag:
-        Security [zelf]: /cs50t/security
+  Opdrachten:
+    Functies [oefenen]: /exercises/writing/functions
+    Tiles [samen programmeren]: /problems/tiles
+    Functies [boek]: /exercises/book/functions
+    Calendar [opdracht]: /problems/calendar
+  Extra opdracht:
+    Design challenge [opdracht]: /problems/calendar/extra
 
 Week 5:
-    Maandag en dinsdag:
-        'Caesar [individueel]': /cs50/caesar
-    Woensdag:
-        'Boek: Strings en Arrays [basisboek]': /exercises/book/arrays
-    Donderdag:
-        'Videocollege: Algorithms': /lectures/algorithms
-    Extra:
-        Crack [extra]: /cs50/crack
+  Voorbereiding:
+    "Videocollege: Algorithms": /lectures/algorithms
+  Opdrachten:
+    Algorithms [oefenen]: /exercises/study/algorithms
+    Measurements [samen programmeren]: /problems/measurements
+    Sort [opdracht]: /problems/sort
+  Extra opdracht:
+    Find [opdracht]: /problems/find
 
 Week 6:
-    Maandag:
-        'Oefenen: Linear Search [samen]': /exercises/writing/linear
-    Dinsdag en woensdag:
-        Find [individueel]: /cs50/find/less
-    Donderdag:
-        'Oefenen: Algorithms [zelf]': /exercises/study/algorithms
+  Voorbereiding:
+    "Videocollege: Memory": /lectures/memory
+  Opdrachten:
+    Beatles [oefenen]: /exercises/writing/beatles
+    Whodunit [samen programmeren]: /problems/whodunit
+    Filter [opdracht]: /problems/filter/less
+  Extra opdracht:
+    Resize [opdracht]: /problems/resize/more
 
 Week 7:
-    # Maandag en dinsdag:
-    #     Sort [samen]: /cs50/sort
-    Maandag:
-        'Oefenen: Big-O [zelf]': /exercises/study/big-o
-    Dinsdag:
-        'Oefenen: Complexity Puzzle [samen]': /exercises/study/complexity-puzzle
-    Woensdag:
-        'Boek: Functies [basisboek]': /exercises/book/functions
-    Extra:
-        Fifteen [extra]: /cs50/fifteen/random
+  Voorbereiding:
+    "Videocollege: Data structures": /lectures/data-structures
+  Opdrachten:
+    Questions [opdracht]: /problems/speller/questions
+    Speller [opdracht]: /problems/speller
+
+Tentamenweek:
+  Voorbereiding:
+    Oefententamen: /tentamen/oefententamen
