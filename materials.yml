@@ -6,5 +6,5 @@ exercises:
     branch: 2021
 lectures:
     remote: https://github.com/minprog/cs50-lectures.git
-    branch: 2020
+    branch: 2022
 
