@@ -10,6 +10,6 @@ Open the "Terminal" application on your Mac, and enter the following line:
 
 This is a script that will guide you through most of the installation. Whenever you get error messages that you don't understand, please contact the course's staff for help.
 
-## Step 2: Atom
+## Step 2: Code editor
 
 Download and install [TextMate](https://macromates.com/).

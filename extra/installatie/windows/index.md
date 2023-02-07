@@ -83,6 +83,6 @@ Note: you can paste into your terminal using right-click.
 
 The above is a script that will guide you through most of the installation. Whenever you get error messages that you don't understand, please contact the course's staff for help.
 
-## Step 4: Atom
+## Step 4: Code editor
 
 Download and install [Notepad++](https://notepad-plus-plus.org/).
