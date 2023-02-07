@@ -97,9 +97,7 @@ Pieces of chocolate do not count for the total number of drinks.
 
 ## Getting Started
 
-- Create a new directory `~/problems/caffeine` and `cd` into it.
-
-- Create a file called `pseudocode.txt` in that directory. Note at least the following:
+- Create a file called `caffeine_pseudocode.txt`. Note at least the following:
 
   - What input is required and any limitations to that input
   - What needs to be printed at the end
