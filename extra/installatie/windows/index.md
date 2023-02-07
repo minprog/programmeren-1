@@ -85,4 +85,4 @@ The above is a script that will guide you through most of the installation. When
 
 ## Step 4: Atom
 
-Download and install [Atom](https://atom.io/).
+Download and install [Notepad++](https://notepad-plus-plus.org/).
