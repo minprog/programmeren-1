@@ -1,7 +1,7 @@
 name: rna
 files:
   required:
-    - pseudocode.txt
+    - rna_pseudocode.txt
     - rna.c
 check:
   tool: check50
