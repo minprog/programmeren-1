@@ -18,7 +18,7 @@ Schrijf een programma dat op de command line een keten van DNA aanneemt van will
 
 ## Implementation Details
 
-- Implement your program in a file called `rna.c` in a directory called `rna`.
+- Implement your program in a file called `rna.c`.
 
 - Your program must accept a single command-line argument, which is a string of letters.
 
@@ -57,13 +57,9 @@ In case of user error, your program should respond appropriately, and return exi
 
 ## Getting Started
 
-First, create a new directory (i.e., folder) called `rna` inside of your `problems` directory, by executing
+To start, you'll create a file called `rna_pseudocode.txt` to help you analyze the problem. You will submit this analysis together with the final implementation in C.
 
-    ~/ $ mkdir ~/problems/rna
-
-To start, you'll create a file called `pseudocode.txt` to help you analyze the problem. You will submit this analysis together with the final implementation in C.
-
-Write in `pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code.
+Write in `rna_pseudocode.txt` some pseudocode that implements this program, even if not (yet!) sure how to write it in code.
 
 ## Counting command-line arguments
 
