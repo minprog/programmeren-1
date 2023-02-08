@@ -32,7 +32,7 @@ to move yourself into (i.e., open) that directory. Your prompt should now resemb
 
 If not, retrace your steps and see if you can determine where you went wrong.
 
-Now, open Atom, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `Documents`, then the `Programming` folder that you just created and click on **Save**.
+Now, open your code editor, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `Documents`, then the `Programming` folder that you just created and click on **Save**.
 
 In your new file, type the C code for "Hello, World" as seen above. Save it once more.
 
@@ -54,7 +54,7 @@ to move yourself into (i.e., open) that directory. Your prompt should now resemb
 
 If not, retrace your steps and see if you can determine where you went wrong.
 
-Now, open Atom, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `Documents`, then the `Programming` folder that you just created and click on **Save**.
+Now, open your code editor, point to the File menu and choose New. This will open a new editor with a blank "Untitled1" file in it. First thing to do is to give it a name and save it into your new directory. Press **CTRL-S** or **Cmd-S** to open the file dialog. For **Filename**, type `hello.c`. Then below, choose (click) the `Documents`, then the `Programming` folder that you just created and click on **Save**.
 
 In your new file, type the C code for "Hello, World" as seen above. Save it once more.
 

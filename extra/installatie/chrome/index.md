@@ -14,6 +14,6 @@ After the installation has completed, open the "Terminal" application on your ch
 
 This is a script that will guide you through most of the installation. Whenever you get error messages that you don't understand, please contact the course's staff for help.
 
-## Step 3: Atom
+## Step 3: Code editor
 
-Download the `.deb` file from [Atom](https://atom.io/). Find the downloaded in the downloads folder, double click it and install on Linux.
+Download the `.deb` file from [Atom](https://github.com/atom/atom/releases/download/v1.60.0/atom-amd64.deb). Find the downloaded in the downloads folder, double click it and install on Linux.

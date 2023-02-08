@@ -72,10 +72,9 @@ Download Python 3.9 from the [Python website](https://www.python.org/downloads/)
 Install Python, make sure you check the "Add Python 3.9 to PATH" box.
 ![](python.png)
 
-## Step 4: Atom
+## Step 4: Code editor
 
-
-Download and install [Atom](https://atom.io/).
+Download and install [Notepad++](https://notepad-plus-plus.org/).
 
 
 
