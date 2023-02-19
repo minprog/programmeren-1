@@ -28,7 +28,7 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 ## Beoordeling
 
-De code wordt beoordeeld met hulp van het volgende schema:
+De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
 1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 2. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
