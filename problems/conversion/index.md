@@ -32,6 +32,8 @@ Schrijf, in een bestand genaamd `conversion.c`, een programma dat de gebruiker v
 
 - Zorg dat de uitvoer van je programma _exact_ is zoals in de voorbeelden hieronder. Dat maakt automatisch testen mogelijk, maar daagt je ook uit om geen shortcuts te nemen.
 
+    - Zoals je ziet in het derde voorbeeld: als de begintemperatuur groter is dan de eindtemperatuur dan is er géén tabel behalve de F/C. Hiervoor hoef je niets extra's te doen: als je je uitwerking maakt op basis van de eerste twee voorbeelden zou het derde voorbeeld ook precies zoals hieronder moeten werken.
+
 ## Voorbeelden
 
 Je programma moet uiteindelijk werken zoals in de voorbeelden hieronder.
