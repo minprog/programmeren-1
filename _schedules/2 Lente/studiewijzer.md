@@ -103,7 +103,7 @@ Dit is een overzicht van de deadlines per week:
 | :------- | :--------------- | :----------------- |
 | Module 1 | vr 10 feb 16:59  | -                  |
 | Module 2 | vr 17 feb 16:59  | di 21 feb 16:59    |
-| Module 3 | vr 24 feb 16:59  | di 28 feb 16:59    |
+| Module 3 | vr 24 feb 16:59  | -                  |
 | Module 4 | vr  3 mrt 16:59  | di  7 mrt 16:59    |
 | Module 5 | vr 10 mrt 16:59  | di 14 mrt 16:59    |
 | Module 6 | vr 17 mrt 16:59  | di 21 mrt 16:59    |
@@ -133,9 +133,9 @@ De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdra
 6. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
 {: start="6" reversed=""}
 
-Wil je goed scoren (rond de 4 punten), dan bestudeer je goed de aspecten die we aangeven, doe je actief mee aan de code review, en loop je kritisch elke regel code na met de aspecten en voorschriften in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
+Wil je goed scoren (rond de 4 punten), dan bespreek je uitgebreid je code met andere studenten (na inleveren van je oplossing), doe je actief mee aan de code review-sessies, bestudeer je zeer grondig de feedback die je krijgt, en loop je elke keer kritisch elke regel code na met de ideeën uit die bronnen in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
 
-Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Bij de aspecten zijn verwijzingen te vinden naar hoofdstukken met meer informatie, en je kunt zelf ook op zoek naar kritische bronnen (overleg even of ze van voldoende kwaliteit zijn!).
+Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Je mag altijd externe bronnen raadplegen over hoe je "goede" code schrijft, zolang de bron maar niet uitlegt hoe je *jouw opdracht* op een mooie manier maakt. Zelf de vertaling maken van algemene principes naar de opdracht dus, zoals altijd op de universiteit. Zoektip: "c code quality", "writing good code", "simplifying c code".
 
 ### Extra opdrachten
 
