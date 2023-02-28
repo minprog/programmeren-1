@@ -224,6 +224,31 @@ Open up `README.md` and replace each `TODO` therein with your answer to the ques
 
 No need to write your answers in Markdown; plaintext suffices. But if you'd like to format your answers somehow, see https://guides.github.com/features/mastering-markdown/ for a tutorial.
 
+== Assignment
+
+Think back to childhood when you held that piece of red plastic over similarly hidden messages. (If you remember no such piece of plastic, best to ask a classmate about his or her childhood.) Essentially, the plastic turned everything red but somehow revealed those messages. Implement that same idea in `whodunit`. Like `copy`, your program should accept exactly two command-line arguments. And if you execute a command like the below, stored in `verdict.bmp` should be a BMP in which Mr. Boddy's drawing is no longer covered with noise.
+
+[source]
+----
+./whodunit clue.bmp verdict.bmp
+----
+
+Allow us to suggest that you begin tackling this mystery by executing the command below.
+
+[source]
+----
+cp copy.c whodunit.c
+----
+
+Then add and/or change just a few lines of code.
+
+There's nothing hidden in `smiley.bmp`, but feel free to test your program out on its pixels nonetheless, if only because that BMP is small and you can thus compare it and your own program's output with the hex viewer during development.
+
+Rest assured that more than one solution is possible. So long as Mr. Boddy's drawing is identifiable (by you), no matter its legibility, Mr. Boddy will rest in peace.
+
+When submitting this problem, you'll be asked whodunit!
+
+
 == Specification
 
 Implement a program called `whodunit` that reveals Mr. Boddy's drawing in such a way that you can recognize whodunit.
@@ -259,29 +284,6 @@ $ [underline]#echo $?#
 0
 ----
 
-== Hints
-
-Think back to childhood when you held that piece of red plastic over similarly hidden messages. (If you remember no such piece of plastic, best to ask a classmate about his or her childhood.) Essentially, the plastic turned everything red but somehow revealed those messages. Implement that same idea in `whodunit`. Like `copy`, your program should accept exactly two command-line arguments. And if you execute a command like the below, stored in `verdict.bmp` should be a BMP in which Mr. Boddy's drawing is no longer covered with noise.
-
-[source]
-----
-./whodunit clue.bmp verdict.bmp
-----
-
-Allow us to suggest that you begin tackling this mystery by executing the command below.
-
-[source]
-----
-cp copy.c whodunit.c
-----
-
-Then add and/or change just a few lines of code.
-
-There's nothing hidden in `smiley.bmp`, but feel free to test your program out on its pixels nonetheless, if only because that BMP is small and you can thus compare it and your own program's output with the hex viewer during development.
-
-Rest assured that more than one solution is possible. So long as Mr. Boddy's drawing is identifiable (by you), no matter its legibility, Mr. Boddy will rest in peace.
-
-When submitting this problem, you'll be asked whodunit!
 
 == Testing
 
