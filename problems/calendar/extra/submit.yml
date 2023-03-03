@@ -1,7 +1,7 @@
 name: design_challenge
 files:
   required:
-    - analyse.txt
+    - analyse.pdf
     - calendar.c
 check:
   tool: check50

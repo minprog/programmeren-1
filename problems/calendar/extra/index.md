@@ -37,7 +37,7 @@ Hou daar bij ook de volgende richtlijnen in de gaten. De code die je eerder hebt
 
 That's it!
 
-Om aan de opdracht te voldoen is het nodig om deze principes echt uit te proberen en te exploreren. Je moet hierin heel ver gaan, dus echt blijven kijken of het technisch lukt om functies nog een keer te splitsen, variabelen te elimineren enz.
+Om aan de opdracht te voldoen is het nodig om deze principes echt uit te proberen en te exploreren. Je moet hierin heel ver gaan, dus echt blijven kijken of het technisch lukt om functies nog een keer te splitsen, variabelen te elimineren enz. Het is niet voldoende om te concluderen dat je bepaalde van bovenstaande principes niet wil of kunt toepassen. (Heb je vragen hierover, mail dan de docenten; de assistenten zijn niet voldoende voorbereid om hierbij te helpen.)
 
 ## Testen
 
@@ -54,4 +54,4 @@ Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden. De
 - Bij welke functies/onderdelen had je ook een alternatieve oplossing in gedachten?
 - Welke principes zou je goed kunnen toepassen bij het schrijven van programma's en waarom? Welke voordelen en nadelen kun je bedenken?
 
-Schrijf je verslag in een bestand `analyse.txt`.
+Schrijf je verslag in een bestand `analyse.pdf`.
