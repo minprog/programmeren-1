@@ -1,0 +1,4 @@
+name: complexity_puzzle
+files:
+    required:
+        - answers.txt
