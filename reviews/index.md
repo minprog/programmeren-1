@@ -7,9 +7,4 @@ Je gaat code reviews doen met wisselende teamgenoten. De reviews vinden plaats t
 Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te maken op basis van de gekregen feedback. Dan lever je de uitwerkingen nog één keer in, zodat ze kunnen worden nagekeken door je mentor.
 
 - [Code review: Caffeine](/reviews/m2)
-
-<!-- - [Code review: Cypher](/reviews/m3)
-- [Code review: Calendar](/reviews/m4)
-- [Code review: Sort](/reviews/m5)
-- [Code review: Filter](/reviews/m6)
-- [Code review: Speller](/reviews/m7) -->
+- [Code review: Tiles](/reviews/m4)
