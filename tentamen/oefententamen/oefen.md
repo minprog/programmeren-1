@@ -2,7 +2,7 @@
 
 Regels voor het tentamen:
 
-- Het tentamen vindt plaats op Roeterseiland, maar check altijd je mail 1 dag vooraf.
+- Het tentamen vindt plaats op Science Park, zie datanose.nl voor je persoonlijke rooster.
 - Je mag tot uiterlijk 30 minuten na de begintijd starten.
 - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
 - Leg je collegekaart klaar op tafel (of een andere officiële ID met foto).
@@ -25,11 +25,14 @@ Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoo
 
 Je kunt in je uitwerking laten zien dat je:
 
+- Kleine programmeerproblemen in beperkte tijd kunt oplossen
 - De basisconstructies if, else, for, while en dergelijke beheerst
 - Om kunt gaan met command-line arguments
 - Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
-- Kunt werken met strings en characters
-- Zorgvuldig de output kunt construeren met print statements.
+- Kunt werken met strings en characters, en met arrays
+- Zorgvuldig de output kunt construeren met print statements
+- Meerdere functies kunt definiëren die elk een deel van de oplossing geven
+- Nette code kunt schrijven met relevante documentatie
 
 ## Beperkingen
 
@@ -45,12 +48,12 @@ Je kunt in je uitwerking laten zien dat je:
 
 Het oefententamen bevat slechts 3 opdrachten, waar het tentamen er 5 heeft. Het gaat er nu om dat je voldoende oefening hebt om de opdrachten tot een goed einde te brengen.
 
-Heb je nog tentamen-oefeningen uit de werkgroep die je niet 100% correct of af had, dan kun je deze nog afmaken ter voorbereiding:
+<!-- Heb je nog tentamen-oefeningen uit de werkgroep die je niet 100% correct of af had, dan kun je deze nog afmaken ter voorbereiding:
 
 - <https://prog1.proglab.nl/tentamen/hoofdletters>
 - <https://prog1.proglab.nl/tentamen/driehoek>
 - <https://prog1.proglab.nl/tentamen/rechthoeken>
-- <https://prog1.proglab.nl/tentamen/regen>
+- <https://prog1.proglab.nl/tentamen/regen> -->
 
 Succes!
 
@@ -97,7 +100,7 @@ Gebruik indien nodig `man round`.
 
 ## Afgebroken
 
-Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel paste in het oorspronkelijke bericht. Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie. Schrijf een programma dat de tekst print zonder deze streepjes en spaties.
+Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel paste in het oorspronkelijke bericht. Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie. Schrijf een programma dat de tekst print zonder deze streepjes en spaties. Als geen tekst wordt ingevoerd moet opnieuw worden gevraagd.
 
     $ ./afgebroken
     Tekst: Nederlanders worden steeds ouder, vooral door- dat ze na hun 65ste ...
@@ -108,6 +111,7 @@ Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbre
     Over de identiteit van de schutter zegt de politie: 'Als het de man is die ...
 
     $ ./afgebroken
+    Tekst: 
     Tekst: Een 36-jarige Geldropse heeft deze week een in- breker in haar ...
     Een 36-jarige Geldropse heeft deze week een inbreker in haar schuurtje net ...
 
