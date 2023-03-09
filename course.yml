@@ -5,7 +5,7 @@ language: nl
 links:
     '[vector-pen] Reviews': /reviews
     '[book] Manual': https://man.cs50.io/
-    # '[people] Hertentamen': /tentamen/hertentamen
+    '[people] Tentamen': /tentamen/oefententamen
     # '[people-fill] Assistentie': 'https://balie.mprog.nl/planner/1-programmeerbalie'
     # '[people] Wonder': https://www.wonder.me/r?id=fda7b5fa-2394-48bb-99ac-ff7d13c847b6
 

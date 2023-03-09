@@ -37,11 +37,8 @@ Je kunt in je uitwerking laten zien dat je:
 ## Beperkingen
 
 - In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat. Je mag de documentatie van library-functies opzoeken met hulp van het `man`-commando in de terminal.
-
 - Programmeren moet in een code editor en compilen in de terminal. Je mag geen andere programma's open hebben.
-
 - De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
-
 - (Ook) voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
 ## Dit oefententamen
