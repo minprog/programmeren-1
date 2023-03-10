@@ -89,6 +89,8 @@ grades:
     algorithms: *check
     measurements: *automatic
     sort: *automatic
+    big-o: *check
+    complexity-puzzle: *check
 
     beatles: *check
     whodunit: *check
@@ -216,6 +218,8 @@ opdrachten_week_5:
         algorithms: 1
         measurements: 1
         sort: 1
+        big-o: 1
+        complexity-puzzle: 1
 
 opdrachten_week_6:
     show_progress: true
