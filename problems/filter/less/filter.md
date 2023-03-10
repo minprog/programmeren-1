@@ -215,6 +215,8 @@ The `reflect` function should take an image and reflect it horizontally.
 
 Finally, the `blur` function should take an image and turn it into a box-blurred version of the same image.
 
+**Note: because blurring is based on multiple pixels, you must create a copy of the original image that you will keep in addition to the image that may be changed. If you do not do this, the blur of one pixel will be based on the blurred version of another pixel.**
+
 1. Watch the walkthrough about blurring:
 
    [![](walkthrough.jpg){: width="150px"}](https://youtu.be/6opWB7DaFCY?list=PLhQjrBD2T3837jmUt0ep7Tpmnxdv9NVut)
