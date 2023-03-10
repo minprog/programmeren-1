@@ -264,10 +264,10 @@ For the following code fragment it is assumed that the input array `a` is alread
 	}
 
 
-## How to Check Your Answers
+## Checking your answers
 
-Log into your CS50 IDE and upload your `answers.txt`. Then simply run:
+Use:
 
-	check50 -l minprog/cs50x/2020/bigo
+    check50 -l minprog/cs50x/2020/bigo
 
-`check50` will check the correctness of your answers, but also be sure to provide your reasoning.
+`check50` will only check the correctness of your answers. Be sure to also provide your reasoning.
