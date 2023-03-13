@@ -21,7 +21,6 @@ $ [underline]#./whodunit clue.bmp verdict.bmp#
 
 [source,subs="macros"]
 ----
-$ cd ~/problems
 $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/whodunit/whodunit.zip
 $ unzip whodunit.zip
 $ rm whodunit.zip
