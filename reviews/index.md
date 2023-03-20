@@ -8,3 +8,4 @@ Na afloop van de werkgroep neem je nog een uurtje om je code helemaal netjes te 
 
 - [Code review: Caffeine](/reviews/m2)
 - [Code review: Tiles](/reviews/m4)
+- [Code review: Filter](/reviews/m6)
