@@ -4,7 +4,7 @@ Na de werkgroep ga je in een document, in jouw eigen woorden, de aspecten samenv
 
 ## Verbeteren
 
-Eerst ga je jouw uitwerking naar eigen smaak verbeteren. Gebruik hiervoor de input uit de code review. Neem niet droog de hele oplossing van iemand anders over maar probeer vooral je eigen stijl te vinden. Een goed cijfer is niet afhankelijk van de keuze voor een specifieke stijl maar hoe goed de stijl bij jouw oplossing past.
+Eerst ga je jouw uitwerking naar eigen smaak verbeteren. Gebruik hiervoor de input uit de code review. Neem niet droog de hele oplossing van iemand anders over maar probeer vooral je eigen stijl te vinden. Een goed cijfer is niet afhankelijk van de keuze voor een specifieke stijl maar hoe goed de stijl bij jouw oplossing en bij de cursus past.
 
 ## Organisatie van je document
 
