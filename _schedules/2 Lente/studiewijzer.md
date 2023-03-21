@@ -123,14 +123,14 @@ Als je ziek bent, dan meld je het in ieder geval meteen aan je mentor via e-mail
 
 ## Opdrachtcijfers
 
-De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdracht zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. Deze aspecten gaan over _codekwaliteit_, waarover je in de eerste weken meer leert. De schaal is als volgt:
+De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdracht zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. Deze aspecten gaan over _codekwaliteit_, waarover je in de loop van de weken meer leert. De schaal is als volgt:
 
 1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-2. zeer goede kwaliteit, beperkt ruimte voor verbetering
-3. degelijke kwaliteit op alle genoemde aspecten, met ruimte voor verbetering
-4. net voldoende aandacht voor alle genoemde aspecten, erg veel ruimte voor verbetering
-5. enige zichtbare aandacht voor een beperkt aantal aspecten
-6. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
+1. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
+1. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
+1. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
+1. enige zichtbare aandacht voor kwaliteitsaspecten, of matig beredeneerde keuzes
+1. onvoldoende zichtbare aandacht voor kwaliteitsaspecten
 {: start="6" reversed=""}
 
 Wil je goed scoren (rond de 4 punten), dan bespreek je uitgebreid je code met andere studenten (na inleveren van je oplossing), doe je actief mee aan de code review-sessies, bestudeer je zeer grondig de feedback die je krijgt, en loop je elke keer kritisch elke regel code na met de ideeën uit die bronnen in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
