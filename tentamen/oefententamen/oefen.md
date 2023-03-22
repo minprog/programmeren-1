@@ -41,16 +41,18 @@ Je kunt in je uitwerking laten zien dat je:
 - De input van gebruikers hoeft alleen gecontroleerd te worden als dit duidelijk in de opdracht vermeld staat.
 - (Ook) voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
-## Dit oefententamen
+## Extra oefenopdrachten
 
-Het oefententamen bevat slechts 3 opdrachten, waar het tentamen er 5 heeft. Het gaat er nu om dat je voldoende oefening hebt om de opdrachten tot een goed einde te brengen.
-
-<!-- Heb je nog tentamen-oefeningen uit de werkgroep die je niet 100% correct of af had, dan kun je deze nog afmaken ter voorbereiding:
+Als je onderstaand oefententamen hebt gedaan, dan kun je ook nog oefenen met onderstaande losse opdrachten:
 
 - <https://prog1.proglab.nl/tentamen/hoofdletters>
 - <https://prog1.proglab.nl/tentamen/driehoek>
 - <https://prog1.proglab.nl/tentamen/rechthoeken>
-- <https://prog1.proglab.nl/tentamen/regen> -->
+- <https://prog1.proglab.nl/tentamen/regen>
+
+## Dit oefententamen
+
+Het oefententamen bevat slechts 3 opdrachten, waar het tentamen er 5 heeft. Het gaat er nu om dat je voldoende oefening hebt om de opdrachten tot een goed einde te brengen.
 
 Succes!
 
