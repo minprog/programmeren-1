@@ -48,7 +48,7 @@ Als je onderstaand oefententamen hebt gedaan, dan kun je ook nog oefenen met ond
 - [Hoofdletters](/tentamen/hoofdletters)
 - [Driehoek](/tentamen/driehoek)
 - [Rechthoeken](/tentamen/rechthoeken)
-- [Regen](/tentamen/regen>)
+- [Regen](/tentamen/regen)
 
 ## Dit oefententamen
 
