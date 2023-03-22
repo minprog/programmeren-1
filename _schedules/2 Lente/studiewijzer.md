@@ -153,7 +153,7 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 
 Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
-Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je het maken aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
+<!-- Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je het maken aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen. -->
 
 ### Berekening opdrachtcijfer
 
