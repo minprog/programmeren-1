@@ -123,7 +123,7 @@ Als je ziek bent, dan meld je het in ieder geval meteen aan je mentor via e-mail
 
 ## Opdrachtcijfers
 
-Je gaat drie keer een verbeterde versie van je opdracht inleveren, met een verslag van de code review erbij. Deze inzending wordt vervolgens beoordeeld op basis van het onderstaande schema, dat gaat over de **kwaliteit van de code**. Je kunt maximaal 6 punten krijgen, maar de verwachting is dat een groot deel van de studenten na wat feedback 4 punten zal scoren. Uiteindelijk zal de hoogste van de drie punten tellen als eindscore.
+Je gaat drie keer een verbeterde versie van je opdracht inleveren, met een verslag van de code review erbij. Deze inzending wordt vervolgens beoordeeld op basis van het onderstaande schema, dat gaat over de **kwaliteit van de code**. Je kunt maximaal 6 punten krijgen, maar de verwachting is dat veel studenten na wat feedback 4 punten zullen. Uiteindelijk zal de hoogste van de drie scores tellen als eindscore, dus je hebt ruimte om te groeien tijdens de cursus.
 
 1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 1. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
