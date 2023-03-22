@@ -16,9 +16,9 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
-- _Individuele programmeeropdrachten_ moet je allemaal correct werkend inleveren. Je kunt de opdracht bespreken met medestudenten, maar niet de aanpak of oplossing. De assistenten staan klaar om je verder te helpen als je vast zit. Correctheid wordt gecheckt door de website en je krijgt er punten voor. Het maken van de opdrachten telt niet mee in het eindcijfer maar je moet ze wel allemaal helemaal gedaan hebben.
+- _Individuele programmeeropdrachten_ moet je correct werkend inleveren. Je kunt de opdracht bespreken met medestudenten, maar niet de aanpak of oplossing. De assistenten staan klaar om je verder te helpen als je vast zit. Correctheid wordt gecheckt door de website. Het maken van de opdrachten telt niet mee in het eindcijfer maar je moet ze wel allemaal helemaal gedaan hebben.
 
-- _Beoordeling na code review_. Eén opdracht per week ga je samen met een medestudent bekijken. Daarna ga je je eigen uitwerking helemaal netjes maken en nog eens inleveren. Je mentor kijkt deze na en geeft punten en feedback. Het gaat dan niet om de correcte werking maar om de netheid en overzichtelijkheid van de code. De gezamenlijke cijfers tellen voor 25%.
+- _Beoordeling na code review_. Drie keer ga je samen met medestudenten een review doen van uitwerkingen van de opdrachten. Met die review in het achterhoofd ga je je eigen uitwerking helemaal netjes maken en nog eens inleveren. Je mentor kijkt deze na en geeft punten en feedback. Het gaat dan niet om de correcte werking maar om de netheid en overzichtelijkheid van de code. Het cijfer telt voor 25%.
 
 - _Tentamen_. Bij het tentamen ga je, op je eigen laptop, aan de slag met relatief kleine programmeerproblemen. Daar laat je zien dat je kennis hebt opgedaan van standaardoplossingen en de vaardigheid om dat soort oplossingen toe te passen op nieuwe opgaven. Het tentamen moet je minimaal voldoende maken om het vak te kunnen halen. Het cijfer telt voor 75%.
 
@@ -36,11 +36,11 @@ Er zijn verschillende soorten oefenopdrachten. Je moet ze allemaal doen want dit
 
 ## Minimumeisen
 
-Alle opdrachten en toetsjes netjes (dagelijks!) werkend inleveren is de basiseis om het vak te halen. Het is dus niet mogelijk om opdrachten over te slaan. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Alle opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Het is dus niet mogelijk om opdrachten over te slaan. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
 
 1. meedoen aan alle wekelijkse [werkgroepen](#werkgroepen)
 2. enkele keren individueel contact met je mentor
-3. dagelijks contact met assistenten over je opdrachten
+3. meermaals per week contact met assistenten over je opdrachten
 4. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
 Op die manier kunnen je mentor en de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we in feite checken of je hebt geleerde in de praktijk kleine programmeerproblemen effectief op te lossen. Ben je als fulltimer niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
@@ -51,11 +51,11 @@ Je zit bij dit vak in een groep met twaalf à vijftien andere studenten. Binnen 
 
 Je **mentor** is een studentassistent die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentor helpt je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden.
 
-Vanaf de tweede week heb je elke week een **werkgroep** met je mentor waar alle teamleden aan deelnemen. De roostering hiervan wordt in de eerste week gedaan, daarna vind je de tijd en locatie in je normale rooster op datanose.nl.
+Vanaf de tweede week heb je elke week een **werkgroep** met je mentor waar alle teamleden aan deelnemen. De roostering hiervan wordt in de eerste week gedaan, daarna vind je de tijd en locatie in je persoonlijke rooster op <https://datanose.nl/>.
 
 ## Aanwezigheid
 
-Studenten die de Minor Programmeren fulltime volgen hebben een aanwezigheidsplicht.
+Studenten die de Minor Programmeren fulltime volgen hebben een volledige aanwezigheidsplicht.
 
 Er is geen minimale aanwezigheidsplicht bij de parttime minor. Als je aan bovenstaande minimumeisen voldoet en het tentamen haalt, dan hebben we genoeg informatie om in te staan voor jouw persoonlijke voortgang in dit vak. We raden studenten aan om regelmatig een studieplek op te zoeken in Lab42. Je kunt daar ook prettig afspreken met medestudenten om de samenwerkopdrachten te doen.
 
@@ -95,7 +95,7 @@ Er zijn twee wekelijkse deadlines.
 
 1. De deadline voor het het goed inleveren van de oefenopdrachten en het volledig werkend hebben van de programmeeropdrachten. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken.
 
-2. De deadline voor de verbeterde versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met een medestudent, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor.
+2. De deadline voor de verbeterde versie van je uitwerking. Tijdens de werkgroep zul je een code review doen met medestudenten, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt van je mentor. Voor meer informatie over de beoordeling, zie onder.
 
 Dit is een overzicht van de deadlines per week:
 
@@ -105,7 +105,7 @@ Dit is een overzicht van de deadlines per week:
 | Module 2 | vr 17 feb 16:59  | di 21 feb 16:59    |
 | Module 3 | vr 24 feb 16:59  | -                  |
 | Module 4 | vr  3 mrt 16:59  | di  7 mrt 16:59    |
-| Module 5 | vr 10 mrt 16:59  | di 14 mrt 16:59    |
+| Module 5 | vr 10 mrt 16:59  | -                  |
 | Module 6 | vr 17 mrt 16:59  | di 21 mrt 16:59    |
 | Module 7 | vr 24 mrt 16:59  | -                  |
 
@@ -123,7 +123,7 @@ Als je ziek bent, dan meld je het in ieder geval meteen aan je mentor via e-mail
 
 ## Opdrachtcijfers
 
-De becijferde opdrachten kunnen elk maximaal 6 punten opleveren. Voor elke opdracht zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. Deze aspecten gaan over _codekwaliteit_, waarover je in de loop van de weken meer leert. De schaal is als volgt:
+Je gaat drie keer een verbeterde versie van je opdracht inleveren, met een verslag van de code review erbij. Deze inzending wordt vervolgens beoordeeld op basis van het onderstaande schema, dat gaat over de **kwaliteit van de code**. Je kunt maximaal 6 punten krijgen, maar de verwachting is dat een groot deel van de studenten na wat feedback 4 punten zal scoren. Uiteindelijk zal de hoogste van de drie punten tellen als eindscore.
 
 1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
 1. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
@@ -141,7 +141,7 @@ Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangelever
 
 Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
-Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen bij de beoordeling van een module. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
+Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
 | extra opdracht   | deadline        |
 | :--------------- | :-------------- |
@@ -154,6 +154,11 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
 Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je het maken aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
+
+### Berekening opdrachtcijfer
+
+Om het cijfer te berekenen neem je de hoogste van de 3 code-reviewscores, die vermenigvuldig je met 5, en dan tel je per succesvolle extra opdracht nog een punt bij. Mocht je hoger dan 30 scoren dan wordt het afgekapt op 30. Om er een cijfer van te maken reken je `totaal / 30 * 9 + 1`.
+
 
 ## Onderdelen
 
