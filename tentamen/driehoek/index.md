@@ -1,12 +1,6 @@
 # Tentamen: Driehoek
 
-Dit is een oefenopdracht voor het tentamen. Je gaat hier maximaal 30 minuten aan besteden en dan lever je in wat je hebt.
-
-Later deze week kun je buiten de werkgroep de tentamenopdracht afmaken. Je hoeft deze niet meer in te leveren, want het gaat om de momentopname.
-
-Als bron mag je je eigen uitwerkingen van voorgaande opdrachten gebruiken. Maar liever maak je deze opdracht zonder daarnaar te kijken.
-
-Wat te doen als je er totaal niet uitkomt? Oefenen oefenen oefenen en herhalen herhalen herhalen. Je mag ook vragen over de theorie stellen aan assistenten en docenten.
+Dit is een oefenopdracht voor het tentamen. Probeer 'm in maximaal 30 minuten te maken. Als dat niet lukt, denk dan even goed na welke informatie je mist of wat je nodig hebt om een goed begin te maken. Zoek dat uit en probeer het nog een keer. Ga pas daarna naar de volgende oefenopdracht!
 
 ## Driehoek
 
