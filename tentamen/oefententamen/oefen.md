@@ -45,10 +45,10 @@ Je kunt in je uitwerking laten zien dat je:
 
 Als je onderstaand oefententamen hebt gedaan, dan kun je ook nog oefenen met onderstaande losse opdrachten:
 
-- [Hoofdletters](https://prog1.proglab.nl/tentamen/hoofdletters)
-- [Driehoek](https://prog1.proglab.nl/tentamen/driehoek)
-- [Rechthoeken](https://prog1.proglab.nl/tentamen/rechthoeken)
-- [Regen](https://prog1.proglab.nl/tentamen/regen>)
+- [Hoofdletters](/tentamen/hoofdletters)
+- [Driehoek](/tentamen/driehoek)
+- [Rechthoeken](/tentamen/rechthoeken)
+- [Regen](/tentamen/regen>)
 
 ## Dit oefententamen
 
