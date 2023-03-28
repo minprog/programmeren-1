@@ -1,11 +1,11 @@
 name: tentamen
 files:
     optional:
-        - morse.c
-        - formule.c
-        - tennis.c
-        - streep.c
-        - som.c
+        - wachtwoord.c
+        - spraaksynthese.c
+        - mario51.c
+        - klinkers.c
+        - raden.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/tentamen10
+    slug: minprog/tentamen-checks/2021/tentamen12
