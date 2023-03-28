@@ -32,6 +32,12 @@ templates:
             done: boolean
         calculation: done
         hide_calculated: true
+    2: &exam
+        type: float
+        subgrades:
+            cijfer: float
+        calculation: cijfer
+        hide_calculated: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
@@ -123,7 +129,7 @@ grades:
     m7: *manual
 
     oefententamen: *check
-    tentamen: *manual
+    tentamen: *exam
     hertentamen: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
