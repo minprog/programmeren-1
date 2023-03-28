@@ -123,7 +123,7 @@ grades:
     m7: *manual
 
     oefententamen: *check
-    tentamen: *check
+    tentamen: *manual
     hertentamen: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
