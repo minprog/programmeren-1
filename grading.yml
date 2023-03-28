@@ -261,7 +261,7 @@ tentamenoefeningen:
         oefententamen: 1
 
 tentamen:
-    # show_progress: true
+    show_progress: true
     required: true
     submits:
         tentamen: 1
