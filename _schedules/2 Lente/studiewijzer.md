@@ -159,6 +159,47 @@ Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrach
 
 Om het cijfer te berekenen neem je de hoogste van de 3 code-reviewscores, die vermenigvuldig je met 5, en dan tel je per succesvolle extra opdracht nog een punt bij. Mocht je hoger dan 30 scoren dan wordt het afgekapt op 30. Om er een cijfer van te maken reken je `totaal / 30 * 9 + 1`.
 
+## Tentamen
+
+De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvoldoende (het moet immers voldoende worden gemaakt om het vak te kunnen halen).
+
+**Basiseis**
+
+- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
+- de hieronder genoemde eisen zijn minimum-eisen, dus er vindt geen compensatie plaats tussen verschillende genoemde factoren
+- wel kan in een heel bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
+
+**6**
+
+- er zijn zeker 3 oplossingen die helemaal werken zoals in de opgaven
+- algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if
+- de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing)
+
+**7**
+
+- aan alle eisen voor een 6 moet worden voldaan
+- vrijwel alle opdrachten zijn goed uitgewerkt
+- vrijwel geen functies en/of arrays, veel ruimte om compacter te maken
+
+**8**
+
+- aan alle eisen voor een 7 moet worden voldaan
+- alle opdrachten zijn precies goed
+- enkele functies en arrays zinvol gebruikt
+- code is redelijk compact, netjes, met goede namen, zinvolle comments
+
+**9**
+
+- aan alle eisen voor een 8 moet worden voldaan
+- zeer compacte code die functie voor functie prettig leesbaar is
+- duidelijke definitie van wat elke functie doet met passende naam
+- zeer goede comments
+
+**10**
+
+- aan alle eisen voor een 9 moet worden voldaan
+- zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
+- tot in de puntjes verzorgd: samenspel van namen, comments en opmaak
 
 ## Onderdelen
 
