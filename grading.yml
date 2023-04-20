@@ -252,6 +252,15 @@ punten:
         find: 0.16666
         resize: 0.16666
 
+bonus:
+    show_progress: true
+    submits:
+        goldbach: 0.16666
+        decryptor: 0.16666
+        design_challenge: 0.16666
+        find: 0.16666
+        resize: 0.16666
+
 tentamenoefeningen:
     # show_progress: true
     submits:
