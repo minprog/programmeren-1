@@ -242,9 +242,9 @@ punten:
     type: maximum
     show_progress: true
     submits:
-        m2: 6
-        m4: 6
-        m6: 6
+        - m2
+        - m4
+        - m6
     bonus:
         goldbach: 0.3
         decryptor: 0.3
