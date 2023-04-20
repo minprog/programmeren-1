@@ -150,15 +150,11 @@ grades:
 
 calculation:
     eindcijfer:
-        opdrachten: 25
-        # basisboek: 0
-        punten: 75
-        tentamen: 0
+        punten: 25
+        tentamen: 75
     eindcijfer_herkansing:
-        opdrachten: 25
-        # basisboek: 0
-        punten: 75
-        hertentamen: 0
+        punten: 25
+        hertentamen: 75
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -243,19 +239,18 @@ opdrachten_week_7:
         speller: 1
 
 punten:
+    type: maximum
     show_progress: true
     submits:
-        m2: 1
-        m3: 1
-        m4: 1
-        m5: 1
-        m6: 1
-        m7: 1
-        goldbach: :bonus
-        decryptor: :bonus
-        design_challenge: :bonus
-        find: :bonus
-        resize: :bonus
+        m2: 6
+        m4: 6
+        m6: 6
+    bonus:
+        goldbach: 0.16666
+        decryptor: 0.16666
+        design_challenge: 0.16666
+        find: 0.16666
+        resize: 0.16666
 
 tentamenoefeningen:
     # show_progress: true
@@ -273,7 +268,7 @@ tentamen:
         tentamen: 1
 
 hertentamen:
-    # show_progress: true
+    show_progress: true
     required: true
     submits:
         hertentamen: 1
