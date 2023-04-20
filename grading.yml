@@ -246,11 +246,11 @@ punten:
         m4: 6
         m6: 6
     bonus:
-        goldbach: 0.16666
-        decryptor: 0.16666
-        design_challenge: 0.16666
-        find: 0.16666
-        resize: 0.16666
+        goldbach: 0.25
+        decryptor: 0.25
+        design_challenge: 0.25
+        find: 0.25
+        resize: 0.25
 
 bonus:
     show_progress: true
