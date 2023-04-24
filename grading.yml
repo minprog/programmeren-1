@@ -150,10 +150,10 @@ grades:
 
 calculation:
     eindcijfer:
-        punten: 25
+        reviews: 25
         tentamen: 75
     eindcijfer_herkansing:
-        punten: 25
+        reviews: 25
         hertentamen: 75
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -231,7 +231,7 @@ opdrachten_week_7:
         speller_questions: 1
         speller: 1
 
-punten:
+reviews:
     type: maximum
     show_progress: true
     submits:
