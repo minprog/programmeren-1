@@ -246,7 +246,7 @@ punten:
         resize: 0.3
 
 bonus:
-    show_progress: true
+    show_overview: true
     submits:
         goldbach: 0.16666
         decryptor: 0.16666
@@ -255,7 +255,7 @@ bonus:
         resize: 0.16666
 
 tentamenoefeningen:
-    # show_progress: true
+    show_overview: true
     submits:
         tentamen-oefening-regen: 1
         tentamen-oefening-rechthoeken: 1
