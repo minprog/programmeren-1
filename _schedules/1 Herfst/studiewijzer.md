@@ -197,6 +197,16 @@ De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvol
 
 ## Lesmaterialen
 
+### Inhoud per week
+
+1. **Basics.** Aan de slag met Scratch om te begrijpen welke mogelijkheden programmeertalen hebben. Dan start je gauw met C, en je oefent met variabelen en control flow.
+2. **Programmeerproblemen.** Aan de slag met vier kleine programmeeropdrachten waar je een oplossing schrijft voor een probleem uit de "echte wereld". Je maakt meteen kennis met een greedy-algoritme.
+3. **Arrays.** Alles over arrays en strings in C. Je doet diverse oefenopdrachten en ook enkele opdrachten met strings, waaronder een opdracht met encryptie.
+4. **Functies.** Alles over functies in C. Je gaat specifiek oefenen met deze techniek en daarom ga je ook een groter programma bouwen dat bestaat uit vele functies.
+5. **Algoritmen.** Aan de slag met sorteeralgoritmen. Je leert diverse standaard-algoritmen kennen en je implementeert één fantasie-algoritme op basis van een algemene omschrijving. Ook bestudeer je het verband tussen de invoer en de snelheid van algoritmen, zowel door te meten als door te redeneren.
+6. **Structs en files.** Aan de slag met bitmap-plaatjes om te begrijpen hoe je binaire files kunt uitlezen en wegschrijven. Je maakt veel gebruik van structs.
+7. **Datastructuren.** Aan de slag met pointers in C, voor het bouwen van structuren van informatie in het geheugen. Je maakt een efficiënte spell checker en je wordt uitgedaagd om deze steeds beter te maken.
+
 ### Hoorcolleges
 
 In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
