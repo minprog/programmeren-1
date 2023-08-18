@@ -1,6 +1,6 @@
 # Programmeren 1
 
-## Studiewijzer<br><small>Herfst 2022</small>
+## Studiewijzer<br><small>Herfst 2023</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
@@ -252,6 +252,16 @@ Deze schaal kan nog aangepast worden in de loop van de cursus.
 - zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
 - tot in de puntjes verzorgd: samenspel van namen, comments en opmaak
 
+
+## Alternatieve track: Peers
+
+Deze iteratie van programmeren 1 is er de mogelijkheid voor een alternatieve track. Bij deze track duik je dieper in de fundamenten van C en programmeren, je doet daardoor meer en leert ook meer. Het is bedoeld voor die studenten die dat zoeken en die al beginnen met een klein beetje programmeerervaring.
+
+De lesmethode is peer learning. Er zijn hier geen colleges, maar enkel programmeeropdrachten en projecten. Hoe je die maakt leer je zelf en met elkaar. Je reviewt elkaars opdrachten, werkt samen aan projecten en heel belangrijk: je helpt elkaar.
+
+Tijdens het vak maak je hetzelfde tentamen als het reguliere programma in week 6. Dat tentamen is ook hier 75% van het eindcijfer.
+
+De overige 25% van het eindcijfer komt van code reviews ook zoals in het reguliere programma. De code reviews zijn hier op basis van andere opdrachten, namelijk die van het peers programma.
 
 ## Zelfstandig werken
 
