@@ -30,7 +30,7 @@ Er zijn verschillende soorten oefenopdrachten ter aanvulling op de stof. Je moet
 
 - _Basisboek-oefeningen_ pak je zelfstandig aan en bespreek je gezamenlijk als je er niet uit komt. Er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
-- _Kleine programmeeroefeningen_ doe om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
+- _Kleine programmeeroefeningen_ doe je om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
 
 - _Samenwerkopdrachten_ doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
 
@@ -43,13 +43,13 @@ De opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te 
 1. enkele keren individueel contact met de assistent die je werk nakijkt
 1. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we checken of je kleine programmeerproblemen effectief kunt oplossen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we checken of je kleine programmeerproblemen effectief kunt oplossen. Ben je niet structureel aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
 
 ## Aanwezigheid
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week aanwezig zijn en contact hebben met een assistent.
+Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je aanwezig zijn bij één van de centrale code-reviewsessies.
 
 ## Vragen stellen
 
@@ -61,7 +61,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op dinsdag t/m donderdag vanaf 13 uur
+- doe je niet de hele minor, dan alleen op dinsdag t/m donderdag vanaf 13 uur
 
 **Spreekuur en e-mail:** contact met de docenten.
 
@@ -109,9 +109,9 @@ Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de doce
 
 - Ben je één of twee dagen ziek dan is dat geen probleem en kun je de deadline vaak nog halen. Kom je toch niet uit met de laatste opdracht van de week, dan meld je heel duidelijk de stand van zaken via mail en haal je deze opdracht tijdens het weekend in. Dit mag alleen als je de andere opdrachten al hebt ingeleverd.
 
-- Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk en verstandig is.
+- Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om in te halen. Op basis van al die informatie kijken we samen wat mogelijk en verstandig is.
 
-- Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet een assistent). Stuur maar een [mailtje](mailto:help@mprog.nl) voor een korte afspraak!
+- Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet een assistent). Stuur maar een [mailtje](mailto:help@mprog.nl), en dan maken we een korte afspraak.
 
 Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factoren is er vaak nog wel een mogelijkheid om het vak te halen, ook als er iets helemaal misloopt. Hoe eerder je contact opneemt, hoe beter.
 
@@ -135,7 +135,7 @@ Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangelever
 
 Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
 
-Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
+Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten (zie onder). Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
 
 | extra opdracht   | deadline        |
 | :--------------- | :-------------- |
@@ -147,7 +147,7 @@ Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzz
 
 Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
 
-Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je het maken aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
+Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je de opdrachten aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
 
 ### Berekening opdrachtcijfer
 
@@ -161,7 +161,7 @@ De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvol
 
 - alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
 - de hieronder genoemde eisen zijn minimum-eisen, dus er vindt geen compensatie plaats tussen verschillende genoemde factoren
-- wel kan in een heel bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
+- wel kan in een bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
 
 **6**
 
