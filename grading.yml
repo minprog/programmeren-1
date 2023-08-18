@@ -216,7 +216,7 @@ opdrachten_week_5:
         measurements: 1
         sort: 1
         big_o: 1
-        complexity_puzzle: 1
+        # complexity_puzzle: 1
 
 opdrachten_week_6:
     show_progress: true
