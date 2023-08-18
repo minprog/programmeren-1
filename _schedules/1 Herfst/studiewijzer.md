@@ -6,50 +6,102 @@
 
 Dit vak bestaat uit een heleboel verschillende elementen. Het kan even duren voor je overzicht hebt. Don't panic! Bespreek het met medestudenten en schakel de docenten in als je de weg even kwijt bent. Het advies is: begin bij de eerste opdracht en werk stug verder.
 
+
 ## Docenten en assistenten
 
 De docenten bij dit vak zijn Jelle van Assema, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
 Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je werk nakijken en feedback geven.
 
-## Opdrachten en eindcijfer
+
+## Inhoud per week
+
+1. **Basics.** Aan de slag met Scratch om te begrijpen welke mogelijkheden programmeertalen hebben. Dan start je gauw met C, en je oefent met variabelen en control flow.
+2. **Oplossingsstructuren.** Aan de slag met vier kleine programmeeropdrachten waar je een oplossing schrijft voor een probleem uit de "echte wereld". Je maakt meteen kennis met een greedy-algoritme.
+3. **Arrays.** Alles over arrays en strings in C. Je doet diverse oefenopdrachten en ook enkele opdrachten met strings, waaronder een opdracht met encryptie.
+4. **Functies.** Alles over functies in C. Je gaat specifiek oefenen met deze techniek en daarom ga je ook een groter programma bouwen dat bestaat uit vele functies.
+5. **Algoritmen.** Aan de slag met sorteeralgoritmen. Je leert diverse standaard-algoritmen kennen en je implementeert één fantasie-algoritme op basis van een algemene omschrijving. Ook bestudeer je het verband tussen de invoer en de snelheid van algoritmen, zowel door te meten als door te redeneren.
+6. **Structs en files.** Aan de slag met bitmap-plaatjes om te begrijpen hoe je binaire files kunt uitlezen en wegschrijven. Je maakt veel gebruik van structs om data te groeperen.
+7. **Datastructuren.** Aan de slag met pointers in C, voor het bouwen van structuren van informatie in het geheugen. Je maakt een efficiënte spell checker en je wordt uitgedaagd om deze steeds beter te maken.
+
+
+## Onderdelen en eindcijfer
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen. Dit zijn de belangrijkste onderdelen:
 
-- _Individuele programmeeropdrachten_ moet je correct werkend inleveren. Je kunt de opdracht bespreken met medestudenten, maar niet de aanpak of oplossing. De assistenten staan klaar om je verder te helpen als je vast zit. Correctheid wordt gecheckt door de website. Het maken van de opdrachten telt niet mee in het eindcijfer maar je moet ze wel gedaan hebben.
+- _Individuele programmeeropdrachten_ moet je correct werkend inleveren. Je kunt de opdracht bespreken met medestudenten, en samen het probleem analyseren, maar niet samen een oplossing ontwikkelen. De assistenten staan klaar om je verder te helpen als je vast zit. Correctheid van jouw oplossing wordt gecheckt door de website. Het maken van de opdrachten telt niet mee in het eindcijfer maar je moet ze wel allemaal gedaan hebben om voldoende kennis op te bouwen voor het tentamen en het volgende vak.
 
-- _Beoordeling na code review_. Drie keer ga je samen met medestudenten een review doen van uitwerkingen van de opdrachten. Met die review in het achterhoofd ga je je eigen uitwerking helemaal netjes maken en nog eens inleveren. Een assistent kijkt de laatste versie na en geeft punten en feedback. Het gaat daarbij niet om de correcte werking maar om de netheid en overzichtelijkheid van de code. De hoogste opdrachtscore telt voor 25% mee in het eindcijfer.
+- _Beoordeling na code review_. Drie keer ga je samen met medestudenten een review doen van uitwerkingen van de opdrachten. Met die review in het achterhoofd ga je je eigen uitwerking helemaal netjes maken en nog eens inleveren. Een assistent kijkt de laatste versie na en geeft punten en feedback. Het gaat daarbij niet meer om de correcte werking, maar om de netheid en overzichtelijkheid van de code. De hoogste score voor een review telt voor 25% mee in het eindcijfer.
 
-- _Tentamen_. Bij het tentamen ga je relatief kleine programma's schrijven, op basis van wat je geleerd hebt. Daar laat je zien dat je kennis hebt opgedaan van standaardoplossingen en de vaardigheid om dat soort oplossingen toe te passen op nieuwe opgaven. Het tentamen moet je minimaal voldoende maken om het vak te kunnen halen. Het cijfer telt voor 75%.
+- _Tentamen_. Bij het tentamen ga je relatief kleine programma's schrijven, op basis van wat je geleerd hebt. Daar laat je zien dat je kennis hebt opgedaan van standaardoplossingen en de vaardigheid om dat soort oplossingen toe te passen op nieuwe opgaven. Het tentamen moet je minimaal voldoende maken om het vak te kunnen halen. Het cijfer telt voor 75% in het eindcijfer.
 
-Voordat je een eindcijfer kunt krijgen moet je alle onderdelen hebben volbracht, en bovendien aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een uitzondering per e-mail hebt gekregen van de hoofddocent. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
+Voordat je een eindcijfer kunt krijgen moet je alle onderdelen hebben volbracht, en bovendien aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een uitzondering per e-mail hebt gekregen van de hoofddocent. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent nooit uitzonderingen kan verlenen.
 
-## Oefenopdrachten
+### Minimumeisen
+
+De opdrachten netjes werkend inleveren, en meedoen met alle code reviews en het tentamen is de basiseis om het vak te halen. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+
+1. aanwezig zijn in het lokaal en werken met medestudenten
+1. meerdere keren per week contact met assistenten over je opdrachten
+1. enkele keren individueel contact met de assistent die je werk nakijkt
+
+Ben je niet structureel aanwezig of onderhoud je geen systematisch contact, dan kun je het vak niet halen. Vind je het moeilijk om hieraan te voldoen, leg je situatie dan gerust tijdens de eerste twee weken voor aan de hoofddocenten, en dan kijken we hoe je het vak toch zou kunnen halen. Stuur een mailtje naar <mailto:help@mprog.nl> om een afspraak te maken.
+
+### Aanwezigheid
+
+Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
+
+Als je in deze periode alleen Programmeren 1 volgt, dan moet je minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je drie keer aanwezig zijn bij de centrale code-reviewsessies.
+
+### Extra opdrachten
+
+Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
+
+Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
+
+Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je de opdrachten aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
+
+
+## Lesmaterialen
+
+### Hoorcolleges
+
+In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
+
+### Basisboek
+
+Regelmatig zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Je studeert in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
+
+### Oefenopdrachten
 
 Er zijn verschillende soorten oefenopdrachten ter aanvulling op de stof. Je moet ze allemaal doen want dit zijn de essentiële oefeningen om de basisvaardigheden op te pikken. Tot op zekere hoogte werk je hier samen.
-
-- _Basisboek-oefeningen_ pak je zelfstandig aan en bespreek je gezamenlijk als je er niet uit komt. Er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
 
 - _Kleine programmeeroefeningen_ doe je om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
 
 - _Samenwerkopdrachten_ doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
 
-## Minimumeisen
+### Aanvullende literatuur
 
-De opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Het is dus niet mogelijk om opdrachten over te slaan. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderwerpen, dan kunnen de volgende boeken je verder op weg helpen. Ze zijn niet noodzakelijk voor het halen van het vak.
 
-1. aanwezig zijn in het lokaal en werken met medestudenten
-1. meerdere keren per week contact met assistenten over je opdrachten
-1. enkele keren individueel contact met de assistent die je werk nakijkt
-1. laag scoren op de ["plagiaatschaal"](#plagiaat)
+<details markdown="1"><summary markdown="span">Voor mensen die nog nooit geprogrammeerd hebben</summary>
 
-Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we checken of je kleine programmeerproblemen effectief kunt oplossen. Ben je niet structureel aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+C Programming Absolute Beginner's Guide, Third Edition  
+Greg Perry, Dean Miller  
+Pearson Education, 2014  
+ISBN 9780789751980
 
-## Aanwezigheid
+</details>
 
-Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
+<details markdown="1"><summary markdown="span">Voor studenten met iets meer ervaring</summary>
 
-Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je aanwezig zijn bij één van de centrale code-reviewsessies.
+Programming in C, Fourth Edition  
+Stephen G. Kochan  
+Pearson Education, 2015  
+ISBN 9780321776419
+
+</details>
+
 
 ## Vragen stellen
 
@@ -81,6 +133,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 - Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
+
 ## Deadlines
 
 Het werk van dit vak is opgedeeld in wekelijkse modules. Er zijn twee soorten deadlines:
@@ -103,6 +156,20 @@ Dit is een overzicht van de deadlines per week:
 
 Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
+### Extra opdrachten
+
+In aanvulling gelden de volgende deadlines voor extra opdrachten. Als je niet genoeg tijd hebt gewoon overslaan!
+
+| extra opdracht   | deadline        |
+| :--------------- | :-------------- |
+| Goldbach         | vr 15 sep 17:59 |
+| Decryptor        | vr 22 sep 17:59 |
+| Design challenge | vr 29 sep 17:59 |
+| Find             | vr 6 okt 17:59  |
+| Resize           | vr 13 okt 17:59 |
+
+Extra opdrachten kunnen na de deadline niet meer ingeleverd worden en dus niet meetellen voor een punt.
+
 ### Ziekte en achterlopen
 
 Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de docenten naar <mailto:help@mprog.nl>. Je hoeft het niet uitgebreid uit te leggen, maar wel melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
@@ -114,6 +181,7 @@ Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de doce
 - Raak je helemaal uit tempo omdat je bijvoorbeeld toch teveel andere dingen te doen hebt of niet genoeg focus kan vinden? Het is belangrijk dat je dit snel bespreekt met een docent (niet een assistent). Stuur maar een [mailtje](mailto:help@mprog.nl), en dan maken we een korte afspraak.
 
 Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factoren is er vaak nog wel een mogelijkheid om het vak te halen, ook als er iets helemaal misloopt. Hoe eerder je contact opneemt, hoe beter.
+
 
 ## Opdrachtcijfers
 
@@ -133,29 +201,18 @@ Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangelever
 
 ### Extra opdrachten
 
-Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
-
-Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten (zie onder). Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
-
-| extra opdracht   | deadline        |
-| :--------------- | :-------------- |
-| Goldbach         | vr 15 sep 17:59 |
-| Decryptor        | vr 22 sep 17:59 |
-| Design challenge | vr 28 sep 17:59 |
-| Find             | vr 6 okt 17:59  |
-| Resize           | vr 13 okt 17:59 |
-
-Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
-
-Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je de opdrachten aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
+Per extra opdracht kun je een extra punt verdienen op het totaal. Je kunt dus hogere cijfers halen door nette code te schrijven en hierop te reflecteren, of door extra opdrachten te doen, of door een combinatie van beide. Onthou dat we verwachten dat de meeste studenten geen extra opdrachten doen, maar focussen op de gewone opdrachten en de code reviews.
 
 ### Berekening opdrachtcijfer
 
 Om het cijfer te berekenen neem je de hoogste van de 3 code-reviewscores, die vermenigvuldig je met 5, en dan tel je per succesvolle extra opdracht nog een punt bij. Mocht je hoger dan 30 scoren dan wordt het afgekapt op 30. Om er een cijfer van te maken reken je `totaal / 30 * 9 + 1`.
 
-## Tentamen
+
+## Tentamencijfer
 
 De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvoldoende (het moet immers voldoende worden gemaakt om het vak te kunnen halen).
+
+Deze schaal kan nog aangepast worden in de loop van de cursus.
 
 **Basiseis**
 
@@ -195,47 +252,6 @@ De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvol
 - zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
 - tot in de puntjes verzorgd: samenspel van namen, comments en opmaak
 
-## Lesmaterialen
-
-### Inhoud per week
-
-1. **Basics.** Aan de slag met Scratch om te begrijpen welke mogelijkheden programmeertalen hebben. Dan start je gauw met C, en je oefent met variabelen en control flow.
-2. **Programmeerproblemen.** Aan de slag met vier kleine programmeeropdrachten waar je een oplossing schrijft voor een probleem uit de "echte wereld". Je maakt meteen kennis met een greedy-algoritme.
-3. **Arrays.** Alles over arrays en strings in C. Je doet diverse oefenopdrachten en ook enkele opdrachten met strings, waaronder een opdracht met encryptie.
-4. **Functies.** Alles over functies in C. Je gaat specifiek oefenen met deze techniek en daarom ga je ook een groter programma bouwen dat bestaat uit vele functies.
-5. **Algoritmen.** Aan de slag met sorteeralgoritmen. Je leert diverse standaard-algoritmen kennen en je implementeert één fantasie-algoritme op basis van een algemene omschrijving. Ook bestudeer je het verband tussen de invoer en de snelheid van algoritmen, zowel door te meten als door te redeneren.
-6. **Structs en files.** Aan de slag met bitmap-plaatjes om te begrijpen hoe je binaire files kunt uitlezen en wegschrijven. Je maakt veel gebruik van structs.
-7. **Datastructuren.** Aan de slag met pointers in C, voor het bouwen van structuren van informatie in het geheugen. Je maakt een efficiënte spell checker en je wordt uitgedaagd om deze steeds beter te maken.
-
-### Hoorcolleges
-
-In hoorcolleges bespreekt David Malan van Harvard de theorie waarmee je programmeerproblemen kunt oplossen en die je voorbereidt op de oefeningen. De video's zijn een voorbereiding op de opdrachten en bevatten allerlei voorbeelden die je vaak direct kunt toepassen. Kijk de video's vóór of onderweg naar het lab, zodat je je tijd in het lab goed kan gebruiken voor programmeren en vragen stellen.
-
-### Basisboek
-
-Wekelijks zijn er oefeningen waarin de stof van de vorige weken wordt herhaald en aangescherpt. Je studeert in het [Basisboek Programmeren](https://www.stgm.nl/basics/) dat vrij beschikbaar is. De oefeningen worden inhoudelijk besproken tijdens de werkgroepen.
-
-### Aanvullende literatuur
-
-Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderwerpen, dan kunnen de volgende boeken je verder op weg helpen. Ze zijn niet noodzakelijk voor het halen van het vak.
-
-<details markdown="1"><summary markdown="span">Voor mensen die nog nooit geprogrammeerd hebben</summary>
-
-C Programming Absolute Beginner's Guide, Third Edition  
-Greg Perry, Dean Miller  
-Pearson Education, 2014  
-ISBN 9780789751980
-
-</details>
-
-<details markdown="1"><summary markdown="span">Voor studenten met iets meer ervaring</summary>
-
-Programming in C, Fourth Edition  
-Stephen G. Kochan  
-Pearson Education, 2015  
-ISBN 9780321776419
-
-</details>
 
 ## Zelfstandig werken
 
