@@ -51,7 +51,19 @@ Ben je niet structureel aanwezig of onderhoud je geen systematisch contact, dan 
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je in deze periode alleen Programmeren 1 volgt, dan moet je minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je drie keer aanwezig zijn bij de centrale code-reviewsessies.
+Als je in deze periode alleen Programmeren 1 volgt, dan moet je minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je bij een werkcollege zijn.
+
+De onderwerpen van de werkcolleges per week:
+
+| week | werkcollege                        |
+| ----:| ---------------------------------- |
+|    1 | - (introweek)                      |
+|    2 | Q & A en hoe pak je het vak aan    |
+|    3 | Code review 1                      |
+|    4 | Tentamen-oefening                  |
+|    5 | Code review 2                      |
+|    6 | - (tentamen)                       |
+|    7 | Code review 3                      |
 
 ### Extra opdrachten
 
