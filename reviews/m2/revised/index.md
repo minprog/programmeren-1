@@ -1,26 +1,36 @@
 # Review-verslag en verbeteren
 
-Na de werkgroep ga je in een document, in jouw eigen woorden, de aspecten samenvatten die ter sprake zijn gekomen en de dingen die jou zelf nog zijn opgevallen.
+Na de code review ga je in een document (.pdf) in jouw eigen woorden en met voorbeelden beschrijven wat er in de code review ter sprake kwam. Wat je gaat aanpassen, wat niet, en waarom dit de code beter maakt.
 
-## Verbeteren
+## Wat kwam er ter sprake?
 
-Eerst ga je jouw uitwerking naar eigen smaak verbeteren. Gebruik hiervoor de input uit de code review. Neem niet droog de hele oplossing van iemand anders over maar probeer vooral je eigen stijl te vinden. Een goed cijfer is niet afhankelijk van de keuze voor een specifieke stijl maar hoe goed de stijl bij jouw oplossing en bij de cursus past.
+Beschrijf analytisch en puntsgewijs de dingen die jullie zijn tegen gekomen tijdens de review: de eigenschappen die vershillen per uitwerking. Enkele voorbeelden:
 
-## Organisatie van je document
+* Roos gebruikt in iedere loop de variabele namen i & j, Milan gebruikt soms namen als hoogte & stap.
+
+<img src="example1.png" alt="i & hoogte voorbeeld" width="300"/>
+
+* Hidde heeft drie keer ongeveer dezelfde regel code onder elkaar. Amy gebruikt op dezelfde plek een loop, maar heeft daardoor wel meer regels code.
+
+<img src="example2.png" alt="drie keer code voorbeeld" width="300"/>
+
+* Brenda gebruikt geen haakjes bij kleine if-statements. Tom & Eva hebben juist overal haakjes staan.
+
+<img src="example3.png" alt="if haakjes voorbeeld" width="300"/>
+
+## Verbeter je code
+
+Verbeter jouw uitwerking naar eigen smaak. Gebruik de code review als input en ook de feedback van de vorige code review. Probeer vooral je eigen stijl te vinden en neem niet droog de oplossing van een ander over.
+
+Hou ondertussen goed bij wat je aanpast en schrijf alvast kort voor jezelf op waarom je iets doet, of kiest om iets niet te doen. Een goed cijfer is dan ook niet afhankelijk van de keuze van een specifieke stijl, maar wel hoe goed jouw stijl bij de oplossing past en de afwegingen die je maakt.
+
+## Beschrijf je verbeteringen
 
 Schrijf een analytisch document. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verschillen tussen de uitwerkingen.
 
-1. Beschrijf puntsgewijs de dingen die jullie zijn tegengekomen tijdens de code review: de eigenschappen die verschilden per uitwerking.
+Beschrijf nu puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je met voldoende diepgang beschrijft waarom jouw code is zoals die is.
 
-    - Je mag zelf een voorkeur hebben voor het benoemen of weglaten van bepaalde punten die zijn besproken. Beschrijf zo veel mogelijk punten, maar
-
-    - Bespreek welke verschillen er waren en waarom dat de code beter maakt of minder goed.
-
-    - Als je weinig punten hebt dan moet je er meer interessante dingen over zeggen. Heb je veel verschillende punten dan moet je het waarschijnlijk wat korter houden in de uitleg. We zien in dit verslag wel graag enige diepgang.
-
-2. Beschrijf daarna puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je ook dan wel met voldoende diepgang beschrijft waarom jouw code is zoals die is.
-
-Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een heel netjes uitgeknipt relevant stukje van de code.
+Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code.
 
 ## Inleveren
 
@@ -30,10 +40,14 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
-1. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-2. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
+1. ~~uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp~~
+2. ~~zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes~~
 3. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
 4. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
 5. enige zichtbare aandacht voor kwaliteitsaspecten, of matig beredeneerde keuzes
 6. onvoldoende zichtbare aandacht voor kwaliteitsaspecten
 {: start="6" reversed=""}
+
+Voor de eerste code review is het maximaal aantal punten 4. Voor latere reviews kan je ook 5 en 6 punten halen. Geen zorgen, het is alleen het hoogste aantal punten dat telt voor het eindcijfer! Haal je voor de eerste code review 3 punten en voor de tweede 4? Dan telt alleen de 4 mee. Het is dus helemaal okee om eens minder te punten te halen.
+
+> **Huh?!** Waarom maximaal 4? Terwijl het vak vordert leer je natuurlijk steeds meer technieken en manieren om code te schrijven, zaken die je in het begin nog niet kan toepassen. Het bleek dan ook niet realistisch om zonder stevige voorkennis hoger dan 4 punten te halen in het begin. Daarnaast zijn de eerdere opdrachten natuurlijk ook kleiner en daar heb je minder kans om goede code te schrijven.
