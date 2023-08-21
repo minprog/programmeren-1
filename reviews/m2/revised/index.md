@@ -4,7 +4,7 @@ Na de code review ga je in een document (.pdf) in jouw eigen woorden en met voor
 
 ## Wat kwam er ter sprake?
 
-Beschrijf analytisch en puntsgewijs de dingen die jullie zijn tegen gekomen tijdens de review: de eigenschappen die vershillen per uitwerking. Enkele voorbeelden:
+Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn tegen gekomen tijdens de review: de eigenschappen die vershillen per uitwerking. Enkele voorbeelden:
 
 * Roos gebruikt in iedere loop de variabele namen i & j, Milan gebruikt soms namen als hoogte & stap.
 
@@ -26,9 +26,9 @@ Hou ondertussen goed bij wat je aanpast en schrijf alvast kort voor jezelf op wa
 
 ## Beschrijf je verbeteringen
 
-Schrijf een analytisch document. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verschillen tussen de uitwerkingen.
+Schrijf nu het tweede deel van `verslag.pdf`. Schrijf ook hier analytisch. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verschillen tussen de uitwerkingen.
 
-Beschrijf nu puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je met voldoende diepgang beschrijft waarom jouw code is zoals die is.
+Beschrijf puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je met voldoende diepgang beschrijft waarom jouw code is zoals die is.
 
 Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code.
 
