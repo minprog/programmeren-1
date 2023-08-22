@@ -46,8 +46,6 @@ Once finished with your project:
 
 - Click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website.
 
-- Below, you should find a form where you can attach your `.sb3` file and paste your project's URL. If there is no form, you might have forgotten to logon to this website and register your name!
-
-- There is a file size limit of about 9MB for submitting. If your file is too large because you included many sounds and large pictures, you can create a copy (**File > Save as a copy**), and in that copy delete some of those elements.
+- On the tab "Submit", you should find a form where you can attach your `.sb3` file and paste your project's URL. If there is no form, you might have forgotten to logon to this website and register your name!
 
 If you have any questions or issues with the above steps, reach out to the TAs!

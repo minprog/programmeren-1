@@ -18,4 +18,4 @@ You have now received feedback from your partner and discussed the fine points. 
 
     <textarea name="form[not_changed]" rows="3" required></textarea>
 
-Now save your changed file, make sure that it compiles and runs correctly, review your answers above, and then submit it below.
+Now save your changed file, make sure that it compiles and runs correctly, review your answers above, and then submit.
