@@ -52,6 +52,7 @@ Ben je niet structureel aanwezig of onderhoud je geen systematisch contact, dan 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
 Als je in deze periode alleen Programmeren 1 volgt, dan moet je:
+
 - minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en
 - één keer per week bij het werkcollege zijn.
 
