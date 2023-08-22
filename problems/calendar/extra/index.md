@@ -43,12 +43,6 @@ Om aan de opdracht te voldoen is het nodig om deze principes echt uit te probere
 
 Het is niet voldoende om te concluderen dat je bepaalde van bovenstaande principes niet wil of kunt toepassen. (Heb je vragen hierover, mail dan de docenten; de assistenten zijn niet voldoende voorbereid om hierbij te helpen.)
 
-## Testen
-
-Zorg dat je uiteindelijke programma nog steeds correct werkt met de checks van Calendar:
-
-    check50 -l minprog/checks/2022/calendar
-
 ## Verslag
 
 Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden, en een vergelijking met eventuele alternatieve ontwerpen. Denk aan de volgende punten:
@@ -59,3 +53,9 @@ Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden, en
 - Welke principes zou je goed kunnen toepassen bij het schrijven van programma's en waarom? Welke voordelen en nadelen kun je bedenken?
 
 Schrijf je verslag in een bestand `analyse.pdf`.
+
+## Testen
+
+Zorg dat je uiteindelijke programma nog steeds correct werkt met de checks van Calendar:
+
+    check50 -l minprog/checks/2022/calendar
