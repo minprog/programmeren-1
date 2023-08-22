@@ -51,18 +51,21 @@ Ben je niet structureel aanwezig of onderhoud je geen systematisch contact, dan 
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je in deze periode alleen Programmeren 1 volgt, dan moet je minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en daarnaast moet je bij een werkcollege zijn.
+Als je in deze periode alleen Programmeren 1 volgt, dan moet je:
+
+- minstens één keer per week een middag aanwezig zijn en contact hebben met een assistent over je opdrachten, en
+- één keer per week bij het werkcollege zijn.
 
 De onderwerpen van de werkcolleges per week:
 
 | week | werkcollege                        |
-| ----:| ---------------------------------- |
-|    1 | - (introweek)                      |
+|:----:| ---------------------------------- |
+|    1 | *Geen werkcollege* (introweek)       |
 |    2 | Q & A en hoe pak je het vak aan    |
 |    3 | Code review 1                      |
 |    4 | Tentamen-oefening                  |
 |    5 | Code review 2                      |
-|    6 | - (tentamen)                       |
+|    6 | *Geen werkcollege* (tentamen)        |
 |    7 | Code review 3                      |
 
 ### Extra opdrachten
@@ -158,13 +161,13 @@ Dit is een overzicht van de deadlines per week:
 
 |          | deadline werkend | deadline verbeterd |
 | :------- | :--------------- | :----------------- |
-| Module 1 | vr 8 sep 17:59   | -                  |
-| Module 2 | vr 15 sep 17:59  | di 19 sep 20:59    |
-| Module 3 | vr 22 sep 17:59  | -                  |
-| Module 4 | vr 29 sep 17:59  | di 3 okt 20:59     |
-| Module 5 | vr 6 okt 17:59   | -                  |
-| Module 6 | vr 13 okt 17:59  | di 17 okt 20:59    |
-| Module 7 | vr 20 okt 17:59  | -                  |
+| Module 1 | vr  8 sep 17:00  | -                  |
+| Module 2 | vr 15 sep 17:00  | do 21 sep 17:00    |
+| Module 3 | vr 22 sep 17:00  | -                  |
+| Module 4 | vr 29 sep 17:00  | do  5 okt 17:00    |
+| Module 5 | vr  6 okt 17:00  | -                  |
+| Module 6 | vr 13 okt 17:00  | do 19 okt 17:00    |
+| Module 7 | vr 20 okt 17:00  | -                  |
 
 Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
@@ -174,13 +177,13 @@ In aanvulling gelden de volgende deadlines voor extra opdrachten. Als je niet ge
 
 | extra opdracht   | deadline        |
 | :--------------- | :-------------- |
-| Goldbach         | vr 15 sep 17:59 |
-| Decryptor        | vr 22 sep 17:59 |
-| Design challenge | vr 29 sep 17:59 |
-| Find             | vr 6 okt 17:59  |
-| Resize           | vr 13 okt 17:59 |
+| Goldbach         | vr 15 sep 17:00 |
+| Decryptor        | vr 22 sep 17:00 |
+| Design challenge | vr 29 sep 17:00 |
+| Find             | vr  6 okt 17:00 |
+| Resize           | vr 13 okt 17:00 |
 
-Extra opdrachten kunnen na de deadline niet meer ingeleverd worden en dus niet meetellen voor een punt.
+Extra opdrachten kunnen na de genoemde deadline helemaal niet meer ingeleverd worden en dan ook niet meetellen voor een punt.
 
 ### Ziekte en achterlopen
 

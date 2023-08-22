@@ -138,13 +138,3 @@ Here's how to evaluate the style of your code using `style50`.
 ----
 style50 resize.c
 ----
-
-== Staff's Solution
-
-To try out the staff's own implementation of `resize`, execute
-
-```
-./resize
-```
-
-within link:https://sandbox.cs50.io/cf791495-d296-437d-bc60-cf27e43c7622[this sandbox]
