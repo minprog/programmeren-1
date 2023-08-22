@@ -161,13 +161,13 @@ Dit is een overzicht van de deadlines per week:
 
 |          | deadline werkend | deadline verbeterd |
 | :------- | :--------------- | :----------------- |
-| Module 1 | vr 8 sep 17:59   | -                  |
-| Module 2 | vr 15 sep 17:59  | di 19 sep 20:59    |
-| Module 3 | vr 22 sep 17:59  | -                  |
-| Module 4 | vr 29 sep 17:59  | di 3 okt 20:59     |
-| Module 5 | vr 6 okt 17:59   | -                  |
-| Module 6 | vr 13 okt 17:59  | di 17 okt 20:59    |
-| Module 7 | vr 20 okt 17:59  | -                  |
+| Module 1 | vr  8 sep 17:00  | -                  |
+| Module 2 | vr 15 sep 17:00  | do 21 sep 17:00    |
+| Module 3 | vr 22 sep 17:00  | -                  |
+| Module 4 | vr 29 sep 17:00  | do  5 okt 17:00    |
+| Module 5 | vr  6 okt 17:00  | -                  |
+| Module 6 | vr 13 okt 17:00  | do 19 okt 17:00    |
+| Module 7 | vr 20 okt 17:00  | -                  |
 
 Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
 
@@ -177,13 +177,13 @@ In aanvulling gelden de volgende deadlines voor extra opdrachten. Als je niet ge
 
 | extra opdracht   | deadline        |
 | :--------------- | :-------------- |
-| Goldbach         | vr 15 sep 17:59 |
-| Decryptor        | vr 22 sep 17:59 |
-| Design challenge | vr 29 sep 17:59 |
-| Find             | vr 6 okt 17:59  |
-| Resize           | vr 13 okt 17:59 |
+| Goldbach         | vr 15 sep 17:00 |
+| Decryptor        | vr 22 sep 17:00 |
+| Design challenge | vr 29 sep 17:00 |
+| Find             | vr  6 okt 17:00 |
+| Resize           | vr 13 okt 17:00 |
 
-Extra opdrachten kunnen na de deadline niet meer ingeleverd worden en dus niet meetellen voor een punt.
+Extra opdrachten kunnen na de genoemde deadline helemaal niet meer ingeleverd worden en dan ook niet meetellen voor een punt.
 
 ### Ziekte en achterlopen
 
