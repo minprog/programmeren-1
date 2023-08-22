@@ -257,16 +257,3 @@ Note that `check50` will also check for memory leaks, so be sure you've run `val
 
 If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our https://bigboard.quinner.nl/[Big Board] website before or after you submit!
 
-++++
-<hr>
-
-<p><b>LET OP. Zoals in de studiewijzer vermeld zijn er redelijke en onredelijke acties wat betreft werken aan de opdrachten. Heel specifiek is het nooit toegestaan om een uitwerking van iemand anders te bekijken terwijl je zelf de opdracht nog aan het maken bent.</b></p>
-
-<p>Bij het inleveren geef je hier aan dat je tijdens het maken van de opdracht niet naar een bestaande uitwerking van de opdracht hebt gekeken, met uitzondering van het zoeken naar en overnemen van een hashfunctie (met bronvermelding).</p>
-
-<p>Als je de opdracht toch wil inleveren terwijl je naar (delen van) bestaande uitwerkingen hebt gekeken dan moet je deze expliciet linken in een comment bij de opdracht en bovenaan de opdracht vermelden dat je dit hebt gedaan. Je zult dan sowieso geen punten krijgen voor de gehele opdracht. Stuur je per ongeluk een versie in zonder deze comments dan gaat de uitwerking naar de examencommissie.</p>
-
-<p><b>Lees de tekst van de checkbox goed voordat je deze aanvinkt. Ingeleverde opdrachten zonder vinkje worden als niet ingestuurd beschouwd.</b></p>
-
-<label for="geen_plagiaat"> <input type="checkbox" required id="geen_plagiaat" name="form[geen_plagiaat]" value="bevestigd"> Ik heb bij het maken van de opdracht geen "onredelijke acties" gepleegd (zie studiewijzer) en specifiek heb ik niet naar een bestaande uitwerking van de opdracht of een klein deel daarvan gekeken (uitgezonderd de hash-functie, die overgenomen mocht worden). Als ik dat wel heb gedaan heb ik in de ingestuurde code overduidelijk de bron aangegeven, maar dan begrijp ik dat ik geen punten krijg. Ik begrijp dat inleveren van de opdracht niet verplicht is en dat ik ook gewoon de punten kan laten lopen.</label>
-++++
