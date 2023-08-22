@@ -8,15 +8,15 @@ Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn t
 
 * Roos gebruikt in iedere loop de variabele namen i & j, Milan gebruikt soms namen als hoogte & stap.
 
-<img src="example1.png" alt="i & hoogte voorbeeld" width="300"/>
+    ![i & hoogte voorbeeld](example1.png){: width="400"}
 
 * Hidde heeft drie keer ongeveer dezelfde regel code onder elkaar. Amy gebruikt op dezelfde plek een loop, maar heeft daardoor wel meer regels code.
 
-<img src="example2.png" alt="drie keer code voorbeeld" width="300"/>
+    ![drie keer code voorbeeld](example2.png){: width="400"}
 
 * Brenda gebruikt geen haakjes bij kleine if-statements. Tom & Eva hebben juist overal haakjes staan.
 
-<img src="example3.png" alt="if haakjes voorbeeld" width="300"/>
+    ![if haakjes voorbeeld](example3.png){: width="400"}
 
 ## Verbeter je code
 
@@ -38,9 +38,7 @@ Bijvoorbeeld:
 
 * De ingewikkelde conditie in de if-statement heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is.
 
-![ingewikkelde conditie voorbeeld](example4.png){: width="300"}
-
-<img src="example4.png" alt="ingewikkelde conditie voorbeeld" width="300"/>
+    ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
 
 * De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen, is de code hier wel makkelijk te begrijpen.
 
