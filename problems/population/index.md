@@ -127,5 +127,3 @@ Execute the below to evaluate the correctness of your code using `check50`. But 
 ## How to submit
 
 As soon as you're done, submit your `population.c` implementation, below! Your program will then again be checked using `check50` and the result will be recorded on this website. Should the check fail unexpectedly, be sure to try if `check50` is still satisfied when you run it in your IDE's Terminal.
-
-Type the name of the student you've worked with: <input name="form[samengewerkt]" type="text" required>
