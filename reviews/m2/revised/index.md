@@ -40,7 +40,7 @@ Bijvoorbeeld:
 
     ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
 
-* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen en het is makkelijker om fouten te maken. Maar de code is nu toch echt een makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
+* De duplicate code heb ik laten staan. Hoewel het daardoor misschien moeilijker is om de code aan te passen en het makkelijker is om fouten te maken. Maar de code is nu toch echt een makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
 
     ![drie keer code voorbeeld](example2.png){: width="400"}
 
