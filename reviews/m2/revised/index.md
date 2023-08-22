@@ -34,13 +34,15 @@ Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te
 
 Bijvoorbeeld:
 
-* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Dat weegt voor mij op tegen de minder regels code.
+* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Tijdens het verbeteren van de code wou ik even snel een print statement toevoegen om te debuggen, maar als je dan de haakjes vergeet ben je alleen maar langer bezig. Dat weegt voor mij op tegen de minder regels code.
 
-* De ingewikkelde conditie in de if-statement heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is.
+* De ingewikkelde condities in de if-statements heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is. Het wordt zo wel veel code zoals bijvoorbeeld hieronder. Voor consistentie heb ik het hier nu ook gedaan, maar ik twijfel of het helpt bij het begrijpen van de code.
 
     ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
 
-* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen, is de code hier wel makkelijk te begrijpen.
+* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen en het is makkelijker om fouten te maken. Maar de code is nu toch echt een makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
+
+    ![drie keer code voorbeeld](example2.png){: width="400"}
 
 ## Inleveren
 
