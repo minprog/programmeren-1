@@ -57,12 +57,12 @@ De onderwerpen van de werkcolleges per week:
 
 | week | werkcollege                        |
 | ----:| ---------------------------------- |
-|    1 | - (introweek)                      |
+|    1 | *Geen werkcollege* (introweek)       |
 |    2 | Q & A en hoe pak je het vak aan    |
 |    3 | Code review 1                      |
 |    4 | Tentamen-oefening                  |
 |    5 | Code review 2                      |
-|    6 | - (tentamen)                       |
+|    6 | *Geen werkcollege* (tentamen)        |
 |    7 | Code review 3                      |
 
 ### Extra opdrachten
