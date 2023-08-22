@@ -56,7 +56,7 @@ Als je in deze periode alleen Programmeren 1 volgt, dan moet je minstens één k
 De onderwerpen van de werkcolleges per week:
 
 | week | werkcollege                        |
-| ----:| ---------------------------------- |
+|:----:| ---------------------------------- |
 |    1 | *Geen werkcollege* (introweek)       |
 |    2 | Q & A en hoe pak je het vak aan    |
 |    3 | Code review 1                      |
