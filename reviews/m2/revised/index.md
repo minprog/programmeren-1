@@ -8,15 +8,15 @@ Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn t
 
 * Roos gebruikt in iedere loop de variabele namen i & j, Milan gebruikt soms namen als hoogte & stap.
 
-<img src="example1.png" alt="i & hoogte voorbeeld" width="300"/>
+    ![i & hoogte voorbeeld](example1.png){: width="400"}
 
 * Hidde heeft drie keer ongeveer dezelfde regel code onder elkaar. Amy gebruikt op dezelfde plek een loop, maar heeft daardoor wel meer regels code.
 
-<img src="example2.png" alt="drie keer code voorbeeld" width="300"/>
+    ![drie keer code voorbeeld](example2.png){: width="400"}
 
 * Brenda gebruikt geen haakjes bij kleine if-statements. Tom & Eva hebben juist overal haakjes staan.
 
-<img src="example3.png" alt="if haakjes voorbeeld" width="300"/>
+    ![if haakjes voorbeeld](example3.png){: width="400"}
 
 ## Verbeter je code
 
@@ -26,11 +26,21 @@ Hou ondertussen goed bij wat je aanpast en schrijf alvast kort voor jezelf op wa
 
 ## Beschrijf je verbeteringen
 
-Schrijf nu het tweede deel van `verslag.pdf`. Schrijf ook hier analytisch. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verschillen tussen de uitwerkingen.
+Schrijf nu het tweede deel van `verslag.pdf`. Schrijf ook hier analytisch. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verbeteringen die je hebt toegepast.
 
 Beschrijf puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je met voldoende diepgang beschrijft waarom jouw code is zoals die is.
 
-Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code.
+Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code. Bijvoorbeeld zoals de code voorbeelden bovenin deze tekst.
+
+Bijvoorbeeld:
+
+* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Dat weegt voor mij op tegen de minder regels code.
+
+* De ingewikkelde conditie in de if-statement heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is.
+
+    ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
+
+* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen, is de code hier wel makkelijk te begrijpen.
 
 ## Inleveren
 
