@@ -1,18 +1,19 @@
 # Code review: Caffeine
 
-Tijdens de code review ga je met andere studenten naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerking en daarbij nog een versie die door je mentor wordt aangeleverd.
+Tijdens de code review ga je met andere studenten naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerking en daarbij nog een versie die door ons wordt aangeleverd.
 
 Jij moet de opdracht helemaal af hebben en ingestuurd voordat je mee mag doen met een code review! Heb je de opdracht nog niet af, neem dan direct contact op met de docent via <help@mprog.nl>.
 
 ## Aspecten
 
-Hou onder andere de volgende aspecten in de gaten:
+Hou bij deze code review de volgende aspecten in de gaten:
 
-- ***Stijl*** is een consistent toegepaste keuzes in de presentatie van de code. Welke indentatie wordt er gebruikt? Zijn er witregels gebruikt tussen verschillende onderdelen? Hoofd- en kleine letters?
-
-- ***Documentatie*** is de manier waarop hints zijn toegevoegd over de werking van het programma. Dat is niet alleen commentaar, maar ook de keuze voor bepaalde namen. Zijn ze kort, of lang? Snel te begrijpen?
-
-- ***Structuur*** is hoe de oplossing in elkaar zit. Er zijn voor elke opdracht diverse manieren om deze op te lossen. Ook kleinere onderdelen kunnen soms verschillen. Wat zijn de voor- en nadelen van elke aanpak?
+- [cleanup](/quality/aspects/cleanup)
+- [comments](/quality/aspects/comments)
+- [formatting](/quality/aspects/formatting)
+- [loops](/quality/aspects/loops)
+- [naming](/quality/aspects/naming)
+- [scope](/quality/aspects/scope)
 
 Er is nog veel meer dat je kan opvallen en waar je over kan praten: vooral doen!
 
