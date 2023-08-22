@@ -102,7 +102,3 @@ Your program should behave per the examples below.
 Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
     check50 -l minprog/checks/2022/scrabble
-
-## How to submit
-
-Type the name of the student you've worked with: <input name="form[samengewerkt]" type="text" required>
