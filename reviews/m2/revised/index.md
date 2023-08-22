@@ -52,8 +52,8 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
-1. ~~uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp~~
-2. ~~zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes~~
+1. <del>uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp</del>
+2. <del>zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes</del>
 3. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
 4. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
 5. enige zichtbare aandacht voor kwaliteitsaspecten, of matig beredeneerde keuzes
