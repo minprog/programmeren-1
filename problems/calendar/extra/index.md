@@ -37,7 +37,11 @@ Hou daar bij ook de volgende richtlijnen in de gaten. De code die je eerder hebt
 
 That's it!
 
-Om aan de opdracht te voldoen is het nodig om deze principes echt uit te proberen en te exploreren. Je moet hierin heel ver gaan, dus echt blijven kijken of het technisch lukt om functies nog een keer te splitsen, variabelen te elimineren enz. Het is niet voldoende om te concluderen dat je bepaalde van bovenstaande principes niet wil of kunt toepassen. (Heb je vragen hierover, mail dan de docenten; de assistenten zijn niet voldoende voorbereid om hierbij te helpen.)
+## Opdracht
+
+Om aan de opdracht te voldoen is het nodig om deze principes echt uit te proberen en te exploreren. Je moet hierin heel ver gaan, dus blijven kijken of het technisch lukt om functies nog een keer te splitsen, variabelen te elimineren enz.
+
+Het is niet voldoende om te concluderen dat je bepaalde van bovenstaande principes niet wil of kunt toepassen. (Heb je vragen hierover, mail dan de docenten; de assistenten zijn niet voldoende voorbereid om hierbij te helpen.)
 
 ## Testen
 
@@ -47,11 +51,11 @@ Zorg dat je uiteindelijke programma nog steeds correct werkt met de checks van C
 
 ## Verslag
 
-Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden. Denk aan de volgende punten:
+Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden, en een vergelijking met eventuele alternatieve ontwerpen. Denk aan de volgende punten:
 
 - Voor alle functies: welke functies heb je kunnen opsplitsen, en welke onderdelen heb je dan in aparte functies gezet.
 - Waar was het moeilijk om een oplossing te verzinnen, binnen de ontwerpprincipes, en waarom?
-- Bij welke functies/onderdelen had je ook een alternatieve oplossing in gedachten?
+- Bij welke functies/onderdelen had je ook een alternatieve oplossing in gedachten? Waarom zou je de ene of de andere optie kiezen?
 - Welke principes zou je goed kunnen toepassen bij het schrijven van programma's en waarom? Welke voordelen en nadelen kun je bedenken?
 
 Schrijf je verslag in een bestand `analyse.pdf`.
