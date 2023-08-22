@@ -26,11 +26,23 @@ Hou ondertussen goed bij wat je aanpast en schrijf alvast kort voor jezelf op wa
 
 ## Beschrijf je verbeteringen
 
-Schrijf nu het tweede deel van `verslag.pdf`. Schrijf ook hier analytisch. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verschillen tussen de uitwerkingen.
+Schrijf nu het tweede deel van `verslag.pdf`. Schrijf ook hier analytisch. Dat betekent dat je geen verhaal gaat vertellen in de verleden tijd, maar een beschouwing van de verbeteringen die je hebt toegepast.
 
 Beschrijf puntsgewijs de wijzigingen die jij hebt gedaan in jouw code en beredeneer waarom elke wijziging ook een verbetering is. Beschrijf natuurlijk ook de wijzigingen die je definitief *niet* gaat doen: er kan een goede reden zijn om iets te houden zoals het is. Zorg dat je met voldoende diepgang beschrijft waarom jouw code is zoals die is.
 
-Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code.
+Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te illustreren waar je het over hebt in het verslag. Klein betekent: geen volledig scherm, alleen een netjes uitgeknipt relevant stukje van de code. Bijvoorbeeld zoals de code voorbeelden bovenin deze tekst.
+
+Bijvoorbeeld:
+
+* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Dat weegt voor mij op tegen de minder regels code.
+
+* De ingewikkelde conditie in de if-statement heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is.
+
+![ingewikkelde conditie voorbeeld](example4.png){: width="300"}
+
+<img src="example4.png" alt="ingewikkelde conditie voorbeeld" width="300"/>
+
+* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen, is de code hier wel makkelijk te begrijpen.
 
 ## Inleveren
 
