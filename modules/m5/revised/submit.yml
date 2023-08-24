@@ -1,5 +1,0 @@
-name: m5
-form: true
-files:
-    required:
-        - helpers.c

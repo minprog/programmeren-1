@@ -1,5 +1,0 @@
-name: m2
-files:
-    required:
-        - caffeine.c
-        - verslag.pdf
