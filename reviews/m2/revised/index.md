@@ -34,13 +34,15 @@ Het is gewenst om kleine(!!!!) screenshots van code in te voegen om duidelijk te
 
 Bijvoorbeeld:
 
-* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Dat weegt voor mij op tegen de minder regels code.
+* Alle controle structuren zoals if, while en for hebben nu haakjes, ook al staat er maar één regel code in. Zo is dit overal consistent en kan ik makkelijk een regel code toevoegen, zonder na te hoeven denken over haakjes. Tijdens het verbeteren van de code wou ik even snel een print statement toevoegen om te debuggen, maar als je dan de haakjes vergeet ben je alleen maar langer bezig. Dat weegt voor mij op tegen de minder regels code.
 
-* De ingewikkelde conditie in de if-statement heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is.
+* De ingewikkelde condities in de if-statements heb ik uitgesplitst en opgeslagen in variabelen. Iedere variabele heeft een begrijpbare naam waardoor het geheel nu ook makkelijker te begrijpen is. Het wordt zo wel veel code zoals bijvoorbeeld hieronder. Voor consistentie heb ik het hier nu ook gedaan, maar ik twijfel of het helpt bij het begrijpen van de code.
 
     ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
 
-* De duplicate code heb ik laten staan. Hoewel het nu misschien moeilijker is om de code aan te passen, is de code hier wel makkelijk te begrijpen.
+* De duplicate code heb ik laten staan. Hoewel het daardoor misschien moeilijker is om de code aan te passen en het makkelijker is om fouten te maken. Maar de code is nu toch echt een makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
+
+    ![drie keer code voorbeeld](example2.png){: width="400"}
 
 ## Inleveren
 
@@ -50,8 +52,8 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
-1. ~~uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp~~
-2. ~~zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes~~
+1. <del>uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp</del>
+2. <del>zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes</del>
 3. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
 4. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
 5. enige zichtbare aandacht voor kwaliteitsaspecten, of matig beredeneerde keuzes
