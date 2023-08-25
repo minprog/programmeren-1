@@ -202,12 +202,12 @@ Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factor
 
 Je gaat drie keer een verbeterde versie van je opdracht inleveren, met een verslag van de code review erbij. Deze inzending wordt vervolgens beoordeeld op basis van het onderstaande schema, dat gaat over de **kwaliteit van de code**. Je kunt maximaal 6 punten krijgen, maar de normale verwachting is dat veel studenten na wat feedback 4 punten zullen halen. Uiteindelijk zal de hoogste van de drie scores tellen als eindscore, dus je hebt ruimte om te groeien tijdens de cursus.
 
-6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-5. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
-4. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
-3. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
-2. onvoldoende zichtbare aandacht voor kwaliteit, of beperkt beredeneerde keuzes
-1. geen zichtbare aandacht voor kwaliteit of redenatie
+6. uitzonderlijke kwaliteit op basis van een doordacht ontwerp met scherp onderbouwde keuzes
+5. goede kwaliteit, beperkt ruimte voor verbetering en alle keuzes zijn goed onderbouwd
+4. degelijke kwaliteit, ruimte voor verbetering, meerdere keuzes zijn goed onderbouwd
+3. voldoende aandacht voor alle genoemde aspecten, veel ruimte voor verbetering, alle keuzes zijn beredeneerd
+2. enige zichtbare aandacht voor een beperkt aantal aspecten, of er zijn keuzes zonder redenatie
+1. onvoldoende zichtbare aandacht voor de genoemde aspecten, of er is geen redenatie bij de keuzes
 {: start="6" reversed=""}
 
 Wil je goed scoren (rond de 4 punten), dan bespreek je uitgebreid je code met andere studenten (na inleveren van je oplossing), doe je actief mee aan de code review-sessies, bestudeer je zeer grondig de feedback die je krijgt, en loop je elke keer kritisch elke regel code na met de ideeën uit die bronnen in het achterhoofd. Zo leg je een perfecte basis om verder te leren.

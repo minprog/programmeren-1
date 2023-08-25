@@ -52,12 +52,12 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
-1. <del>uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp</del>
-2. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
-3. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
-4. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
-5. enige zichtbare aandacht voor kwaliteitsaspecten, of matig beredeneerde keuzes
-6. onvoldoende zichtbare aandacht voor kwaliteitsaspecten
+6. <del>uitzonderlijke kwaliteit op basis van een doordacht ontwerp met scherp onderbouwde keuzes</del>
+5. goede kwaliteit, beperkt ruimte voor verbetering en alle keuzes zijn goed onderbouwd
+4. degelijke kwaliteit, ruimte voor verbetering, meerdere keuzes zijn goed onderbouwd
+3. voldoende aandacht voor alle genoemde aspecten, veel ruimte voor verbetering, alle keuzes zijn beredeneerd
+2. enige zichtbare aandacht voor een beperkt aantal aspecten, of er zijn keuzes zonder redenatie
+1. onvoldoende zichtbare aandacht voor de genoemde aspecten, of er is geen redenatie bij de keuzes
 {: start="6" reversed=""}
 
 Voor de tweede code review is het maximaal aantal punten 5. Voor latere reviews kan je ook 6 punten halen. Geen zorgen, het is alleen het hoogste aantal punten dat telt voor het eindcijfer! Haal je voor de eerste code review 3 punten en voor de tweede 4? Dan telt alleen de 4 mee. Het is dus helemaal okee om eens minder te punten te halen.
