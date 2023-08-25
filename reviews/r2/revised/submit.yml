@@ -1,4 +1,4 @@
-name: m4
+name: review_2
 files:
     required:
         - tiles.c

@@ -1,5 +1,0 @@
-name: m4
-form: true
-files:
-    required:
-        - calendar.c

@@ -1,6 +1,0 @@
-name: m7
-form: true
-files:
-    required:
-        - dictionary.c
-        - dictionary.h

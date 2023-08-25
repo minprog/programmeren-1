@@ -131,12 +131,9 @@ grades:
     tentamen-oefening-hoofdletters: *automatic
     tentamen-oefening-driehoek: *automatic
 
-    m2: *manual
-    m3: *manual
-    m4: *manual
-    m5: *manual
-    m6: *manual
-    m7: *manual
+    review_1: *manual
+    review_2: *manual
+    review_3: *manual
 
     oefententamen: *check
     tentamen: *exam
@@ -160,10 +157,10 @@ grades:
 
 calculation:
     eindcijfer:
-        reviews: 25
+        code_reviews: 25
         tentamen: 75
     eindcijfer_herkansing:
-        reviews: 25
+        code_reviews: 25
         hertentamen: 75
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -241,13 +238,13 @@ opdrachten_week_7:
         speller_questions: 1
         speller: 1
 
-reviews:
+code_reviews:
     type: maximum
     show_progress: true
     submits:
-        m2: 6
-        m4: 6
-        m6: 6
+        review_1: 6
+        review_2: 6
+        review_3: 6
     bonus:
         goldbach: 0.3
         decryptor: 0.3
