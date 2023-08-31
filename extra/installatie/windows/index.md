@@ -44,7 +44,7 @@ Go to <https://aka.ms/wsl2kernel> and install the update and retry the command a
 
 ### Step 1.3: Install Ubuntu for WSL
 
-Head to [Microsoft Store Ubuntu](https://www.microsoft.com/nl-nl/p/ubuntu/9nblggh4msv6)-page. And install Ubuntu 20.04.
+Head to [Microsoft Store Ubuntu](https://apps.microsoft.com/store/detail/ubuntu/9PDXGNCFSCZV)-page. And install Ubuntu 22.04.
 
 </details>
 
