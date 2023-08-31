@@ -267,17 +267,6 @@ Deze schaal kan nog aangepast worden in de loop van de cursus.
 - zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
 - tot in de puntjes verzorgd: samenspel van namen, comments en opmaak
 
-
-## Alternatieve track: Peers
-
-Deze iteratie van programmeren 1 is er de mogelijkheid voor een alternatieve track. Bij deze track duik je dieper in de fundamenten van C en programmeren, je doet daardoor meer en leert ook meer. Het is bedoeld voor die studenten die dat zoeken en die al beginnen met een klein beetje programmeerervaring.
-
-De lesmethode is peer learning. Er zijn hier geen colleges, maar enkel programmeeropdrachten en projecten. Hoe je die maakt leer je zelf en met elkaar. Je reviewt elkaars opdrachten, werkt samen aan projecten en heel belangrijk: je helpt elkaar.
-
-Tijdens het vak maak je hetzelfde tentamen als het reguliere programma in week 6. Dat tentamen is ook hier 75% van het eindcijfer.
-
-De overige 25% van het eindcijfer komt van code reviews ook zoals in het reguliere programma. De code reviews zijn hier op basis van andere opdrachten, namelijk die van het peers programma.
-
 ## Zelfstandig werken
 
 De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, behalve waar het gaat om de samenwerkopdrachten.

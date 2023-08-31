@@ -33,4 +33,4 @@ Na de werkgroep ga je in een document, in jouw eigen woorden, de aspecten samenv
 
 **Zorg dat je alle uitwerkingen met elkaar deelt voordat de werkgroep eindigt. Schrijf ook de namen op van de deelnemers aan jouw review, zodat je hun namen in het verslag kunt vermelden.**
 
-Ook ga je je eigen uitwerking nog eens flink verbeteren. [Ga voor instructies over het verslag en de verbeterde versie naar de volgende pagina.](/reviews/m2/revised)
+Ook ga je je eigen uitwerking nog eens flink verbeteren. [Ga voor instructies over het verslag en de verbeterde versie naar de volgende pagina.](/reviews/r3/revised)

@@ -1,8 +1,10 @@
 name: review_3
 files:
     required:
-        - helpers.c
         - verslag.pdf
+    optional:
+        - helpers.c
+        - peers.zip
 check:
   tool: check50
   slug: minprog/checks/2022/filter/less
