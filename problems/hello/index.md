@@ -61,7 +61,9 @@ In your new file, type the C code for "Hello, World" as seen above. Save it once
 
 ## Listing files
 
-Next, type precisely the below (in lowercase), then hit Enter:
+You now have your Terminal open, and you have your editor with the file `hello.c` open.
+
+Next, in the Terminal, type precisely the below (in lowercase), then hit Enter:
 
     ls
 
