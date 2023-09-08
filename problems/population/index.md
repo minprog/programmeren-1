@@ -77,14 +77,14 @@ Meet Brian Yu! He'll be helping you get started on some of the problems in this 
 
 Your program should behave per the examples below.
 
-```
+~~~
 $ ./population
 Start size: 1200
 End size: 1300
 Years: 1
-```
+~~~
 
-```
+~~~
 $ ./population
 Start size: -5
 Start size: 3
@@ -92,23 +92,23 @@ Start size: 9
 End size: 5
 End size: 18
 Years: 8
-```
+~~~
 
-```
+~~~
 $ ./population
 Start size: 20
 End size: 1
 End size: 10
 End size: 100
 Years: 20
-```
+~~~
 
-```
+~~~
 $ ./population
 Start size: 100
 End size: 1000000
 Years: 115
-```
+~~~
 
 <details markdown="1"><summary markdown="span">Not sure how to solve?</summary>
 
