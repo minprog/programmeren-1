@@ -46,7 +46,9 @@ Bijvoorbeeld:
 
 ## Inleveren
 
-Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander formaat) met je verslag. Zet je naam en studentnummer boven het verslag, en ook de naam van het programma dat gereviewed is.
+Lever op de submit-tab de verbeterde uitwerking in, met daarbij een PDF (geen ander formaat) met je verslag. Zet je naam en studentnummer boven het verslag, en ook de naam van het programma dat gereviewed is.
+
+Let op! Je moet voor de review 2 bestanden inleveren (`.c` files) tenzij je de aparte Peers-track doet. In dat laatste geval moet je geen `.c`-files inleveren maar een `.zip`-bestand.
 
 ## Beoordeling
 
