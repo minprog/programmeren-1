@@ -25,10 +25,10 @@ Er is nog veel meer dat je kan opvallen en waar je over kan praten: vooral doen!
 
 3.  Vergelijk dan expliciet de uitwerkingen op basis van bovenstaande aspecten. Benoem gerust ook andere opvallende eigenschappen. Probeer alle verschillen te ontdekken en te bespreken.
 
-## Review-verslag en verbeteren
-
-Na de werkgroep ga je in een document, in jouw eigen woorden, de aspecten samenvatten die ter sprake zijn gekomen en de dingen die jou zelf nog zijn opgevallen.
-
 **Zorg dat je alle uitwerkingen met elkaar deelt voordat de werkgroep eindigt. Schrijf ook de namen op van de deelnemers aan jouw review, zodat je hun namen in het verslag kunt vermelden.**
 
-Ook ga je je eigen uitwerking nog eens flink verbeteren. [Ga voor instructies over het verslag en de verbeterde versie naar de volgende pagina.](/reviews/r1/revised)
+## Na het werkcollege: code verbeteren en verslag
+
+Na de werkgroep ga je je eigen uitwerkingen verbeteren. Zorg dus dat je een documentje hebt klaarliggen waarin je de punten noteert die je wil gaan verbeteren. Deze punten komen voort uit de code review en je kennis van "goede code".
+
+Tijdens het verbeteren schrijf je ook een verslag waarin je elke aanpassing verdedigt. [Ga voor instructies over het verslag en de verbeterde versie naar de volgende pagina.](/reviews/r1/revised)
