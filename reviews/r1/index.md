@@ -1,6 +1,6 @@
 # Code review: Conversion en Caffeine
 
-Tijdens de code review ga je met andere studenten naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerking en daarbij nog een versie die door ons wordt aangeleverd.
+Tijdens de code review ga je met één andere student naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerkingen en daarbij nog een versie die door ons wordt aangeleverd.
 
 Jij moet de opdracht helemaal af hebben en ingestuurd voordat je mee mag doen met een code review! Heb je de opdracht nog niet af, neem dan direct contact op met de docent via <help@mprog.nl>.
 
