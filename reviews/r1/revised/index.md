@@ -4,7 +4,7 @@ Na de code review ga je in een document (.pdf) in jouw eigen woorden en met voor
 
 ## Wat kwam er ter sprake?
 
-Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn tegen gekomen tijdens de review: de eigenschappen die vershillen per uitwerking. Enkele voorbeelden:
+Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn tegen gekomen tijdens de review: de eigenschappen die verschillen per uitwerking. Enkele voorbeelden:
 
 * Roos gebruikt in iedere loop de variabele namen i & j, Milan gebruikt soms namen als hoogte & stap.
 
@@ -17,6 +17,8 @@ Beschrijf analytisch en puntsgewijs in `verslag.pdf` de dingen die jullie zijn t
 * Brenda gebruikt geen haakjes bij kleine if-statements. Tom & Eva hebben juist overal haakjes staan.
 
     ![if haakjes voorbeeld](example3.png){: width="400"}
+
+Je hoeft niet letterlijk alles te beschrijven dat ter sprake is gekomen. Geef een voorkeur aan verschillen die gerelateerd zijn aan de verbeteringen die je aan jouw uitwerking doet (zie onder).
 
 ## Verbeter je code
 
