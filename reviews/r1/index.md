@@ -1,4 +1,4 @@
-# Code review: Conversion en Caffeine
+# Code review: Conversion en Mario
 
 Tijdens de code review ga je met één andere student naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerkingen en daarbij nog een versie die door ons wordt aangeleverd.
 
