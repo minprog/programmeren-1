@@ -4,5 +4,5 @@ files:
         - verslag.pdf
     optional:
         - conversion.c
-        - caffeine.c
+        - mario.c
         - peers.zip
