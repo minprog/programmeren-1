@@ -1,6 +1,6 @@
 # Oefententamen
 
-Regels voor het tentamen:
+Regels voor het tentamen op 9 oktober:
 
 - Je mag tot uiterlijk 30 minuten na de begintijd starten.
 - Je moet minimaal tot 30 minuten na de begintijd in de zaal blijven.
@@ -13,11 +13,11 @@ Regels voor het tentamen:
 - Klaar is klaar, dan kun je inleveren en weggaan.
 - Voor inleveren steek je je hand op, de surveillant komt controleren voordat je inlevert.
 
-## Doel van het tentamen
+## Doel van het tentamen op 9 oktober
 
-Hieronder vind je vijf opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
+Op het tentamen vind je een aantal opdrachten. Het doel van het tentamen is te demonstreren dat je zelfstandig een oplossing voor een probleem kunt ontwikkelen, en daarbij gebruik kunt maken van de basistechnieken van programmeren, zoals bijvoorbeeld de verschillende soorten loops, if-else-constructies, enzovoort.
 
-Op dit moment in de cursus zou je alle opdrachten goed moeten kunnen maken zonder begeleiding. Maar, door de tijdsbeperking kan het best zijn dat je een opdracht niet kunt maken! Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst.
+Op het moment van het tentamen zou je alle opdrachten goed moeten kunnen maken zonder begeleiding. Maar, door de tijdsbeperking kan het best zijn dat je een opdracht niet kunt maken! Of er gaat iets mis. Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst. Daarvoor hoef je niet alle opdrachten helemaal goed te hebben.
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
