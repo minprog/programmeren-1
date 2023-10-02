@@ -1,4 +1,4 @@
-# Code review: Caffeine
+# Code review: Tiles
 
 Tijdens de code review ga je met andere studenten naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerking en daarbij nog een versie die door ons wordt aangeleverd.
 
