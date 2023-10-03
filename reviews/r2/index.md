@@ -1,4 +1,4 @@
-# Code review: Tiles
+# Code review: Cyper & Tiles
 
 Tijdens de code review ga je met andere studenten naar elkaars code kijken en bespreken wat de verschillen zijn. Je doet dit met de eigen uitwerking en daarbij nog een versie die door ons wordt aangeleverd.
 
@@ -9,7 +9,6 @@ Jij moet de opdracht helemaal af hebben en ingestuurd voordat je mee mag doen me
 Hou bij deze code review de volgende aspecten in de gaten:
 
 - [nesting](/quality/aspects/nesting) **Nieuw!**
-- [functions](/quality/aspects/functions) **Nieuw!**
 - [cleanup](/quality/aspects/cleanup)
 - [comments](/quality/aspects/comments)
 - [formatting](/quality/aspects/formatting)
