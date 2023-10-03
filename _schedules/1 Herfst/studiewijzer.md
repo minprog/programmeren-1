@@ -345,17 +345,24 @@ De [plagiaatregeling](https://student.uva.nl/content/az/fraude-plagiaat-en-bronv
 
 Onderstaande regelingen zijn wat streng geformuleerd, maar het is niet de bedoeling dat ze echt nodig zijn! Als je doorzet en de opdrachten afmaakt dan zou je de cursus gewoon moeten halen. Maak je er dus niet teveel zorgen over, maar neem wel direct contact op met je mentor als je denkt dat je in de problemen komt met de planning en/of je cijfers. Ook de coördinator spreekt graag met je als je advies nodig hebt.
 
-<details markdown="1"><summary markdown="span">Ik heb alles werkend, maar sta een onvoldoende en wil herkansen</summary>
+<details markdown="1"><summary markdown="span">Ik heb helemaal meegedaan, maar heb het tentamen niet gehaald</summary>
 
-Als je je tentamen voldoende hebt maar voor het vak een onvoldoende staat, dan betekent dit dat je onvoldoende aandacht hebt besteed aan de kwaliteit van je programma's of het documenteren daarvan. De herkansing komt erop neer dat je dit alsnog doet. Deze vorm van herkansen kan alleen plaatsvinden direct na bekendmaking van de eindcijfers.
+In dit geval kun je het hertentamen doen. In het rooster kun je vinden wanneer dit gepland is. Het hertentamen telt even zwaar als het eerste tentamen, en het eindcijfer wordt op dezelfde manier berekend.
+</details>
 
-- Je moet binnen twee weken contact opnemen en daarna binnen een week de verbeterde versies inleveren.
+<details markdown="1"><summary markdown="span">Ik heb helemaal meegedaan en het tentamen gehaald, maar sta een onvoldoende</summary>
 
-- Alle individuele opdrachten, ook die voldoende waren, moeten opnieuw worden ingeleverd.
+Als je je tentamen voldoende hebt maar voor het vak een onvoldoende staat, dan betekent dit dat je onvoldoende aandacht hebt besteed aan de kwaliteit van je programma's of het documenteren daarvan. De herkansing komt erop neer dat je dit alsnog doet.
+
+- Je kunt deze vorm van herkansen alleen doen als je zowel hebt deelgenomen aan het tentamen als aan het hertentamen, en als je aanwezig was bij de normale code-reviewmomenten.
+
+- De herkansing kan alleen plaatsvinden direct na bekendmaking van de eindcijfers. Je moet binnen twee weken contact opnemen en daarna binnen een week de verbeterde versies inleveren.
+
+- Alle code review-opdrachten, ook die voldoende waren, moeten opnieuw worden ingeleverd.
 
 - Deze individuele opdrachten moeten verbeterd worden ten aanzien van de kwaliteitsaspecten.
 
-- Het *maximum*cijfer is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
+- Het *maximum*cijfer voor het vak is in dit geval een 6.0 en wordt alleen toegekend als alle programma's aantoonbaar van voldoende kwaliteit zijn (waarmee je aantoont het betreffende leerdoel gehaald te hebben).
 </details>
 
 <details markdown="1"><summary markdown="span">Ik heb een opdracht niet werkend ingeleverd en wil herkansen</summary>
@@ -364,7 +371,7 @@ Dit betekent dat je ergens tijdens het vak een opdracht niet af hebt gemaakt, hi
 
 - Herkansen kan pas vanaf het eerstvolgende semester waarin het vak wordt gegeven.
 
-- Alle modules die niet af waren (en dus niet beoordeeld) moeten opnieuw of alsnog worden ingeleverd.
+- Alle modules die niet af waren moeten opnieuw of alsnog worden ingeleverd.
 
 - Modules die af en beoordeeld waren mogen niet opnieuw worden ingestuurd. Het oude cijfer blijft staan, met uitzondering van opdrachten die zijn vervangen door nieuwe.
 
