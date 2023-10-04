@@ -23,6 +23,8 @@ Recall from lecture that we saw a few algorithms for sorting a sequence of numbe
      - For older Macs: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements-mac-old.zip`
 - In your terminal window, run `unzip measurements.zip` to unzip (i.e., decompress) that Zip file.
 
+_Note: if you're working on a Mac, unzip `measurements-mac.zip` or `measurements-mac-old.zip`_
+
 ## Instructions
 
 Provided to you are three already-compiled C programs, `sort1`, `sort2`, and `sort3`. Each of these programs implements a different sorting algorithm: selection sort, bubble sort, or merge sort (though not necessarily in that order!). Your task is to determine which sorting algorithm is used by each file.
