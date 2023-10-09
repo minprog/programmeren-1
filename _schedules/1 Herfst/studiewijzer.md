@@ -231,7 +231,7 @@ Deze schaal kan nog aangepast worden in de loop van de cursus.
 
 **Basiseis**
 
-- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
+- alleen werkende code wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
 - de hieronder genoemde eisen zijn minimum-eisen, dus er vindt geen compensatie plaats tussen verschillende genoemde factoren
 - wel kan in een bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
 
