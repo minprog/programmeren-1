@@ -138,7 +138,7 @@ grades:
     oefententamen: *check
     tentamen:
         <<: *exam
-        deadline: 09/10/23 15:22
+        deadline: 09/10/23 13:22
     hertentamen: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
