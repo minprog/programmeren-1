@@ -1,0 +1,7 @@
+name: tentamen-oefening-alfabet
+files:
+    optional:
+        - alfabet.c
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/los/alfabet

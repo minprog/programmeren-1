@@ -1,7 +1,7 @@
 name: tentamen-oefening-hoofdletters
 files:
     required:
-        - teller.c
+        - hoofdletters.c
 check:
     tool: check50
     slug: minprog/tentamen-checks/2021/los/hoofdletters

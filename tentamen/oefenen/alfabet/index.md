@@ -1,6 +1,6 @@
 # Alfabet
 
-Schrijf een programma dat van twee woorden bepaalt welke eerder in het woordenboek voorkomt. Ook maken we geen verschil tussen hoofdletters en kleine letters.
+Schrijf een programma `alfabet.c` dat van twee woorden bepaalt welke eerder in het woordenboek voorkomt. Ook maken we geen verschil tussen hoofdletters en kleine letters.
 
     $ ./alfabet
     Woord 1: Taylor
