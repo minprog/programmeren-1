@@ -5,6 +5,7 @@ language: nl
 links:
     # '[vector-pen] Reviews': /reviews
     '[book] Manual': https://man.cs50.io/
+    '[vector-pen] Tentamen oefenen': https://prog1.proglab.nl/tentamen/oefenen/index 
     # '[people] Tentamen': /tentamen/hertentamen
 
 acknowledgements:
