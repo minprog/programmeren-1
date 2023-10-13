@@ -277,10 +277,6 @@ bonus:
 tentamenoefeningen:
     show_overview: true
     submits:
-        tentamen-oefening-regen: 1
-        tentamen-oefening-rechthoeken: 1
-        tentamen-oefening-hoofdletters: 1
-        tentamen-oefening-driehoek: 1
         tentamen-oefening-alfabet: 1
         tentamen-oefening-formule: 1
         tentamen-oefening-hoofdletters: 1
