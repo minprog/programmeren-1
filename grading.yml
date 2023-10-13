@@ -131,6 +131,17 @@ grades:
     tentamen-oefening-hoofdletters: *automatic
     tentamen-oefening-driehoek: *automatic
 
+    tentamen-oefening-alfabet: *automatic
+    tentamen-oefening-formule: *automatic
+    tentamen-oefening-hoofdletters: *automatic
+    tentamen-oefening-klinkers: *automatic
+    tentamen-oefening-morse: *automatic
+    tentamen-oefening-rechthoeken: *automatic
+    tentamen-oefening-regen: *automatic
+    tentamen-oefening-tennis: *automatic
+    tentamen-oefening-trapezium: *automatic
+    tentamen-oefening-wachtwoord: *automatic
+
     review_1: *manual
     review_2: *manual
     review_3: *manual
@@ -270,6 +281,16 @@ tentamenoefeningen:
         tentamen-oefening-rechthoeken: 1
         tentamen-oefening-hoofdletters: 1
         tentamen-oefening-driehoek: 1
+        tentamen-oefening-alfabet: 1
+        tentamen-oefening-formule: 1
+        tentamen-oefening-hoofdletters: 1
+        tentamen-oefening-klinkers: 1
+        tentamen-oefening-morse: 1
+        tentamen-oefening-rechthoeken: 1
+        tentamen-oefening-regen: 1
+        tentamen-oefening-tennis: 1
+        tentamen-oefening-trapezium: 1
+        tentamen-oefening-wachtwoord: 1
         oefententamen: 1
 
 tentamen:
