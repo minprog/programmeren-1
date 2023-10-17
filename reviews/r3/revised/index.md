@@ -40,7 +40,7 @@ Bijvoorbeeld:
 
     ![ingewikkelde conditie voorbeeld](example4.png){: width="400"}
 
-* De duplicate code heb ik laten staan. Hoewel het daardoor misschien moeilijker is om de code aan te passen en het makkelijker is om fouten te maken. Maar de code is nu toch echt een makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
+* De duplicate code heb ik laten staan. Hoewel het daardoor misschien moeilijker is om de code aan te passen en het makkelijker is om fouten te maken. Maar de code is nu toch echt heel makkelijk te begrijpen en een stuk korter dan de code van mijn review partner.
 
     ![drie keer code voorbeeld](example2.png){: width="400"}
 
@@ -52,7 +52,6 @@ Lever hieronder de verbeterde uitwerking in, met daarbij een PDF (geen ander for
 
 De code en het verslag worden beoordeeld met hulp van het volgende schema:
 
-
 6. uitzonderlijke kwaliteit op basis van een doordacht ontwerp met scherp onderbouwde keuzes
 5. goede kwaliteit, beperkt ruimte voor verbetering en alle keuzes zijn goed onderbouwd
 4. degelijke kwaliteit, ruimte voor verbetering, meerdere keuzes zijn goed onderbouwd
@@ -61,4 +60,4 @@ De code en het verslag worden beoordeeld met hulp van het volgende schema:
 1. onvoldoende zichtbare aandacht voor de genoemde aspecten, of er is geen redenatie bij de keuzes
 {: start="6" reversed=""}
 
-Voor deze laatste code review kan je maximaal 6 punten halen. Let wel op, dat is niet makkelijk en het is ook zeker niet de verwachting dat iedere student dat haalt. Voor 6 punten is naast de kwaliteit ook het ontwerp van belang. Daarvoor zal je verder moeten gaan dan wat de opdracht en het lesmateriaal aanreikt. 
+Voor deze laatste code review kan je maximaal 6 punten halen. Let wel op, dat is niet makkelijk en het is ook zeker niet de verwachting dat iedere student dat haalt. Voor 6 punten is naast de kwaliteit ook het ontwerp van belang, dat wil zeggen dat je een eigen insteek hebt gekozen voor de oplossing van de opdrachten. Daarvoor zal je verder moeten gaan dan wat de opdracht en het lesmateriaal aanreikt. 
