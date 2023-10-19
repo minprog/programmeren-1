@@ -3,7 +3,7 @@ files:
     required:
         - verslag.pdf
     optional:
-        - helpers.c
+        - calendar.c
         - peers.zip
 check:
   tool: check50
