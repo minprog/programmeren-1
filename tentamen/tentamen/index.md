@@ -9,4 +9,3 @@ De docent moet de tijd van inleveren noteren.
 **Je mag altijd maar één keer inleveren, dus wacht niet op de check-resultaten.**
 
 Na inleveren kun je de zaal verlaten.
-
