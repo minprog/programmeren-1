@@ -126,22 +126,6 @@ grades:
     basics_arrays: *check
     basics_functions: *check
 
-    tentamen-oefening-regen: *automatic
-    tentamen-oefening-rechthoeken: *automatic
-    tentamen-oefening-hoofdletters: *automatic
-    tentamen-oefening-driehoek: *automatic
-
-    tentamen-oefening-alfabet: *automatic
-    tentamen-oefening-formule: *automatic
-    tentamen-oefening-hoofdletters: *automatic
-    tentamen-oefening-klinkers: *automatic
-    tentamen-oefening-morse: *automatic
-    tentamen-oefening-rechthoeken: *automatic
-    tentamen-oefening-regen: *automatic
-    tentamen-oefening-tennis: *automatic
-    tentamen-oefening-trapezium: *automatic
-    tentamen-oefening-wachtwoord: *automatic
-
     review_1: *manual
     review_2: *manual
     review_3: *manual

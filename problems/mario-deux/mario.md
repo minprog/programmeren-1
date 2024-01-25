@@ -33,7 +33,7 @@ Try to establish a relationship between (a) the height the user would like the p
 
 ## Usage
 
-Your program should behave per the example below. Assumed that the underlined text is what some user has typed.
+Your program should behave per the example below.
 
     $ ./mario
     Height: 4
