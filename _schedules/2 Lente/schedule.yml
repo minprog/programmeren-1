@@ -11,22 +11,22 @@ Module 2:
 Module 3:
     "Videocollege: C": /lectures/c
     Hello, you! [opdracht]: /problems/hello
-    "Short: Operators": /shorts
-    "Short: Variables": /shorts
-    "Short: Functions": /shorts
+    "Short: Operators": /shorts/operators
+    "Short: Variables": /shorts/variables
+    "Short: Functions": /shorts/functions
     Functies [aanpassen!]: /problems/functions
     Maths: /problems/maths
     Huiswerk:
         Variabelen [boek]: /exercises/book/variables
 
 Module 4:
-    "Short: Conditionals": /shorts
+    "Short: Conditionals": /shorts/conditionals
     Acid Test: /problems/acid
     Orakel: /problems/orakel
     Rechthoeken: /problems/rechthoeken
 
 Module 5:
-    "Short: Loops": /shorts
+    "Short: Loops": /shorts/loops
     Repeat: /problems/repeat
     Soda: /problems/soda
     Mario: /problems/mario
@@ -77,8 +77,8 @@ Module 8:
 #--------
 
 Module 9:
-    "Short: Files": /shorts
-    "Short: Command Line Arguments": /shorts
+    "Short: Files": /shorts/files
+    "Short: Command Line Arguments": /shorts/cla
     head: /problems/unix/head
     tail: /problems/unix/tail
     wc: /problems/unix/wc
