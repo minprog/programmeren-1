@@ -89,6 +89,7 @@ Module 9:
     paste: /problems/unix/paste
     tail*: /problems/unix/tail
     strings*: /problems/unix/strings
+    recover*: /problems/recover
 
 Module 10:
     # This is about 2D arrays
