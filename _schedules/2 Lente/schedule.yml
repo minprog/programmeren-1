@@ -29,7 +29,8 @@ Module 5:
     "Short: Loops": /shorts
     Repeat: /problems/repeat
     Soda: /problems/soda
-    Mario: /problems/mario/less
+    Mario: /problems/mario
+    Mario, part deux: /problems/mario-deux
     Regen: /problems/regen
     Population: /problems/population
     Trapeziumº: /problems/trapezium
