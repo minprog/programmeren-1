@@ -1,4 +1,4 @@
-## Wachtwoord
+# Wachtwoord
 
 Om gebruikers zich te laten registreren wil een website dat de wachtwoorden tenminste 8 tekens (characters) lang zijn, en nooit twee dezelfde tekens direct achter elkaar bevat.Schrijf een programma `wachtwoord.c` dat checkt of een wachtwoord “sterk genoeg” is op basis van deze regels. Het programma blijft om een nieuw wachtwoord vragen tot het sterk genoeg is.
 

@@ -1,16 +1,5 @@
 # Ontwerpprincipes
 
-> **Individuele opdracht.**
->
-> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
->
-> **Je gebruikt deze opdracht om dit te leren:**
->
-> - Hoe je ontwerpprincipes kunt gebruiken om een programma te schrijven, en
-> - hoe je deze ontwerpprincipes tot het uiterste kunt gebruiken om iets van te leren.
->
-> na het maken van de opdracht kun je extra bestuderen hoe je bovenstaande dingen hebt aangepakt.
-
 Deze opdracht bouwt voort op je eigen implementie van de Calendar-opdracht. Deze is al flink opgedeeld in verschillende functies. Maar het opsplitsen van een programma in functies kun je nog véél verder doorvoeren. Daar ga je hier mee experimenteren.
 
 Onderdeel van deze opdracht is het schrijven van een verslag over jouw aanpak. Hieronder vind je meer instructies.

@@ -67,7 +67,7 @@ Module 7:
 
 Module 8:
     # "Videocollege: Algorithms": /lectures/algorithms
-    Temperatuurtabellen: /problems/conversion
+    Temperatuurconversie: /problems/conversion
     Caffeine: /problems/caffeine
     Sort: /problems/sort
     Calendar: /problems/calendar
@@ -79,15 +79,15 @@ Module 8:
 Module 9:
     "Short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
-    head: /problems/unix/head
-    tail: /problems/unix/tail
-    wc: /problems/unix/wc
-    cut: /problems/unix/cut
-    uniq: /problems/unix/uniq
     cat: /problems/unix/cat
-    expand: /problems/unix/expand
     nl: /problems/unix/nl
+    head: /problems/unix/head
+    wc: /problems/unix/wc
+    uniq: /problems/unix/uniq
+    cut: /problems/unix/cut
+    expand: /problems/unix/expand
     paste: /problems/unix/paste
+    tail*: /problems/unix/tail
     strings*: /problems/unix/strings
 
 Module 10:

@@ -11,4 +11,4 @@ De naam van het tekstbestand en de gekozen kolom worden opgegeven als command-li
 
     cut 2 telefoon.txt
 
-Als je verder wil gaan, gebruik dan `man cut` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.
+Als je verder wil gaan dan bovenstaande opdracht, gebruik dan `man cut` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.

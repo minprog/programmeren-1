@@ -4,4 +4,4 @@ Schrijf een tool die de laatste regels van een file naar de terminal print. De n
 
 Bedenk eerst waarom deze tool veel complexer is om te implementeren dan `head`.
 
-Als je verder wil gaan, gebruik dan `man tail` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.
+Als je verder wil gaan dan bovenstaande opdracht, gebruik dan `man tail` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.

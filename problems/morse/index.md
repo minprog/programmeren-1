@@ -1,4 +1,4 @@
-## Morse
+# Morse
 
 Schrijf een programma `morse.c` dat een Morse-code vertaald naar tekst en deze uitprint. Morse-code is een systeem dat door middel van korte en lange signalen informatie overbrengt. Korte signalen worden met een punt (.) aangegeven en lange signalen met een streep (-). Een combinatie van strepen en punten kunnen vervolgens staan voor letters of cijfers. Zo is `...---...` het wel bekende SOS.
 

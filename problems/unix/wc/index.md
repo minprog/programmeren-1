@@ -1,5 +1,5 @@
 # UNIX: wc
 
-Schrijf een tool die van een tekstbestand het aantal regels, woorden en tekens telt, en deze statistieken uitprint. De naam van de file wordt opgegeven als command-line argument.
+Schrijf een tool die van een tekstbestand het aantal regels (1), woorden (2) en tekens (3) telt, en deze statistieken uitprint. De naam van de te analyseren file wordt opgegeven als command-line argument.
 
-Als je verder wil gaan, gebruik dan `man wc` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.
+Als je verder wil gaan dan bovenstaande opdracht, gebruik dan `man wc` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.
