@@ -90,6 +90,7 @@ Module 9:
     tail*: /problems/unix/tail
     strings*: /problems/unix/strings
     recover*: /problems/recover
+    filetype*: /problems/filetype
 
 Module 10:
     # This is about 2D arrays
@@ -102,7 +103,6 @@ Module 11:
     Beatles: /problems/beatles
     Whodunit: /problems/whodunit
     Filter: /problems/filter/less
-    Filetype (get file type from magic etc): /problems/filetype
     Resize*: /problems/resize/more
 
 Module 12:

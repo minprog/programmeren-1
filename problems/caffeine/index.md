@@ -1,11 +1,5 @@
 # Caffeine
 
-> **Individueel.**
->
-> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
-
-## Greedy Algorithms
-
 Let's talk algorithms first. You're going to implement a **greedy** algorithm, which helps us find the best solution for a given problem.
 
 The key idea of greedy algorithms is that for each step towards the solution, they take the option that's worth the most.
