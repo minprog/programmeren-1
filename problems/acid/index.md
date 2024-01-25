@@ -1,8 +1,8 @@
 # Acid test
 
-Maak een bestand genaamd `acid.c`. Implementeer het volgende programma.
+Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
 
-    bool is_acidic(...)
+    bool is_acidic(float value)
     {
         // beslis of dit zuur is (ofwel kleiner dan 7.0)
     }
