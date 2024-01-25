@@ -1,8 +1,4 @@
-# Tentamen: Regen
-
-Dit is een oefenopdracht voor het tentamen. Probeer 'm in maximaal 30 minuten te maken. Als dat niet lukt, denk dan even goed na welke informatie je mist of wat je nodig hebt om een goed begin te maken. Zoek dat uit en probeer het nog een keer. Ga pas daarna naar de volgende oefenopdracht!
-
-## Regen
+# Regen
 
 Schrijf een programma dat op basis van de invoer de gemiddelde hoeveelheid regen berekent over een aantal dagen. De gebruiker mag één of meer dagelijkse hoeveelheden regenval invullen. Als er geen invoer meer is, dan kan de gebruiker `999` intikken om af te sluiten.
 
