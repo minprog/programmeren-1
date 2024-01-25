@@ -17,22 +17,22 @@
 
 ## Opdracht
 
-Schrijf, in een bestand genaamd `orakel.py`, een programma dat de gebruiker vraagt om antwoord te geven op de 'De grote vraag van het leven, het universum en alles daarbij'.
+Schrijf, in een bestand genaamd `orakel.c`, een programma dat de gebruiker vraagt om antwoord te geven op de 'De grote vraag van het leven, het universum en alles daarbij'.
 Als de gebruiker als antwoord `42`, `tweeenveertig`, of `tweeënveertig` geeft, moet het programma `Ja` printen, maar bij elk ander antwoord `Nee`.
 
 ## Voorbeelden
 
 Je programma moet uiteindelijk werken zoals in de voorbeelden hieronder.
 
-    $ python orakel.py
+    $ ./orakel
     Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? 42
     Ja
 
-    $ python orakel.py
+    $ ./orakel
     Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? tweeenveertig
     Ja
 
-    $ python orakel.py
+    $ ./orakel
     Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? drieëntachtig
     Nee
 
@@ -40,17 +40,21 @@ Je programma moet uiteindelijk werken zoals in de voorbeelden hieronder.
 
 Ontwerp je code zoals hieronder beschreven. Vul de docstrings aan met doctests en eventueel verdere uitleg.
 
-    def check_answer(answer: str) -> bool:
-        """
-        Controleer of het antwoord op de vraag één van de opties
-        42, tweeenveertig, of tweeënveertig is.
-        """
+    // Controleer of het antwoord op de vraag één van de opties
+    // 42, tweeenveertig, of tweeënveertig is.
+    bool check_answer(char[] answer)
+    {
+    
+    }
 
-    if __name__ == '__main__':
-        <Vraag hier de gebruiker om een antwoord, roep je functie aan, en print het oordeel>
+    int main(void)
+    {
+        // Vraag hier de gebruiker om een antwoord, roep je functie aan
+        // en print het oordeel
+    }
 
 ## Tips
 
-* Dit is de eerste keer dat je met `if`-`else`-statements gaat werken. Vergeet niet dat er ook booleaanse operaties zijn zoals `and` en `or`.
+* Dit is de eerste keer dat je met `if`-`else`-statements gaat werken. Vergeet niet dat er ook booleaanse operaties zijn zoals `&&` en `||`.
 
-* De functie `check_answer` moet een `bool` returnen, volgens de type hint. Doe dit via `return True` of `return False`, al naar gelang de conclusie die de functie trekt.
+* De functie `check_answer` moet een `bool` returnen. Doe dit via `return true` of `return false`, al naar gelang de conclusie die de functie trekt.
