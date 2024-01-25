@@ -99,7 +99,7 @@ Module 10:
 
 Module 11:
     "Videocollege: Memory": /lectures/memory
-    Beatles: /exercises/writing/beatles
+    Beatles: /problems/beatles
     Whodunit: /problems/whodunit
     Filter: /problems/filter/less
     Filetype (get file type from magic etc): /problems/filetype
