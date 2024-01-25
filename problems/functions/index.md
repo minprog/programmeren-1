@@ -64,6 +64,8 @@ Create a function called `max` that takes two _floats_ and returns the maximum v
 
 **Test** your function by adding code to `main`.
 
+<!--
+
 ## Exercise 5
 
 Create a function called `print_array` that takes two parameters: a _float array_ and an _integer_ (denoting the length of the array). The function should print the entire array of floats to a precision of two decimals. E.g.,
@@ -88,3 +90,5 @@ Create a function that finds the maximum value in a _float_ array. Before you im
 Think of a couple of good testcases. What is the max of `{1.555, 3, 1.645, 178}`? What is the max of an array with only one element? What is the max of an empty array?
 
 **Test** your function by adding code to `main`.
+
+-->
