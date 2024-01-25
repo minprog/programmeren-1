@@ -1,4 +1,4 @@
-## Tennis
+# Tennis
 
 Implementeer een tennisspel met woorden in `tennis.c`. Er zijn twee spelers in het spel en speler 1 begint door een woord in te voeren. Daarna moet speler 2 een woord invoeren dat begint met de laatste letter van het woord van speler 1. Hierna is speler 1 weer aan de beurt en moet een woord invullen dat begint met de laatste letter van het woord van speler 2. Het spel gaat door totdat één van de spelers een woord opgeeft dat begint met een verkeerde letter.
 

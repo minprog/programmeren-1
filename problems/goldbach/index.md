@@ -1,11 +1,5 @@
 # Goldbach
 
-> **Individueel.**
->
-> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
-
-## Het vermoeden van Goldbach
-
 Het vermoeden van Goldbach is een van de oudste onopgeloste problemen in de wiskunde. Goldbach stelde:
 
 _"Elk even getal groter dan 2 kan geschreven worden als de som van twee priemgetallen."_

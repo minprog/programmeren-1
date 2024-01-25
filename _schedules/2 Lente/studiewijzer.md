@@ -1,6 +1,6 @@
 # Programmeren 1
 
-## Studiewijzer<br><small>Lente 2023</small>
+## Studiewijzer<br><small>Lente 2024</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 

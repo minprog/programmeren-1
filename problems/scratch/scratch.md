@@ -1,11 +1,5 @@
 # Scratch
 
-> **Individueel.**
->
-> Samenwerken bij deze opdracht is niet toegestaan; het is prima om medestudenten en anderen om hulp te vragen, als het er maar niet op neerkomt dat iemand anders een deel van het werk voor je doet. Voorbeelden van "redelijke" en "onredelijke" manieren van samenwerken vind je in de studiewijzer.
-
-## Itching to program?
-
 It's time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
 - Your project must have at least two sprites, at least one of which must resemble something other than a cat.
