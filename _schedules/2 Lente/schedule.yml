@@ -93,20 +93,27 @@ Module 9:
     filetype*: /problems/filetype
 
 Module 10:
+    "Videocollege: Memory": /lectures/memory
+    strchr: .
+    strrchr: .
+    strcat: .
+    strdup: .
+    strfry: .
+    strsep: .
+    # Whodunit: /problems/whodunit
+    # Filter: /problems/filter/less
+    # Resize*: /problems/resize/more
+
+Module 11:
     # This is about 2D arrays
     Snowfall: /problems/snowfall
     Game of Life: /problems/life
     Tiles: /problems/tiles
 
-Module 11:
-    "Videocollege: Memory": /lectures/memory
-    Beatles: /problems/beatles
-    Whodunit: /problems/whodunit
-    Filter: /problems/filter/less
-    Resize*: /problems/resize/more
-
 Module 12:
     "Videocollege: Data structures": /lectures/data-structures
+    Beatles: /problems/beatles
+    Linked List (TBD): /problems/linked
     Questions: /problems/speller/questions
     Speller: /problems/speller
 

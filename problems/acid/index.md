@@ -16,6 +16,4 @@ Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
 
 ## Hint
 
-- De logica is al gegeven. Het enige dat je moet doen is het in de template passen.
-
-- Het is noodzakelijk om zowel in `is_acidic` als in de `main` een if-else toe te voegen.
+Het is noodzakelijk om zowel in `is_acidic` als in de `main` een if-else toe te voegen.
