@@ -32,4 +32,4 @@ Als de gebruiker als antwoord `42`, `tweeenveertig`, of `tweeënveertig` geeft, 
     Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? drieëntachtig
     Nee
 
-Schrijf je code volgens hetzelfde patroon als bij Acid Test.
+Schrijf je code volgens hetzelfde patroon als bij Acid Test. Dat houdt in, één functie om het antwoord te checken en één main functie.
