@@ -10,4 +10,4 @@ De functie moet als volgt werken:
     to_decimal(0, 1, 0, 1) // returns 5
     to_decimal(1, 1, 1, 1) // returns 15
 
-> Kom je er niet helemaal uit met binaire rekenen, grijp dan nog even terug naar het videocollege!
+> Kom je er niet helemaal uit met binair rekenen, grijp dan nog even terug naar het videocollege!
