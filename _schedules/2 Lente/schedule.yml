@@ -14,7 +14,8 @@ Module 3:
     "Videocollege: C": /lectures/c
     Hello, you!: /problems/hello
     Functies: /problems/functions
-    Maths: /problems/maths
+    # Maths: /problems/maths
+    Binary: /problems/binary
     Huiswerk:
         Variabelen [boek]: /exercises/book/variables
     Naslag:

@@ -5,6 +5,7 @@ Er zijn drie coupons te gebruiken:
 1. Drie halen = twee betalen (met andere woorden: iedere derde is gratis)
 2. Tweede halve prijs (met andere woorden: 50% korting op iedere tweede)
 3. Stapelkorting:
+    - 5% korting bij één product
     - 10% korting bij twee producten
     - 20% korting bij drie producten
     - 30% korting bij vier of meer producten
