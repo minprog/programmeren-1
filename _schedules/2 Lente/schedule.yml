@@ -44,10 +44,10 @@ Module 5:
 
 Module 6:
     # Loops die iets uitrekenen
-    Soda: /problems/soda
     Regen: /problems/regen
-    Caffeine: /problems/caffeine
     Population: /problems/population
+    Soda: /problems/soda
+    Caffeine: /problems/caffeine
     Temperatuurconversie: /problems/conversion
     Goldbach*: /problems/goldbach
 
@@ -64,8 +64,8 @@ Module 7:
 
 Module 8:
     # Meer algoritmische string/array-uitdagingen
-    Scrabble: /problems/scrabble
     Alfabet: /problems/alfabet
+    Scrabble: /problems/scrabble
     Formule: /problems/formule
     Cypher: /problems/cypher
     Wachtwoordº: /problems/wachtwoorden
