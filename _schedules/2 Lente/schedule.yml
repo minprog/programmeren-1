@@ -36,8 +36,9 @@ Module 5:
     Repeat: /problems/repeat
     Mario: /problems/mario
     Mario, Part Deux: /problems/mario-deux
+    Driehoek: /problems/driehoek
     Trapeziumº: /problems/trapezium
-    Driehoekº: /problems/driehoek
+    Cirkel*: /problems/cirkel
     Huiswerk:
         Control Flow [boek]: /exercises/book/control-flow
 
