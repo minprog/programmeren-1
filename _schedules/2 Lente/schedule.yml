@@ -14,7 +14,8 @@ Module 3:
     "Videocollege: C": /lectures/c
     Hello, you!: /problems/hello
     Functies: /problems/functions
-    Maths: /problems/maths
+    # Maths: /problems/maths
+    Binary: /problems/binary
     Huiswerk:
         Variabelen [boek]: /exercises/book/variables
     Naslag:
@@ -28,23 +29,25 @@ Module 4:
     Acid Test: /problems/acid
     Orakel: /problems/orakel
     Rechthoeken: /problems/rechthoeken
+    Coupons: /problems/coupons
 
 Module 5:
     "Short: Loops": /shorts/loops
     Repeat: /problems/repeat
     Mario: /problems/mario
     Mario, Part Deux: /problems/mario-deux
+    Driehoek: /problems/driehoek
     Trapeziumº: /problems/trapezium
-    Driehoekº: /problems/driehoek
+    Cirkel*: /problems/cirkel
     Huiswerk:
         Control Flow [boek]: /exercises/book/control-flow
 
 Module 6:
     # Loops die iets uitrekenen
-    Soda: /problems/soda
     Regen: /problems/regen
-    Caffeine: /problems/caffeine
     Population: /problems/population
+    Soda: /problems/soda
+    Caffeine: /problems/caffeine
     Temperatuurconversie: /problems/conversion
     Goldbach*: /problems/goldbach
 
@@ -61,8 +64,8 @@ Module 7:
 
 Module 8:
     # Meer algoritmische string/array-uitdagingen
-    Scrabble: /problems/scrabble
     Alfabet: /problems/alfabet
+    Scrabble: /problems/scrabble
     Formule: /problems/formule
     Cypher: /problems/cypher
     Wachtwoordº: /problems/wachtwoorden

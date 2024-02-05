@@ -42,7 +42,7 @@ Take a look at how this is done for `times_two` and `print_int`.
 
 ## Exercise 2
 
-Create a function called `print_float` that takes a float as input and prints the value with a precision of two decimals. (The [manual](https://manual.cs50.io/3/printf) for `printf` explains about precision.)
+Create a function called `print_float` that takes a float as input and prints the value with a precision of two decimals in the following format: `Value = X.XX`. (The [manual](https://manual.cs50.io/3/printf) for `printf` explains about precision.)
 
 **Test** the function by calling `print_float(2.7444)` from `main` and verify that that it prints:
 
