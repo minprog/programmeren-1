@@ -10,4 +10,4 @@ De functie moet als volgt werken:
     print_byte(5) // prints 00000101
     print_byte(15) // prints 00001111
 
-> Gebruik in dit programma nog geen if-statements. Probeer een manier te vinden puur door te rekenen.
+> Gebruik in dit programma nog geen if-statements (conditionals). Probeer een manier te vinden met alleen maar rekenen.
