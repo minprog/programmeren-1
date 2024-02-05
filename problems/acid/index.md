@@ -2,16 +2,18 @@
 
 Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
 
-    bool is_acidic(float value)
-    {
-        // beslis of dit zuur is (ofwel kleiner dan 7.0)
-    }
+    bool is_acidic(float value);
 
     int main(void)
     {
-        input = get_float("Enter the PH level: ");
+        float input = get_float("Enter the PH level: ");
         
         // roep functie aan en print boodschap afhankelijk van het resultaat
+    }
+
+    bool is_acidic(float value)
+    {
+        // beslis of dit zuur is (ofwel kleiner dan 7.0)
     }
 
 ## Hint
