@@ -85,9 +85,10 @@ Module 9:
 
 Module 10:
     # Dit gaat over 2D arrays
-    Game of Life: /problems/life
-    Snowfall: /problems/snowfall
     Tiles: /problems/tiles
+    Snowfall: /problems/snowfall
+    Game of Life: /problems/life
+    Resize* (TBD more comfy): /problems/resize
 
 Module 11:
     "Videocollege: Memory": /lectures/memory
@@ -110,12 +111,13 @@ Module 11:
 Module 12:
     "Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
+    strfry: .
     strchr: .
     strrchr: .
     strcat: .
     strdup: .
-    strfry: .
     strsep: .
+    TBD*: .
 
 Module 13:
     "Videocollege: Data structures": /lectures/data-structures
@@ -123,6 +125,7 @@ Module 13:
     Linked List: /problems/linked
     Questions: /problems/speller/questions
     Speller: /problems/speller
+    Challenge*: /problems/speller/challenge
 
 # Week 3:
 #   Voorbereiding:

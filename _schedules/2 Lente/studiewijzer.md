@@ -14,42 +14,29 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 ## Opdrachten en eindcijfer
 
-Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen. Dit zijn de belangrijkste onderdelen:
+Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
-- _Individuele programmeeropdrachten_ moet je correct werkend inleveren. Je kunt de opdracht bespreken met medestudenten, maar niet de aanpak of oplossing. De assistenten staan klaar om je verder te helpen als je vast zit. Correctheid wordt gecheckt door de website. Het maken van de opdrachten telt niet mee in het eindcijfer maar je moet ze wel gedaan hebben.
+Deel 1: opdrachten en tentamen (50%). Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 5,5. Let op de minimumeisen hieronder.
 
-- _Beoordeling na code review_. Drie keer ga je samen met medestudenten een review doen van uitwerkingen van de opdrachten. Met die review in het achterhoofd ga je je eigen uitwerking helemaal netjes maken en nog eens inleveren. Een assistent kijkt de laatste versie na en geeft punten en feedback. Het gaat daarbij niet om de correcte werking maar om de netheid en overzichtelijkheid van de code. De hoogste opdrachtscore telt voor 25% mee in het eindcijfer.
+Deel 2: opdrachten voor punten (50%). Met modules 9 t/m 13 kun je steeds 0,7-0,9 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
 
-- _Tentamen_. Bij het tentamen ga je relatief kleine programma's schrijven, op basis van wat je geleerd hebt. Daar laat je zien dat je kennis hebt opgedaan van standaardoplossingen en de vaardigheid om dat soort oplossingen toe te passen op nieuwe opgaven. Het tentamen moet je minimaal voldoende maken om het vak te kunnen halen. Het cijfer telt voor 75%.
+### Minimumeisen
 
-Voordat je een eindcijfer kunt krijgen moet je alle onderdelen hebben volbracht, en bovendien aan alle minimumeisen (zie onder) hebben voldaan, tenzij je een uitzondering per e-mail hebt gekregen van de hoofddocent. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
+Het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mogelijk het vak maar half te doen. Jouw werk zichtbaar maken doe je onder andere op de volgende manieren:
 
-## Oefenopdrachten
-
-Er zijn verschillende soorten oefenopdrachten ter aanvulling op de stof. Je moet ze allemaal doen want dit zijn de essentiële oefeningen om de basisvaardigheden op te pikken. Tot op zekere hoogte werk je hier samen.
-
-- _Basisboek-oefeningen_ pak je zelfstandig aan en bespreek je gezamenlijk als je er niet uit komt. Er zijn individuele toetsjes om te checken of je het al voldoende beheerst.
-
-- _Kleine programmeeroefeningen_ doe om de theorie goed in je vingers te krijgen. Het is geen probleem als een medestudent of assistent het een keer voordoet.
-
-- _Samenwerkopdrachten_ doe je samen met een medestudent. Deze opdrachten helpen je oefenen met het oplossen van problemen en het schrijven van programma's.
-
-## Minimumeisen
-
-De opdrachten en toetsjes netjes werkend inleveren is de basiseis om het vak te halen. Het is dus niet mogelijk om opdrachten over te slaan. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
-
+1. elke lesweek voldoende opdrachten netjes werkend inleveren
 1. aanwezig zijn in het lokaal en werken met medestudenten
 1. meerdere keren per week contact met assistenten over je opdrachten
-1. enkele keren individueel contact met de assistent die je werk nakijkt
+1. één keer per week een voortgangsgesprek met een docent
 1. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Daarnaast is er een tentamen waarin we checken of je kleine programmeerproblemen effectief kunt oplossen. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
+Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
 
 ## Aanwezigheid
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week aanwezig zijn en contact hebben met een assistent.
+Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week je voortgangsgesprek hebben, en zo vaak langskomen als nodig is om verder te komen.
 
 ## Vragen stellen
 
@@ -83,25 +70,9 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-Het werk van dit vak is opgedeeld in wekelijkse modules. Er zijn twee soorten deadlines:
+Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
 
-1. De deadline voor het het goed inleveren van de oefenopdrachten en het volledig werkend hebben van de programmeeropdrachten. Met de tool `check50` kun je nagaan of je uitwerking helemaal aan de eisen voldoet. Is dat zo, dan lever je de uitwerking meteen in op de website. Je hoeft de uitwerking nog niet netjes te maken!
-
-2. De deadline voor de verbeterde versie van je uitwerking. In sommige weken zul je een code review doen met medestudenten, op basis waarvan je je uitwerking helemaal kunt verbeteren. Dat is de versie waarvoor je punten en feedback krijgt.
-
-Dit is een overzicht van de deadlines per week:
-
-|          | deadline werkend | deadline verbeterd |
-| :------- | :--------------- | :----------------- |
-| Module 1 | vr 10 feb 16:59  | -                  |
-| Module 2 | vr 17 feb 16:59  | di 21 feb 16:59    |
-| Module 3 | vr 24 feb 16:59  | -                  |
-| Module 4 | vr  3 mrt 16:59  | di  7 mrt 16:59    |
-| Module 5 | vr 10 mrt 16:59  | -                  |
-| Module 6 | vr 17 mrt 16:59  | di 21 mrt 16:59    |
-| Module 7 | vr 24 mrt 16:59  | -                  |
-
-Eventuele wijzigingen worden na aanvang van de cursus doorgegeven.
+De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
 
 ### Ziekte en achterlopen
 
@@ -117,41 +88,15 @@ Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factor
 
 ## Opdrachtcijfers
 
-Je gaat drie keer een verbeterde versie van je opdracht inleveren, met een verslag van de code review erbij. Deze inzending wordt vervolgens beoordeeld op basis van het onderstaande schema, dat gaat over de **kwaliteit van de code**. Je kunt maximaal 6 punten krijgen, maar de normale verwachting is dat veel studenten na wat feedback 4 punten zullen halen. Uiteindelijk zal de hoogste van de drie scores tellen als eindscore, dus je hebt ruimte om te groeien tijdens de cursus.
+| Onderdeel | Minimum                     | Punten | More comfortable |
+|-----------|-----------------------------|--------|------------------|
+| Module 9  | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Module 10 | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Module 11 | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Module 12 | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Module 13 | alle basisopdrachten gedaan | 0,7    | 0,2              |
 
-6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-5. zeer goede kwaliteit, beperkt ruimte voor verbetering, en scherp beredeneerde keuzes
-4. degelijke kwaliteit, met ruimte voor verbetering, maar wel goed beredeneerde keuzes
-3. net voldoende, erg veel ruimte voor verbetering, maar wel een aantal goed beredeneerde keuzes
-2. onvoldoende zichtbare aandacht voor kwaliteit, of beperkt beredeneerde keuzes
-1. geen zichtbare aandacht voor kwaliteit of redenatie
-{: start="6" reversed=""}
-
-Wil je goed scoren (rond de 4 punten), dan bespreek je uitgebreid je code met andere studenten (na inleveren van je oplossing), doe je actief mee aan de code review-sessies, bestudeer je zeer grondig de feedback die je krijgt, en loop je elke keer kritisch elke regel code na met de ideeën uit die bronnen in het achterhoofd. Zo leg je een perfecte basis om verder te leren.
-
-Wil je erg hoog scoren (richting 6 punten), dan zul je niet alleen de aangeleverde materialen moeten bestuderen, maar ook externe bronnen. Je mag altijd externe bronnen raadplegen over hoe je "goede" code schrijft, zolang de bron maar niet uitlegt hoe je *jouw opdracht* op een mooie manier maakt. Zelf de vertaling maken van algemene principes naar de opdracht dus, zoals altijd op de universiteit. Zoektip: "c code quality", "writing good code", "simplifying c code".
-
-### Extra opdrachten
-
-Er zijn ook "extra opdrachten" in de cursus. Deze zijn bedoeld voor studenten die zich wat comfortabeler voelen met programmeren en extra uitdaging zoeken. Wil je die inleveren, zorg dan dat je éérst de andere opdrachten maakt en inlevert. Dat zijn namelijk de opdrachten waarvoor je een review doet en die beoordeeld zullen worden.
-
-Toch kan het leuk zijn om de extra opdrachten te doen, omdat het uitdagende puzzels zijn waar je veel van leert. Per extra opdracht kun je een extra punt verdienen voor het onderdeel individuele opdrachten. Maar als je niet genoeg tijd hebt gewoon overslaan! De volgende deadlines gelden:
-
-| extra opdracht   | deadline        |
-| :--------------- | :-------------- |
-| Module 2         | vr 17 feb 16:59 |
-| Module 3         | vr 24 feb 16:59 |
-| Module 4         | vr  3 mrt 16:59 |
-| Module 5         | vr 10 mrt 16:59 |
-| Module 6         | vr 17 mrt 16:59 |
-
-Het is niet mogelijk om bij de assistenten hulp te krijgen voor de extra opdrachten. Het is aan te raden om te kijken of je er medestudenten bij kunt betrekken en samen de oplossing te ontwerpen voordat je deze zelf gaat implementeren in code.
-
-Jouw uitwerking van de extra opdrachten zal basis zijn voor een mondelinge toets waarin je moet uitleggen hoe je het maken aangepakt hebt en waarom je bepaalde keuzes hebt gemaakt. Alleen als je je code goed kunt uitleggen zul je de punten toegekend krijgen.
-
-### Berekening opdrachtcijfer
-
-Om het cijfer te berekenen neem je de hoogste van de 3 code-reviewscores, die vermenigvuldig je met 5, en dan tel je per succesvolle extra opdracht nog een punt bij. Mocht je hoger dan 30 scoren dan wordt het afgekapt op 30. Om er een cijfer van te maken reken je `totaal / 30 * 9 + 1`.
+Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
 
 ## Tentamen
 
@@ -163,13 +108,13 @@ De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvol
 - de hieronder genoemde eisen zijn minimum-eisen, dus er vindt geen compensatie plaats tussen verschillende genoemde factoren
 - wel kan in een heel bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
 
-**6**
+**5,5**
 
 - er zijn zeker 3 oplossingen die helemaal werken zoals in de opgaven
 - algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if
 - de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing)
 
-**7**
+<!-- **7**
 
 - aan alle eisen voor een 6 moet worden voldaan
 - vrijwel alle opdrachten zijn goed uitgewerkt
@@ -193,7 +138,7 @@ De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvol
 
 - aan alle eisen voor een 9 moet worden voldaan
 - zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
-- tot in de puntjes verzorgd: samenspel van namen, comments en opmaak
+- tot in de puntjes verzorgd: samenspel van namen, comments en opmaak -->
 
 ## Lesmaterialen
 
