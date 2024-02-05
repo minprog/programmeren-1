@@ -90,7 +90,16 @@ Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de doce
 
 Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factoren is er vaak nog wel een mogelijkheid om het vak te halen, ook als er iets helemaal misloopt. Hoe eerder je contact opneemt, hoe beter.
 
-## Opdrachtcijfers
+## Details over cijfers
+
+Als je het tentamen of hertentamen haalt, ontvang je een 5,5 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
+
+- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
+- er zijn zeker 3 van de 5 oplossingen die helemaal werken zoals in de opgaven (dit is afhankelijk van het uiteindelijke niveau van de opgaven)
+- algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if, opgedeeld in functies
+- de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing), sommige opgaven zullen hier ook specifiek over gaan
+
+Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindcijfer van een 5,5 naar maximaal een 10.
 
 | Onderdeel | Minimum                     | Punten | More comfortable |
 |-----------|-----------------------------|--------|------------------|
@@ -101,48 +110,6 @@ Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factor
 | Module 13 | alle basisopdrachten gedaan | 0,7    | 0,2              |
 
 Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
-
-## Tentamen
-
-De beoordeling van het tentamen vindt plaats op een schaal van 6 tot 10 of onvoldoende (het moet immers voldoende worden gemaakt om het vak te kunnen halen).
-
-**Basiseis**
-
-- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
-- de hieronder genoemde eisen zijn minimum-eisen, dus er vindt geen compensatie plaats tussen verschillende genoemde factoren
-- wel kan in een heel bijzonder geval besloten worden door de docent dat een half punt wordt toegekend
-
-**5,5**
-
-- er zijn zeker 3 oplossingen die helemaal werken zoals in de opgaven
-- algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if
-- de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing)
-
-<!-- **7**
-
-- aan alle eisen voor een 6 moet worden voldaan
-- vrijwel alle opdrachten zijn goed uitgewerkt
-- vrijwel geen functies en/of arrays, veel ruimte om compacter te maken
-
-**8**
-
-- aan alle eisen voor een 7 moet worden voldaan
-- alle opdrachten zijn precies goed
-- enkele functies en arrays zinvol gebruikt
-- code is redelijk compact, netjes, met goede namen, zinvolle comments
-
-**9**
-
-- aan alle eisen voor een 8 moet worden voldaan
-- zeer compacte code die functie voor functie prettig leesbaar is
-- duidelijke definitie van wat elke functie doet met passende naam
-- zeer goede comments
-
-**10**
-
-- aan alle eisen voor een 9 moet worden voldaan
-- zeer overzichtelijke programmastructuur waardoor het geheel bijzonder snel te begrijpen is
-- tot in de puntjes verzorgd: samenspel van namen, comments en opmaak -->
 
 ## Lesmaterialen
 
