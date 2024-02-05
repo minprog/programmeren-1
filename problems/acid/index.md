@@ -6,7 +6,7 @@ Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
 
     int main(void)
     {
-        float input = get_float("Enter the PH level: ");
+        float input = get_float("Vul het PH level in: ");
         
         // roep functie aan en print boodschap afhankelijk van het resultaat
     }

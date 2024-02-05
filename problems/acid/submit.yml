@@ -1,8 +1,7 @@
 name: acid
 files:
   required:
-    - acid.py
+    - acid.c
 check:
-  tool: checkpy
-  repo: minprog/python
-  args: acid
+  tool: check50
+  slug: minprog/checks/2023/acid
