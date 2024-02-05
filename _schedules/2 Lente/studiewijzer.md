@@ -16,22 +16,21 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
-Deel 1: opdrachten en tentamen (50%). Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald, mits je wekelijks voldoende werk hebt gedaan.
+Deel 1: opdrachten en tentamen (50%). Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 5,5. Let op de minimumeisen hieronder.
 
 Deel 2: opdrachten voor punten (50%). Met modules 9 t/m 13 kun je steeds 0,7-0,9 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
 
 ### Minimumeisen
 
-Wekelijks voldoende opdrachten netjes werkend inleveren is de basiseis om het vak te halen. Daarnaast is het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
+Het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mogelijk het vak maar half te doen. Jouw werk zichtbaar maken doe je onder andere op de volgende manieren:
 
+1. elke lesweek voldoende opdrachten netjes werkend inleveren
 1. aanwezig zijn in het lokaal en werken met medestudenten
 1. meerdere keren per week contact met assistenten over je opdrachten
 1. één keer per week een voortgangsgesprek met een docent
 1. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Ben je niet systematisch aanwezig of doe je niet systematisch mee met samenwerkopdrachten, dan kun je het vak niet halen.
-
-Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
+Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
 
 ## Aanwezigheid
 
