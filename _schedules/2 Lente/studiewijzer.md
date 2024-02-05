@@ -74,15 +74,17 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
+De deadlines in het vak zijn hangen in feite af van de wekelijkse besprekingen die je met een docent hebt.
+
 Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
 
 De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
 
-### Ziekte en achterlopen
+## Achterlopen
 
 Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de docenten naar <mailto:help@mprog.nl>. Je hoeft het niet uitgebreid uit te leggen, maar wel melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
 
-- Ben je één of twee dagen ziek dan is dat geen probleem en kun je de deadline vaak nog halen. Kom je toch niet uit met de laatste opdracht van de week, dan meld je heel duidelijk de stand van zaken via mail en haal je deze opdracht tijdens het weekend in. Dit mag alleen als je de andere opdrachten al hebt ingeleverd.
+- Ben je één of twee dagen ziek dan is dat geen probleem en kun je daarna gewoon weer door. Ga niet te makkelijk compenseren door daarna dagen van 16 uur te maken, want voor je het weet ben je zo weer ziek.
 
 - Heb je een medisch noodgeval en ben je hierdoor bijvoorbeeld een hele week uit de running? Dan bespreek je naderhand met een docent hoe je dit kunt oplossen. Daarbij speelt natuurlijk ook mee hoe makkelijk het programmeren je af gaat en hoeveel energie je hebt om te steken in het inhalen. Op basis van al die informatie kijken we samen wat mogelijk en verstandig is.
 
