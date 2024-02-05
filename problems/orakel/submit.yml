@@ -1,8 +1,7 @@
 name: orakel
 files:
   required:
-    - orakel.py
+    - orakel.c
 check:
-  tool: checkpy
-  repo: minprog/python
-  args: orakel
+  tool: check50
+  slug: minprog/checks/2023/orakel

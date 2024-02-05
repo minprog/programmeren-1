@@ -33,3 +33,25 @@ Als de gebruiker als antwoord `42`, `tweeenveertig`, of `tweeënveertig` geeft, 
     Nee
 
 Schrijf je code volgens hetzelfde patroon als bij Acid Test. Dat houdt in, één functie om het antwoord te checken en één main functie.
+
+## Strings vergelijken
+
+Om strings te vergelijken gebruik je in C de functie `strcmp`. Hier vind je alle details: <https://manual.cs50.io/3/strcmp>.
+
+Kijk goed naar de "Return Value" van `strcmp` op <https://manual.cs50.io/3/strcmp#return-value>.
+
+`strcmp` returned dus een `int`. Die `int` is 0 als de strings gelijk zijn. Zo kun je dus kijken of twee strings aan elkaar gelijk zijn:
+
+    string tekst1 = "foo";
+    string tekst2 = "bar";
+
+    if (strcmp(tekst1, tekst2) == 0)
+    {
+        printf("Gelijk!\n");
+    }
+    else
+    {
+        printf("Ongelijk!\n");
+    }
+
+> Let op, om `strcmp` te gebruiken moet je `string.h` include-en. Dat doe je zo: `#include <string.h>`
