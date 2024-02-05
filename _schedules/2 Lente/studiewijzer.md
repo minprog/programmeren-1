@@ -32,6 +32,10 @@ Het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mo
 
 Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
 
+### Verwachtingen
+
+De intentie is dat bijna alle studenten hoger halen dan de 5,5 van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
+
 ## Aanwezigheid
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
