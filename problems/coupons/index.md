@@ -17,4 +17,8 @@ Schrijf een programma `coupons.c` dat eerst vraagt hoeveel producten je wilt kop
     Wat is de prijs per stuk? 5.90
     Met coupon 2 kost het: 8.85
 
-> Schrijf voor iedere coupon een eigen functie, bijvoorbeeld:<br/> `float bereken_coupon1(int aantal_stuks, int prijs)`
+Schrijf voor iedere coupon een eigen functie:
+
+* `float bereken_coupon1(int aantal_stuks, float prijs)`
+* `float bereken_coupon2(int aantal_stuks, float prijs)`
+* `float bereken_coupon3(int aantal_stuks, float prijs)`
