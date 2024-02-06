@@ -87,6 +87,6 @@ The above is a script that will guide you through most of the installation. When
 
 Download and install [Notepad++](https://notepad-plus-plus.org/).
 
-Zodra je Notepad++ hebt gestart ga je het zo instellen dat er geen tabs maar spaties worden gebruikt:
+Once you have Notepad++ configure it to use spaces instead of tabs like so:
 
 ![notepad tabs to spaces instructie](np-spaces.png)
