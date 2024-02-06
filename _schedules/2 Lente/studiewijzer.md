@@ -52,7 +52,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op dinsdag t/m donderdag vanaf 13 uur
+- parttime-studenten op dinsdag t/m donderdag tussen 16:00 en 18:00 uur
 
 **Spreekuur en e-mail:** contact met de docenten.
 
