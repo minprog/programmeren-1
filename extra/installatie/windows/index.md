@@ -86,3 +86,7 @@ The above is a script that will guide you through most of the installation. When
 ## Step 4: Code editor
 
 Download and install [Notepad++](https://notepad-plus-plus.org/).
+
+Zodra je Notepad++ hebt gestart ga je het zo instellen dat er geen tabs maar spaties worden gebruikt:
+
+![notepad tabs to spaces instructie](np-spaces.png)
