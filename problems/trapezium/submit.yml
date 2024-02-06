@@ -1,7 +1,7 @@
-name: tentamen-oefening-trapezium
+name: trapezium
 files:
     required:
         - trapezium.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/trapezium
+    slug: minprog/checks/2023/trapezium
