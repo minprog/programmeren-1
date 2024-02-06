@@ -1,7 +1,7 @@
-name: tentamen-oefening-rechthoeken
+name: rechthoeken
 files:
     required:
         - rechthoeken.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/rechthoeken
+    slug: minprog/checks/2023/rechthoeken
