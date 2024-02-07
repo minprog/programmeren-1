@@ -106,6 +106,7 @@ grades:
     speller_questions: *check
 
     #------
+    scratch: *check
 
     hello: *automatic
     functions: *automatic
@@ -202,6 +203,11 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
+
+module_1:
+    show_progress: true
+    submits:
+        scratch: 1
 
 module_3:
     show_progress: true
