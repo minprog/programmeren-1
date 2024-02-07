@@ -1,5 +1,7 @@
 # Functions
 
+> Als je even totaal niet weet hoe te beginnen, kijk dan het filmpje [Short: Functions](/shorts/functions) om goed te begrijpen waar functies voor zijn. Het kan even duren voordat je het goed begint te begrijpen, maar je zou dan wel een begin moeten kunnen maken met deze oefeningen. Vergeet niet dat je ook om hulp en uitleg kan vragen!
+
 Create a new file called `functions.c`.
 
 Copy the following code into the file:
