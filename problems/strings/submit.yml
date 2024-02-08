@@ -2,10 +2,4 @@ name: strings
 form: true
 files:
   required:
-    - vertical.c
-    - skip.c
-    - eek.c
-    - bob.c
-  optional:
-    - palindrome.c
-    - taboo.c
+    - strings.c
