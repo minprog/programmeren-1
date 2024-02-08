@@ -1,4 +1,4 @@
-# strings more
+# Strings more
 
 Implement the functions below in a file called `strings_more.c`
 
