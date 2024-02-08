@@ -35,6 +35,6 @@ sPoNgEbOb TaLkS fUnNy, LiKe ThIs.
 
 Create a function `bob` that takes a string and prints that string into the alternating case of Spongebob. For instance, `bob("Know your meme")` should print:
 
-    Spongebob says: kNoW yOuR mEmE
+    kNoW yOuR mEmE
 
 > Notice that non alphabetic characters like spaces do not break the alternating pattern of lowercase and uppercase letters.
