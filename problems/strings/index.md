@@ -1,4 +1,4 @@
-# Exercises: Strings
+# Strings
 
 Implement the functions below in a file called `strings.c`
 
