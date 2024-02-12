@@ -32,3 +32,5 @@ Als beginpunt kan je deze code gebruiken:
     {
         // TODO
     }
+
+> `argc` & `argv`? Zie de [command-line arguments naslag](/shorts/argv)
