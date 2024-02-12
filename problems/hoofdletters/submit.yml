@@ -1,4 +1,4 @@
-name: tentamen-oefening-hoofdletters
+name: hoofdletters
 files:
     required:
         - hoofdletters.c

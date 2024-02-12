@@ -1,4 +1,4 @@
-name: tentamen-oefening-alfabet
+name: alfabet
 files:
     optional:
         - alfabet.c

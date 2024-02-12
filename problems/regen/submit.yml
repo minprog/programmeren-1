@@ -1,7 +1,7 @@
-name: tentamen-oefening-regen
+name: regen
 files:
     required:
         - regen.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/regen
+    slug: minprog/checks/2023/regen

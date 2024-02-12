@@ -125,6 +125,28 @@ grades:
     trapezium: *automatic
     cirkel: *automatic
 
+    regen: *automatic
+    population: *automatic
+    soda: *automatic
+    caffeine: *automatic
+    conversion: *automatic
+    goldbach: *automatic
+
+    strings: *automatic
+    tennis: *automatic
+    morse: *automatic
+    hoofdletters: *automatic
+    klinkers: *automatic
+    rna: *automatic
+    strings_more: *automatic
+
+    alfabet: *automatic
+    scrabble: *automatic
+    formule: *automatic
+    cypher: *automatic
+    wachtwoord: *automatic
+    decryptor: *automatic
+
     #-------
 
     goldbach: *automatic
@@ -224,6 +246,37 @@ module_5:
         driehoek: 1
         trapezium: 1
         cirkel: 1
+
+module_6:
+    show_progress: true
+    submits:
+        regen: 1
+        population: 1
+        soda: 1
+        caffeine: 1
+        conversion: 1
+        goldbach: 1
+
+module_7:
+    show_progress: true
+    submits:
+        strings: 1
+        tennis: 1
+        morse: 1
+        hoofdletters: 1
+        klinkers: 1
+        rna: 1
+        strings_more: 1
+
+module_8:
+    show_progress: true
+    submits:
+        alfabet: 1
+        scrabble: 1
+        formule: 1
+        cypher: 1
+        wachtwoord: 1
+        decryptor: 1
 
 # opdrachten_week_1:
 #     show_progress: true

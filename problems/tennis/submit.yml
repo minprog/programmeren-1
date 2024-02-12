@@ -1,4 +1,4 @@
-name: tentamen-oefening-tennis
+name: tennis
 files:
     required:
         - tennis.c
