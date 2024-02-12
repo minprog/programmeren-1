@@ -4,4 +4,4 @@ files:
         - morse.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/morse
+    slug: minprog/checks/2023/morse
