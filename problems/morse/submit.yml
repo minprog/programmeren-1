@@ -1,4 +1,4 @@
-name: tentamen-oefening-morse
+name: morse
 files:
     required:
         - morse.c
