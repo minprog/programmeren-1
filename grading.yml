@@ -125,6 +125,28 @@ grades:
     trapezium: *automatic
     cirkel: *automatic
 
+    regen: *automatic
+    population: *automatic
+    soda: *automatic
+    caffeine: *automatic
+    conversion: *automatic
+    goldbach: *automatic
+
+    strings: *automatic
+    tennis: *automatic
+    morse: *automatic
+    hoofdletters: *automatic
+    klinkers: *automatic
+    rna: *automatic
+    strings_more: *automatic
+
+    alfabet: *automatic
+    scrabble: *automatic
+    formule: *automatic
+    cypher: *automatic
+    wachtwoord: *automatic
+    decryptor: *automatic
+
     #-------
 
     goldbach:
