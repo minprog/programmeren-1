@@ -127,21 +127,11 @@ grades:
 
     #-------
 
-    goldbach:
-        <<: *semiautomatic
-        deadline: 15/9/23 17:00
-    decryptor:
-        <<: *semiautomatic
-        deadline: 22/9/23 17:00
-    design_challenge:
-        <<: *semiautomatic
-        deadline: 29/9/23 17:00
-    find:
-        <<: *semiautomatic
-        deadline: 6/10/23 17:00
-    resize:
-        <<: *semiautomatic
-        deadline: 13/10/23 17:00
+    goldbach: *automatic
+    decryptor: *automatic
+    design_challenge: *automatic
+    find: *automatic
+    resize: *automatic
 
     basics_variables: *check
     basics_control_flow: *check
