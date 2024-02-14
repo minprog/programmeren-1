@@ -113,12 +113,12 @@ Module 11:
 Module 12:
     "Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
-    strfry: .
-    strchr: .
-    strrchr: .
-    strcat: .
-    strdup: .
-    strsep: .
+    strfry: /problems/string_functions/strfry
+    strchr: /problems/string_functions/strchr
+    strrchr: /problems/string_functions/strrchr
+    strcat: /problems/string_functions/strcat
+    strdup: /problems/string_functions/strdup
+    strsep: /problems/string_functions/strsep
     TBD*: .
 
 Module 13:
