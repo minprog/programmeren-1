@@ -13,3 +13,5 @@ Implement an animated snowfall simulation in C using ANSI escape codes. The goal
 
 4. **Animation and Clearing:**
    - Use ANSI escape codes to create a smooth animation. The screen should simply be cleared between frames, and snowflakes should be redrawn at their updated positions.
+
+Deze opdracht heeft geen checks.
