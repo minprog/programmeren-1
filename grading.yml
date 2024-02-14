@@ -139,6 +139,7 @@ grades:
     klinkers: *automatic
     rna: *automatic
     strings_more: *automatic
+    morse_more: *automatic
 
     alfabet: *automatic
     scrabble: *automatic
@@ -267,6 +268,7 @@ module_7:
         klinkers: 1
         rna: 1
         strings_more: 1
+        morse_more: 1
 
 module_8:
     show_progress: true

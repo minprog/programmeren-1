@@ -12,23 +12,11 @@ Voor deze opdracht definiëren we vier combinaties die staan voor de volgende le
 Het programma moet als volgt werken:
 
     $ ./morse
-    Usage: ./morse <code>
-
-    $ ./morse ...---...
+    Geef een morse code: ...---...
     SOS
 
-    $ ./morse -..------.-.
+    $ ./morse
+    Geef een morse code: -..------.-.
     DOOR
 
 Let op, je mag aannemen dat er altijd een morse-code door de gebruiker wordt ingevoerd die deelbaar is door 3. Ook mag je aannemen dat de gebruiker enkel streepjes en punten invoert.
-
-Als beginpunt kan je deze code gebruiken:
-
-    #include <cs50.h>
-    #include <stdio.h>
-    #include <string.h>
-
-    int main(int argc, string argv[])
-    {
-        // TODO
-    }

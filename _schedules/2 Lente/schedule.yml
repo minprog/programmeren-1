@@ -60,7 +60,8 @@ Module 7:
     Hoofdletters: /problems/hoofdletters
     Klinkers: /problems/klinkers
     RNA: /problems/rna
-    Strings++*: /problems/strings_more 
+    Strings++*: /problems/strings_more
+    Morse++*: /problems/morse_more
     Huiswerk:
         Strings en Arrays [boek]: /exercises/book/arrays
 
@@ -70,7 +71,7 @@ Module 8:
     Scrabble: /problems/scrabble
     Formule: /problems/formule
     Cypher: /problems/cypher
-    Wachtwoordº: /problems/wachtwoorden
+    Wachtwoordº: /problems/wachtwoord
     Decryptor*: /problems/decryptor
     Huiswerk:
         Functies [boek]: /exercises/book/functions

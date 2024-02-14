@@ -4,4 +4,4 @@ files:
         - wachtwoord.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/wachtwoord
+    slug: minprog/checks/2023/wachtwoord
