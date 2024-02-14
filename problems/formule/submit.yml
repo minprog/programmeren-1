@@ -4,4 +4,4 @@ files:
         - formule.c
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/los/formule
+    slug: minprog/checks/2023/formule
