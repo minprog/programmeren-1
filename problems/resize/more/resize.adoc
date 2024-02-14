@@ -129,12 +129,3 @@ Here's how to check the correctness of your code using `check50`. But be sure to
 ----
 check50 -l minprog/checks/2022/resize/more
 ----
-
-=== `style50`
-
-Here's how to evaluate the style of your code using `style50`.
-
-[source]
-----
-style50 resize.c
-----

@@ -9,6 +9,6 @@ Schrijf een tool die van een tekstbestand een gekozen kolom van uitknippen. Elke
 
 De naam van het tekstbestand en de gekozen kolom worden opgegeven als command-line arguments.
 
-    cut 2 telefoon.txt
+    cut -f2 telefoon.txt
 
 Als je verder wil gaan dan bovenstaande opdracht, gebruik dan `man cut` om te kijken welke opties het commando nog meer kan bieden, en implementeer hier één of twee van.
