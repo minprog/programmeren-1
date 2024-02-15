@@ -1,8 +1,7 @@
 # UNIX: head
 
-Schrijf een tool genaamd `head` die de eerste regels van een file naar de terminal print. De naam van de file wordt opgegeven als command-line argument, plus het aantal regels dat geprint moet worden.
+Schrijf een tool genaamd `head` die de eerste regels van een file naar de terminal print. Het aantal regels gewenste regels dat moet worden geprint en de naam van de file worden opgegeven als command-line argumenten.
 
-    $ ./head -3 wordle.txt
-    aback
-    burnt
-    coyly
+    $ ./head -2 mario.c
+    #include <stdio.h>
+    #include <cs50.h>

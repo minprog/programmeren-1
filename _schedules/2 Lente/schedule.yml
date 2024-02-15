@@ -88,9 +88,9 @@ Module 9:
 Module 10:
     # Dit gaat over 2D arrays
     Tiles: /problems/tiles
-    Snowfall: /problems/snowfall
-    Game of Life: /problems/life
-    Resize* (TBD more comfy): /problems/resize/more
+    Snowfall*: /problems/snowfall
+    Game of Life*: /problems/life
+    Resize**: /problems/resize/more
 
 Module 11:
     "Videocollege: Memory": /lectures/memory

@@ -8,4 +8,3 @@ Schrijf een tool genaamd `cat` die de inhoud van een file naar de terminal print
     coyly
     drawn
     extra
-    ...
