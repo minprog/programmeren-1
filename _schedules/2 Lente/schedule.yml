@@ -98,8 +98,8 @@ Module 11:
     "Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
-    nl: /problems/unix/nl
     head: /problems/unix/head
+    nl: /problems/unix/nl
     wc: /problems/unix/wc
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
