@@ -1,6 +1,6 @@
 # UNIX: cut
 
-Schrijf een tool die van een tekstbestand een gekozen kolom van uitknippen. Elke regel bevat 1 of meer stukjes data, gescheiden door een komma.
+Schrijf een tool die van een tekstbestand een gekozen kolom kan uitknippen. Elke regel bevat 1 of meer stukjes data, gescheiden door een komma.
 
     Rory,+31655551938,rory@hotmail.za
     Wes,+31655551121,w.dubb@google.com
