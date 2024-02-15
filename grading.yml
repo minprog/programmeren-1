@@ -74,23 +74,23 @@ templates:
 # entering a final grade, no subgrades and no calculations.
 
 grades:
-    scratch: *check
-    hello: *automatic
-    population: *automatic
+    # scratch: *check
+    # hello: *automatic
+    # population: *automatic
 
-    conversion: *automatic
-    mario: *automatic
-    soda: *automatic
-    caffeine: *automatic
+    # conversion: *automatic
+    # mario: *automatic
+    # soda: *automatic
+    # caffeine: *automatic
 
-    strings: *check
-    scrabble: *automatic
-    rna: *automatic
-    cypher: *automatic
+    # strings: *check
+    # scrabble: *automatic
+    # rna: *automatic
+    # cypher: *automatic
 
-    functions: *check
+    # functions: *check
     tiles: *automatic
-    calendar: *automatic
+    # calendar: *automatic
 
     algorithms: *check
     measurements: *automatic
@@ -150,8 +150,8 @@ grades:
 
     #-------
 
-    goldbach: *automatic
-    decryptor: *automatic
+    # goldbach: *automatic
+    # decryptor: *automatic
     design_challenge: *automatic
     find: *automatic
     resize: *automatic
