@@ -174,18 +174,18 @@ grades:
             required:
                 'mario.c': |
                     #include <stdio.h>
-                    
+
                     int main(void)
                     {
-                        
+
                     }
                 'hello.c': |
                     #include <stdio.h>
                     #include <cs50.h>
-                    
+
                     int main(void)
                     {
-                        
+
                     }
     hertentamen:
         <<: *exam
