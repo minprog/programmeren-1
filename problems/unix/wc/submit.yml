@@ -1,0 +1,7 @@
+name: wc
+files:
+    required:
+        - wc.c
+check:
+    tool: check50
+    slug: minprog/checks/2023/unix/wc
