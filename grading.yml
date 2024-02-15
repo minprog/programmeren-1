@@ -168,7 +168,25 @@ grades:
     oefententamen: *check
     tentamen:
         <<: *exam
-        deadline: 09/10/23 13:22
+        deadline: 20/3/24 13:22
+        exam: true
+        files:
+            required:
+                'mario.c': |
+                    #include <stdio.h>
+
+                    int main(void)
+                    {
+
+                    }
+                'hello.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    int main(void)
+                    {
+
+                    }
     hertentamen:
         <<: *exam
         deadline: 30/10/23 13:22
