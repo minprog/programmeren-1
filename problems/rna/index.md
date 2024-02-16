@@ -59,6 +59,8 @@ Write in `rna_pseudocode.txt` some pseudocode that implements this program, even
 
 Whatever your pseudocode, let's first write only the C code that checks whether the program was run with a single command-line argument before adding additional functionality.
 
+> Check out ["Short: command-line arguments"](/shorts/argv)
+
 Specifically, modify `rna.c` in such a way that: if the user provides exactly one command-line argument, it prints `Success`; if the user provides no command-line arguments, or two or more, it prints `Usage: ./rna ATGC`. Remember, since this string is coming from the command line at runtime, and not via `get_string`, we don't have an opportunity to re-prompt the user. The behavior of the resulting program should be like the examples below.
 
     $ ./rna ATGC
