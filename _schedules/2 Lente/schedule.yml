@@ -64,6 +64,8 @@ Module 7:
     Morse++*: /problems/morse_more
     Huiswerk:
         Strings en Arrays [boek]: /exercises/book/arrays
+    Naslag:
+        "Short: command-line arguments": /shorts/argv
 
 Module 8:
     # Meer algoritmische string/array-uitdagingen
