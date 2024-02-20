@@ -18,3 +18,5 @@ Zal het deze output geven:
     banaan
     wortel
     banaan
+
+> Je mag bij deze opdracht aannemen dat een regel maximaal `1000` characters bevat.
