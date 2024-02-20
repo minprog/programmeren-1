@@ -172,20 +172,49 @@ grades:
         exam: true
         files:
             required:
-                'mario.c': |
+                'leestijd.c': |
                     #include <stdio.h>
 
                     int main(void)
                     {
+                        int[] tijden = { 35, 50, 10, 15 };
+                        leestijd(tijden, 4);
 
+                        int[] tijden = { };
+                        leestijd(tijden, 0);
                     }
-                'hello.c': |
+                'spam.c': |
                     #include <stdio.h>
                     #include <cs50.h>
 
                     int main(void)
                     {
+                        string subject = "CaZhh M0n3y";
+                        spam_check(subject);
 
+                        string subject = "Dit was zeker geen spam!";
+                        spam_check(subject);
+
+                        string subject = "";
+                        spam_check(subject);
+                    }
+                'afgebroken.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    int main(void)
+                    {
+                        string tekst = "Nederlanders worden steeds ouder, vooral door- dat ze na hun 65ste";
+                        string correctie = afgebroken(tekst);
+                        printf("%s\n", correctie);
+
+                        string tekst = "Over de identiteit van de schutter zegt de po- litie: 'Als het de";
+                        string correctie = afgebroken(tekst);
+                        printf("%s\n", correctie);
+
+                        string tekst = "Een 36-jarige Geldropse heeft deze week een in- breker in haar";
+                        string correctie = afgebroken(tekst);
+                        printf("%s\n", correctie);
                     }
     hertentamen:
         <<: *exam

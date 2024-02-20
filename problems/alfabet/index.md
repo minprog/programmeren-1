@@ -28,7 +28,7 @@ Als beginpunt kan je deze code gebruiken:
     #include <stdio.h>
     #include <string.h>
 
-    int main(int argc, string argv[])
+    int main(void)
     {
         // TODO
     }
