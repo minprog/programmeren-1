@@ -105,7 +105,6 @@ Module 11:
     wc: /problems/unix/wc
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
-    expand: /problems/unix/expand
     paste: /problems/unix/paste
     tail*: /problems/unix/tail
     strings*: /problems/unix/strings
