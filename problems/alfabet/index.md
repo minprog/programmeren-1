@@ -21,14 +21,3 @@ Schrijf een programma `alfabet.c` dat van twee woorden bepaalt welke eerder in h
     Woord 1: amanda
     Woord 2: Amanda
     No need to decide!
-
-Als beginpunt kan je deze code gebruiken:
-
-    #include <cs50.h>
-    #include <stdio.h>
-    #include <string.h>
-
-    int main(void)
-    {
-        // TODO
-    }
