@@ -173,7 +173,7 @@ grades:
                 'makelaar.c': |
                     #include <stdio.h>
 
-                    void verkoopprijs(int m2, int sk, int bk, int wijk)
+                    int verkoopprijs(int m2, int sk, int bk, int wijk)
                     {
 
                     }
