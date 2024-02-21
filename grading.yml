@@ -450,9 +450,9 @@ module_8:
 #         find: 0.16666
 #         resize: 0.16666
 
-# tentamenoefeningen:
-#     show_overview: true
-#     submits:
+tentamenoefeningen:
+    show_overview: true
+    submits:
 #         tentamen-oefening-alfabet: 1
 #         tentamen-oefening-formule: 1
 #         tentamen-oefening-hoofdletters: 1
@@ -463,7 +463,7 @@ module_8:
 #         tentamen-oefening-tennis: 1
 #         tentamen-oefening-trapezium: 1
 #         tentamen-oefening-wachtwoord: 1
-#         oefententamen: 1
+        oefententamen: 1
 
 tentamen:
     show_progress: true

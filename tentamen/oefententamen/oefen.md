@@ -20,7 +20,11 @@ Op het moment van het tentamen zou je alle opdrachten goed moeten kunnen maken z
 
 Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
 
-Bij het oefententamen krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet.
+Bij het oefententamen krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet. "Falen" bestaat niet bij dit oefententamen, ook niet als je geen enkele opdracht oplost binnen de tijd. Mocht het niet lukken, dan kun je naderhand hulp vragen of extra tijd nemen om het af te maken.
+
+Ook voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
+
+Succes!
 
 ## Waar we naar op zoek zijn
 
@@ -37,18 +41,7 @@ Je kunt in je uitwerking laten zien dat je:
 
 ## Beperkingen
 
-- In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat. Je mag de documentatie van library-functies opzoeken met hulp van het `man`-commando in de terminal.
-- De input van gebruikers moet alleen gecontroleerd worden als dit duidelijk in de opdracht vermeld staat.
-
-## Dit oefententamen
-
-Het oefententamen bevat slechts 3 opdrachten, waar het tentamen er 5 heeft. In die zin is het niet helemaal representatief. Ook zul je over twee weken veel meer ervaring hebben. Bovendien is de eerste opdracht net een beetje simpel voor het tentamen.
-
-Toch is het een goede oefening. Het gaat er nu om dat je ervaring opdoet met dit soort opdrachten tot een goed einde brengen. "Falen" bestaat dus niet bij dit oefententamen, ook niet als je geen enkele opdracht oplost binnen de tijd. Mocht het niet lukken, dan kun je naderhand hulp vragen of extra tijd nemen om het af te maken.
-
-Ook voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
-
-Succes!
+In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat.
 
 ---
 
