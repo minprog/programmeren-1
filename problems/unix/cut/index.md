@@ -14,3 +14,5 @@ De uitvoer voor kolom 2 ziet er zo uit:
     +31655551121
     +31655559831
     +31655554102
+
+> Je mag bij deze opdracht aannemen dat een regel maximaal `1000` characters bevat.

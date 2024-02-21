@@ -106,8 +106,8 @@ Module 11:
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
     paste: /problems/unix/paste
-    tail*: /problems/unix/tail
     strings*: /problems/unix/strings
+    tail*: /problems/unix/tail
     recover*: /problems/recover
     filetype*: /problems/filetype
 
