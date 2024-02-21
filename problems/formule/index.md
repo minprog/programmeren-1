@@ -21,14 +21,3 @@ Het programma moet als volgt werken:
     Er worden te weinig haakjes gesloten.
 
 Tip, kijk goed naar het derde voorbeeld. Hier kloppen het aantal haakjes wel, maar de volgorde niet.
-
-Als beginpunt kan je deze code gebruiken:
-
-    #include <cs50.h>
-    #include <stdio.h>
-    #include <string.h>
-
-    int main(void)
-    {
-        // TODO
-    }

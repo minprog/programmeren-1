@@ -4,18 +4,26 @@ Implement the functions below in a file called `strings.c`
 
 ## Vertical
 
-Write a function `vertical` that takes a string and prints each character of the string on a new line. For instance, `vertical("horizontal")` should print:
+Write a function `vertical` that takes a string and prints each character of the string on a new line. For instance, `vertical("tokyo hotel")` should print:
+
+    t
+    o
+    k
+    y
+    o
 
     h
     o
-    r
-    i
-    z
-    o
-    n
     t
-    a
+    e
     l
+
+Start like this:
+
+    void vertical(string input)
+    {
+        
+    }
 
 ## Skip
 
@@ -36,3 +44,7 @@ sPoNgEbOb TaLkS fUnNy, LiKe ThIs.
 Create a function `bob` that takes a string and prints that string into the alternating case of Spongebob. For instance, `bob("Know your meme")` should print:
 
     kNoW YoUr mEmE
+
+## Main?
+
+There is no `main` for this assigment. However, you can use `main` to contain some testing code that calls the functions that you're writing.

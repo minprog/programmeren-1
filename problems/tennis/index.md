@@ -16,14 +16,3 @@ Het programma moet als volgt werken:
     Speler 2, geef een woord: top
     Speler 1, geef een woord: wijk
     Speler 2 wint!
-
-Als beginpunt kan je deze code gebruiken:
-
-    #include <cs50.h>
-    #include <stdio.h>
-    #include <string.h>
-
-    int main(void)
-    {
-        // TODO
-    }

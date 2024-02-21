@@ -17,15 +17,3 @@ Schrijf een programma `klinkers.c` dat van twee woorden bepaalt welke meer klink
     Woord 1: retina
     Woord 2: AwesOmE
     awesome
-    
-Als beginpunt kan je deze code gebruiken:
-    
-    #include <cs50.h>
-    #include <stdio.h>
-    #include <stdlib.h>
-    #include <string.h>
-    
-    int main(void)
-    {
-        // TODO
-    }
