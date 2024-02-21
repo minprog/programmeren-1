@@ -1,9 +1,94 @@
 name: oefententamen
-files:
-    optional:
-        - leestijd.c
-        - spam.c
-        - afgebroken.c
+    exam: true
+    files:
+        required:
+            'makelaar.c': |
+                #include <stdio.h>
+
+                void verkoopprijs(int m2, int sk, int bk, int wijk)
+                {
+
+                }
+
+                int main(void)
+                {
+                    printf("55 m2, 1 sk, 1 bk, wijk 1\n");
+                    printf("De waarde van het huis is EUR %d,-\n\n", verkoopprijs(55, 1, 1, 1));
+
+                    printf("\n150 m2, 3 sk, 3 bk, wijk 1\n");
+                    printf("De waarde van het huis is EUR %d,-\n\n", verkoopprijs(150, 3, 3, 1));
+
+                    printf("\n150 m2, 3 sk, 3 bk, wijk 2\n");
+                    printf("De waarde van het huis is EUR %d,-\n", verkoopprijs(150, 3, 3, 2));
+                }
+            'leestijd.c': |
+                #include <stdio.h>
+
+                void leestijd(int tijden[], int n)
+                {
+
+                }
+
+                int main(void)
+                {
+                    // zet de leestijden klaar in een array
+                    int tijden1[] = { 35, 50, 10, 15 };
+                    // roep de functie aan, met de array en ook de lengte van de array
+                    printf("{ 35, 50, 10, 15 }\n");
+                    leestijd(tijden1, 4);
+
+                    // zet de leestijden klaar in een array
+                    int tijden2[] = { };
+                    // roep de functie aan, met de array en ook de lengte van de array
+                    printf("{ }\n");
+                    leestijd(tijden2, 0);
+                }
+            'spam.c': |
+                #include <stdio.h>
+                #include <cs50.h>
+
+                void spam_check(string subject)
+                {
+
+                }
+
+                int main(void)
+                {
+                    string subject1 = "CaZhh M0n3y";
+                    printf("-> \"%s\"\n", subject1);
+                    spam_check(subject1);
+
+                    string subject2 = "Dit was zeker geen spam!";
+                    printf("\n-> \"%s\"\n", subject2);
+                    spam_check(subject2);
+
+                    string subject3 = "";
+                    printf("\n-> \"%s\"\n", subject3);
+                    spam_check(subject3);
+                }
+            'afgebroken.c': |
+                #include <stdio.h>
+                #include <cs50.h>
+
+                void afgebroken(string tekst)
+                {
+
+                }
+
+                int main(void)
+                {
+                    string tekst = "Nederlanders worden steeds ouder, vooral door- dat ze na hun 65ste ...";
+                    printf("Origineel: %s\n", tekst);
+                    afgebroken(tekst);
+
+                    tekst = "Over de identiteit van de schutter zegt de po- litie: 'Als het de ...";
+                    printf("Origineel: %s\n", tekst);
+                    afgebroken(tekst);
+
+                    tekst = "Een 36-jarige Geldropse heeft deze week een in- breker in haar ...";
+                    printf("Origineel: %s\n", tekst);
+                    afgebroken(tekst);
+                }
 check:
     tool: check50
     slug: minprog/tentamen-checks/2021/oefententamen-nieuw
