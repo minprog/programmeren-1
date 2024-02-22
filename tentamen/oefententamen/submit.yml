@@ -1,9 +1,4 @@
 name: oefententamen
-files:
-    optional:
-        - leestijd.c
-        - spam.c
-        - afgebroken.c
 check:
     tool: check50
     slug: minprog/tentamen-checks/2021/oefententamen-nieuw

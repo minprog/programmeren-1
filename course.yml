@@ -5,7 +5,7 @@ language: nl
 links:
     # '[vector-pen] Reviews': /reviews
     '[book] Manual': https://man.cs50.io/
-    # '[people] Tentamen': /tentamen/hertentamen
+    '[droplet] Tentamen': /exams
 
 acknowledgements:
     - Based on CS50 from https://cs50.harvard.edu/x/2023/
