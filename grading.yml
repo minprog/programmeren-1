@@ -189,27 +189,17 @@ grades:
                         printf("\n150 m2, 3 sk, 3 bk, wijk 2\n");
                         printf("De waarde van het huis is EUR %d,-\n", verkoopprijs(150, 3, 3, 2));
                     }
-                'leestijd.c': |
+                'header.c': |
                     #include <stdio.h>
 
-                    void leestijd(int tijden[], int n)
+                    void header(string name, string date, string description)
                     {
 
                     }
 
                     int main(void)
                     {
-                        // zet de leestijden klaar in een array
-                        int tijden1[] = { 35, 50, 10, 15 };
-                        // roep de functie aan, met de array en ook de lengte van de array
-                        printf("{ 35, 50, 10, 15 }\n");
-                        leestijd(tijden1, 4);
-
-                        // zet de leestijden klaar in een array
-                        int tijden2[] = { };
-                        // roep de functie aan, met de array en ook de lengte van de array
-                        printf("{ }\n");
-                        leestijd(tijden2, 0);
+                        header("Jelle van Assema", "02/10/2023", "Prints hello world")
                     }
                 'spam.c': |
                     #include <stdio.h>
@@ -256,6 +246,28 @@ grades:
                         tekst = "Een 36-jarige Geldropse heeft deze week een in- breker in haar ...";
                         printf("Origineel: %s\n", tekst);
                         afgebroken(tekst);
+                    }
+                'leestijd.c': |
+                    #include <stdio.h>
+
+                    void leestijd(int tijden[], int n)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+                        // zet de leestijden klaar in een array
+                        int tijden1[] = { 35, 50, 10, 15 };
+                        // roep de functie aan, met de array en ook de lengte van de array
+                        printf("{ 35, 50, 10, 15 }\n");
+                        leestijd(tijden1, 4);
+
+                        // zet de leestijden klaar in een array
+                        int tijden2[] = { };
+                        // roep de functie aan, met de array en ook de lengte van de array
+                        printf("{ }\n");
+                        leestijd(tijden2, 0);
                     }
     tentamen:
         <<: *exam

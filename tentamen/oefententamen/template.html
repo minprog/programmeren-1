@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title><%= @title %></title>
+
+    <style>
+        body
+        {
+            font: 10pt Verdana;
+        }
+        
+        p, ul, ol
+        {
+            line-height: 1.5;
+            
+        }
+        
+        @media print {
+            @page {
+                size: A4 portrait;
+                margin: 2.5cm;
+            }
+            
+            h2
+            {
+/*                page-break-before: always;*/
+            }
+            body
+            {
+                font: 10pt Verdana;
+            }
+        
+        }
+
+        pre
+        {
+            padding: 0.75rem;
+            background-color: #eee;
+            border-color: #ccc;
+            line-height: auto;
+        }
+        
+        p > code, li > code
+        {
+            padding: 0.2rem;
+            background-color: #eee;
+            border-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <%= @body %>
+</body>
+</html>
