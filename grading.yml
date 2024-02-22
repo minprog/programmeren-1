@@ -191,6 +191,7 @@ grades:
                     }
                 'header.c': |
                     #include <stdio.h>
+                    #include <cs50.h>
 
                     void header(string name, string date, string description)
                     {

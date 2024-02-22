@@ -18,34 +18,33 @@ Op het tentamen vind je een aantal opdrachten. Het doel van het tentamen is te d
 
 Op het moment van het tentamen zou je alle opdrachten goed moeten kunnen maken zonder begeleiding. Maar, door de tijdsbeperking kan het best zijn dat je een opdracht niet kunt maken! Of er gaat iets mis. Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst. Daarvoor hoef je niet alle opdrachten helemaal goed te hebben.
 
-Vanwege het doel van het tentamen heeft het geen zin om alleen het juiste antwoord uit te printen zodat `check50` tevreden is (het zogenaamde "hardcoden").
-
-Bij het oefententamen krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet. "Falen" bestaat niet bij dit oefententamen, ook niet als je geen enkele opdracht oplost binnen de tijd. Mocht het niet lukken, dan kun je naderhand hulp vragen of extra tijd nemen om het af te maken.
+## Het oefententamen
 
 Ook voor het oefententamen is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
-Succes!
+Bij het oefententamen krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet. De eerste opgaven kun je maken als je modules 4 en 5 af hebt, voor de latere opgaven moet je module 7 en 8 bijna helemaal gedaan hebben.
+
+Dat is een andere opzet dan het echte tentamen, waar de opdrachten allemaal van ongeveer hetzelfde niveau zijn. Voor die opgaven moet je echt de stof tot en met module 7/8 beheersen. Het oefententamen is dus **niet** representatief voor het tentamen qua "moeilijkheidsgraad".
+
+"Falen" bestaat niet bij dit oefententamen, ook niet als je geen enkele opdracht oplost binnen de tijd. Mocht het niet lukken, dan kun je naderhand hulp vragen of extra tijd nemen om het af te maken. Soms ligt het aan de manier van naar de opgaven kijken, soms is het een kwestie van wennen.
 
 ## Waar we naar op zoek zijn
+{: style="page-break-before:always"}
 
 Je kunt in je uitwerking laten zien dat je:
 
 - Kleine programmeerproblemen in beperkte tijd kunt oplossen
 - De basisconstructies if, else, for, while en dergelijke beheerst
-- Om kunt gaan met command-line arguments
 - Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
 - Kunt werken met strings en characters, en met arrays
 - Zorgvuldig output kunt construeren met print statements
 - Meerdere functies kunt definiëren die elk een deel van de oplossing geven
 - Nette code kunt schrijven met relevante documentatie
 
-## Beperkingen
-
 In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat.
 
----
-
 ## Makelaar (t/m module 4)
+{: style="page-break-before:always"}
 
 De waarde van een huis in een bepaalde wijk is afhankelijk van het aantal vierkante meters. Bovendien maken het aantal badkamers en slaapkamers ook uit voor de prijs.
 
@@ -80,6 +79,7 @@ Schrijf de functie `header` die een header comment genereert voor de gebruiker. 
 De geprinte header is altijd precies 80 karakters breed. Zorg dat je exact de vorm volgt die hierboven in de voorbeelden zichtbaar is! Zo staan er nergens in de header spaties aan het *begin* van de regel. Een belangrijk aspect van de opgave is dat de sterretjes helemaal aan het eind van de regen staan, keurig onder elkaar.
 
 ## Spam (t/m module 7)
+{: style="page-break-before:always"}
 
 Omdat je mailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is (nou ja, min of meer).
 
