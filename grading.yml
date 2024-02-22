@@ -200,7 +200,7 @@ grades:
 
                     int main(void)
                     {
-                        header("Jelle van Assema", "02/10/2023", "Prints hello world")
+                        header("Jelle van Assema", "02/10/2023", "Prints hello world");
                     }
                 'spam.c': |
                     #include <stdio.h>
