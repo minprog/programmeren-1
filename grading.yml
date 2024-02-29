@@ -273,6 +273,100 @@ grades:
     tentamen:
         <<: *exam
         deadline: 20/3/24 13:22
+        exam: true
+        files:
+            required:
+                'mario51.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    void mario51(int width, int height)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+                        mario51(5, 4);
+                        printf("\n");
+                        mario51(2, 2);
+                    }
+                'opeenvolgend.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    bool opeenvolgend(string tekst)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+                        printf("%d\n", opeenvolgend("aap mies noot")); // true (1)
+                        printf("%d\n", opeenvolgend("aap noot mies")); // false (0)
+                        printf("%d\n", opeenvolgend("aap"));           // true (1)
+                        printf("%d\n", opeenvolgend(""));              // false (0)
+                    }
+                'uitschrijven.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    void schrijf_uit(int getallen[], int aantal_getallen,
+                                     string uitgeschreven[], int aantal_uitgeschreven)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+                        int getallen[] = {3, 7, 5, 1};
+                        int aantal_getallen = 4;
+                        string uitgeschreven[] = {"nul", "een", "twee"};
+                        int aantal_uitgeschreven = 3;
+
+                        schrijf_uit(getallen, aantal_getallen, uitgeschreven, aantal_uitgeschreven);
+                        // print: 3 7 5 een
+
+                        string uitgeschreven2[] = {"nul", "een", "twee", "drie", "vier", "vijf"};
+                        int aantal_uitgeschreven2 = 6;
+                        schrijf_uit(getallen, aantal_getallen, uitgeschreven2, aantal_uitgeschreven2);
+                        // print: drie 7 vijf een
+
+                        string uitgeschreven3[] = {"cero", "uno", "dos", "tres", "cuatro"};
+                        int aantal_uitgeschreven3 = 5;
+                        schrijf_uit(getallen, aantal_getallen, uitgeschreven3, aantal_uitgeschreven3);
+                        // print: tres 7 5 uno
+                    }
+                'decrypt.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    void decrypt(int numbers[], int n)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+
+                        int numbers[] = {0, 72, 3, 79, 3, 82};
+                        int n = 6;
+
+                        decrypt(numbers, n);
+                    }
+                'autocorr.c': |
+                    #include <stdio.h>
+                    #include <cs50.h>
+
+                    void autocorrect(string tekst)
+                    {
+
+                    }
+
+                    int main(void)
+                    {
+                        autocorrect("Fuzzy Wuzzy was a bear . Fuzzy Wuzzy had no hair.Fuzzy Wuzzy wasn't fuzzy , was he ?");
+                    }
     hertentamen:
         <<: *exam
         deadline: 30/10/23 13:22

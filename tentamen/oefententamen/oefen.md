@@ -38,10 +38,11 @@ Je kunt in je uitwerking laten zien dat je:
 - Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
 - Kunt werken met strings en characters, en met arrays
 - Zorgvuldig output kunt construeren met print statements
-- Meerdere functies kunt definiëren die elk een deel van de oplossing geven
-- Nette code kunt schrijven met relevante documentatie
+- Functies kunt implementeren die iets printen of iets returnen
 
 In je uitwerking mag je alleen gebruik maken van de library-functies die behandeld zijn en wat eventueel in de opdracht vermeld staat.
+
+Je krijgt bij het tentamen geen toegang tot je eigen eerder geschreven code of externe hulpbronnen.
 
 ## Makelaar (t/m module 4)
 {: style="page-break-before:always"}
