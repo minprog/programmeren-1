@@ -33,11 +33,11 @@ templates:
         calculation: done
         hide_calculated: true
     5: &exam
-        type: float
+        type: pass
         subgrades:
             cijfer: float
         calculation: cijfer
-        # hide_calculated: true
+        hide_subgrades: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
 # grades match the names of submits that may be defined in `submit.yml`
