@@ -92,7 +92,7 @@ grades:
     tiles: *automatic
     snowfall: *manual
     game_of_life: *manual
-    # calendar: *automatic
+    calendar: *automatic
 
     algorithms: *check
     measurements: *automatic
@@ -168,6 +168,9 @@ grades:
     strcat: *automatic
     strdup: *automatic
     strsep: *automatic
+
+    linked: *manual
+    speller_challenge: *manual
 
     #-------
 
