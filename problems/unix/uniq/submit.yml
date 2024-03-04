@@ -1,4 +1,4 @@
-name: uniq
+name: unix_uniq
 files:
     required:
         - uniq.c

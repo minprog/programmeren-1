@@ -1,4 +1,4 @@
-name: head
+name: unix_head
 files:
     required:
         - head.c

@@ -150,24 +150,24 @@ grades:
     wachtwoord: *automatic
     decryptor: *automatic
 
-    cat: *automatic
-    head: *automatic
-    nl: *automatic
-    wc: *automatic
-    uniq: *automatic
-    cut: *automatic
-    paste: *automatic
-    strings: *automatic
-    tail: *automatic
-    recover: *automatic
-    filetype: *automatic
+    unix_cat: *automatic
+    unix_head: *automatic
+    unix_nl: *automatic
+    unix_wc: *automatic
+    unix_uniq: *automatic
+    unix_cut: *automatic
+    unix_paste: *automatic
+    unix_strings: *automatic
+    unix_tail: *automatic
+    unix_recover: *automatic
+    unix_filetype: *automatic
 
-    strfry: *automatic
-    strchr: *automatic
-    strrchr: *automatic
-    strcat: *automatic
-    strdup: *automatic
-    strsep: *automatic
+    c_strfry: *automatic
+    c_strchr: *automatic
+    c_strrchr: *automatic
+    c_strcat: *automatic
+    c_strdup: *automatic
+    c_strsep: *automatic
 
     linked: *manual
     speller_challenge: *manual
@@ -521,27 +521,27 @@ module_10:
 module_11:
     show_progress: true
     submits:
-        cat: 2
-        head: 2
-        nl: 2
-        wc: 2
-        uniq: 2
-        cut: 2
-        paste: 2
-        strings: 1
-        tail: 1
-        recover: 1
-        filetype: 1
+        unix_cat: 2
+        unix_head: 2
+        unix_nl: 2
+        unix_wc: 2
+        unix_uniq: 2
+        unix_cut: 2
+        unix_paste: 2
+        unix_strings: 1
+        unix_tail: 1
+        unix_recover: 1
+        unix_filetype: 1
 
 module_12:
     show_progress: true
     submits:
-        strfry: 1
-        strchr: 1
-        strrchr: 1
-        strcat: 1
-        strdup: 1
-        strsep: 1
+        c_strfry: 1
+        c_strchr: 1
+        c_strrchr: 1
+        c_strcat: 1
+        c_strdup: 1
+        c_strsep: 1
 
 module_13:
     show_progress: true

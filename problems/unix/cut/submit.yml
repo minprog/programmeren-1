@@ -1,4 +1,4 @@
-name: cut
+name: unix_cut
 files:
     required:
         - cut.c

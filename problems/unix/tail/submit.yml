@@ -1,4 +1,4 @@
-name: tail
+name: unix_tail
 files:
     required:
         - tail.c

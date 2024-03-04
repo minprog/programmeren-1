@@ -1,4 +1,4 @@
-name: paste
+name: unix_paste
 files:
     required:
         - paste.c

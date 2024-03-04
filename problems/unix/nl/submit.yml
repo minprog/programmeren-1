@@ -1,4 +1,4 @@
-name: nl
+name: unix_nl
 files:
     required:
         - nl.c

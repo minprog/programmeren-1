@@ -1,4 +1,4 @@
-name: wc
+name: unix_wc
 files:
     required:
         - wc.c

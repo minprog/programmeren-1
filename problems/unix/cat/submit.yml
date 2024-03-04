@@ -1,4 +1,4 @@
-name: cat
+name: unix_cat
 files:
     required:
         - cat.c
