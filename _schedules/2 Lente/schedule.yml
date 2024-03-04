@@ -53,7 +53,7 @@ Module 6:
     Goldbach*: /problems/goldbach
 
 Module 7:
-    "Short: Arrays": /shorts/arrays
+    "Videocollege: Arrays & Strings": /lectures/arrays
     Strings: /problems/strings
     Tennis: /problems/tennis
     Morse: /problems/morse
@@ -65,6 +65,7 @@ Module 7:
     Huiswerk:
         Strings en Arrays [boek]: /exercises/book/arrays
     Naslag:
+        "Short: Arrays": /shorts/arrays
         "Short: command-line arguments": /shorts/argv
 
 Module 8:
