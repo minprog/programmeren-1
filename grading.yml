@@ -90,6 +90,8 @@ grades:
 
     # functions: *check
     tiles: *automatic
+    snowfall: *manual
+    game_of_life: *manual
     # calendar: *automatic
 
     algorithms: *check
@@ -147,6 +149,25 @@ grades:
     cypher: *automatic
     wachtwoord: *automatic
     decryptor: *automatic
+
+    cat: *automatic
+    head: *automatic
+    nl: *automatic
+    wc: *automatic
+    uniq: *automatic
+    cut: *automatic
+    paste: *automatic
+    strings: *automatic
+    tail: *automatic
+    recover: *automatic
+    filetype: *automatic
+
+    strfry: *automatic
+    strchr: *automatic
+    strrchr: *automatic
+    strcat: *automatic
+    strdup: *automatic
+    strsep: *automatic
 
     #-------
 
@@ -478,98 +499,58 @@ module_8:
         wachtwoord: 1
         decryptor: 1
 
-# opdrachten_week_1:
-#     show_progress: true
-#     submits:
-#         scratch: 1
-#         basics_variables: 1
-#         hello: 1
-#         basics_control_flow: 1
-#         population: 1
+module_9:
+    show_progress: true
+    submits:
+        calendar: 7
+        find: 7
+        sort: 7
+        design_challenge: 6
 
-# opdrachten_week_2:
-#     show_progress: true
-#     submits:
-#         conversion: 1
-#         mario: 1
-#         soda: 1
-#         caffeine: 1
+module_10:
+    show_progress: true
+    submits:
+        tiles: 7
+        snowfall: 7
+        game_of_life: 7
+        resize: 4
 
-# opdrachten_week_3:
-#     show_progress: true
-#     submits:
-#         basics_arrays: 1
-#         strings: 1
-#         scrabble: 1
-#         rna: 1
-#         cypher: 1
+module_11:
+    show_progress: true
+    submits:
+        cat: 2
+        head: 2
+        nl: 2
+        wc: 2
+        uniq: 2
+        cut: 2
+        paste: 2
+        strings: 1
+        tail: 1
+        recover: 1
+        filetype: 1
 
-# opdrachten_week_4:
-#     show_progress: true
-#     submits:
-#         functions: 1
-#         tiles: 1
-#         basics_functions: 1
-#         calendar: 1
+module_12:
+    show_progress: true
+    submits:
+        strfry: 1
+        strchr: 1
+        strrchr: 1
+        strcat: 1
+        strdup: 1
+        strsep: 1
 
-# opdrachten_week_5:
-#     show_progress: true
-#     submits:
-#         algorithms: 1
-#         measurements: 1
-#         big_o: 1
-#         sort: 1
-#         # complexity_puzzle: 1
-
-# opdrachten_week_6:
-#     show_progress: true
-#     submits:
-#         beatles: 1
-#         whodunit: 1
-#         filter: 1
-
-# opdrachten_week_7:
-#     show_progress: true
-#     submits:
-#         speller_questions: 1
-#         speller: 1
-
-# code_reviews:
-#     type: maximum
-#     show_progress: true
-#     submits:
-#         review_1: 6
-#         review_2: 6
-#         review_3: 6
-#     bonus:
-#         goldbach: 0.3
-#         decryptor: 0.3
-#         design_challenge: 0.3
-#         find: 0.3
-#         resize: 0.3
-
-# bonus:
-#     show_overview: true
-#     submits:
-#         goldbach: 0.16666
-#         decryptor: 0.16666
-#         design_challenge: 0.16666
-#         find: 0.16666
-#         resize: 0.16666
+module_13:
+    show_progress: true
+    submits:
+        beatles: 7
+        linked: 7
+        speller: 7
+        speller_challenge: 6
 
 tentamenoefeningen:
     show_overview: true
     submits:
-#         tentamen-oefening-alfabet: 1
-#         tentamen-oefening-formule: 1
-#         tentamen-oefening-hoofdletters: 1
-#         tentamen-oefening-klinkers: 1
-#         tentamen-oefening-morse: 1
-#         tentamen-oefening-rechthoeken: 1
-#         tentamen-oefening-regen: 1
-#         tentamen-oefening-tennis: 1
-#         tentamen-oefening-trapezium: 1
-#         tentamen-oefening-wachtwoord: 1
         oefententamen: 1
 
 tentamen:

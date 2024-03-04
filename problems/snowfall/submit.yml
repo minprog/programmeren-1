@@ -1,0 +1,4 @@
+name: snowfall
+files:
+    required:
+        - snowfall.c

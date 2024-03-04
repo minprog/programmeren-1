@@ -1,0 +1,4 @@
+name: game_of_life
+files:
+    required:
+        - game_of_life.c
