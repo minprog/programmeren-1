@@ -90,8 +90,8 @@ Module 9:
 Module 10:
     # Dit gaat over 2D arrays
     Tiles: /problems/tiles
-    Snowfall (keuze): /problems/snowfall
-    Game of Life (keuze): /problems/life
+    Snowfall: /problems/snowfall
+    Game of Life: /problems/life
     Resize*: /problems/resize/more
 
 Module 11:
