@@ -451,6 +451,7 @@ calculation:
 # You can leave these out if unused in the `calculation` section.
 
 eindcijfer:
+    type: points
     show_progress: true
     submits:
         tentamen: 45
