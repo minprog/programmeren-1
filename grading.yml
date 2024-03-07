@@ -295,7 +295,7 @@ grades:
                         leestijd(tijden2, 0);
                     }
     tentamen:
-        <<: *exam
+        <<: *pass
         deadline: 20/3/24 13:22
         exam: true
         files:
@@ -395,6 +395,36 @@ grades:
         <<: *exam
         deadline: 30/10/23 13:22
 
+    punten_module_9:
+        <<: *exam
+        calculation: cijfer / 0.7 * 9 + 1
+    punten_module_9_more:
+        <<: *exam
+        calculation: cijfer / 0.2 * 9 + 1
+    punten_module_10:
+        <<: *exam
+        calculation: cijfer / 0.7 * 9 + 1
+    punten_module_10_more:
+        <<: *exam
+        calculation: cijfer / 0.2 * 9 + 1
+    punten_module_11:
+        <<: *exam
+        calculation: cijfer / 0.7 * 9 + 1
+    punten_module_11_more:
+        <<: *exam
+        calculation: cijfer / 0.2 * 9 + 1
+    punten_module_12:
+        <<: *exam
+        calculation: cijfer / 0.7 * 9 + 1
+    punten_module_12_more:
+        <<: *exam
+        calculation: cijfer / 0.2 * 9 + 1
+    punten_module_13:
+        <<: *exam
+        calculation: cijfer / 0.7 * 9 + 1
+    punten_module_13_more:
+        <<: *exam
+        calculation: cijfer / 0.2 * 9 + 1
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -414,8 +444,9 @@ grades:
 
 calculation:
     eindcijfer:
-        code_reviews: 25
-        tentamen: 75
+        eindcijfer: 1
+        # code_reviews: 25
+        # tentamen: 75
     eindcijfer_herkansing:
         code_reviews: 25
         hertentamen: 75
@@ -438,6 +469,21 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
+
+eindcijfer:
+    show_progress: true
+    submits:
+        tentamen: 45
+        punten_module_9: 7
+        punten_module_9_more: 2
+        punten_module_10: 7
+        punten_module_10_more: 2
+        punten_module_11: 7
+        punten_module_11_more: 2
+        punten_module_12: 7
+        punten_module_12_more: 2
+        punten_module_13: 7
+        punten_module_13_more: 2
 
 module_1:
     show_progress: true
