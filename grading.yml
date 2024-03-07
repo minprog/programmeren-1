@@ -90,8 +90,8 @@ grades:
 
     # functions: *check
     tiles: *automatic
-    snowfall: *manual
-    game_of_life: *manual
+    snowfall: *check
+    game_of_life: *check
     calendar: *automatic
 
     algorithms: *check
