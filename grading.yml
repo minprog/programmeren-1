@@ -392,39 +392,19 @@ grades:
                         autocorrect("Fuzzy Wuzzy was a bear . Fuzzy Wuzzy had no hair.Fuzzy Wuzzy wasn't fuzzy , was he ?");
                     }
     hertentamen:
-        <<: *exam
+        <<: *check
         deadline: 30/10/23 13:22
 
-    punten_module_9:
-        <<: *exam
-        calculation: cijfer / 0.7 * 9 + 1
-    punten_module_9_more:
-        <<: *exam
-        calculation: cijfer / 0.2 * 9 + 1
-    punten_module_10:
-        <<: *exam
-        calculation: cijfer / 0.7 * 9 + 1
-    punten_module_10_more:
-        <<: *exam
-        calculation: cijfer / 0.2 * 9 + 1
-    punten_module_11:
-        <<: *exam
-        calculation: cijfer / 0.7 * 9 + 1
-    punten_module_11_more:
-        <<: *exam
-        calculation: cijfer / 0.2 * 9 + 1
-    punten_module_12:
-        <<: *exam
-        calculation: cijfer / 0.7 * 9 + 1
-    punten_module_12_more:
-        <<: *exam
-        calculation: cijfer / 0.2 * 9 + 1
-    punten_module_13:
-        <<: *exam
-        calculation: cijfer / 0.7 * 9 + 1
-    punten_module_13_more:
-        <<: *exam
-        calculation: cijfer / 0.2 * 9 + 1
+    punten_module_9: *check
+    punten_module_9_more: *check
+    punten_module_10: *check
+    punten_module_10_more: *check
+    punten_module_11: *check
+    punten_module_11_more: *check
+    punten_module_12: *check
+    punten_module_12_more: *check
+    punten_module_13: *check
+    punten_module_13_more: *check
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
