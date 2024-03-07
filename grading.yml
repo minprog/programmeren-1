@@ -428,7 +428,7 @@ calculation:
         # code_reviews: 25
         # tentamen: 75
     eindcijfer_herkansing:
-        code_reviews: 25
+        # code_reviews: 25
         hertentamen: 75
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
@@ -451,7 +451,6 @@ calculation:
 # You can leave these out if unused in the `calculation` section.
 
 eindcijfer:
-    type: points
     show_progress: true
     submits:
         tentamen: 45
