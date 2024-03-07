@@ -295,7 +295,7 @@ grades:
                         leestijd(tijden2, 0);
                     }
     tentamen:
-        <<: *pass
+        <<: *check
         deadline: 20/3/24 13:22
         exam: true
         files:
