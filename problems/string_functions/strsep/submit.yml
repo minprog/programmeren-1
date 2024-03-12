@@ -1,0 +1,4 @@
+name: c_strsep
+files:
+    required:
+        - strsep.c

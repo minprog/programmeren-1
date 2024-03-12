@@ -1,0 +1,4 @@
+name: c_strdup
+files:
+    required:
+        - strdup.c

@@ -1,0 +1,4 @@
+name: c_strfry
+files:
+    required:
+        - strfry.c
