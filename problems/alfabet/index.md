@@ -2,6 +2,8 @@
 
 Schrijf een programma `alfabet.c` dat van twee woorden bepaalt welke eerder in het woordenboek voorkomt. Ook maken we geen verschil tussen hoofdletters en kleine letters.
 
+> Maak bij deze opdracht **geen** gebruik van `strcmp` en `strcasecmp`.
+
     $ ./alfabet
     Woord 1: Taylor
     Woord 2: Lana
