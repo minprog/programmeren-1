@@ -1,0 +1,4 @@
+name: c_strcat
+files:
+    required:
+        - strcat.c

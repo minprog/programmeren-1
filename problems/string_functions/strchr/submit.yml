@@ -1,0 +1,4 @@
+name: c_strchr
+files:
+    required:
+        - strchr.c
