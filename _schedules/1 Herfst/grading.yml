@@ -1,3 +1,40 @@
+templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -(correctness_score.floor)
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
+    4: &semiautomatic
+        type: float
+        subgrades:
+            done: boolean
+        automatic:
+            done: -(correctness_score.floor)
+        calculation: done==-1 && 1.5 || 0
+        hide_calculated: true
+    2: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points / 6.0 * 9 + 1).round(1)
+        hide_calculated: true
+    3: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    5: &exam
+        type: float
+        subgrades:
+            cijfer: float
+        calculation: cijfer
+        hide_calculated: true
+
 grades:
     scratch: *check
     hello: *automatic
