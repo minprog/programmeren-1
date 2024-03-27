@@ -1,14 +1,14 @@
 templates:
-    3: &check
+    5: &exam
         type: pass
         subgrades:
-            done: boolean
-        calculation: done
+            pass: boolean
+        calculation: pass
         hide_calculated: true
 
 grades:
-    tentamen:
-        <<: *check
+    hertentamen:
+        <<: *exam
         deadline: 28/3/24 14:00
         exam: true
         files:
