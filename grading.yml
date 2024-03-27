@@ -1,1 +1,25 @@
+templates:
+    3: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
 
+grades:
+    tentamen:
+        <<: *check
+        deadline: 28/3/24 14:00
+        exam: true
+        files:
+            required:
+                'opg1.c': |
+                    // opgave 1
+                'opg2.c': |
+                    // opgave 1
+                'opg3.c': |
+                    // opgave 1
+                'opg4.c': |
+                    // opgave 1
+                'opg4.c': |
+                    // opgave 1
