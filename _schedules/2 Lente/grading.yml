@@ -191,7 +191,7 @@ grades:
 
     oefententamen: *exam
     tentamen: *exam
-    hertentamen: *exam
+    # hertentamen: *exam
 
     punten_module_9: *check
     punten_module_9_more: *check
