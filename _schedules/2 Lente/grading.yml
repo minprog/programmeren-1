@@ -264,7 +264,6 @@ eindcijfer:
     type: points
     show_progress: true
     submits:
-        tentamen: 45
         punten_module_9: 7
         punten_module_9_more: 2
         punten_module_10: 7
