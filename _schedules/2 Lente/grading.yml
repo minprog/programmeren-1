@@ -391,4 +391,4 @@ hertentamen:
     show_progress: true
     required: true
     submits:
-        hertentamen: 1
+        hertentamen2: 1
