@@ -222,12 +222,11 @@ grades:
 
 calculation:
     eindcijfer:
+        tentamen: 1
         eindcijfer: 1
-        # code_reviews: 25
-        # tentamen: 75
     eindcijfer_herkansing:
-        # code_reviews: 25
-        hertentamen: 75
+        hertentamen: 1
+        eindcijfer: 1
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -247,6 +246,19 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
+
+
+tentamen:
+    show_progress: true
+    required: true
+    submits:
+        tentamen: 1
+
+hertentamen:
+    show_progress: true
+    required: true
+    submits:
+        hertentamen2: 1
 
 eindcijfer:
     type: points
@@ -380,15 +392,3 @@ tentamenoefeningen:
     show_overview: true
     submits:
         oefententamen: 1
-
-tentamen:
-    show_progress: true
-    required: true
-    submits:
-        tentamen: 1
-
-hertentamen:
-    show_progress: true
-    required: true
-    submits:
-        hertentamen2: 1
