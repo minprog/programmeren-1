@@ -251,14 +251,16 @@ calculation:
 tentamen:
     type: points
     show_progress: true
-    required: true
+    attempt_required: true
+    minimum: 5.5
     submits:
         tentamen: 1
 
 hertentamen:
     type: points
     show_progress: true
-    required: true
+    attempt_required: true
+    minimum: 5.5
     submits:
         hertentamen2: 1
 
