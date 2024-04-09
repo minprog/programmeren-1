@@ -249,12 +249,14 @@ calculation:
 
 
 tentamen:
+    type: points
     show_progress: true
     required: true
     submits:
         tentamen: 1
 
 hertentamen:
+    type: points
     show_progress: true
     required: true
     submits:
