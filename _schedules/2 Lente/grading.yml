@@ -262,6 +262,7 @@ hertentamen:
 
 eindcijfer:
     type: points
+    fill_missing: true
     show_progress: true
     submits:
         punten_module_9: 7
