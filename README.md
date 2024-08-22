@@ -8,6 +8,12 @@ Als je inlogt en registreert op de website krijg je toegang tot de volledige stu
 
 ## Changelog
 
+**Nieuw in versie lente 2024**
+
+- Veel meer oefeningen toegevoegd, opbouw iets aangepast.
+
+- Later in de cursus twee modules toegevoegd voor het nabouwen van unix-tools en string-functies. Hier veel focus op file I/O en string-manipulatie.
+
 **Nieuw in versie herfst 2022**
 
 - Grotendeels nieuwe opdrachten, nog altijd met de Harvard-colleges van 2020.

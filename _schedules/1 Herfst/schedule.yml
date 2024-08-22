@@ -1,78 +1,145 @@
 Welkom:
-  Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+    Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Week 1:
-  Voorbereiding:
+#-------- deel 1 van cursus, leidend naar tentamen --------
+
+Module 1:
     "Videocollege: Computational Thinking": /lectures/computational-thinking
-  Opdrachten:
-    Scratch [opdracht]: /problems/scratch
-    Variabelen [boek]: /exercises/book/variables
-  "Voorbereiding #2":
-    "Videocollege: C": /lectures/c
+    Scratch: /problems/scratch
+
+Module 2:
     Installatie: /extra/installatie
-  "Opdrachten #2":
-    Hello, you! [opdracht]: /problems/hello
-    Control Flow [boek]: /exercises/book/control-flow
-    Population [samen programmeren]: /problems/population
 
-Week 2:
-  Opdrachten:
-    Temperatuurtabellen [opdracht]: /problems/conversion
-    Mario [opdracht]: /problems/mario/less
-    Soda [opdracht]: /problems/soda
-    Caffeine [opdracht]: /problems/caffeine
-  Extra opdracht:
-    Goldbach [opdracht]: /problems/goldbach
+Module 3:
+    "Videocollege: C": /lectures/c
+    Hello, you!: /problems/hello
+    Functies: /problems/functions
+    # Maths: /problems/maths
+    Binary: /problems/binary
+    Byte*: /problems/byte
+    Huiswerk:
+        Variabelen [boek]: /exercises/book/variables
+    Naslag:
+        "Short: Operators": /shorts/operators
+        "Short: Types": /shorts/types
+        "Short: Variables": /shorts/variables
+        "Short: Functions": /shorts/functions
 
-Week 3:
-  Voorbereiding:
-    "Videocollege: Arrays": /lectures/arrays
-  Opdrachten:
-    Strings en Arrays [boek]: /exercises/book/arrays
-    Strings [oefenen]: /exercises/writing/strings
-    Scrabble [samen programmeren]: /problems/scrabble
-    RNA [opdracht]: /problems/rna
-    Cypher [opdracht]: /problems/cypher
-  Extra opdracht:
-    Decryptor [opdracht]: /problems/decryptor
+Module 4:
+    "Short: Conditionals": /shorts/conditionals
+    Acid Test: /problems/acid
+    Orakel: /problems/orakel
+    Rechthoeken: /problems/rechthoeken
+    Coupons: /problems/coupons
 
-Week 4:
-  Opdrachten:
-    Functies [oefenen]: /exercises/writing/functions
-    Tiles [samen programmeren]: /problems/tiles
-    Functies [boek]: /exercises/book/functions
-    Calendar [opdracht]: /problems/calendar
-  Extra opdracht:
-    Design challenge [opdracht]: /problems/calendar/extra
+Module 5:
+    "Short: Loops": /shorts/loops
+    Repeat: /problems/repeat
+    Mario: /problems/mario
+    Mario, Part Deux: /problems/mario-deux
+    Driehoek: /problems/driehoek
+    Trapeziumº: /problems/trapezium
+    Cirkel*: /problems/cirkel
+    Huiswerk:
+        Control Flow [boek]: /exercises/book/control-flow
 
-Week 5:
-  Voorbereiding:
+Module 6:
+    # Loops die iets uitrekenen
+    Regen: /problems/regen
+    Population: /problems/population
+    Soda: /problems/soda
+    Caffeine: /problems/caffeine
+    Temperatuurconversie: /problems/conversion
+    Goldbach*: /problems/goldbach
+
+Module 7:
+    "Videocollege: Arrays & Strings": /lectures/arrays
+    Strings: /problems/strings
+    Tennis: /problems/tennis
+    Morse: /problems/morse
+    Hoofdletters: /problems/hoofdletters
+    Klinkers: /problems/klinkers
+    RNA: /problems/rna
+    Strings++*: /problems/strings_more
+    Morse++*: /problems/morse_more
+    Huiswerk:
+        Strings en Arrays [boek]: /exercises/book/arrays
+    Naslag:
+        "Short: Arrays": /shorts/arrays
+        "Short: command-line arguments": /shorts/argv
+
+Module 8:
+    # Meer algoritmische string/array-uitdagingen
+    Alfabet: /problems/alfabet
+    Scrabble: /problems/scrabble
+    Formule: /problems/formule
+    Cypher: /problems/cypher
+    Wachtwoordº: /problems/wachtwoord
+    Decryptor*: /problems/decryptor
+    Huiswerk:
+        Functies [boek]: /exercises/book/functions
+
+#-------- deel 2 van cursus, voor punten --------
+
+Module 9:
     "Videocollege: Algorithms": /lectures/algorithms
-  Opdrachten:
-    Algorithms [oefenen]: /exercises/study/algorithms
-    Measurements [samen programmeren]: /problems/measurements
-    Big-O [opdracht]: /problems/big-o
-    Sort [opdracht]: /problems/sort
-  Extra opdracht:
-    Find [opdracht]: /problems/find
+    Sort: /problems/sort
+    Find: /problems/find
+    Calendar: /problems/calendar
+    Design challenge*: /problems/calendar/extra
 
-Week 6:
-  Voorbereiding:
+Module 10:
+    # Dit gaat over 2D arrays
+    Tiles: /problems/tiles
+    Snowfall (kies één vd twee): /problems/snowfall
+    Game of Life (kies één vd twee): /problems/life
+    Resize*: /problems/resize/more
+
+Module 11:
     "Videocollege: Memory": /lectures/memory
-  Opdrachten:
-    Beatles [oefenen]: /exercises/writing/beatles
-    Whodunit [samen programmeren]: /problems/whodunit
-    Filter [opdracht]: /problems/filter/less
-  Extra opdracht:
-    Resize [opdracht]: /problems/resize/more
+    "Short: Files": /shorts/files
+    "Short: Command Line Arguments": /shorts/cla
+    # Implementeer zelf unix-tools
+    cat: /problems/unix/cat
+    head: /problems/unix/head
+    nl: /problems/unix/nl
+    wc: /problems/unix/wc
+    uniq: /problems/unix/uniq
+    cut: /problems/unix/cut
+    paste: /problems/unix/paste
+    strings*: /problems/unix/strings
+    tail*: /problems/unix/tail
+    recover*: /problems/recover
+    filetype*: /problems/filetype
 
-Week 7:
-  Voorbereiding:
+Module 12:
+    "Short: Dynamic Memory Allocation": /shorts/dma
+    # String-manipulatie inclusief \0-terminator en wat malloc
+    strfry: /problems/string_functions/strfry
+    strchr: /problems/string_functions/strchr
+    strrchr: /problems/string_functions/strrchr
+    strcat: /problems/string_functions/strcat
+    strdup: /problems/string_functions/strdup
+    strsep: /problems/string_functions/strsep
+    TBD*: .
+
+Module 13:
     "Videocollege: Data structures": /lectures/data-structures
-  Opdrachten:
-    Questions [opdracht]: /problems/speller/questions
-    Speller [opdracht]: /problems/speller
+    Beatles: /problems/beatles
+    Linked List: /problems/linked
+    Questions: /problems/speller/questions
+    Speller: /problems/speller
+    Challenge*: /problems/speller/challenge
 
-Tentamenweek:
-  Voorbereiding:
-    Oefententamen: /tentamen/oefententamen
+#-------- eerder geschrapt --------
+
+# Week 5:
+#   Opdrachten:
+#     Algorithms [oefenen]: /exercises/study/algorithms
+#     Measurements [samen programmeren]: /problems/measurements
+#     Big-O [oefenen]: /problems/big-o
+#     Complexity Puzzle [oefenen]: /problems/complexity-puzzle
+# Week 6:
+#     Whodunit: /problems/whodunit
+#     Filter: /problems/filter/less
+#     Resize*: /problems/resize/more

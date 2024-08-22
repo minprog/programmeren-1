@@ -1,227 +1,191 @@
-templates:
-    1: &automatic
-        type: pass
-        subgrades:
-            done: boolean
-        automatic:
-            done: -(correctness_score.floor)
-        calculation: done
-        auto_publish: true
-        hide_calculated: true
-    4: &semiautomatic
-        type: float
-        subgrades:
-            done: boolean
-        automatic:
-            done: -(correctness_score.floor)
-        calculation: done==-1 && 1.5 || 0
-        hide_calculated: true
-    2: &manual
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
-    3: &check
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_calculated: true
-    5: &exam
-        type: float
-        subgrades:
-            cijfer: float
-        calculation: cijfer
-        hide_calculated: true
-
-grades:
-    scratch: *check
-    hello: *automatic
-    population: *automatic
-
-    conversion: *automatic
-    mario: *automatic
-    soda: *automatic
-    caffeine: *automatic
-
-    strings: *check
-    scrabble: *automatic
-    rna: *automatic
-    cypher: *automatic
-
-    functions: *check
-    tiles: *automatic
-    calendar: *automatic
-
-    algorithms: *check
-    measurements: *automatic
-    sort: *automatic
-    big_o: *check
-    complexity_puzzle: *check
-
-    beatles: *check
-    whodunit: *check
-    filter: *automatic
-
-    speller: *automatic
-    speller_questions: *check
-
-    goldbach:
-        <<: *semiautomatic
-        deadline: 15/9/23 17:00
-    decryptor:
-        <<: *semiautomatic
-        deadline: 22/9/23 17:00
-    design_challenge:
-        <<: *semiautomatic
-        deadline: 29/9/23 17:00
-    find:
-        <<: *semiautomatic
-        deadline: 6/10/23 17:00
-    resize:
-        <<: *semiautomatic
-        deadline: 13/10/23 17:00
-
-    basics_variables: *check
-    basics_control_flow: *check
-    basics_arrays: *check
-    basics_functions: *check
-
-    tentamen-oefening-driehoek: *automatic
-    tentamen-oefening-alfabet: *automatic
-    tentamen-oefening-formule: *automatic
-    tentamen-oefening-hoofdletters: *automatic
-    tentamen-oefening-klinkers: *automatic
-    tentamen-oefening-morse: *automatic
-    tentamen-oefening-rechthoeken: *automatic
-    tentamen-oefening-regen: *automatic
-    tentamen-oefening-tennis: *automatic
-    tentamen-oefening-trapezium: *automatic
-    tentamen-oefening-wachtwoord: *automatic
-
-    review_1: *manual
-    review_2: *manual
-    review_3: *manual
-
-    oefententamen: *check
-    tentamen:
-        <<: *exam
-        deadline: 09/10/23 13:22
-    hertentamen:
-        <<: *exam
-        deadline: 30/10/23 13:22
+# CALCULATIONS - define the final grades for the course and the weights between
+# subcomponents for each. Often, multiple final grades are differentiated by the
+# choice of grades that are used for the calculation, for example calculating
+# the "normal" final grade based on the "first exam", and the "resit" final
+# grade based on the result of the second exam. Currently, running "calculate
+# final grades" on the website will try to calculate all, which might result in
+# useless non-grades getting calculated.
+#
+# Weights specify proportionally to each other and do not need to add up to
+# anything in particular. If a weight of 0 is specified, the grade is not used
+# in the calculation, but the grade must be "passed" for the calculation to
+# succeed.
+#
+# You can leave this out if the site does not need to perform final grade
+# calculations.
 
 calculation:
     eindcijfer:
-        code_reviews: 25
-        tentamen: 75
+        tentamen: 1
+        punten: 1
     eindcijfer_herkansing:
-        code_reviews: 25
-        hertentamen: 75
+        hertentamen: 1
+        punten: 1
 
-opdrachten_week_1:
-    show_progress: true
-    submits:
-        scratch: 1
-        basics_variables: 1
-        hello: 1
-        basics_control_flow: 1
-        population: 1
-
-opdrachten_week_2:
-    show_progress: true
-    submits:
-        conversion: 1
-        mario: 1
-        soda: 1
-        caffeine: 1
-
-opdrachten_week_3:
-    show_progress: true
-    submits:
-        basics_arrays: 1
-        strings: 1
-        scrabble: 1
-        rna: 1
-        cypher: 1
-
-opdrachten_week_4:
-    show_progress: true
-    submits:
-        functions: 1
-        tiles: 1
-        basics_functions: 1
-        calendar: 1
-
-opdrachten_week_5:
-    show_progress: true
-    submits:
-        algorithms: 1
-        measurements: 1
-        big_o: 1
-        sort: 1
-        # complexity_puzzle: 1
-
-opdrachten_week_6:
-    show_progress: true
-    submits:
-        beatles: 1
-        whodunit: 1
-        filter: 1
-
-opdrachten_week_7:
-    show_progress: true
-    submits:
-        speller_questions: 1
-        speller: 1
-
-code_reviews:
-    type: maximum
-    show_progress: true
-    submits:
-        review_1: 6
-        review_2: 6
-        review_3: 6
-    bonus:
-        goldbach: 0.3
-        decryptor: 0.3
-        design_challenge: 0.3
-        find: 0.3
-        resize: 0.3
-
-bonus:
-    show_overview: true
-    submits:
-        goldbach: 0.16666
-        decryptor: 0.16666
-        design_challenge: 0.16666
-        find: 0.16666
-        resize: 0.16666
+# SUB-CALCULATIONS - define the components of the course that may be used in
+# final grade calculations. A few constraints can be specified.
+#
+# The following properties are supported:
+#
+# `submits` are the names of the grades/submits with accompanying weight for
+# each
+#
+# `show_progress: true` will list the results of the grades in a table on
+# students' progress pages
+#
+# `required: true` will only "pass" this part if all comprising grades are
+# passed (used with pass/fail tests)
+#
+# `minimum: 5.5` will only "pass" this part if the weighed average of the grades
+# is at least the specified minimum
+#
+# You can leave these out if unused in the `calculation` section.
 
 tentamenoefeningen:
     show_overview: true
     submits:
-        tentamen-oefening-alfabet: 1
-        tentamen-oefening-formule: 1
-        tentamen-oefening-hoofdletters: 1
-        tentamen-oefening-klinkers: 1
-        tentamen-oefening-morse: 1
-        tentamen-oefening-rechthoeken: 1
-        tentamen-oefening-regen: 1
-        tentamen-oefening-tennis: 1
-        tentamen-oefening-trapezium: 1
-        tentamen-oefening-wachtwoord: 1
         oefententamen: 1
 
 tentamen:
+    type: points
     show_progress: true
-    required: true
+    attempt_required: true
+    minimum: 5.5
     submits:
         tentamen: 1
 
 hertentamen:
+    type: points
     show_progress: true
-    required: true
+    attempt_required: true
+    minimum: 5.5
     submits:
-        hertentamen: 1
+        hertentamen2: 1
+
+punten:
+    type: points
+    fill_missing: true
+    show_progress: true
+    submits:
+        punten_module_9: 7
+        punten_module_9_challenge: 2
+        punten_module_10: 7
+        punten_module_10_challenge: 2
+        punten_module_11: 7
+        punten_module_11_challenge: 2
+        punten_module_12: 7
+        punten_module_12_challenge: 2
+        punten_module_13: 7
+        punten_module_13_challenge: 2
+
+module_1:
+    show_progress: true
+    submits:
+        scratch: 1
+
+module_3:
+    show_progress: true
+    submits:
+        hello: 1
+        functions: 1
+        binary: 1
+        byte: 1
+
+module_4:
+    show_progress: true
+    submits:
+        acid: 1
+        orakel: 1
+        rechthoeken: 1
+        coupons: 1
+
+module_5:
+    show_progress: true
+    submits:
+        repeat: 1
+        mario: 1
+        mario_2: 1
+        driehoek: 1
+        trapezium: 1
+        cirkel: 1
+
+module_6:
+    show_progress: true
+    submits:
+        regen: 1
+        population: 1
+        soda: 1
+        caffeine: 1
+        conversion: 1
+        goldbach: 1
+
+module_7:
+    show_progress: true
+    submits:
+        strings: 1
+        tennis: 1
+        morse: 1
+        hoofdletters: 1
+        klinkers: 1
+        rna: 1
+        strings_more: 1
+        morse_more: 1
+
+module_8:
+    show_progress: true
+    submits:
+        alfabet: 1
+        scrabble: 1
+        formule: 1
+        cypher: 1
+        wachtwoord: 1
+        decryptor: 1
+
+module_9:
+    show_progress: true
+    submits:
+        calendar: 7
+        find: 7
+        sort: 7
+        design_challenge: 6
+
+module_10:
+    show_progress: true
+    submits:
+        tiles: 7
+        snowfall: 7
+        game_of_life: 7
+        resize: 4
+
+module_11:
+    show_progress: true
+    submits:
+        unix_cat: 2
+        unix_head: 2
+        unix_nl: 2
+        unix_wc: 2
+        unix_uniq: 2
+        unix_cut: 2
+        unix_paste: 2
+        unix_strings: 1
+        unix_tail: 1
+        unix_recover: 1
+        unix_filetype: 1
+
+module_12:
+    show_progress: true
+    submits:
+        c_strfry: 1
+        c_strchr: 1
+        c_strrchr: 1
+        c_strcat: 1
+        c_strdup: 1
+        c_strsep: 1
+
+module_13:
+    show_progress: true
+    submits:
+        beatles: 7
+        linked: 7
+        speller: 7
+        speller_challenge: 6

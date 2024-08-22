@@ -1,0 +1,188 @@
+# This is a separate section containing a few templates that we will use below.
+# The & feature is built into YAML, it is not a special feature of the website.
+# The section does not need to be called `templates` necessarily.
+
+templates:
+    1: &automatic
+        type: pass
+        subgrades:
+            done: boolean
+        automatic:
+            done: -(correctness_score.floor)
+        calculation: done
+        auto_publish: true
+        hide_calculated: true
+    4: &semiautomatic
+        type: float
+        subgrades:
+            done: boolean
+        automatic:
+            done: -(correctness_score.floor)
+        calculation: done==-1 && 1.5 || 0
+        hide_calculated: true
+    2: &manual
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points / 6.0 * 9 + 1).round(1)
+        hide_calculated: true
+    3: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+    5: &exam
+        type: pass
+        subgrades:
+            pass: boolean
+        calculation: pass
+        hide_calculated: true
+
+# GRADES - contains definitions of how grades are structured. The names of the
+# grades match the names of submits that may be defined in `submit.yml`
+# elsewhere, but you can also create grades without an accompanying submit.
+#
+# The following properties are supported:
+#
+# - `type` can be `integer`, `float` or `pass`, which influences presentation
+# and input
+#
+# - `subgrades` defines any extra numbers to be added to a grade, with their
+# types `integer`, `pass`, `boolean` or `float`
+#
+# - note: if any subgrades are defined, teaching assistants are only allowed to
+# enter those, and can't override the grade itself
+#
+# - `calculation` is an expression that is evaluated in the context of the
+# subgrades, which means you can use any subgrade by name in that expression, as
+# well as any standard Ruby objects and syntax
+#
+# - `automatic` is an expression that is evaluated in the context of any
+# automatic grading results (as defined in `submit.yml`) - allowing the use of
+# the variable `correctness_score`. It can only be used to fill in subgrades,
+# but you can then use the `calculation` to transfer the value of a subgrade
+# into the grade.
+#
+# - `hide_calculated` hides the calculated grade, only showing the entered
+# subgrades (to de-emphasize grades for students)
+#
+# - `hide_subgrades` hides the subgrades, for example if you want to do a simple
+# calculation but only show the resulting grade to students
+#
+# You can leave this out if grading isn't used or if each submit simply requires
+# entering a final grade, no subgrades and no calculations.
+
+grades:
+
+    algorithms: *check
+    measurements: *automatic
+    big_o: *check
+    complexity_puzzle: *check
+
+    whodunit: *check
+    filter: *automatic
+
+    speller_questions: *check
+
+    #------
+
+    scratch: *check
+
+    hello: *automatic
+    functions: *automatic
+    binary: *automatic
+    byte: *automatic
+
+    acid: *automatic
+    orakel: *automatic
+    rechthoeken: *automatic
+    coupons: *automatic
+
+    repeat: *automatic
+    mario: *automatic
+    mario_2: *automatic
+    driehoek: *automatic
+    trapezium: *automatic
+    cirkel: *automatic
+
+    regen: *automatic
+    population: *automatic
+    soda: *automatic
+    caffeine: *automatic
+    conversion: *automatic
+    goldbach: *automatic
+
+    strings: *automatic
+    tennis: *automatic
+    morse: *automatic
+    hoofdletters: *automatic
+    klinkers: *automatic
+    rna: *automatic
+    strings_more: *automatic
+    morse_more: *automatic
+
+    alfabet: *automatic
+    scrabble: *automatic
+    formule: *automatic
+    cypher: *automatic
+    wachtwoord: *automatic
+    decryptor: *automatic
+
+    calendar: *automatic
+    find: *automatic
+    sort: *automatic
+    design_challenge: *automatic
+
+    tiles: *automatic
+    snowfall: *check
+    game_of_life: *check
+    resize: *automatic
+
+    unix_cat: *automatic
+    unix_head: *automatic
+    unix_nl: *automatic
+    unix_wc: *automatic
+    unix_uniq: *automatic
+    unix_cut: *automatic
+    unix_paste: *automatic
+    unix_strings: *automatic
+    unix_tail: *automatic
+    unix_recover: *automatic
+    unix_filetype: *automatic
+
+    c_strfry: *automatic
+    c_strchr: *automatic
+    c_strrchr: *automatic
+    c_strcat: *automatic
+    c_strdup: *automatic
+    c_strsep: *automatic
+
+    beatles: *check
+    linked: *manual
+    speller: *automatic
+    speller_challenge: *manual
+
+    basics_variables: *check
+    basics_control_flow: *check
+    basics_arrays: *check
+    basics_functions: *check
+
+    review_1: *manual
+    review_2: *manual
+    review_3: *manual
+
+    oefententamen: *exam
+    tentamen: *exam
+    hertentamen: *exam
+
+    punten_module_9: *check
+    punten_module_9_challenge: *check
+    punten_module_10: *check
+    punten_module_10_challenge: *check
+    punten_module_11: *check
+    punten_module_11_challenge: *check
+    punten_module_12: *check
+    punten_module_12_challenge: *check
+    punten_module_13: *check
+    punten_module_13_challenge: *check
