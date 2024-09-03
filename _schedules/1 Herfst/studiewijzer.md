@@ -74,11 +74,23 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-De deadlines in het vak hangen in feite af van de wekelijkse besprekingen die je met een docent hebt.
+In dit schema vind je een indicatie van een gemiddelde werklast met bijbehorende deadlines. Dit is een standaardschema en kan voor jou aangepast worden door een docent, zie onder.
 
-Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
+| Week | Onderdeel    | Deadline           |
+|:----:|--------------|-------------------:|
+| 1    | Module 1-4   |  6 september 16:00 |
+| 2    | Module 5-6   | 13 september 16:00 |
+| 3    | Module 7-8   | 20 september 16:00 |
+| 4    | Module 8-9   | 27 september 16:00 |
+| 5    | Module 10    |  4 oktober   16:00 |
+| 6    | Module 11    | 11 oktober   16:00 |
+| 7    | Module 12-13 | 18 oktober   16:00 |
 
-De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
+De deadlines worden echter beïnvloed door jou persoonlijke voortgang. In verband met de grote niveauverschillen maken we persoonlijke afspraken zodat je uit het vak kan halen wat aansluit bij je voorkennis.
+
+Als je bovenstaande deadlines nou niet haalt dan is dat het signaal dat je even in gesprek moet met een docent om de strategie te bepalen. Je maakt dan een alternatief schema en duidelijke afspraken over inleveren en contact houden.
+
+Heb je geen gesprek met de docenten dan blijven de deadlines gelden en dan kun je ook niet verder als je een deadline mist. Als je dus veel ervaring hebt met programmeren dan kun je in principe gewoon lekker inleveren en is er weinig contact nodig.
 
 ## Achterlopen
 
