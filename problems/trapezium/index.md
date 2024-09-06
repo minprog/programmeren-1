@@ -1,6 +1,6 @@
 # Trapeziumº
 
-> Let op, deze opdracht is gemarkeerd met een `º` en deze opdracht is daarmee bedoelt "for those less comfortable". Dit is een herhalende opdracht waarbij je een probleem opnieuw oplost met dezelfde tools en technieken uit eerdere opdrachten. Voel je je nog niet comfortabel met het materiaal van deze module, dan is deze opdracht voor jou. Voel je je wel comfortabel, ga dan verder met de volgende opdracht. 
+> Let op, deze opdracht is gemarkeerd met een `º` en deze opdracht is daarmee bedoeld "for those less comfortable". Dit is een herhalende opdracht waarbij je een probleem opnieuw oplost met dezelfde tools en technieken uit eerdere opdrachten. Voel je je nog niet comfortabel met het materiaal van deze module, dan is deze opdracht voor jou. Voel je je wel comfortabel, ga dan verder met de volgende opdracht. 
 
 Schrijf een programma dat een trapezium uitprint. De gebruiker mag een hoogte opgeven. Deze hoogte mag niet kleiner dan 5 zijn en niet groter dan 20.
 
