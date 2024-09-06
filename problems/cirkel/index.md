@@ -1,4 +1,6 @@
-# Cirkel
+# Cirkel*
+
+> Let op, deze opdracht is gemarkeerd met een `*`. Deze is dus "for those more comfortable".
 
 Schrijf een programma dat een cirkel uitprint. De gebruiker mag een straal opgeven. Deze straal mag niet kleiner dan 5 zijn. Vraag opnieuw om de straal als deze te klein is.
 
