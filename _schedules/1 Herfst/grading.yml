@@ -63,6 +63,7 @@ hertentamen:
         hertentamen: 1
 
 gesprekken:
+    show_overview: true
     submits:
         week_2: 0
         week_3: 0
