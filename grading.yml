@@ -186,3 +186,10 @@ grades:
     punten_module_12_challenge: *check
     punten_module_13: *check
     punten_module_13_challenge: *check
+
+    week_2: *check
+    week_3: *check
+    week_4: *check
+    week_5: *check
+    week_6: *check
+    week_7: *check

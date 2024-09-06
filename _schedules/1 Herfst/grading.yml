@@ -62,6 +62,15 @@ hertentamen:
     submits:
         hertentamen: 1
 
+gesprekken:
+    submits:
+        week_2: 0
+        week_3: 0
+        week_4: 0
+        week_5: 0
+        week_6: 0
+        week_7: 0
+
 punten:
     type: points
     fill_missing: true
