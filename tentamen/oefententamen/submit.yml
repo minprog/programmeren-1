@@ -36,7 +36,8 @@ files:
 
             int main(void)
             {
-                header("Jelle van Assema", "02/10/2023", "Prints hello world");
+                header("Doug Lloyd", "02/10/2023", "Prints hello world");
+                header("Martijn Stegeman", "01/05/2021", "Print Mario's piramide");
             }
         'collatz.c': |
             #include <stdio.h>
@@ -102,6 +103,7 @@ files:
             }
         'leestijd.c': |
             #include <stdio.h>
+            #include <cs50.h>
 
             void leestijd(int tijden[], int n)
             {

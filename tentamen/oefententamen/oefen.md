@@ -84,6 +84,12 @@ Schrijf de functie `header` die een header comment genereert voor de gebruiker. 
     * Date: 02/10/2023                                                             *
     * Description: Prints hello world                                              *
     *******************************************************************************/
+    /*******************************************************************************
+    * Author: Martijn Stegeman                                                     *
+    * Date: 01/05/2021                                                             *
+    * Description: Print Mario's piramide                                          *
+    *******************************************************************************/
+    
 
 De geprinte header is altijd precies 80 karakters breed. Zorg dat je exact de vorm volgt die hierboven in de voorbeelden zichtbaar is! Zo staan er nergens in de header spaties aan het *begin* van de regel. Een belangrijk aspect van de opgave is dat de sterretjes helemaal aan het eind van de regen staan, keurig onder elkaar.
 
