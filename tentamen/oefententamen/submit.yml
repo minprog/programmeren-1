@@ -44,7 +44,7 @@ files:
 
             void collatz(int start)
             {
-                
+
             }
 
             int main(void)
