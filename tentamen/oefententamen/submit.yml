@@ -7,6 +7,7 @@ files:
     required:
         'makelaar.c': |
             #include <stdio.h>
+            #include <cs50.h>
 
             int verkoopprijs(int m2, int sk, int bk, int wijk)
             {
@@ -36,6 +37,22 @@ files:
             int main(void)
             {
                 header("Jelle van Assema", "02/10/2023", "Prints hello world");
+            }
+        'collatz.c': |
+            #include <stdio.h>
+            #include <cs50.h>
+
+            void collatz(int start)
+            {
+                
+            }
+
+            int main(void)
+            {
+                printf("Collatz beginnend bij 8\n");
+                collatz(8);
+                printf("Collatz beginnend bij 10\n");
+                collatz(10);
             }
         'spam.c': |
             #include <stdio.h>
