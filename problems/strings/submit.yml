@@ -5,3 +5,4 @@ files:
 check:
     tool: check50
     slug: minprog/checks/2023/strings
+
