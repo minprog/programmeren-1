@@ -2,7 +2,7 @@ name: oefententamen
 exam: true
 check:
     tool: check50
-    slug: minprog/tentamen-checks/2021/oefententamen-nieuw
+    slug: minprog/tentamen-checks/2021/oefentoets
 files:
     required:
         'makelaar.c': |
