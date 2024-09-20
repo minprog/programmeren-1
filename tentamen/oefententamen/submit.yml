@@ -4,8 +4,8 @@ check:
     tool: check50
     slug: minprog/tentamen-checks/2021/oefentoets
 buttons:
-    'try':
-        - ./<filename>
+    'try': |
+        ./<filename>
 files:
     required:
         'makelaar.c': |
