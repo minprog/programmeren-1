@@ -191,6 +191,7 @@ module_12:
         c_strcat: 1
         c_strdup: 1
         c_strsep: 1
+        wave: 1
 
 module_13:
     show_progress: true

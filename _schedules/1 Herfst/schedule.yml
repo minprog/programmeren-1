@@ -121,7 +121,7 @@ Module 12:
     strcat: /problems/string_functions/strcat
     strdup: /problems/string_functions/strdup
     strsep: /problems/string_functions/strsep
-    TBD*: .
+    wave*: /problems/wave
 
 Module 13:
     "Videocollege: Data structures": /lectures/data-structures
