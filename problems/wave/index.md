@@ -4,7 +4,9 @@ Schrijf een programma dat drie transformaties kan doen op een `.wav` audiobestan
 
 * Volume aanpassen met een factor 0.0 of groter.
 * De audio omkeren.
-* Een echo effect toevoegen, waarbij de audio met vertraging over de originele audio wordt afgespeeld.
+* Een echo effect toevoegen, waarbij de audio met vertraging over de originele audio wordt afgespeeld. 
+    * De vertraging kan zowel positief als negatief zijn. 
+    * De lengte (duur) van de audio blijft onveranderd.
 
 Op [deze pagina](https://docs.fileformat.com/audio/wav/) lees je hoe een `.wav` bestand in elkaar steekt. Let op dat het bestand uit twee delen bestaat:
 
@@ -15,7 +17,7 @@ Op [deze pagina](https://docs.fileformat.com/audio/wav/) lees je hoe een `.wav` 
 
 Het programma moet als volgt werken:
 
-    $ ./wave volume input.wav output.wav 2
+    $ ./wave volume input.wav output.wav 1.5
     $ ./wave reverse input.wav output.wav
     $ ./wave echo input.wav output.wav 0.5
     $ ./wave foo bar
