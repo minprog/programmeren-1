@@ -23,7 +23,7 @@ Het programma moet als volgt werken:
 
 Het programma neemt als eerste command-line argument de type transformatie, en vervolgens twee command-line argumenten met de locatie van het inputbestand en de locatie van het outputbestand. De volume en echo transformatie nemen nog één extra command-line argument. Dat is respectievelijk de factor waarmee het volume wordt aangepast of de vertraging (delay) in seconden waarmee het echo effect wordt toegepast.
 
-## Demo bestanden
+## Demobestanden
 
 Download enkele `.wav` bestanden:
 
