@@ -157,6 +157,7 @@ grades:
     c_strcat: *automatic
     c_strdup: *automatic
     c_strsep: *automatic
+    wave: *manual
 
     beatles: *check
     linked: *manual

@@ -1,0 +1,4 @@
+name: wave
+files:
+  required:
+    - wave.c
