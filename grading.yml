@@ -131,7 +131,9 @@ grades:
 
     calendar: *automatic
     find: *automatic
-    sort: *automatic
+    sort:
+        <<: *automatic
+        allow_resubmit: true
     design_challenge: *automatic
 
     tiles: *automatic
