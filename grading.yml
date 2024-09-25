@@ -130,11 +130,15 @@ grades:
     decryptor: *automatic
 
     calendar: *automatic
-    find: *automatic
+    find:
+        <<: *automatic
+        allow_resubmit: true
     sort:
         <<: *automatic
         allow_resubmit: true
-    design_challenge: *automatic
+    design_challenge:
+        <<: *automatic
+        allow_resubmit: true
 
     tiles: *automatic
     snowfall: *check
