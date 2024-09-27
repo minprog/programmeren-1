@@ -154,8 +154,8 @@ grades:
     unix_paste: *automatic
     unix_strings: *automatic
     unix_tail: *automatic
-    unix_recover: *automatic
-    unix_filetype: *automatic
+    recover: *automatic
+    filetype: *automatic
 
     c_strfry: *automatic
     c_strchr: *automatic
