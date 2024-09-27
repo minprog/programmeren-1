@@ -133,7 +133,7 @@ Be careful not to add, say, `*.c` to that last line in `Makefile`! (Why?)
 
 Notice now that, in `sort.c`, `main` calls `sort`, a function declared in `helpers.h`. Unfortunately, we forgot to implement that function fully in `helpers.c`! Indeed, take a peek at `helpers.c`, and you'll see that `sort` always returns without doing anything else.
 
-To be sure, we could have put the contents of `helpers.h` and `helpers.c` in `find.c` itself. But it's sometimes better to organize programs into multiple files, especially when some functions are essentially "utility functions" that might later prove useful to other programs as well, much like those in the CS50 Library.
+To be sure, we could have put the contents of `helpers.h` and `helpers.c` in `sort.c` itself. But it's sometimes better to organize programs into multiple files, especially when some functions are essentially "utility functions" that might later prove useful to other programs as well, much like those in the CS50 Library.
 
 Notice too, per `helpers.h`, that the prototype for `sort` is:
 
