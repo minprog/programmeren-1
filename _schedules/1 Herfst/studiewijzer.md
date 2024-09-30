@@ -90,8 +90,6 @@ De deadlines worden echter beïnvloed door jou persoonlijke voortgang. In verban
 
 Als je bovenstaande deadlines nou niet haalt dan is dat het signaal dat je even in gesprek moet met een docent om de strategie te bepalen. Je maakt dan een alternatief schema en duidelijke afspraken over inleveren en contact houden.
 
-Heb je geen gesprek met de docenten dan blijven de deadlines gelden en dan kun je ook niet verder als je een deadline mist. Als je dus veel ervaring hebt met programmeren dan kun je in principe gewoon lekker inleveren en is er weinig contact nodig.
-
 ## Achterlopen
 
 Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de docenten naar <mailto:help@mprog.nl>. Je hoeft het niet uitgebreid uit te leggen, maar wel melden. Het contact hierover houden is het belangrijkste dat je kunt doen en een harde eis als je later een uitzondering nodig hebt.
