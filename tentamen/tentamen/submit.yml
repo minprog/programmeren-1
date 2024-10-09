@@ -1,12 +1,5 @@
 name: tentamen
 exam: true
-# files:
-#     required:
-#         - mario51.c
-#         - opeenvolgend.c
-#         - uitschrijven.c
-#         - decrypt.c
-#         - autocorr.c
-# check:
-#     tool: check50
-#     slug: minprog/tentamen-checks/2021/tentamen16
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/tentamen18

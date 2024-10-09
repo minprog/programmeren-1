@@ -84,13 +84,13 @@ In dit schema vind je een indicatie van een gemiddelde werklast met bijbehorende
 | 4    | Module 8-9   | 27 september 16:00 |
 | 5    | Module 10    |  4 oktober   16:00 |
 | 6    | Module 11    | 11 oktober   16:00 |
-| 7    | Module 12-13 | 18 oktober   16:00 |
+| 7    | Module 12-13 | **18 oktober   16:00** |
 
 De deadlines worden echter beïnvloed door jou persoonlijke voortgang. In verband met de grote niveauverschillen maken we persoonlijke afspraken zodat je uit het vak kan halen wat aansluit bij je voorkennis.
 
 Als je bovenstaande deadlines nou niet haalt dan is dat het signaal dat je even in gesprek moet met een docent om de strategie te bepalen. Je maakt dan een alternatief schema en duidelijke afspraken over inleveren en contact houden.
 
-Heb je geen gesprek met de docenten dan blijven de deadlines gelden en dan kun je ook niet verder als je een deadline mist. Als je dus veel ervaring hebt met programmeren dan kun je in principe gewoon lekker inleveren en is er weinig contact nodig.
+Na **vrijdag 18 oktober 16:00** kan je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
