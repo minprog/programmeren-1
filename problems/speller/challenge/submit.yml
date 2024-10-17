@@ -1,0 +1,12 @@
+name: speller_challenge
+files:
+  required:
+    - dictionary.c
+    - dictionary.h
+  optional:
+    - Makefile
+    - some_other_file.c
+    - some_other_file.h
+check:
+  tool: check50
+  slug: minprog/checks/2022/speller
