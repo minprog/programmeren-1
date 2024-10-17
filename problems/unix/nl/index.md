@@ -14,11 +14,11 @@ Schrijf een tool genaamd `nl` die de inhoud van een file naar de terminal print,
           6 bricks, a la the below. Each hash is a bit taller than it is wide, so the
           7 pyramid itself also becomes taller than it is wide.
 
-          9        #
-         10       ##
-         11      ###
-         12     ####
-         13    #####
-         14   ######
-         15  #######
-         16 ########
+          8        #
+          9       ##
+         10      ###
+         11     ####
+         12    #####
+         13   ######
+         14  #######
+         15 ########
