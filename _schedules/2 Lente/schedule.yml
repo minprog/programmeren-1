@@ -8,94 +8,123 @@ Module 1:
     Scratch: /problems/scratch
 
 Module 2:
-    Installatie: /extra/installatie
-
-Module 3:
-    "Videocollege: C": /lectures/c
-    Hello, you!: /problems/hello
-    Functies: /problems/functions
-    # Maths: /problems/maths
-    Binary: /problems/binary
-    Byte*: /problems/byte
-    Huiswerk:
+    Voorbereiding:
+        Installatie: /extra/installatie
+        "Videocollege: C": /lectures/c
+    Basis:
+        Hello, you!: /problems/hello
+        Functies: /problems/functions
+        # Maths: /problems/maths
+        Binary: /problems/binary
+        Byte*: /problems/byte
         Variabelen [boek]: /exercises/book/variables
+    Next:
+        Acid Test: /problems/acid
+        Orakel: /problems/orakel
+        Rechthoeken: /problems/rechthoeken
+        Coupons: /problems/coupons
+    Challenge:
+        Calculator: '#' #TBD run-loop voor input, indien operator, pas toe op vorige twee regels
     Naslag:
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
         "Short: Variables": /shorts/variables
         "Short: Functions": /shorts/functions
 
+Module 3:
+    Basis:
+        "Short: Conditionals": /shorts/conditionals
+        Acid Test: /problems/acid
+        Orakel: /problems/orakel
+        Rechthoeken: /problems/rechthoeken
+        Coupons: /problems/coupons
+    Next:
+        Repeat: /problems/repeat
+        Mario: /problems/mario
+        Mario, Part Deux: /problems/mario-deux
+        Driehoek: /problems/driehoek
+    Challenge:
+        Graph: '#' #TBD gegeven polynoom, plot deze
+
 Module 4:
-    "Short: Conditionals": /shorts/conditionals
-    Acid Test: /problems/acid
-    Orakel: /problems/orakel
-    Rechthoeken: /problems/rechthoeken
-    Coupons: /problems/coupons
+    Basis:
+        "Short: Loops": /shorts/loops
+        Repeat: /problems/repeat
+        Mario: /problems/mario
+        Mario, Part Deux: /problems/mario-deux
+        Driehoek: /problems/driehoek
+        Trapeziumº: /problems/trapezium
+        Cirkel*: /problems/cirkel
+        Control Flow [boek]: /exercises/book/control-flow
+    Next:
+        Regen: /problems/regen
+        Population: /problems/population
+        Soda: /problems/soda
+    Challenge:
+        Chart: '#' # TBD gegeven datasetje, plot als bar chart
 
 Module 5:
-    "Short: Loops": /shorts/loops
-    Repeat: /problems/repeat
-    Mario: /problems/mario
-    Mario, Part Deux: /problems/mario-deux
-    Driehoek: /problems/driehoek
-    Trapeziumº: /problems/trapezium
-    Cirkel*: /problems/cirkel
-    Huiswerk:
-        Control Flow [boek]: /exercises/book/control-flow
+    # Loops die iets uitrekenen
+    Basis:
+        Regen: /problems/regen
+        Population: /problems/population
+        Soda: /problems/soda
+        Caffeine: /problems/caffeine
+        Temperatuurconversie: /problems/conversion
+    Next:
+        Tennis: /problems/tennis
+        Morse: /problems/morse
+        Hoofdletters: /problems/hoofdletters
+    Challenge:
+        Goldbach*: /problems/goldbach # eigenlijk eerder?
 
 Module 6:
-    # Loops die iets uitrekenen
-    Regen: /problems/regen
-    Population: /problems/population
-    Soda: /problems/soda
-    Caffeine: /problems/caffeine
-    Temperatuurconversie: /problems/conversion
-    Goldbach*: /problems/goldbach
-
-Module 7:
-    "Videocollege: Arrays & Strings": /lectures/arrays
-    Strings: /problems/strings
-    Tennis: /problems/tennis
-    Morse: /problems/morse
-    Hoofdletters: /problems/hoofdletters
-    Klinkers: /problems/klinkers
-    RNA: /problems/rna
-    Strings++*: /problems/strings_more
-    Morse++*: /problems/morse_more
-    Huiswerk:
+    Basis:
+        "Videocollege: Arrays & Strings": /lectures/arrays
+        Strings: /problems/strings
+        Tennis: /problems/tennis
+        Morse: /problems/morse
+        Hoofdletters: /problems/hoofdletters
+        Klinkers: /problems/klinkers
+        RNA: /problems/rna
         Strings en Arrays [boek]: /exercises/book/arrays
+    Challenge:
+        Strings++*: /problems/strings_more
+        Morse++*: /problems/morse_more
     Naslag:
         "Short: Arrays": /shorts/arrays
         "Short: command-line arguments": /shorts/argv
 
-Module 8:
+Module 7:
     # Meer algoritmische string/array-uitdagingen
-    Alfabet: /problems/alfabet
-    Scrabble: /problems/scrabble
-    Formule: /problems/formule
-    Cypher: /problems/cypher
-    Wachtwoordº: /problems/wachtwoord
-    Decryptor*: /problems/decryptor
-    Huiswerk:
+    Basis:
+        Alfabet: /problems/alfabet
+        Scrabble: /problems/scrabble
+        Formule: /problems/formule
+        Cypher: /problems/cypher
         Functies [boek]: /exercises/book/functions
+    Next:
+    Challenge:
+        Wachtwoordº: /problems/wachtwoord
+        Decryptor*: /problems/decryptor
 
 #-------- deel 2 van cursus, voor punten --------
 
-Module 9:
+Module 8:
     "Videocollege: Algorithms": /lectures/algorithms
     Sort: /problems/sort
     Find: /problems/find
     Calendar: /problems/calendar
     Design challenge*: /problems/calendar/extra
 
-Module 10:
+Module 9:
     # Dit gaat over 2D arrays
     Tiles: /problems/tiles
     Snowfall (kies één vd twee): /problems/snowfall
     Game of Life (kies één vd twee): /problems/life
     Resize*: /problems/resize/more
 
-Module 11:
+Module 10:
     "Videocollege: Memory": /lectures/memory
     "Short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
@@ -112,7 +141,7 @@ Module 11:
     recover*: /problems/recover
     filetype*: /problems/filetype
 
-Module 12:
+Module 11:
     "Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
     strfry: /problems/string_functions/strfry
@@ -121,15 +150,19 @@ Module 12:
     strcat: /problems/string_functions/strcat
     strdup: /problems/string_functions/strdup
     strsep: /problems/string_functions/strsep
-    TBD*: .
+    Challenge:
+        wave*: /problems/wave
 
-Module 13:
+Module 12:
     "Videocollege: Data structures": /lectures/data-structures
     Beatles: /problems/beatles
     Linked List: /problems/linked
     Questions: /problems/speller/questions
     Speller: /problems/speller
-    Challenge*: /problems/speller/challenge
+    Challenge:
+        Speller challenge*: /problems/speller/challenge
+
+#-------- eerder geschrapt --------
 
 # Week 5:
 #   Opdrachten:
