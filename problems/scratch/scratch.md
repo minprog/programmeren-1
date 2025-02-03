@@ -1,6 +1,17 @@
 # Scratch
 
-It's time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
+It's time to choose your own adventure!
+
+## Preparation
+
+- [How to Make a Scratch Game in less than 10 MINUTES](https://www.youtube.com/watch?v=1D0r8HOaz-c)
+- [Oscartime](https://scratch.mit.edu/projects/887860894/)
+- [Holland's Hardest Game](https://scratch.mit.edu/projects/119975566/)
+- [Ideeëngenerator](https://shorturl.at/lMiw8)
+
+## What to do
+
+Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
 - Your project must have at least two sprites, at least one of which must resemble something other than a cat.
 - Your project must have at least three scripts total (i.e., not necessarily three per sprite).
