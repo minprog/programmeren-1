@@ -41,42 +41,42 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-# tentamenoefeningen:
-#     show_overview: true
-#     submits:
-#         oefententamen: 1
+tentamenoefeningen:
+    show_overview: true
+    submits:
+        oefententamen: 1
 
-# tentamen:
-#     type: points
-#     show_progress: true
-#     attempt_required: true
-#     minimum: 5.5
-#     submits:
-#         tentamen: 1
+tentamen:
+    type: points
+    show_overview: true
+    attempt_required: true
+    minimum: 5.5
+    submits:
+        tentamen: 1
 
-# hertentamen:
-#     type: points
-#     show_progress: true
-#     attempt_required: true
-#     minimum: 5.5
-#     submits:
-#         hertentamen2: 1
+hertentamen:
+    type: points
+    show_overview: true
+    attempt_required: true
+    minimum: 5.5
+    submits:
+        hertentamen2: 1
 
-# punten:
-#     type: points
-#     fill_missing: true
-#     show_progress: true
-#     submits:
-#         punten_module_9: 7
-#         punten_module_9_challenge: 2
-#         punten_module_10: 7
-#         punten_module_10_challenge: 2
-#         punten_module_11: 7
-#         punten_module_11_challenge: 2
-#         punten_module_12: 7
-#         punten_module_12_challenge: 2
-#         punten_module_13: 7
-#         punten_module_13_challenge: 2
+punten:
+    type: points
+    fill_missing: true
+    show_overview: true
+    submits:
+        punten_module_9: 7
+        punten_module_9_challenge: 2
+        punten_module_10: 7
+        punten_module_10_challenge: 2
+        punten_module_11: 7
+        punten_module_11_challenge: 2
+        punten_module_12: 7
+        punten_module_12_challenge: 2
+        punten_module_13: 7
+        punten_module_13_challenge: 2
 
 module_1:
     show_progress: true
