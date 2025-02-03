@@ -41,151 +41,151 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-tentamenoefeningen:
-    show_overview: true
-    submits:
-        oefententamen: 1
+# tentamenoefeningen:
+#     show_overview: true
+#     submits:
+#         oefententamen: 1
 
-tentamen:
-    type: points
-    show_progress: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
-        tentamen: 1
+# tentamen:
+#     type: points
+#     show_progress: true
+#     attempt_required: true
+#     minimum: 5.5
+#     submits:
+#         tentamen: 1
 
-hertentamen:
-    type: points
-    show_progress: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
-        hertentamen2: 1
+# hertentamen:
+#     type: points
+#     show_progress: true
+#     attempt_required: true
+#     minimum: 5.5
+#     submits:
+#         hertentamen2: 1
 
-punten:
-    type: points
-    fill_missing: true
-    show_progress: true
-    submits:
-        punten_module_9: 7
-        punten_module_9_challenge: 2
-        punten_module_10: 7
-        punten_module_10_challenge: 2
-        punten_module_11: 7
-        punten_module_11_challenge: 2
-        punten_module_12: 7
-        punten_module_12_challenge: 2
-        punten_module_13: 7
-        punten_module_13_challenge: 2
+# punten:
+#     type: points
+#     fill_missing: true
+#     show_progress: true
+#     submits:
+#         punten_module_9: 7
+#         punten_module_9_challenge: 2
+#         punten_module_10: 7
+#         punten_module_10_challenge: 2
+#         punten_module_11: 7
+#         punten_module_11_challenge: 2
+#         punten_module_12: 7
+#         punten_module_12_challenge: 2
+#         punten_module_13: 7
+#         punten_module_13_challenge: 2
 
 module_1:
     show_progress: true
     submits:
         scratch: 1
 
-module_3:
-    show_progress: true
-    submits:
-        hello: 1
-        functions: 1
-        binary: 1
-        byte: 1
-
-module_4:
-    show_progress: true
-    submits:
-        acid: 1
-        orakel: 1
-        rechthoeken: 1
-        coupons: 1
-
-module_5:
-    show_progress: true
-    submits:
-        repeat: 1
-        mario: 1
-        mario_2: 1
-        driehoek: 1
-        trapezium: 1
-        cirkel: 1
-
-module_6:
-    show_progress: true
-    submits:
-        regen: 1
-        population: 1
-        soda: 1
-        caffeine: 1
-        conversion: 1
-        goldbach: 1
-
-module_7:
-    show_progress: true
-    submits:
-        strings: 1
-        tennis: 1
-        morse: 1
-        hoofdletters: 1
-        klinkers: 1
-        rna: 1
-        strings_more: 1
-        morse_more: 1
-
-module_8:
-    show_progress: true
-    submits:
-        alfabet: 1
-        scrabble: 1
-        formule: 1
-        cypher: 1
-        wachtwoord: 1
-        decryptor: 1
-
-module_9:
-    show_progress: true
-    submits:
-        calendar: 7
-        find: 7
-        sort: 7
-        design_challenge: 6
-
-module_10:
-    show_progress: true
-    submits:
-        tiles: 7
-        snowfall: 7
-        game_of_life: 7
-        resize: 4
-
-module_11:
-    show_progress: true
-    submits:
-        unix_cat: 2
-        unix_head: 2
-        unix_nl: 2
-        unix_wc: 2
-        unix_uniq: 2
-        unix_cut: 2
-        unix_paste: 2
-        unix_strings: 1
-        unix_tail: 1
-        unix_recover: 1
-        unix_filetype: 1
-
-module_12:
-    show_progress: true
-    submits:
-        c_strfry: 1
-        c_strchr: 1
-        c_strrchr: 1
-        c_strcat: 1
-        c_strdup: 1
-        c_strsep: 1
-
-module_13:
-    show_progress: true
-    submits:
-        beatles: 7
-        linked: 7
-        speller: 7
-        speller_challenge: 6
+# module_3:
+#     show_progress: true
+#     submits:
+#         hello: 1
+#         functions: 1
+#         binary: 1
+#         byte: 1
+#
+# module_4:
+#     show_progress: true
+#     submits:
+#         acid: 1
+#         orakel: 1
+#         rechthoeken: 1
+#         coupons: 1
+#
+# module_5:
+#     show_progress: true
+#     submits:
+#         repeat: 1
+#         mario: 1
+#         mario_2: 1
+#         driehoek: 1
+#         trapezium: 1
+#         cirkel: 1
+#
+# module_6:
+#     show_progress: true
+#     submits:
+#         regen: 1
+#         population: 1
+#         soda: 1
+#         caffeine: 1
+#         conversion: 1
+#         goldbach: 1
+#
+# module_7:
+#     show_progress: true
+#     submits:
+#         strings: 1
+#         tennis: 1
+#         morse: 1
+#         hoofdletters: 1
+#         klinkers: 1
+#         rna: 1
+#         strings_more: 1
+#         morse_more: 1
+#
+# module_8:
+#     show_progress: true
+#     submits:
+#         alfabet: 1
+#         scrabble: 1
+#         formule: 1
+#         cypher: 1
+#         wachtwoord: 1
+#         decryptor: 1
+#
+# module_9:
+#     show_progress: true
+#     submits:
+#         calendar: 7
+#         find: 7
+#         sort: 7
+#         design_challenge: 6
+#
+# module_10:
+#     show_progress: true
+#     submits:
+#         tiles: 7
+#         snowfall: 7
+#         game_of_life: 7
+#         resize: 4
+#
+# module_11:
+#     show_progress: true
+#     submits:
+#         unix_cat: 2
+#         unix_head: 2
+#         unix_nl: 2
+#         unix_wc: 2
+#         unix_uniq: 2
+#         unix_cut: 2
+#         unix_paste: 2
+#         unix_strings: 1
+#         unix_tail: 1
+#         unix_recover: 1
+#         unix_filetype: 1
+#
+# module_12:
+#     show_progress: true
+#     submits:
+#         c_strfry: 1
+#         c_strchr: 1
+#         c_strrchr: 1
+#         c_strcat: 1
+#         c_strdup: 1
+#         c_strsep: 1
+#
+# module_13:
+#     show_progress: true
+#     submits:
+#         beatles: 7
+#         linked: 7
+#         speller: 7
+#         speller_challenge: 6
