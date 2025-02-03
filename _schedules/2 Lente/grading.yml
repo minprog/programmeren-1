@@ -60,7 +60,7 @@ hertentamen:
     attempt_required: true
     minimum: 5.5
     submits:
-        hertentamen2: 1
+        hertentamen: 1
 
 punten:
     type: points
