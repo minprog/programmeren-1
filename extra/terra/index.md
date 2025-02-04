@@ -2,6 +2,8 @@
 
 De Terra IDE is gebaseerd op componenten van de CS50 IDE. Om de IDE te gebruiken in onze cursus moet je een **Github**-account maken. Hierin wordt je werk voortdurend opgeslagen, zodat je niks kwijtraakt.
 
+> Let op! De IDE werkt momenteel niet in Safari. Gebruik Chrome of Firefox.
+
 ## Github-account
 
 [Maak een account op Github](https://github.com/signup). Dit mag anoniem zijn, maar veel mensen gebruiken hun Github-account ook om hun professionele (programmeer-)werk op te publiceren.
