@@ -9,8 +9,8 @@ Module 1:
 
 Module 2:
     Voorbereiding:
-        Installatie: /extra/installatie
-        "Videocollege: C": /lectures/c
+        "Videocollege: C": /video/lecture1
+        Terra IDE: /extra/terra
     Basis:
         Hello, you!: /problems/hello
         Functies: /problems/functions
