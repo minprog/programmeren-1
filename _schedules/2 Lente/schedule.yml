@@ -24,7 +24,7 @@ Module 2:
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
     Challenge:
-        Calculator: '#' #TBD run-loop voor input, indien operator, pas toe op vorige twee regels
+        Calculator: '/problems/calculator'
     Naslag:
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
