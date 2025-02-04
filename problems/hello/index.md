@@ -13,7 +13,7 @@ Following these steps:
 
 - In your editor, create a file called `hello.c`.
 - To the document, add the code from above and save again.
-- Now *make* your program and run it.
+- Now *compile and run* your program.
 - Does the program print the message correctly? Nice.
 - Any errors? Also nice! We'll solve these together.
 
