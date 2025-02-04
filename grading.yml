@@ -94,6 +94,8 @@ grades:
     binary: *automatic
     byte: *automatic
 
+    calculator: *manual
+
     acid: *automatic
     orakel: *automatic
     rechthoeken: *automatic

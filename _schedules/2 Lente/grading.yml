@@ -83,14 +83,19 @@ module_1:
     submits:
         scratch: 1
 
-# module_3:
-#     show_progress: true
-#     submits:
-#         hello: 1
-#         functions: 1
-#         binary: 1
-#         byte: 1
-#
+module_3:
+    show_progress: true
+    submits:
+        hello: 1
+        functions: 1
+        binary: 1
+        byte: 1
+        acid: 1
+        orakel: 1
+        rechthoeken: 1
+        coupons: 1
+        calculator: 1
+
 # module_4:
 #     show_progress: true
 #     submits:
