@@ -83,7 +83,7 @@ module_1:
     submits:
         scratch: 1
 
-module_3:
+module_2:
     show_progress: true
     submits:
         hello: 1
