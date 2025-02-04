@@ -35,7 +35,7 @@ Klik nu op **Generate Token**. Pas op! De lange string met letters en cijfers wo
 - Kies in het Git-menu voor **Add credentials** en plak daar het token, sla op.
 - Kies in het Git-menu voor **Connect repository** en vul daar jouw github-repo in. Die ziet er zo uit;
 
-        https://github.com/<githubusername>/<githubreponame
+        https://github.com/<githubusername>/<githubreponame>
 
 Vul jouw gegevens daarin in, zonder de `<>`
 
