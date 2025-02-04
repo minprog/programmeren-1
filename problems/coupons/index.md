@@ -1,6 +1,6 @@
-# coupons
+# Coupons
 
-Er zijn drie coupons te gebruiken:
+Er zijn in de supermarkt drie coupons te gebruiken:
 
 1. Drie halen = twee betalen (met andere woorden: iedere derde is gratis)
 2. Tweede halve prijs (met andere woorden: 50% korting op iedere tweede)
