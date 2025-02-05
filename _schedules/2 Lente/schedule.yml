@@ -30,17 +30,17 @@ Module 2:
         "Short: Functions": /shorts/functions
 
 Module 3:
-    Basis:
+    Voorbereiding:
         "Short: Conditionals": /shorts/conditionals
+    Opdrachten:
         Acid Test: /problems/acid
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
-    Next level:
-        Repeat: /problems/repeat
-        Mario: /problems/mario
-        Mario, Part Deux: /problems/mario-deux
-        Driehoek: /problems/driehoek
+        Repeat*: /problems/repeat
+        Mario*: /problems/mario
+        Mario, Part Deux*: /problems/mario-deux
+        Driehoek*: /problems/driehoek
         Graph*: '#' #TBD gegeven polynoom, plot deze
 
 Module 4:
