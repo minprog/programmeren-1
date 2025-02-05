@@ -41,7 +41,7 @@ Module 3:
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
         Driehoek*: /problems/driehoek
-        Graph*: '/problems/graph'
+        Cirkel*: /problems/cirkel
 
 Module 4:
     Voorbereiding:
@@ -53,10 +53,11 @@ Module 4:
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
         Cirkel*: /problems/cirkel
+        Graph*: /problems/graph
         Regen*: /problems/regen
         Population*: /problems/population
         Soda*: /problems/soda
-        Chart*: '/problems/chart' # TBD gegeven datasetje, plot als bar chart
+        #Chart*: '/problems/chart' # TBD gegeven datasetje, plot als bar chart
     Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
 
