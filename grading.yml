@@ -107,6 +107,7 @@ grades:
     driehoek: *automatic
     trapezium: *automatic
     cirkel: *automatic
+    graph: *automatic
 
     regen: *automatic
     population: *automatic

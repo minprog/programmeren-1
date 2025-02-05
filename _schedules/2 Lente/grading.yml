@@ -96,6 +96,33 @@ module_2:
         coupons: 1
         calculator: 1
 
+module_3:
+    show_progress: true
+    submits:
+        acid: 1
+        orakel: 1
+        rechthoeken: 1
+        coupons: 1
+        repeat: 1
+        mario: 1
+        mario_2: 1
+        driehoek: 1
+        cirkel: 1
+
+module_4:
+    show_progress: true
+    submits:
+        repeat: 1
+        mario: 1
+        mario_2: 1
+        driehoek: 1
+        trapezium: 1
+        cirkel: 1
+        regen: 1
+        population: 1
+        soda: 1
+        graph: 1
+
 # module_4:
 #     show_progress: true
 #     submits:
@@ -113,6 +140,7 @@ module_2:
 #         driehoek: 1
 #         trapezium: 1
 #         cirkel: 1
+#         graph: 1
 #
 # module_6:
 #     show_progress: true

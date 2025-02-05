@@ -1,6 +1,6 @@
 # Graph*
 
-> Let op, deze opdracht is gemarkeerd met een `*`. Deze is "for those more comfortable".
+> Let op, deze opdracht is gemarkeerd met een `*`.
 
 Schrijf een programma dat een tweedegraads polynoom op het scherm plot. Dit is een functie in de vorm:
 
