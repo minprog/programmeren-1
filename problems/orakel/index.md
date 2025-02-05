@@ -18,7 +18,7 @@
 ## Opdracht
 
 Schrijf, in een bestand genaamd `orakel.c`, een programma dat de gebruiker vraagt om antwoord te geven op de 'De grote vraag van het leven, het universum en alles daarbij'.
-Als de gebruiker als antwoord `42`, `tweeenveertig`, of `tweeënveertig` geeft, moet het programma `Ja` printen, maar bij elk ander antwoord `Nee`.
+Als de gebruiker als antwoord `42`, `tweeenveertig`, `forty two`, of `forty-two` geeft, moet het programma `Ja` printen, maar bij elk ander antwoord `Nee`.
 
     $ ./orakel
     Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? 42
@@ -29,7 +29,7 @@ Als de gebruiker als antwoord `42`, `tweeenveertig`, of `tweeënveertig` geeft, 
     Ja
 
     $ ./orakel
-    Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? drieëntachtig
+    Wat is het antwoord op de grote vraag van het leven, het universum en alles daarbij? vierentachtig
     Nee
 
 Schrijf je code volgens hetzelfde patroon als bij Acid Test. Dat houdt in, één functie om het antwoord te checken en één main functie.
