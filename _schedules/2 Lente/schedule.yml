@@ -85,11 +85,10 @@ Module 6:
         Hoofdletters: /problems/hoofdletters
         Klinkers: /problems/klinkers
         RNA: /problems/rna
-    Toetsje:
-        Strings en Arrays [boek]: /exercises/book/arrays
-    Challenge:
         Strings++*: /problems/strings_more
         Morse++*: /problems/morse_more
+    Toetsje:
+        Strings en Arrays [boek]: /exercises/book/arrays
     Naslag:
         "Short: Arrays": /shorts/arrays
         "Short: command-line arguments": /shorts/argv
