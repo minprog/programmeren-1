@@ -11,20 +11,18 @@ Module 2:
     Voorbereiding:
         "Videocollege: C": /video/lecture1
         Terra IDE: /extra/terra
-    Basis:
+    Opdrachten:
         Hello, you!: /problems/hello
         Functies: /problems/functions
-        # Maths: /problems/maths
         Binary: /problems/binary
         Byte*: /problems/byte
+        Acid Test*: /problems/acid
+        Orakel*: /problems/orakel
+        Rechthoeken*: /problems/rechthoeken
+        Coupons*: /problems/coupons
+        Calculator*: '/problems/calculator'
+    Toetsje:
         Variabelen [boek]: /exercises/book/variables
-    Next:
-        Acid Test: /problems/acid
-        Orakel: /problems/orakel
-        Rechthoeken: /problems/rechthoeken
-        Coupons: /problems/coupons
-    Challenge:
-        Calculator: '/problems/calculator'
     Naslag:
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
@@ -32,19 +30,18 @@ Module 2:
         "Short: Functions": /shorts/functions
 
 Module 3:
-    Basis:
+    Voorbereiding:
         "Short: Conditionals": /shorts/conditionals
+    Opdrachten:
         Acid Test: /problems/acid
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
-    Next:
-        Repeat: /problems/repeat
-        Mario: /problems/mario
-        Mario, Part Deux: /problems/mario-deux
-        Driehoek: /problems/driehoek
-    Challenge:
-        Graph: '#' #TBD gegeven polynoom, plot deze
+        Repeat*: /problems/repeat
+        Mario*: /problems/mario
+        Mario, Part Deux*: /problems/mario-deux
+        Driehoek*: /problems/driehoek
+        Graph*: '#' #TBD gegeven polynoom, plot deze
 
 Module 4:
     Basis:
@@ -53,15 +50,15 @@ Module 4:
         Mario: /problems/mario
         Mario, Part Deux: /problems/mario-deux
         Driehoek: /problems/driehoek
-        Trapeziumº: /problems/trapezium
+        Trapezium: /problems/trapezium
         Cirkel*: /problems/cirkel
+    Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
-    Next:
+    Next level:
         Regen: /problems/regen
         Population: /problems/population
         Soda: /problems/soda
-    Challenge:
-        Chart: '#' # TBD gegeven datasetje, plot als bar chart
+        Chart*: '#' # TBD gegeven datasetje, plot als bar chart
 
 Module 5:
     # Loops die iets uitrekenen
@@ -71,11 +68,10 @@ Module 5:
         Soda: /problems/soda
         Caffeine: /problems/caffeine
         Temperatuurconversie: /problems/conversion
-    Next:
+    Next level:
         Tennis: /problems/tennis
         Morse: /problems/morse
         Hoofdletters: /problems/hoofdletters
-    Challenge:
         Goldbach*: /problems/goldbach # eigenlijk eerder?
 
 Module 6:
@@ -87,10 +83,10 @@ Module 6:
         Hoofdletters: /problems/hoofdletters
         Klinkers: /problems/klinkers
         RNA: /problems/rna
-        Strings en Arrays [boek]: /exercises/book/arrays
-    Challenge:
         Strings++*: /problems/strings_more
         Morse++*: /problems/morse_more
+    Toetsje:
+        Strings en Arrays [boek]: /exercises/book/arrays
     Naslag:
         "Short: Arrays": /shorts/arrays
         "Short: command-line arguments": /shorts/argv
