@@ -37,6 +37,7 @@ Module 3:
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
+        Calculator*: '/problems/calculator'
         Repeat*: /problems/repeat
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
