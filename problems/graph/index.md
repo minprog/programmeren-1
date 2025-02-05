@@ -4,7 +4,7 @@
 
 Schrijf een programma dat een tweedegraads polynoom op het scherm plot. Dit is een functie in de vorm:
 
-  f(x) = a * x^2 + b * x + c
+    f(x) = a * x^2 + b * x + c
 
 Zo moet het programma werken:
 
