@@ -11,20 +11,18 @@ Module 2:
     Voorbereiding:
         "Videocollege: C": /video/lecture1
         Terra IDE: /extra/terra
-    Basis:
+    Opdrachten:
         Hello, you!: /problems/hello
         Functies: /problems/functions
-        # Maths: /problems/maths
         Binary: /problems/binary
         Byte*: /problems/byte
+        Acid Test*: /problems/acid
+        Orakel*: /problems/orakel
+        Rechthoeken*: /problems/rechthoeken
+        Coupons*: /problems/coupons
+        Calculator*: '/problems/calculator'
     Toetsje:
         Variabelen [boek]: /exercises/book/variables
-    Next level:
-        Acid Test: /problems/acid
-        Orakel: /problems/orakel
-        Rechthoeken: /problems/rechthoeken
-        Coupons: /problems/coupons
-        Calculator*: '/problems/calculator'
     Naslag:
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
