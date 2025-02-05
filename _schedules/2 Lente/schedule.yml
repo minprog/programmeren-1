@@ -17,14 +17,14 @@ Module 2:
         # Maths: /problems/maths
         Binary: /problems/binary
         Byte*: /problems/byte
+    Toetsje:
         Variabelen [boek]: /exercises/book/variables
-    Next:
+    Next level:
         Acid Test: /problems/acid
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
-    Challenge:
-        Calculator: '/problems/calculator'
+        Calculator*: '/problems/calculator'
     Naslag:
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
@@ -38,13 +38,12 @@ Module 3:
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
-    Next:
+    Next level:
         Repeat: /problems/repeat
         Mario: /problems/mario
         Mario, Part Deux: /problems/mario-deux
         Driehoek: /problems/driehoek
-    Challenge:
-        Graph: '#' #TBD gegeven polynoom, plot deze
+        Graph*: '#' #TBD gegeven polynoom, plot deze
 
 Module 4:
     Basis:
@@ -56,12 +55,11 @@ Module 4:
         Trapeziumº: /problems/trapezium
         Cirkel*: /problems/cirkel
         Control Flow [boek]: /exercises/book/control-flow
-    Next:
+    Next level:
         Regen: /problems/regen
         Population: /problems/population
         Soda: /problems/soda
-    Challenge:
-        Chart: '#' # TBD gegeven datasetje, plot als bar chart
+        Chart*: '#' # TBD gegeven datasetje, plot als bar chart
 
 Module 5:
     # Loops die iets uitrekenen
@@ -71,11 +69,10 @@ Module 5:
         Soda: /problems/soda
         Caffeine: /problems/caffeine
         Temperatuurconversie: /problems/conversion
-    Next:
+    Next level:
         Tennis: /problems/tennis
         Morse: /problems/morse
         Hoofdletters: /problems/hoofdletters
-    Challenge:
         Goldbach*: /problems/goldbach # eigenlijk eerder?
 
 Module 6:
