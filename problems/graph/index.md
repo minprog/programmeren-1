@@ -8,8 +8,6 @@ Schrijf een programma dat een tweedegraads polynoom op het scherm plot. Dit is e
 
 Zo moet het programma werken:
 
-> Bestudeer de voorbeelden goed, ze zijn niet willekeurig gekozen.
-
     $ ./graph
     What is the first coefficient? 0
     What is the second coefficient? 1
@@ -160,3 +158,6 @@ Zo moet het programma werken:
      0------------------------------------------------------------------------------
       0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75 
 
+> Bestudeer de voorbeelden goed, ze zijn niet willekeurig gekozen.
+
+> Iedere plot is precies 24 tekens hoog en 80 tekens breed.
