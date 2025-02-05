@@ -54,6 +54,7 @@ Module 4:
         Driehoek: /problems/driehoek
         Trapeziumº: /problems/trapezium
         Cirkel*: /problems/cirkel
+    Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
     Next level:
         Regen: /problems/regen
@@ -84,6 +85,7 @@ Module 6:
         Hoofdletters: /problems/hoofdletters
         Klinkers: /problems/klinkers
         RNA: /problems/rna
+    Toetsje:
         Strings en Arrays [boek]: /exercises/book/arrays
     Challenge:
         Strings++*: /problems/strings_more
