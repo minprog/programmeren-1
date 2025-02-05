@@ -1,7 +1,5 @@
 # Calculator
 
-> Dit is een extra uitdagende opdracht, die aansluit op de elementen die in deze module zijn behandeld, maar zonder veel ervaring lastig is om te doen. Als je tijd hebt, probeer 'm eens!
-
 Schrijf een programma dat herhaaldelijk om invoer vraagt. De invoer kan bestaan uit (gehele) getallen, maar ook uit operaties: `+`, `-`, `*` en `/`. Wel alles op een aparte regel! Als een operatie wordt gegeven, dan wordt deze toegepast op de twee meest recente waarden, en het resultaat wordt dan geprint.
 
 ## Voorbeeld 1
