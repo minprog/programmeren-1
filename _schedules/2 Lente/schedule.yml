@@ -41,41 +41,40 @@ Module 3:
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
         Driehoek*: /problems/driehoek
-        Graph*: '#' #TBD gegeven polynoom, plot deze
+        Graph*: '/problems/graph'
 
 Module 4:
-    Basis:
+    Voorbereiding:
         "Short: Loops": /shorts/loops
+    Opdrachten:
         Repeat: /problems/repeat
         Mario: /problems/mario
         Mario, Part Deux: /problems/mario-deux
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
         Cirkel*: /problems/cirkel
+        Regen*: /problems/regen
+        Population*: /problems/population
+        Soda*: /problems/soda
+        Chart*: '/problems/chart' # TBD gegeven datasetje, plot als bar chart
     Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
-    Next level:
-        Regen: /problems/regen
-        Population: /problems/population
-        Soda: /problems/soda
-        Chart*: '#' # TBD gegeven datasetje, plot als bar chart
 
 Module 5:
     # Loops die iets uitrekenen
-    Basis:
+    Opdrachten:
         Regen: /problems/regen
         Population: /problems/population
         Soda: /problems/soda
         Caffeine: /problems/caffeine
         Temperatuurconversie: /problems/conversion
-    Next level:
-        Tennis: /problems/tennis
-        Morse: /problems/morse
-        Hoofdletters: /problems/hoofdletters
+        Tennis*: /problems/tennis
+        Morse*: /problems/morse
+        Hoofdletters*: /problems/hoofdletters
         Goldbach*: /problems/goldbach # eigenlijk eerder?
 
 Module 6:
-    Basis:
+    Opdrachten:
         "Videocollege: Arrays & Strings": /lectures/arrays
         Strings: /problems/strings
         Tennis: /problems/tennis
@@ -93,16 +92,15 @@ Module 6:
 
 Module 7:
     # Meer algoritmische string/array-uitdagingen
-    Basis:
+    Opdrachten:
         Alfabet: /problems/alfabet
         Scrabble: /problems/scrabble
         Formule: /problems/formule
         Cypher: /problems/cypher
-        Functies [boek]: /exercises/book/functions
-    Next:
-    Challenge:
-        Wachtwoordº: /problems/wachtwoord
+        Wachtwoord*: /problems/wachtwoord
         Decryptor*: /problems/decryptor
+    Toetsje:
+        Functies [boek]: /exercises/book/functions
 
 #-------- deel 2 van cursus, voor punten --------
 
