@@ -12,7 +12,6 @@ Zo moet het programma werken:
     What is the first coefficient? 0
     What is the second coefficient? 1
     What is the third coefficient? 0
-      |                      *                                                      
       |                     *                                                       
       |                    *                                                        
     20|                   *                                                         
@@ -42,7 +41,6 @@ Zo moet het programma werken:
     What is the first coefficient? 0.005
     What is the second coefficient? 0
     What is the third coefficient? 0
-      |                                                                   *         
       |                                                                 **          
       |                                                                *            
     20|                                                              **             
@@ -74,7 +72,6 @@ Zo moet het programma werken:
     What is the third coefficient? 20
       |                                                                             
       |                                                                             
-      |                                                                             
     20********                                                                      
       |       *****                                                                 
       |            ***                                                              
@@ -104,7 +101,6 @@ Zo moet het programma werken:
     What is the third coefficient? 2
       |                                                                             
       |                                                                             
-      |                                                                             
     20|                                                                             
       |                                                                             
       |                                                                             
@@ -132,7 +128,6 @@ Zo moet het programma werken:
     What is the first coefficient? 0
     What is the second coefficient? 0
     What is the third coefficient? 2.5
-      |                                                                             
       |                                                                             
       |                                                                             
     20|                                                                             
