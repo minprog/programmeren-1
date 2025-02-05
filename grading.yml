@@ -94,12 +94,12 @@ grades:
     binary: *automatic
     byte: *automatic
 
-    calculator: *manual
-
     acid: *automatic
     orakel: *automatic
     rechthoeken: *automatic
     coupons: *automatic
+
+    calculator: *automatic
 
     repeat: *automatic
     mario: *automatic

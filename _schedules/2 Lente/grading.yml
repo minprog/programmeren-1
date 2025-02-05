@@ -103,6 +103,7 @@ module_3:
         orakel: 1
         rechthoeken: 1
         coupons: 1
+        calculator: 1
         repeat: 1
         mario: 1
         mario_2: 1

@@ -1,28 +1,48 @@
 # Calculator
 
-Schrijf een programma dat herhaaldelijk om invoer vraagt. De invoer kan bestaan uit (gehele) getallen, maar ook uit operaties: `+`, `-`, `*` en `/`. Wel alles op een aparte regel! Als een operatie wordt gegeven, dan wordt deze toegepast op de twee meest recente waarden, en het resultaat wordt dan geprint.
+Schrijf een integer calculator dat een gebruiker oneindig blijft vragen om getallen en operaties. Het programma moet de operaties `+`, `-`, `*` en `/` ondersteunen. Het programma moet als volgt werken:
 
-## Voorbeeld 1
-
-Hier worden 3 en 4 ingetikt, dan de operatie `*`. Het resultaat 12 wordt uitgeprint.
-
-    3
-    4
-    *
-    12
-
-## Voorbeeld 2
-
-Nu wordt het iets ingewikkelder. Want ook resultaten kunnen weer gebruikt worden in een operatie. Kijk naar dit voorbeeld:
-
-    10
-    100
+    $ ./calculator
+    0
+    +
+    1
+    = 1
     -
-    -90
-    20
+    3
+    = -2
     *
-    -1800
+    4
+    = -8
+    +
+    16
+    = 8
+    /
+    4
+    = 2
 
-## Extra challenge
+    $ ./calculator
+    2
+    $
+    %
+    +
+    1
+    = 3
 
-Breid het programma uit zodat het op een logische manier omgaat met floating-point-getallen.
+    ./calculator
+    -4
+    +
+    -5
+    = -9
+    *
+    -2
+    = 18
+
+    ./calculator
+    1
+    /
+    2
+    = 0
+
+> Iedere regel met `= ` ervoor is output van het programma, de rest is invoer van de gebruiker.
+
+> Let op, het programma stopt nooit. De gebruiker moet maar op `ctrl + C` drukken.
