@@ -15,11 +15,13 @@ Module 2:
         Hello, you!: /problems/hello
         Functies: /problems/functions
         Binary: /problems/binary
+        #---
         Byte*: /problems/byte
         Acid Test*: /problems/acid
         Orakel*: /problems/orakel
         Rechthoeken*: /problems/rechthoeken
         Coupons*: /problems/coupons
+        #---
         Calculator*: '/problems/calculator'
     Toetsje:
         Variabelen [boek]: /exercises/book/variables
@@ -37,12 +39,14 @@ Module 3:
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
-        Calculator*: '/problems/calculator'
+        #---
         Repeat*: /problems/repeat
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
         Driehoek*: /problems/driehoek
+        #---
         Cirkel*: /problems/cirkel
+        Graph*: /problems/graph
 
 Module 4:
     Voorbereiding:
@@ -53,27 +57,33 @@ Module 4:
         Mario, Part Deux: /problems/mario-deux
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
-        Cirkel*: /problems/cirkel
-        Graph*: /problems/graph
+        #---
+        Calculator*: '/problems/calculator'
         Regen*: /problems/regen
         Population*: /problems/population
         Soda*: /problems/soda
-        #Chart*: '/problems/chart' # TBD gegeven datasetje, plot als bar chart
+        #---
+        Goldbach*: /problems/goldbach
+        Credit*: /problems/credit
     Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
 
 Module 5:
     # Loops die iets uitrekenen
     Opdrachten:
+        # Calculator: '/problems/calculator'
         Regen: /problems/regen
         Population: /problems/population
         Soda: /problems/soda
         Caffeine: /problems/caffeine
         Temperatuurconversie: /problems/conversion
+        #---
+        "Videocollege: Arrays & Strings*": /lectures/arrays
         Tennis*: /problems/tennis
         Morse*: /problems/morse
         Hoofdletters*: /problems/hoofdletters
-        Goldbach*: /problems/goldbach # eigenlijk eerder?
+        #---
+        Tideman* [TBD]: /problems/tideman
 
 Module 6:
     Opdrachten:
@@ -84,6 +94,11 @@ Module 6:
         Hoofdletters: /problems/hoofdletters
         Klinkers: /problems/klinkers
         RNA: /problems/rna
+        #---
+        Alfabet*: /problems/alfabet
+        Scrabble*: /problems/scrabble
+        Formule*: /problems/formule
+        #---
         Strings++*: /problems/strings_more
         Morse++*: /problems/morse_more
     Toetsje:
