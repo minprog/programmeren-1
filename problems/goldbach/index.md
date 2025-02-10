@@ -30,8 +30,6 @@ Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inder
 
 ## How to Test Your Code
 
-Er is géén check50 beschikbaar om je code te checken, omdat het uit bovenstaande zeer duidelijk moet zijn wat de bedoeling is. Bij inleveren wordt je opdracht wel gecheckt op compileerbaarheid.
-
 Om te kijken of je programma sneller wordt als je optimalisaties uitvoert, kun je de verwerkingstijd meten (lees de `real` time af in seconden):
 
     time ./goldbach
