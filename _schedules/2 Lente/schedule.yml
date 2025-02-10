@@ -58,7 +58,7 @@ Module 4:
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
         #---
-        Calculator*: '/problems/calculator'
+        # Calculator*: '/problems/calculator'
         Regen*: /problems/regen
         Population*: /problems/population
         Soda*: /problems/soda
