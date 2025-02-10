@@ -89,7 +89,7 @@ module_2:
         hello: 1
         functions: 1
         binary: 1
-        
+
 module_3:
     show_progress: true
     submits:
@@ -97,7 +97,7 @@ module_3:
         orakel: 1
         rechthoeken: 1
         coupons: 1
-        
+
 module_4:
     show_progress: true
     submits:
