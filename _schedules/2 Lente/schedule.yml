@@ -40,6 +40,7 @@ Module 3:
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
         #---
+        Calculator*: '/problems/calculator'
         Repeat*: /problems/repeat
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
@@ -58,7 +59,6 @@ Module 4:
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
         #---
-        Calculator*: '/problems/calculator'
         Regen*: /problems/regen
         Population*: /problems/population
         Soda*: /problems/soda

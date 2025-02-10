@@ -89,40 +89,51 @@ module_2:
         hello: 1
         functions: 1
         binary: 1
-        byte: 1
-        acid: 1
-        orakel: 1
-        rechthoeken: 1
-        coupons: 1
-        calculator: 1
-
+        
 module_3:
-    show_overview: true
+    show_progress: true
     submits:
         acid: 1
         orakel: 1
         rechthoeken: 1
         coupons: 1
-        calculator: 1
-        repeat: 1
-        mario: 1
-        mario_2: 1
-        driehoek: 1
-        cirkel: 1
-
+        
 module_4:
-    show_overview: true
+    show_progress: true
     submits:
         repeat: 1
         mario: 1
         mario_2: 1
         driehoek: 1
         trapezium: 1
-        cirkel: 1
+
+module_5:
+    show_progress: true
+    submits:
         regen: 1
         population: 1
         soda: 1
+        caffeine: 1
+        conversion: 1
+
+module_6:
+    show_progress: true
+    submits:
+        tennis: 1
+        morse: 1
+        hoofdletters: 1
+
+ster:
+    show_progress: true
+    submits:
+        byte: 1
+        calculator: 1
+        cirkel: 1
         graph: 1
+        goldbach: 1
+        credit: 1
+        tideman: 1
+
 
 # module_4:
 #     show_progress: true
