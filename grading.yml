@@ -114,6 +114,7 @@ grades:
     soda: *automatic
     caffeine: *automatic
     conversion: *automatic
+    credit: *automatic
     goldbach: *automatic
 
     strings: *automatic
@@ -124,6 +125,7 @@ grades:
     rna: *automatic
     strings_more: *automatic
     morse_more: *automatic
+    tideman: *automatic
 
     alfabet: *automatic
     scrabble: *automatic
