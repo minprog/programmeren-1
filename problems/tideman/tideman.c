@@ -1,5 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
+#include <string.h>
 
 // Max number of candidates
 #define MAX 9
@@ -32,25 +33,49 @@ void sort_pairs(void);
 void lock_pairs(void);
 void print_winner(void);
 
-int main(int argc, string argv[])
+int main(void)
 {
-    // Check for invalid usage
-    if (argc < 2)
+    string names = get_string("What are the names of the candidates: ");
+
+    int candidate_count = 1;
+    for (int i = 0, n = strlen(names); i < n; i++)
     {
-        printf("Usage: tideman [candidate ...]\n");
-        return 1;
+        if (i > 0 && names[i] != ' ' && names[i - 1] == ' ')
+        {
+            candidate_count++;
+        }
     }
 
     // Populate array of candidates
-    candidate_count = argc - 1;
     if (candidate_count > MAX)
     {
         printf("Maximum number of candidates is %i\n", MAX);
         return 2;
     }
-    for (int i = 0; i < candidate_count; i++)
+
+    // Parse the string, put the names in candidates
+    string candidates[candidate_count];
+    int length = 0;
+    int candidate = 0;
+    for (int i = 0, n = strlen(names); i < n; i++)
     {
-        candidates[i] = argv[i + 1];
+        length++;
+        if (names[i] == ' ')
+        {
+            // Skip empty strings
+            if (length != 1)
+            {
+                candidates[candidate] = strndup(&names[i - (length - 1)], length - 1);
+                candidate++;
+            }
+            length = 0;
+        }
+    }
+
+    // Last name
+    if (length > 1)
+    {
+        candidates[candidate] = strndup(&names[strlen(names) - (length)], length);
     }
 
     // Clear graph of locked in pairs

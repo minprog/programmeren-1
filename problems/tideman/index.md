@@ -30,6 +30,8 @@ The Tideman voting method (also known as “ranked pairs”) is a ranked-choice 
 
 <iframe src="https://asciinema.org/a/FWidrKAwqxtepXlN1T0l5hNnJ/iframe?autoplay=1&amp;cols=100&amp;loop=1&amp;rows=12" id="asciicast-iframe-FWidrKAwqxtepXlN1T0l5hNnJ" name="asciicast-iframe-FWidrKAwqxtepXlN1T0l5hNnJ" scrolling="no" allowfullscreen="true" title="Terminal session recording" style="overflow: hidden; margin: 0px; border: 0px; display: inline-block; width: 100%; float: none; visibility: visible; height: 193px;"></iframe>
 
+> Minor change, our starter code does not require command line arguments. Instead it prompts for the candidate names.
+
 ## Starter Code
 
 <https://github.com/minprog/programmeren-1/raw/2024/problems/tideman/tideman.c>
