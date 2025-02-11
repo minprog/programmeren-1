@@ -62,22 +62,6 @@ hertentamen:
     submits:
         hertentamen: 1
 
-punten:
-    type: points
-    fill_missing: true
-    show_overview: true
-    submits:
-        punten_module_9: 7
-        punten_module_9_challenge: 2
-        punten_module_10: 7
-        punten_module_10_challenge: 2
-        punten_module_11: 7
-        punten_module_11_challenge: 2
-        punten_module_12: 7
-        punten_module_12_challenge: 2
-        punten_module_13: 7
-        punten_module_13_challenge: 2
-
 module_1:
     show_progress: true
     submits:
@@ -237,3 +221,20 @@ ster:
 #         linked: 7
 #         speller: 7
 #         speller_challenge: 6
+
+punten:
+    type: points
+    fill_missing: true
+    show_overview: true
+    submits:
+        punten_module_9: 7
+        punten_module_9_challenge: 2
+        punten_module_10: 7
+        punten_module_10_challenge: 2
+        punten_module_11: 7
+        punten_module_11_challenge: 2
+        punten_module_12: 7
+        punten_module_12_challenge: 2
+        punten_module_13: 7
+        punten_module_13_challenge: 2
+
