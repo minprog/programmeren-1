@@ -116,15 +116,15 @@ module_5:
         caffeine: 1
         conversion: 1
 
-module_6:
-    show_progress: true
-    submits:
-        strings: 1
-        tennis: 1
-        morse: 1
-        hoofdletters: 1
-        klinkers: 1
-        rna: 1
+# module_6:
+#     show_progress: true
+#     submits:
+#         strings: 1
+#         tennis: 1
+#         morse: 1
+#         hoofdletters: 1
+#         klinkers: 1
+#         rna: 1
 
 ster:
     show_progress: true
