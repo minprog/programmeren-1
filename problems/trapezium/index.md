@@ -38,13 +38,3 @@ Schrijf een programma dat een trapezium uitprint. De gebruiker mag een hoogte op
       #        #
      #        #
     ##########
-
-Als beginpunt kun je deze code gebruiken:
-
-    #include <cs50.h>
-    #include <stdio.h>
-
-    int main(int argc, string argv[])
-    {
-        // TODO
-    }
