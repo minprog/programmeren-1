@@ -2,7 +2,8 @@
 
 Implement a program that decrypts messages using Caesar's cipher, per the below.
 
-    $ ./decryptor gHFrgh Fdhvdu
+    $ ./decryptor 
+    Message: gHFrgh Fdhvdu
     dECode Caesar
 
 ## Background
@@ -53,7 +54,7 @@ Write a program that decodes messages encrypted using a Caesar cypher without kn
 
 - Implement your program in a file called `decrypt.c`.
 
-- Your program must accept any number of command line arguments equal to or greater than 1, meaning a sentence of at least one word.
+- Your program must accept a message, a sentence of at least one word.
 
 - Your program then decrypts the message using the ideas from the explanation above.
 
@@ -68,7 +69,3 @@ Write a program that decodes messages encrypted using a Caesar cypher without kn
 ## How to Test Your Code
 
 Use the examples above, and your own examples, to check whether your program works perfectly. After submitting your programma will also be automatically checked.
-
-And for good measure, time permitting, use `style50` to eliminate basic style mistakes:
-
-    style50 decryptor.c
