@@ -47,15 +47,12 @@ Een combinatie van `dit`s en `dah`s vormen letters uit het alfabet. Een `dit` re
 
 Schrijf een programma `morse_more.c` dat als volgt werkt:
 
-    $ ./morse
-    Usage: ./morse <code>
-
-    $ ./morse "===,===,,,===,===,===,,,=,===,=,,,=,=,=,,,=,,,,,,,===,=,===,=,,,===,===,===,,,===,=,=,,,="
+    $ ./morse 
+    Code: ===,===,,,===,===,===,,,=,===,=,,,=,=,=,,,=,,,,,,,===,=,===,=,,,===,===,===,,,===,=,=,,,=
     morse code
 
-    $ ./morse "=,=,=,=,,,=,,,=,===,=,=,,,=,===,=,=,,,===,===,===,,,,,,,=,===,===,,,===,===,===,,,=,===,=,,,=,===,=,=,,,===,=,="
+    $ ./morse 
+    Code: =,=,=,=,,,=,,,=,===,=,=,,,=,===,=,=,,,===,===,===,,,,,,,=,===,===,,,===,===,===,,,=,===,=,,,=,===,=,=,,,===,=,=
     hello world
 
 Je mag aannemen dat de gebruiker altijd een valide morse code invoert. `TOF` hoeft niet 😄
-
-> `argc` & `argv`? Zie de [command-line arguments short](/shorts/argv)
