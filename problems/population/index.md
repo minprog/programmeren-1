@@ -17,11 +17,21 @@ To try another example, if we were to start with `n = 1000` llamas, at the end o
 
 ## Distribution
 
-Download the "distribution code" (i.e., starter code) by executing the following command in the terminal:
+Start with this:
 
-    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/population/population.c
+    #include <cs50.h>
+    #include <stdio.h>
 
-This will download a file called `population.c` and store it in the current directory. Open it in your editor.
+    int main(void)
+    {
+        // TODO: prompt for start size
+
+        // TODO: prompt for end size
+
+        // TODO: calculate number of years until we reach threshold
+
+        // TODO: print number of years
+    }
 
 ## Implementation details
 

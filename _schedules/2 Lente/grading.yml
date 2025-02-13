@@ -86,8 +86,6 @@ module_6:
         tennis: 1
         morse: 1
         hoofdletters: 1
-        klinkers: 1
-        rna: 1
 
 ster:
     show_progress: true
@@ -100,6 +98,8 @@ ster:
         credit: 1
         tideman: 1
 
+# klinkers: 1
+# rna: 1
 
 # module_4:
 #     show_progress: true

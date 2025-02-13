@@ -49,6 +49,8 @@ Module 3:
         Cirkel*: /problems/cirkel
         Graph*: /problems/graph
 
+#-------- week 2 --------
+
 Module 4:
     Voorbereiding:
         "Short: Loops": /shorts/loops
@@ -86,56 +88,75 @@ Module 5:
         Tideman**: /problems/tideman
 
 Module 6:
-    Opdrachten:
+    Voorbereiding:
         "Videocollege: Arrays & Strings": /lectures/arrays
+    Opdrachten:
         Strings: /problems/strings
         Tennis: /problems/tennis
         Morse: /problems/morse
         Hoofdletters: /problems/hoofdletters
-        Klinkers: /problems/klinkers
-        RNA: /problems/rna
         #---
+        Klinkers*: /problems/klinkers
+        RNA*: /problems/rna
         Alfabet*: /problems/alfabet
-        Scrabble*: /problems/scrabble
-        Formule*: /problems/formule
-        #---
         Strings++*: /problems/strings_more
-        Morse++*: /problems/morse_more
+        #---
+        Tideman**: /problems/tideman
     Toetsje:
         Strings en Arrays [boek]: /exercises/book/arrays
     Naslag:
         "Short: Arrays": /shorts/arrays
-        "Short: command-line arguments": /shorts/argv
+        # "Short: command-line arguments": /shorts/argv
+
+#-------- week 3 --------
 
 Module 7:
     # Meer algoritmische string/array-uitdagingen
     Opdrachten:
+        Klinkers: /problems/klinkers
+        RNA: /problems/rna
         Alfabet: /problems/alfabet
+        Wachtwoord: /problems/wachtwoord
         Scrabble: /problems/scrabble
-        Formule: /problems/formule
-        Cypher: /problems/cypher
-        Wachtwoord*: /problems/wachtwoord
+        #---
+        Formule*: /problems/formule
+        Cypher*: /problems/cypher
+        #---
         Decryptor*: /problems/decryptor
     Toetsje:
         Functies [boek]: /exercises/book/functions
 
-#-------- deel 2 van cursus, voor punten --------
-
 Module 8:
-    "Videocollege: Algorithms": /lectures/algorithms
-    Sort: /problems/sort
-    Find: /problems/find
-    Calendar: /problems/calendar
-    Design challenge*: /problems/calendar/extra
+    Opdrachten:
+        Formule: /problems/formule
+        Cypher: /problems/cypher
+        Calendar: /problems/calendar
+        #---
+        #---
+        Morse++*: /problems/morse_more
+
+#-------- week 4 --------
 
 Module 9:
+    Voorbereiding:
+        "Videocollege: Algorithms": /lectures/algorithms
+    Opdrachten:
+        Sort: /problems/sort
+        Find: /problems/find
+        #---
+        Wordle [TBD]: /problems/wordle
+        # Design challenge*: /problems/calendar/extra
+
+#-------- deel 2 van cursus, voor punten --------
+
+Module 10:
     # Dit gaat over 2D arrays
     Tiles: /problems/tiles
     Snowfall (kies één vd twee): /problems/snowfall
     Game of Life (kies één vd twee): /problems/life
     Resize*: /problems/resize/more
 
-Module 10:
+Module 11:
     "Videocollege: Memory": /lectures/memory
     "Short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
@@ -152,7 +173,7 @@ Module 10:
     recover*: /problems/recover
     filetype*: /problems/filetype
 
-Module 11:
+Module 12:
     "Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
     strfry: /problems/string_functions/strfry
@@ -164,7 +185,7 @@ Module 11:
     Challenge:
         wave*: /problems/wave
 
-Module 12:
+Module 13:
     "Videocollege: Data structures": /lectures/data-structures
     Beatles: /problems/beatles
     Linked List: /problems/linked
