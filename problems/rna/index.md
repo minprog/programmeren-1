@@ -8,7 +8,7 @@ Een complementaire RNA-keten kan dus volgens een vast patroon beredeneerd worden
 
 ## Opdracht
 
-Schrijf een programma dat op de command line een keten van DNA aanneemt van willkeurige lengte en de complementaire RNA-keten print. Het programma print een error message bij ongeldige invoer.
+Schrijf een programma dat een keten van DNA aanneemt van willkeurige lengte en de complementaire RNA-keten print. Het programma print een error message bij ongeldige invoer.
 
 ## Implementation Details
 
@@ -24,14 +24,14 @@ Schrijf een programma dat op de command line een keten van DNA aanneemt van will
     DNA: ATGC
     UACG
 
-    $ ./rna AAGGTTCCAA
+    $ ./rna
     DNA: UUCCAAGGUU
 
-    $ ./rna CGaT
+    $ ./rna
     DNA: GCUA
 
 In het geval van gebruikersfouten, moet het programma als volgt reageren en afsluiten met exit code 1.
 
-    $ ./rna AAF
+    $ ./rna
     DNA: AAF
     Invalid DNA
