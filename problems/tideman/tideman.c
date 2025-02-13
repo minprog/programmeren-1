@@ -37,7 +37,7 @@ int main(void)
 {
     string names = get_string("What are the names of the candidates: ");
 
-    int candidate_count = 1;
+    candidate_count = 1;
     for (int i = 0, n = strlen(names); i < n; i++)
     {
         if (i > 0 && names[i] != ' ' && names[i - 1] == ' ')
@@ -54,7 +54,6 @@ int main(void)
     }
 
     // Parse the string, put the names in candidates
-    string candidates[candidate_count];
     int length = 0;
     int candidate = 0;
     for (int i = 0, n = strlen(names); i < n; i++)
