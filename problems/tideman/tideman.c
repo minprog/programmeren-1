@@ -1,8 +1,4 @@
-#ifdef __STDC_ALLOC_LIB__
-#define __STDC_WANT_LIB_EXT2__ 1
-#else
 #define _POSIX_C_SOURCE 200809L
-#endif
 
 #include <cs50.h>
 #include <stdio.h>
@@ -12,10 +8,10 @@
 #define MAX 9
 
 // preferences[i][j] is number of voters who prefer i over j
-int preferences[MAX][MAX];
+static int preferences[MAX][MAX];
 
 // locked[i][j] means i is locked in over j
-bool locked[MAX][MAX];
+static bool locked[MAX][MAX];
 
 // Each pair has a winner, loser
 typedef struct
@@ -25,11 +21,11 @@ typedef struct
 } pair;
 
 // Array of candidates
-string candidates[MAX];
-pair pairs[MAX * (MAX - 1) / 2];
+static string candidates[MAX];
+static pair pairs[MAX * (MAX - 1) / 2];
 
-int pair_count;
-int candidate_count;
+static int pair_count;
+static int candidate_count;
 
 // Function prototypes
 bool vote(int rank, string name, int ranks[]);
