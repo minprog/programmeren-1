@@ -88,7 +88,7 @@ module_6:
         hoofdletters: 1
 
 module_7:
-    show_overview: true
+    show_progress: true
     submits:
         klinkers: 1
         rna: 1
@@ -96,13 +96,13 @@ module_7:
         wachtwoord: 1
         scrabble: 1
 
-# module_8:
-#     show_progress: true
-#     submits:
-#         formule: 1
-#         cypher: 1
-#         calendar: 7
-#
+module_8:
+    show_overview: true
+    submits:
+        formule: 1
+        cypher: 1
+        calendar: 7
+
 # module_9:
 #     show_progress: true
 #     submits:
@@ -161,7 +161,7 @@ ster:
         credit: 1
         tideman: 1
         strings_more: 1
-        # decryptor: 1
+        decryptor: 1
         # morse_more: 1
         # wordle: 1
 
