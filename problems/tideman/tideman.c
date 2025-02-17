@@ -74,7 +74,7 @@ int main(void)
     }
 
     // Last name
-    if (length > 1)
+    if (length >= 1)
     {
         candidates[candidate] = strndup(&names[strlen(names) - (length)], length);
     }
