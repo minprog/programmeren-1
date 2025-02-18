@@ -1,5 +1,8 @@
 # Calendar
 
+> This assignment is pretty big! Try to follow the instructions securely.
+
+
 Implement a month calendar display, per the below:
 
     $ ./calendar
@@ -112,3 +115,9 @@ When `check50` reports the following:
     expected "<padding> 1"
 
 it means that it expects the correct number of spaces to be printed before the first day of the month. In the example atop this problem, there are exactly 6 spaces before the number 1 that is the first day of the month.
+
+## Challenge
+
+Now if you can spare some time, take up the challenge to **minimize function length** for your assignment. Above, we've provided you with quite a few functions to implement, but it's very reasonable to introduce more functions. Try to split up everything in as many functions as possible. One contraint: make sure all functions have good names! That might be the hard part.
+
+Make your changes incrementally and test your code regularly.
