@@ -1,8 +1,13 @@
 # Calendar
 
+> This assignment is pretty big! Try to follow the instructions securely.
+
+
 Implement a month calendar display, per the below:
 
-    $ ./calendar 2021 11
+    $ ./calendar
+    Year: 2021
+    Month: 11
               Nov 2021
     ---------------------------
     Sun Mon Tue Wed Thu Fri Sat
@@ -71,9 +76,11 @@ Incidentally, did you notice that **decomposition** is more or less the same as 
 
 Implement the calendar program, using _at least_ the functions that are implied in the diagrams in the Decomposition section, above (marked with `(f)`). You may decompose problems further to your liking.
 
-The program should print exactly the following when run with a wrong number of command-line arguments:
+The program should ask for year and month when run:
 
-    Usage: ./calendar year month
+    $ ./calendar
+    Year: 2021
+    Month: 11
 
 To get started, create a file called `calendar.c` and write a `main` function according to the specification. Then write the `display_calendar()` function that's used in `main`. And so on, until everything works. One or two functions will be a bit more of an algorithmical challenge, the rest of the functions will remain quite small.
 
@@ -97,7 +104,7 @@ Don't forget that you need to write function **prototypes** above main to be abl
 
 You can use `check50` to find obvious mistakes, such as months starting on the wrong weekdate. But you should be able to easily test your program manually by `make`ing and running it.
 
-    check50 -l minprog/checks/2022/calendar
+    check50 -l minprog/checks/2025/calendar
 
 Before you hand in your solution, also check for obvious style mistakes using `style50`. But don't overdo it. You'll be doing a code review again next week.
 
@@ -108,3 +115,9 @@ When `check50` reports the following:
     expected "<padding> 1"
 
 it means that it expects the correct number of spaces to be printed before the first day of the month. In the example atop this problem, there are exactly 6 spaces before the number 1 that is the first day of the month.
+
+## Challenge
+
+Now if you can spare some time, take up the challenge to **minimize function length** for your assignment. Above, we've provided you with quite a few functions to implement, but it's very reasonable to introduce more functions. Try to split up everything in as many functions as possible. One contraint: make sure all functions have good names! That might be the hard part.
+
+Make your changes incrementally and test your code regularly.
