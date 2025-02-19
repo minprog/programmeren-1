@@ -75,6 +75,7 @@ Schrijf de functie `verkoopprijs` die de prijs van een woning berekent.
 Het bedrag moet precies zo geprint worden als hierboven: een getal bestaande uit een aantal cijfers en dan een komma en een streepje er direct achter.
 
 ## Header (t/m module 5)
+{: style="page-break-before:always"}
 
 Schrijf de functie `header` die een header comment genereert voor de gebruiker. Het programma moet als volgt werken:
 
@@ -96,6 +97,7 @@ De geprinte header is altijd precies 80 karakters breed. Zorg dat je exact de vo
 **Let op**, je hoeft geen rekening te houden met extreem lange namen en descriptions. Je mag er vanuit gaan dat alles, inclusief de sterretjes op één regel van 80 breed passen.
 
 ## Collatz (t/m module 6)
+{: style="page-break-before:always"}
 
 Schrijf de functie `collatz` dat een collatz-reeks uitprint. De collatz-reeks van een bepaald getal telt uiteindelijk altijd terug tot het getal 1.
 
@@ -146,6 +148,7 @@ Schrijf de functie `spam_check` die een email als spam of als normale mail class
     Deze mail heeft geen subject.
 
 ## Afgebroken (t/m module 7)
+{: style="page-break-before:always"}
 
 Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel pasten in het oorspronkelijke bericht. Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie.
 
@@ -162,6 +165,7 @@ Schrijf de functie `afgebroken` die de gegeven tekst print zonder deze streepjes
     Een 36-jarige Geldropse heeft deze week een inbreker in haar schuurtje net ...
 
 ## Leestijd (t/m module 8)
+{: style="page-break-before:always"}
 
 Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat.
 
