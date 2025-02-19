@@ -6,9 +6,9 @@ Schrijf een programma `wordle.c` dat een gebruiker het spel [Wordle](https://www
 
 ![Example showing user losing a wordle game](wordle_losing_example.png)
 
-Om kleuren uit te printen in de terminal zie [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
+Om kleuren uit te printen in de terminal zie [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797). Gebruik de kleuren Red, Green en Yellow met respectievelijke codes 31, 32 en 33.
 
-Hieronder staat een C array met 100 woorden om uit te kiezen. Dit is voldoende voor deze opdracht, maar je mag het aantal woorden uitbreiden.
+Hieronder staat een C array met 100 woorden voor het programma om uit te kiezen. Dit is voldoende voor deze opdracht, maar je mag het aantal woorden uitbreiden.
 
     string wordle_words[] = {
         "apple", "grape", "mango", "peach", "berry", "chess", "brick", "flame", "glove", "happy",
@@ -23,4 +23,4 @@ Hieronder staat een C array met 100 woorden om uit te kiezen. Dit is voldoende v
         "lobby", "marsh", "novel", "outdo", "prank", "quirk", "raven", "swoop", "tweak", "unite"
     };
     
-> Om willekeurig (random) te kiezen wil je misschien gebruik maken van `rand()` en `srand()`. Zie [deze uitleg](https://www.shiksha.com/online-courses/articles/rand-and-srand-functions-in-c-programming/)
+> Om willekeurig (random) te kiezen wil je waarschijnlijk gebruik maken van `rand()` en `srand()`. Zie [deze uitleg](https://www.shiksha.com/online-courses/articles/rand-and-srand-functions-in-c-programming/).
