@@ -19,6 +19,7 @@ Op het tentamen vind je een aantal opdrachten. Het doel van het tentamen is te d
 Op het moment van het tentamen zou je alle opdrachten goed moeten kunnen maken zonder begeleiding. Maar, door de tijdsbeperking kan het best zijn dat je een opdracht niet kunt maken! Of er gaat iets mis. Dat hoeft geen probleem te zijn, als maar overtuigend zichtbaar is dat je het programmeren beheerst. Daarvoor hoef je niet alle opdrachten helemaal goed te hebben.
 
 ## De oefentoets
+{: style="page-break-before:always"}
 
 Ook voor de oefentoets is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
