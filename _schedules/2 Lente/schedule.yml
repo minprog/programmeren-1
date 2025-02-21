@@ -143,8 +143,9 @@ Module 9:
     Opdrachten:
         Sort: /problems/sort
         Find: /problems/find
+        Runoff [TBD]: /problems/runoff 
         #---
-        Wordle: /problems/wordle
+        Wordle*: /problems/wordle
         # Design challenge*: /problems/calendar/extra
 
 #-------- deel 2 van cursus, voor punten --------
