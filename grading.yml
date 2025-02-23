@@ -143,7 +143,6 @@ grades:
         allow_resubmit: true
     runoff: *automatic
     wordle: *automatic
-    
 
     design_challenge:
         <<: *automatic
