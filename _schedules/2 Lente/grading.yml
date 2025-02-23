@@ -106,8 +106,9 @@ module_8:
 # module_9:
 #     show_progress: true
 #     submits:
-#         sort: 7
-#         find: 7
+#         sort: 1
+#         find: 1
+#         runoff: 1
 #
 # module_10:
 #     show_progress: true
@@ -162,8 +163,8 @@ ster:
         tideman: 1
         strings_more: 1
         decryptor: 1
-        # morse_more: 1
-        # wordle: 1
+        morse_more: 1
+        wordle: 1
 
 punten:
     type: points

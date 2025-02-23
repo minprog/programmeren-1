@@ -141,6 +141,10 @@ grades:
     sort:
         <<: *automatic
         allow_resubmit: true
+    runoff: *automatic
+    wordle: *automatic
+    
+
     design_challenge:
         <<: *automatic
         allow_resubmit: true
