@@ -104,7 +104,3 @@ Sort must be implemented using the following very specific algorithm, which is *
 - You may not use recursion to perform the sort, i.e. the function `sort` may never call itself.
 
 Be sure to translate this description of the algorithm's properties to some form of pseudocode before you take to translating it into C.
-
-## Automated tests
-
-Note: our automated tests are not functional yet!
