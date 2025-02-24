@@ -141,6 +141,12 @@ grades:
     sort:
         <<: *automatic
         allow_resubmit: true
+    find_single:
+        <<: *automatic
+        allow_resubmit: true
+    sort_single:
+        <<: *automatic
+        allow_resubmit: true
     runoff: *automatic
     wordle: *automatic
 
