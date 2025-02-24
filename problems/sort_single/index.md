@@ -89,7 +89,7 @@ Complete the implementation of the program `sort` by completing the implementati
 
 > Do not attempt do this assignment before studying the other sorting algorithms very well.
 
-Sort must be implemented using the following very specific algorithm, which is **not** any of the algorithms discussed in earlier assignments.
+Sort must be implemented using the following very specific algorithm, which is **not** any of the standard algorithms discussed in lecture or anywhere else.
 
 - The algorithm must consider each position in the array from left to right, and progressively sort the numbers.
   - This means that, in each step, more numbers get sorted from left to right, unless they're already sorted, of course.
