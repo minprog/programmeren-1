@@ -6,7 +6,7 @@
 #define MAX_CANDIDATES 9
 
 // preferences[i][j] is jth preference for voter i
-int preferences[MAX_VOTERS][MAX_CANDIDATES];
+static int preferences[MAX_VOTERS][MAX_CANDIDATES];
 
 // Candidates have name, vote count, eliminated status
 typedef struct
@@ -17,11 +17,11 @@ typedef struct
 } candidate;
 
 // Array of candidates
-candidate candidates[MAX_CANDIDATES];
+static candidate candidates[MAX_CANDIDATES];
 
 // Numbers of voters and candidates
-int voter_count;
-int candidate_count;
+int voter_count = 0;
+int candidate_count = 0;
 
 // Function prototypes
 bool vote(int voter, int rank, string name);
