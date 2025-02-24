@@ -111,8 +111,8 @@ module_9:
 module_10:
     show_progress: true
     submits:
-        sort: 1
-        find: 1
+        sort_single: 1
+        find_single: 1
         runoff: 1
 
 # module_11:
