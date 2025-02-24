@@ -27,7 +27,7 @@ int main(int argc, string argv[])
     }
 
     int size = atoi(argv[1]);
-    if (size <= 0 || size > MAX)
+    if (size <= 1 || size > MAX)
     {
         printf("Please enter a valid size between 1 and %d\n", MAX);
         return 1;
