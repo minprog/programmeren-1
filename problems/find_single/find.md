@@ -10,7 +10,7 @@ Implement a program that finds a number among numbers, per the below.
 
 ## Download
 
-[Get the program template](/problems/find/dist/find_single.zip)
+[Get the program template](/problems/find_single/dist/find_single.zip)
 
 ## Specification
 
