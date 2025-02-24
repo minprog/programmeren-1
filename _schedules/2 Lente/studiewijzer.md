@@ -16,9 +16,9 @@ Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze '
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
-Deel 1: opdrachten en tentamen (50%). Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 5,5. Let op de minimumeisen hieronder.
+Deel 1: opdrachten en tentamen. Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 6,0. Let op de minimumeisen hieronder.
 
-Deel 2: opdrachten voor punten (50%). Met modules 9 t/m 13 kun je steeds 0,7-0,9 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
+Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5--1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
 
 ### Minimumeisen
 
@@ -34,7 +34,7 @@ Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en con
 
 ### Verwachtingen
 
-De intentie is dat bijna alle studenten hoger halen dan de 5,5 van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
+De intentie is dat bijna alle studenten hoger halen dan de 6,0 van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
 
 ## Aanwezigheid
 
@@ -94,24 +94,23 @@ Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factor
 
 ## Details over cijfers
 
-Als je het tentamen of hertentamen haalt, ontvang je een 5,5 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
+Als je het tentamen of hertentamen haalt, ontvang je een 6,0 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
 
 - alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
-- er zijn zeker 3 van de 5 oplossingen die helemaal werken zoals in de opgaven (dit is afhankelijk van het uiteindelijke niveau van de opgaven)
+- er zijn zeker 3 van de 5 oplossingen die helemaal werken zoals gesteld in de opgaven (dit is afhankelijk van het uiteindelijke niveau van de opgaven)
 - algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if, opgedeeld in functies
 - de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing), sommige opgaven zullen hier ook specifiek over gaan
 
-Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindcijfer van een 5,5 naar maximaal een 10.
+Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindcijfer van een 6,0 naar maximaal een 10.
 
-| Onderdeel | Minimum                     | Punten | More comfortable |
-|-----------|-----------------------------|--------|------------------|
-| Module 9  | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 10 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 11 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 12 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 13 | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Onderdeel | Minimum                     | Punten | Plus * |
+|-----------|-----------------------------|--------|--------|
+| Module 11 | alle basisopdrachten gedaan | 0,5    | 0,5    |
+| Module 12 | alle basisopdrachten gedaan | 0,5    | 0,5    |
+| Module 13 | alle basisopdrachten gedaan | 0,5    | 0,5    |
+| Module 14 | alle basisopdrachten gedaan | 0,5    | 0,5    |
 
-Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
+Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten gemarkeerd met een *. Deze zijn bedoeld voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
 
 ## Lesmaterialen
 

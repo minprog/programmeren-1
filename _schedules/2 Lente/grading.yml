@@ -97,20 +97,25 @@ module_7:
         scrabble: 1
 
 module_8:
-    show_overview: true
+    show_progress: true
     submits:
         formule: 1
         cypher: 1
         calendar: 7
 
-# module_9:
-#     show_progress: true
-#     submits:
-#         sort: 1
-#         find: 1
-#         runoff: 1
-#
-# module_10:
+module_9:
+    show_progress: true
+    submits:
+        oefententamen: 1
+
+module_10:
+    show_progress: true
+    submits:
+        sort_single: 1
+        find_single: 1
+        runoff: 1
+
+# module_11:
 #     show_progress: true
 #     submits:
 #         tiles: 7
@@ -118,7 +123,7 @@ module_8:
 #         game_of_life: 7
 #         resize: 4
 #
-# module_11:
+# module_12:
 #     show_progress: true
 #     submits:
 #         unix_cat: 2
@@ -133,7 +138,7 @@ module_8:
 #         unix_recover: 1
 #         unix_filetype: 1
 #
-# module_12:
+# module_13:
 #     show_progress: true
 #     submits:
 #         c_strfry: 1
@@ -143,7 +148,7 @@ module_8:
 #         c_strdup: 1
 #         c_strsep: 1
 #
-# module_13:
+# module_14:
 #     show_progress: true
 #     submits:
 #         beatles: 7
@@ -182,10 +187,10 @@ punten:
         punten_module_13: 7
         punten_module_13_challenge: 2
 
-tentamenoefeningen:
-    show_overview: true
-    submits:
-        oefententamen: 1
+# tentamenoefeningen:
+#     show_overview: true
+#     submits:
+#         oefententamen: 1
 
 tentamen:
     type: points

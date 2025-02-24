@@ -1,7 +1,7 @@
-name: find
+name: find_single
 files:
     required:
         - find.c
 check:
-  tool: check50
-  slug: minprog/checks/2025/find_single
+    tool: check50
+    slug: minprog/checks/2025/find/find_single
