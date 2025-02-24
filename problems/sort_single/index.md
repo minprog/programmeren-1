@@ -75,6 +75,8 @@ Once done commenting `generate.c`, re-compile the program to be sure you didn't 
 If `generate` no longer compiles properly, take a moment to fix what you broke!
 -->
 
+## The `sort` function
+
 Notice that the prototype for `sort` is:
 
     void sort(int values[], int n);
