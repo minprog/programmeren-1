@@ -87,9 +87,9 @@ The function takes an array, `values`, as one of the arguments, as well as an in
 
 Complete the implementation of the program `sort` by completing the implementation of the function `sort`.
 
-Sort must be implemented using the following algorithm, which is **not** any of the algorithms discussed in earlier assignments. However, many of the sorting algorithms do indeed look quite alike.
-
 > Do not attempt do this assignment before studying the other sorting algorithms very well.
+
+Sort must be implemented using the following very specific algorithm, which is **not** any of the algorithms discussed in earlier assignments.
 
 - The algorithm must consider each position in the array from left to right, and progressively sort the numbers.
   - This means that, in each step, more numbers get sorted from left to right, unless they're already sorted, of course.

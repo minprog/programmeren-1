@@ -1,8 +1,4 @@
-/**
- * Generates an array of random numbers, then sorts and prints them.
- *
- * Usage: ./sort <n>
- */
+// Sorts n numbers and prints them out
 
 #include <cs50.h>
 #include <stdio.h>
@@ -23,6 +19,7 @@ void sort(int values[], int n);
 
 int main(int argc, string argv[])
 {
+    // Ensure proper usage
     if (argc != 2)
     {
         printf("Usage: ./sort <n>\n");
@@ -58,7 +55,8 @@ void generate_random_numbers(int arr[], int n)
 {
     for (int i = 0; i < n; i++)
     {
-        arr[i] = (int) (drand48() * LIMIT); // random number between 0 and 999
+        // random number between 0 and LIMIT
+        arr[i] = (int) (drand48() * LIMIT);
     }
 }
 

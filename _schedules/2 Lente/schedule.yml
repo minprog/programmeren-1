@@ -145,7 +145,7 @@ Module 10:
         "Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
         Sort: /problems/sort_single
-        Find: /problems/find
+        Find: /problems/find_single
         Runoff: /problems/runoff
         #---
         Wordle*: /problems/wordle
