@@ -115,13 +115,13 @@ module_10:
         find_single: 1
         runoff: 1
 
-# module_11:
-#     show_progress: true
-#     submits:
-#         tiles: 7
-#         snowfall: 7
-#         game_of_life: 7
-#         resize: 4
+module_11:
+    show_progress: true
+    submits:
+        tiles_single: 1
+        snowfall: 1
+        game_of_life: 1
+        resize: 1
 #
 # module_12:
 #     show_progress: true

@@ -155,6 +155,7 @@ grades:
         allow_resubmit: true
 
     tiles: *automatic
+    tiles_single: *automatic
     snowfall: *check
     game_of_life: *check
     resize: *automatic

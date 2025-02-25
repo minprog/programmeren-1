@@ -155,7 +155,7 @@ Module 10:
 
 Module 11:
     # Dit gaat over 2D arrays
-    Tiles: /problems/tiles
+    Tiles: /problems/tiles_single
     Snowfall: /problems/snowfall
     Game of Life: /problems/life
     Resize*: /problems/resize/more
