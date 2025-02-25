@@ -182,6 +182,9 @@ void draw_board(void)
         }
         printf("\n\n");
     }
+
+    // ensure everything is printed
+    fflush(stdout);
 }
 
 // Prints a single tile's number, or _ in case of empty tile
