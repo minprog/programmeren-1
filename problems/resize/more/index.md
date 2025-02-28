@@ -18,7 +18,7 @@ $ ./resize 4 small.bmp large.bmp
 
 ## Getting Started
 
-Go to [CS50's Visual Studio Code](https://cs50.dev) to do this problem. Because in this problem, you will be generating bitmap files, you need to be able to inspect those by viewing.
+To complete this problem, open [CS50's Visual Studio Code](https://cs50.dev). Since you will be generating bitmap files, you'll need a way to inspect them visually. That's exactly what this environment provides.
 
 Here's how to download this problem's "distribution code" (i.e., starter code). In a terminal window, execute each of the below.
 
