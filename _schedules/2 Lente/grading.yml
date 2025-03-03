@@ -121,7 +121,6 @@ module_11:
         tiles_single: 1
         snowfall: 1
         game_of_life: 1
-        resize: 1
 
 module_12:
     show_progress: true
@@ -155,17 +154,28 @@ module_12:
 ster:
     show_progress: true
     submits:
+        # mod 2
         byte: 1
         calculator: 1
+        # mod 3
         cirkel: 1
         graph: 1
+        # mod 4
         goldbach: 1
         credit: 1
+        # mod 5/6
         tideman: 1
+        # mod 6
         strings_more: 1
+        # mod 7
         decryptor: 1
+        # mod 8
         morse_more: 1
+        # mod 10
         wordle: 1
+        # mod 11
+        resize: 1
+        # mod 12
         unix_strings: 1
         unix_tail: 1
         recover: 1
