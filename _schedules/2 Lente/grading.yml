@@ -135,8 +135,8 @@ module_12:
         unix_paste: 1
         unix_strings: 1
         unix_tail: 1
-        unix_recover: 1
-        unix_filetype: 1
+        recover: 1
+        filetype: 1
 
 # module_13:
 #     show_progress: true
