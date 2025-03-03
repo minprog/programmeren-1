@@ -173,9 +173,11 @@ ster:
         morse_more: 1
         # mod 10
         wordle: 1
-        # mod 11
+
+ster_module_11:
         resize: 1
-        # mod 12
+
+ster_module_12:
         unix_strings: 1
         unix_tail: 1
         recover: 1
