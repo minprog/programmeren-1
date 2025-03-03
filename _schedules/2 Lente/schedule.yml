@@ -163,7 +163,6 @@ Module 11:
 
 Module 12:
     "Videocollege: Memory": /lectures/memory
-    "Short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
