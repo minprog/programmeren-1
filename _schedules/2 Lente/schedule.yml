@@ -158,7 +158,8 @@ Module 11:
     Tiles: /problems/tiles_single
     Snowfall: /problems/snowfall
     Game of Life: /problems/life
-    Resize*: /problems/resize/more
+    Challenge:
+        Resize*: /problems/resize/more
 
 Module 12:
     "Videocollege: Memory": /lectures/memory
@@ -172,10 +173,12 @@ Module 12:
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
     paste: /problems/unix/paste
-    strings*: /problems/unix/strings
-    tail*: /problems/unix/tail
-    recover*: /problems/recover
-    filetype*: /problems/filetype
+    Challenge:
+        "CS50 short: Files": /shorts/files
+        strings*: /problems/unix/strings
+        tail*: /problems/unix/tail
+        recover*: /problems/recover
+        filetype*: /problems/filetype
 
 Module 13:
     "Short: Dynamic Memory Allocation": /shorts/dma

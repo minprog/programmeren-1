@@ -93,11 +93,11 @@ Module 10:
     Tiles: /problems/tiles
     Snowfall (kies één vd twee): /problems/snowfall
     Game of Life (kies één vd twee): /problems/life
-    Ster-opdracht:
-        Resize*: /problems/resize/more
+    Resize*: /problems/resize/more
 
 Module 11:
     "Videocollege: Memory": /lectures/memory
+    "Short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
@@ -107,12 +107,10 @@ Module 11:
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
     paste: /problems/unix/paste
-    Ster-opdrachten:
-        "CS50 short: Files": /shorts/files
-        strings*: /problems/unix/strings
-        tail*: /problems/unix/tail
-        recover*: /problems/recover
-        filetype*: /problems/filetype
+    strings*: /problems/unix/strings
+    tail*: /problems/unix/tail
+    recover*: /problems/recover
+    filetype*: /problems/filetype
 
 Module 12:
     "Short: Dynamic Memory Allocation": /shorts/dma
@@ -123,8 +121,7 @@ Module 12:
     strcat: /problems/string_functions/strcat
     strdup: /problems/string_functions/strdup
     strsep: /problems/string_functions/strsep
-    Ster-opdracht:
-        wave*: /problems/wave
+    wave*: /problems/wave
 
 Module 13:
     "Videocollege: Data structures": /lectures/data-structures
@@ -132,8 +129,7 @@ Module 13:
     Linked List: /problems/linked
     Questions: /problems/speller/questions
     Speller: /problems/speller
-    Ster-opdracht:
-        Challenge*: /problems/speller/challenge
+    Challenge*: /problems/speller/challenge
 
 #-------- eerder geschrapt --------
 
