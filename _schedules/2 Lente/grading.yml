@@ -133,10 +133,6 @@ module_12:
         unix_uniq: 1
         unix_cut: 1
         unix_paste: 1
-        unix_strings: 1
-        unix_tail: 1
-        recover: 1
-        filetype: 1
 
 # module_13:
 #     show_progress: true
@@ -170,6 +166,10 @@ ster:
         decryptor: 1
         morse_more: 1
         wordle: 1
+        unix_strings: 1
+        unix_tail: 1
+        recover: 1
+        filetype: 1
 
 punten:
     type: points
