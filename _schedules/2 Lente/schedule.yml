@@ -163,6 +163,7 @@ Module 11:
 
 Module 12:
     "Videocollege: Memory": /lectures/memory
+    "CS50 short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
@@ -173,7 +174,6 @@ Module 12:
     cut: /problems/unix/cut
     paste: /problems/unix/paste
     Challenge:
-        "CS50 short: Files": /shorts/files
         strings*: /problems/unix/strings
         tail*: /problems/unix/tail
         recover*: /problems/recover
