@@ -175,9 +175,13 @@ ster:
         wordle: 1
 
 ster_module_11:
+    show_progress: true
+    submits:
         resize: 1
 
 ster_module_12:
+    show_progress: true
+    submits:
         unix_strings: 1
         unix_tail: 1
         recover: 1
