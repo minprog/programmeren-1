@@ -121,23 +121,18 @@ module_11:
         tiles_single: 1
         snowfall: 1
         game_of_life: 1
-        resize: 1
-#
-# module_12:
-#     show_progress: true
-#     submits:
-#         unix_cat: 2
-#         unix_head: 2
-#         unix_nl: 2
-#         unix_wc: 2
-#         unix_uniq: 2
-#         unix_cut: 2
-#         unix_paste: 2
-#         unix_strings: 1
-#         unix_tail: 1
-#         unix_recover: 1
-#         unix_filetype: 1
-#
+
+module_12:
+    show_progress: true
+    submits:
+        unix_cat: 1
+        unix_head: 1
+        unix_nl: 1
+        unix_wc: 1
+        unix_uniq: 1
+        unix_cut: 1
+        unix_paste: 1
+
 # module_13:
 #     show_progress: true
 #     submits:
@@ -159,17 +154,38 @@ module_11:
 ster:
     show_progress: true
     submits:
+        # mod 2
         byte: 1
         calculator: 1
+        # mod 3
         cirkel: 1
         graph: 1
+        # mod 4
         goldbach: 1
         credit: 1
+        # mod 5/6
         tideman: 1
+        # mod 6
         strings_more: 1
+        # mod 7
         decryptor: 1
+        # mod 8
         morse_more: 1
+        # mod 10
         wordle: 1
+
+ster_module_11:
+    show_progress: true
+    submits:
+        resize: 1
+
+ster_module_12:
+    show_progress: true
+    submits:
+        unix_strings: 1
+        unix_tail: 1
+        recover: 1
+        filetype: 1
 
 punten:
     type: points
