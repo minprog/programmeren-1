@@ -32,7 +32,7 @@ Here's how to download this problem's "distribution code" (i.e., starter code). 
 
 ## Background
 
-Be sure you're familiar with the structure of 24-bit uncompressed BMPs, as introduced in [Whodunit](../../whodunit).
+Be sure you're familiar with the structure of 24-bit uncompressed BMPs, as introduced in [Whodunit](/problems/whodunit).
 
 ## Specification
 
