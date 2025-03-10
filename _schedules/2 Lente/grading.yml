@@ -133,15 +133,15 @@ module_12:
         unix_cut: 1
         unix_paste: 1
 
-# module_13:
-#     show_progress: true
-#     submits:
-#         c_strfry: 1
-#         c_strchr: 1
-#         c_strrchr: 1
-#         c_strcat: 1
-#         c_strdup: 1
-#         c_strsep: 1
+module_13:
+    show_progress: true
+    submits:
+        c_strfry: 1
+        c_strchr: 1
+        c_strrchr: 1
+        c_strcat: 1
+        c_strdup: 1
+        c_strsep: 1
 #
 # module_14:
 #     show_progress: true
@@ -186,6 +186,11 @@ ster_module_12:
         unix_tail: 1
         recover: 1
         filetype: 1
+
+ster_module_13:
+    show_progress: true
+    submits:
+        wave: 1
 
 punten:
     type: points
