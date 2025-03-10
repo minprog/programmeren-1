@@ -24,15 +24,15 @@ Here's how to download this problem's "distribution code" (i.e., starter code). 
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
 4. Execute `curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2024/problems/resize/more/dist/resize-more.zip` to download a (compressed) ZIP file with this problem's distribution.
-5. Execute `unzip resize.zip` to uncompress that file.
-6. Execute `rm resize.zip` followed by `yes` or `y` to delete that ZIP file.
-7. Execute `ls`. You should see a directory called `resize`, which was inside of that ZIP file.
+5. Execute `unzip resize-more.zip` to uncompress that file.
+6. Execute `rm resize-more.zip` followed by `yes` or `y` to delete that ZIP file.
+7. Execute `ls`. You should see a directory called `resize-more`, which was inside of that ZIP file.
 8. Execute `cd resize-more` to change into that directory.
 11. Execute `ls`. You should see this problem's distribution, including `bmp.h`, `copy.c`, `large-solution.bmp`, `peek.c`, `small.bmp`, and `smiley.bmp`.
 
 ## Background
 
-Be sure you're familiar with the structure of 24-bit uncompressed BMPs, as introduced in [Whodunit](../../problems/whodunit).
+Be sure you're familiar with the structure of 24-bit uncompressed BMPs, as introduced in [Whodunit](../../whodunit).
 
 ## Specification
 
