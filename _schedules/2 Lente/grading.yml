@@ -142,14 +142,13 @@ module_13:
         c_strcat: 1
         c_strdup: 1
         c_strsep: 1
-#
-# module_14:
-#     show_progress: true
-#     submits:
-#         beatles: 7
-#         linked: 7
-#         speller: 7
-#         speller_challenge: 6
+
+module_14:
+    show_progress: true
+    submits:
+        beatles: 1
+        linked: 1
+        speller: 1
 
 ster:
     show_progress: true
@@ -191,6 +190,11 @@ ster_module_13:
     show_progress: true
     submits:
         wave: 1
+
+ster_module_14:
+    show_progress: true
+    submits:
+        speller_challenge: 1
 
 punten:
     type: points
