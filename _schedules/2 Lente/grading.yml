@@ -1,3 +1,14 @@
+grades:
+    punten_module_11: *check
+    punten_module_11_ster: *check
+    punten_module_12: *check
+    punten_module_12_ster: *check
+    punten_module_13: *check
+    punten_module_13_ster: *check
+    punten_module_14: *check
+    punten_module_14_ster: *check
+
+
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
 # choice of grades that are used for the calculation, for example calculating
@@ -201,16 +212,18 @@ punten:
     fill_missing: true
     show_overview: true
     submits:
-        punten_module_9: 7
-        punten_module_9_challenge: 2
-        punten_module_10: 7
-        punten_module_10_challenge: 2
+        # punten_module_9: 7
+        # punten_module_9_challenge: 2
+        # punten_module_10: 7
+        # punten_module_10_challenge: 2
         punten_module_11: 7
-        punten_module_11_challenge: 2
+        punten_module_11_ster: 2
         punten_module_12: 7
-        punten_module_12_challenge: 2
+        punten_module_12_ster: 2
         punten_module_13: 7
-        punten_module_13_challenge: 2
+        punten_module_13_ster: 2
+        punten_module_14: 7
+        punten_module_14_ster: 2
 
 # tentamenoefeningen:
 #     show_overview: true
