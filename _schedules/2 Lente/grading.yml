@@ -1,3 +1,12 @@
+templates:
+    3: &check
+        type: pass
+        subgrades:
+            done: boolean
+        calculation: done
+        hide_calculated: true
+
+
 grades:
     punten_module_11: *check
     punten_module_11_ster: *check
