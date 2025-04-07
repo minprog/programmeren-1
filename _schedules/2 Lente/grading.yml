@@ -257,7 +257,7 @@ hertentamen:
 
 #         design_challenge: 6
 
-punten:
+berekening_1:
     type: points
     fill_missing: true
     show_overview: false
