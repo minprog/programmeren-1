@@ -1,29 +1,29 @@
 # Scratch
 
-It's time to choose your own adventure!
+Tijd voor een avontuur in programmeerland... wat ga jij maken?
 
-## Preparation
+## Voorbereidende materialen
 
 - [How to Make a Scratch Game in less than 10 MINUTES](https://www.youtube.com/watch?v=1D0r8HOaz-c)
 - [Oscartime](https://scratch.mit.edu/projects/887860894/)
 - [Holland's Hardest Game](https://scratch.mit.edu/projects/119975566/)
 - [Ideeëngenerator](https://shorturl.at/lMiw8)
 
-## What to do
+## Wat moet je doen
 
-Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
+Je opdracht is om in Scratch een project naar keuze te maken, of het nou een interactief verhaal is, een game, een animatie, of wat je maar wilt, met de volgende punten als enige eisen:
 
-- Your project must have at least two sprites, at least one of which must resemble something other than a cat.
-- Your project must have at least three scripts total (i.e., not necessarily three per sprite).
-- Your project must use at least one condition, one loop, and one variable.
-- Your project must use at least one sound.
-- Your project should be more complex than most of those demonstrated in lecture (many of which, though instructive, were quite short) but it can be less complex than [Ivy's Hardest Game](https://scratch.mit.edu/projects/326129587/). As such, your project should probably use a few dozen puzzle pieces overall.
+- Je project moet minimaal twee sprites bevatten (check goed wat een sprite is!), en minstens één hiervan moet iets anders voorstellen dan een kat.
+- Je project moet minimaal drie scripts hebben (dus niet per se drie per sprite).
+- Je project moet ten minste een conditie gebruiken, een loop, en een variabele.
+- Je project moet ten minste een geluid bevatten.
+- Je project moet wat complexer zijn dan de meeste voorbeelden uit het college (veel waren handig voor de demo maar wel wat kort), maar zeker minder complex dan [Holland's Hardest Game](https://scratch.mit.edu/projects/119975566/). In de praktijk moet je denken aan enkele tientallen puzzelstukjes.
 
-Head to [the Scratch website](https://scratch.mit.edu/) and sign up for an account on MIT's website by clicking **Join Scratch** atop the page. Any username (that's available) is fine, but take care to remember it and your choice of password. After registering and confirming your email address, click the orange "**Start Creating**" button to begin.
+Ga naar de [Scratch-website](https://scratch.mit.edu/) en maak een account bij MIT via de **Join Scratch**-knop bovenaan de pagina. Elke username is prima, mits beschikbaar, maar onthoud 'm goed en zeker ook je gekozen wachtwoord. Na registratie en bevestigen van je mailadres klik je op de oranje knop "**Start Creating**" om te starten.
 
-## Ideas
+## Ideeën
 
-To get started, try to think of an idea on your own, and then set out to implement it. If you're stuck for ideas and you'd like to try out some Scratch projects from past students, here are a few:
+Ga aan de slag met het bedenken van een spelidee, werk het goed uit, en ga het dan bouwen! Als je geen idee hebt wat je moet maken, of je wil gewoon eens wat mogelijkheden zien, kijk dan eens naar deze oudere inzendingen:
 
 - [It's Raining Men](https://scratch.mit.edu/projects/37412/), from lecture
 - [Ivy's Hardest Game](https://scratch.mit.edu/projects/326129587/), a game, Harvard edition
@@ -33,24 +33,30 @@ To get started, try to think of an idea on your own, and then set out to impleme
 - [Intersection](https://scratch.mit.edu/projects/75390754/), a game
 - [Oscartime](https://scratch.mit.edu/projects/277537196/), a game
 
-## Getting unstuck
+## Vastlopen en weer door
 
-If, along the way, you find it too difficult to implement some feature, try not to fret; alter your design or work around the problem. If you set out to implement an idea that you find fun, odds are you won't find it too hard to satisfy the above requirements.
+Als je ergens tijdens je programmeer-avontuur helemaal vastloopt en je weet niet hoe je verder moet... wanhoop dan niet te veel! Kies gerust een shortcut of pas je idee wat aan.
 
-One strategy to try is taking baby steps: write a bit of code (i.e., drag and drop a few puzzle pieces), test, write a bit more, test, and so forth. It should help you find your focus. Oh, and select **File > Save Now** every few minutes so that you don't lose any work!
+En maak je in ieder geval geen zorgen over de eisen hierboven: als je iets maakt dat je zelf leuk vindt om te doen, dan kom je makkelijk aan de minima.
 
-> If getting unstuck by yourself doesn't quite work out, feel free to ask the staff for help! When you ask for help, it doesn't have to be about a specific technical problem. Getting lost in what you want to make is something that happens to the best of us! So it's fine to say "I need help getting unstuck." Try it.
+Eén strategie om je project tot een goed einde te brengen is het zetten van "baby steps": schrijf een stukje code (waarmee we bedoelen: drag-and-drop een paar puzzelstukjes), test of het werkt, schrijf nog wat meer, test weer, enzovoort. Dit moet helpen om een begin te maken en voordat je het weet ben je een heel eind.
 
-Alright, off you go. Make us proud!
+Oh, en klik af en toe op *File* > *Save Now* zodat je werk niet verloren gaat!
 
-## How to submit
+Vandaag is ook de dag om te beseffen dat je niet in je eentje bent op dit avontuur. Je hebt medestudenten die meer of minder ervaring hebben, maar die altijd even kunnen meedenken. Betrek ze erbij! En er loopt ook bijna altijd iemand van de docenten rond.
 
-Once finished with your project:
+Als je een vraag wil stellen, besef dan dat het helemaal OK is als je vast zit maar eigenlijk niet weet wat je moet vragen. Zeg dan gewoon "ik heb even hulp nodig want ik zit vast". Probeer maar.
 
-- Select **File > Save to your computer** at the top of the scratch website. This should download a file whose name ends in `.sb3`.
+Dat gezegd hebbende: veel succes!
 
-- Click the orange **Share** button at the top of Scratch's editor, which will redirect you to the "Project page". On that page, ensure your project has a title, some instructions, and some notes and/or credits. Finally, take note of the URL in your browser's address bar. That's your project's URL on MIT's website.
+## Hoe inzenden
 
-- On the tab "Submit", you should find a form where you can attach your `.sb3` file and paste your project's URL. If there is no form, you might have forgotten to logon to this website and register your name!
+Als je denkt dat je klaar bent met je project:
 
-If you have any questions or issues with the above steps, reach out to the TAs!
+- Kies *File* > *Save to your computer* bovenaan de Scratch-website. Er wordt dan een bestand gedownload met een naam die eindigt op `.sb3`.
+
+- Klik op de oranje **Share**-knop bovenaan de Scratch-editor; deze leidt je naar de projectpagina. Aldaar zorg je ervoor dat je project een officiële titel heeft, instructies voor de gebruiker, en notities voor jezelf en/of credits van dingen die je overgenomen hebt. Als dat klaar is kopieer je het webadres van die projectpagina: hiermee kan iedereen jouw uitwerking bewonderen.
+
+- Op de "Submit"-tab op deze site vind je een formulier waar je je `.sb3`-bestand kunt uploaden en de link naar je projectpagina plakken. Als de submit-tab niet zichtbaar is, dan kan het zijn dat je bent vergeten in te loggen op deze website?
+
+Als je nog vragen hebt of het submitten lukt niet, trek dan direct een assistent of docent aan de mouw!
