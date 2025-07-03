@@ -26,6 +26,11 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ### Hints
 
+- Use this array at the top of your file (below the includes!) to look up letter values:
+
+        int POINTS[] = {1, 3, 3, 2, 1, 4, 2, 4, 1, 8, 5, 1, 3, 1, 
+                        1, 3, 10, 1, 1, 1, 1, 4, 4, 8, 4, 10};
+
 - You may find the functions `isupper()` and `islower()` to be helpful to you. These functions take in a character as the argument and return a boolean.
 
 - Recall that computers represent characters using [ASCII](http://asciitable.com/), a standard that represents each character as a number.
@@ -54,6 +59,6 @@ Your program should behave per the examples below.
     Player 2: wiNNeR
     Player 1 wins!
 
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
+<!-- Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
 
-    check50 -l minprog/checks/2022/scrabble
+    check50 -l minprog/checks/2022/scrabble -->
