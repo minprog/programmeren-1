@@ -18,43 +18,89 @@ De afbeelding is gecentreerd. De langste rij bepaalt de breedte van de afbeeldin
 
 Render "5, 3, 1, 3, 5":
 
-<table style="border-collapse: collapse;">
+<style>
+    table {
+        border-collapse: collapse;
+    }
+
+    td {
+        padding: 0;
+        margin: 0;
+        width: 1em;
+        height: 1em;
+    }
+
+    .checkbox {
+        appearance: none;
+        -webkit-appearance: none;
+        width: 1em;
+        height: 1em;
+        display: inline-block;
+        text-align: center;
+        vertical-align: middle;
+        border: 1px solid #000;
+        font-size: 0.8em;
+        font-weight: bold;
+        cursor: pointer;
+        line-height: 1em;
+        padding: 0;
+    }
+
+    .checkbox:checked::before {
+        content: "#";
+        display: block;
+        text-align: center;
+        color: #000;
+    }
+</style>
+
+<table>
     <tr>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
     </tr>
     <tr>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
     </tr>
     <tr>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
     </tr>
     <tr>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
-        <td style="padding: 0; margin: 0;"><input style="width: 1em;" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+    </tr>
+    <tr>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
+        <td><input type="checkbox" class="checkbox" /></td>
     </tr>
 </table>
 
-<details markdown="1"><summary markdown="span">Spoiler</summary>
+
+<details markdown="1"><summary markdown="span">De oplossing:</summary>
+    
     #####
      ###
       #
      ###
     #####
+
 </details>
 
 ## Transformaties
