@@ -109,7 +109,7 @@ Dit systeem maakt verschillende transformaties makkelijk mogen. In deze opdracht
 
 * `stretch` rekt de afbeelding op met een meegegeven factor. Zo wordt de afbeelding `1, 3, 5` met een factor `2` uitgerekt tot `2, 6, 10`.
 
-* `interlace` haalt elke even rij uit de afbeelding. Zo wordt de afbeelding `1, 3, 5, 7` aangepast naar `1, 0, 5, 0`. Zie <https://en.wikipedia.org/wiki/Interlacing_(bitmaps)> voor meer uitleg over toepassing in afbeeldingen en <https://en.wikipedia.org/wiki/Interlaced_video> voor toepassing in videos.
+* `interlace` haalt elke tweede rij uit de afbeelding. Zo wordt de afbeelding `1, 3, 5, 7` aangepast naar `1, 0, 5, 0`. Zie <https://en.wikipedia.org/wiki/Interlacing_(bitmaps)> voor meer uitleg over toepassing in afbeeldingen en <https://en.wikipedia.org/wiki/Interlaced_video> voor toepassing in videos.
 
 * `combine` neemt twee afbeeldingen van gelijke hoogte en combineert ze tot één afbeelding. De langste rijen van iedere afbeelding komen in de uiteindelijke afbeelding. Zo worden de afbeeldingen `1, 5, 9` en `5, 3, 1` gecombineerd tot `5, 5, 9`. 
 
