@@ -6,7 +6,7 @@ This exercise helps you practice creating `struct`s and variables of some struct
 
 ![embed](https://www.youtube.com/embed/E4lb2gkyXr8)
 
-Watch the video and then precisely answer the following questions. The video may not suffice for answering the questions, so we encourage you to seek additional information online.
+Watch the video and then precisely answer the following questions (in Dutch or English). The video may not suffice for answering the questions, so we encourage you to seek additional information online.
 
 1. What is the "dot operator"?
 

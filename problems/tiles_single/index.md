@@ -47,7 +47,7 @@ Given the above, it should come as no surprise that `board` is an important vari
 
 ## Questions
 
-Read over the code and comments in `tiles.c` and then answer the questions below in `questions.txt`, which is a (nearly empty) text file that we included for you inside of the distribution's `tiles` directory. No worries if you're not quite sure how `fprintf` or `fflush` work; we're simply using those to automate some testing.
+Read over the code and comments in `tiles.c` and then answer the questions below in `questions.txt`, in Dutch or English, which is a (nearly empty) text file that we included for you inside of the distribution's `tiles` directory. No worries if you're not quite sure how `fprintf` or `fflush` work; we're simply using those to automate some testing.
 
 1. Besides 4 × 4, what other dimensions does the framework allow?
 1. With what sort of data structure is the game's board represented?
@@ -101,7 +101,7 @@ This function checks if the puzzle has been solved. To do this, we count all til
 
 So what to do?
 
-1. Answer the questions above in `questions.txt`.
+1. Answer the questions above in `questions.txt` (Dutch or English).
 1. Implement Tiles, per the comments in `tiles.c` and the information from this specification.
    {: start="0"}
 
