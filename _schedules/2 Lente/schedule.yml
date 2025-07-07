@@ -118,6 +118,7 @@ Module 7:
         Alfabet: /problems/alfabet
         Wachtwoord: /problems/wachtwoord
         Scrabble: /problems/scrabble
+        Render: /problems/render
         #---
         Formule*: /problems/formule
         Cypher*: /problems/cypher
