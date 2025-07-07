@@ -164,4 +164,4 @@ Schrijf een functie `interlace` dat een afbeelding interlaced. Elke tweede rij w
 
 ### Stap 5: combine
 
-Schrijf tot slot een functie `combine` dat twee afbeeldingen van gelijke hoogte samenvoegt tot één. De langste rij van iedere afbeelding komt in de uiteindelijke afbeelding terecht. Test je eigen functie door deze aan te roepen in de `main` functie.
+Schrijf tot slot een functie `combine` dat twee afbeeldingen van gelijke hoogte samenvoegt tot één. De samengevoegde afbeelding wordt opgeslagen in de eerste afbeelding. De langste rij van iedere afbeelding komt in de samengevoegde afbeelding terecht. Test je eigen functie door deze aan te roepen in de `main` functie.
