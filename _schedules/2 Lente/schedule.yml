@@ -118,11 +118,13 @@ Module 7:
         Alfabet: /problems/alfabet
         Wachtwoord: /problems/wachtwoord
         Scrabble: /problems/scrabble
+        Satellite: /problems/satellite
         Render: /problems/render
         #---
         Formule*: /problems/formule
         Cypher*: /problems/cypher
         #---
+        Satellite++*: /problems/satellite_more
         Decryptor*: /problems/decryptor
     Toetsje:
         Functies [boek]: /exercises/book/functions
