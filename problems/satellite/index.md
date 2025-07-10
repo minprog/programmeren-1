@@ -69,7 +69,26 @@ Dit is de signature van de functie:
 
 > Schrijf deze functie als eerst, want zo kan je later goed nagaan dat je andere functies werken zoals verwacht.
 
-## Stap 2: compute_moving_average
+## Stap 2: fix_missing_values
+
+Soms geeft de sensor helemaal geen meting en verschijnt het getal `-1` in de array om dit aan te geven. Los deze missende waardes op door middel van lineaire interpolatie. Vervang een missende waarde door het gemiddelde van de waarde ervoor en direct erna.
+
+Bijvoorbeeld:
+
+    1, -1, 8, -1, 6
+
+Wordt:
+
+    1, 4, 8, 7, 6
+
+Want:
+
+* Op index 1 mist een waarde. De waarde ervoor is 1, de waarde erna is 8, het gemiddelde is `(1 + 8) / 2 = 4`
+* Op index 3 mist ook een waarde. De waarde ervoor is 8, de waarde erna is 6, het gemiddelde is `(8 + 6) / 2 = 7` 
+
+Implementeer hiervoor de functie `void fix_missing_values(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
+
+## Stap 3: compute_moving_average
 
 Om de uitschieters in de metingen glad te strijken kan je een bewegend gemiddelde filter gebruiken. Dit vervangt elk element (behalve het eerste en laatste) door het gemiddelde van zichzelf en de directe buren (links en rechts). Zo wordt de volgende input:
 
@@ -86,27 +105,3 @@ Want:
 * Voor index 3: `(3 + 6 + 3) / 3 = 4`
 
 Implementeer hiervoor de functie `void compute_moving_average(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
-
-## Stap 3: fix_missing_values
-
-Soms geeft de sensor helemaal geen meting en verschijnt het getal `-1` in de array om dit aan te geven. Los deze missende waardes op door middel van lineaire interpolatie:
-
-* Mist er één waarde? Neem dan het gemiddelde van de getallen ervoor en erna.
-* Missen er meerdere waardes achterelkaar? Verdeel de waarden gelijkmatig tussen het laatste bekende getal en het eerstvolgende bekende getal.
-
-Bijvoorbeeld:
-
-1, -1, -1, 8, -1, 6
-
-Wordt:
-
-1, 3, 5, 8, 7, 6
-
-Want:
-
-* Op index 1 en 2 missen waardes. Het laatste bekende getal is 1, en het eerstvolgende bekende getal is 8. Het verschil is `8 - 1 = 7`. Binnen 3 metingen gaat de waarde van 1 naar 8. Iedere meting komt er dus `7 / 3` bij. 
-    * Op index 1 wordt de waarde daarom `1 + 1 * 7 / 3 = 3`
-    * Op index 2 wordt de waarde daarom `1 + 2 * 7 / 3 = 5`
-* Op index 4 mist ook een waarde. Het vorige getal is 8 en het volgende getal is 6. Op index 4 wordt de waarde daarom `(8 + 6) / 2 = 7`
-
-Implementeer hiervoor de functie `void fix_missing_values(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
