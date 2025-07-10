@@ -1,64 +1,68 @@
 # Mario, part deux
 
-Implement a program that prints out a double half-pyramid of a specified height, per the below.
+Implementeer een programma dat een dubbele half-piramide afdrukt met een gespecificeerde hoogte, zoals hieronder weergegeven.
 
     $ ./mario
-    Height: 4
+    Hoogte: 4
        #  #
       ##  ##
      ###  ###
     ####  ####
 
-## Background
+## Achtergrond
 
-Toward the beginning of World 1-1 in Nintendo's Super Mario Brothers, Mario must hop over two "half-pyramids" of blocks as he heads toward a flag pole.  Below is a screenshot.
+Aan het begin van de wereld 1-1 in Nintendo's Super Mario Brothers moet Mario over twee "half-piramides" van blokken springen terwijl hij naar een vlaggenmast gaat. Hieronder vind je een screenshot.
 
 ![Super Mario Brothers](pyramids.png)
 
-## Specification
+## Specificatie
 
-* Write, in a file called `mario.c` in your `~/problems/mario/more/` directory, a program that recreates these half-pyramids using hashes (`#`) for blocks.
+* Schrijf, in een bestand genaamd `mario.c`, een programma dat deze half-piramides op het scherm tovert met behulp van hekjes (`#`).
 
-* To make things more interesting, first prompt the user for the half-pyramids' heights, a non-negative integer no greater than `8`. (The height of the half-pyramids pictured above happens to be `4`, the width of each half-pyramid `4`, with an a gap of size `2` separating them.)
+* Maak het interessanter door eerst de gebruiker om de hoogte van de half-piramides te vragen, een niet-negatief geheel getal dat niet groter is dan `8`. (De hoogte van de half-piramides op de bovenstaande afbeelding is toevallig `4`, en daarom is de breedte van elke half-piramide `4`, met een tussenruimte van `2` ertussen.)
 
-* If the user fails to provide a non-negative integer no greater than `8`, you should re-prompt for the same again.
+* Als de gebruiker er niet in slaagt een niet-negatief geheel getal niet groter dan `8` op te geven, moet je opnieuw om de hoogte vragen.
 
-* Then, generate (with the help of `printf` and one or more loops) the desired half-pyramids.
+* Genereer vervolgens (met behulp van `printf` en een of meer loops) de gewenste half-piramides.
 
-* Take care to left-align the bottom-left corner of the left-hand half-pyramid with the left-hand edge of your terminal window.
+* Zorg ervoor dat de linker onderhoek van de linker half-piramide wordt uitgelijnd met de linker rand van je terminalvenster (strak ertegenaan).
 
-## Hints
+## Tips
 
-Try to establish a relationship between (a) the height the user would like the pyramid to be, (b) what row is currently being printed, and (c) how many spaces and how many hashes are in that row. Once you establish the formula, you can translate that to C!
+Probeer een relatie vast te stellen tussen (a) de hoogte die de gebruiker wil dat de piramide heeft, (b) welke rij momenteel wordt afgedrukt, en (c) hoeveel spaties en hoeveel hashes er in die rij zitten. Zodra je de formule hebt vastgesteld, kun je deze naar C vertalen!
 
-## Usage
+## Ontwerp
 
-Your program should behave per the example below.
+Denk na over welke functies je zou kunnen schrijven naast de `main`.
+
+## Voorbeelden
+
+Je programma moet zich gedragen zoals in de onderstaande voorbeelden.
 
     $ ./mario
-    Height: 4
+    Hoogte: 4
        #  #
       ##  ##
      ###  ###
     ####  ####
 
     $ ./mario
-    Height: 0
+    Hoogte: 0
 
     $ ./mario
-    Height: -5
-    Height: 4
+    Hoogte: -5
+    Hoogte: 4
        #  #
       ##  ##
      ###  ###
     ####  ####
 
     $ ./mario
-    Height: -5
-    Height: five
-    Height: 40
-    Height: 24
-    Height: 4
+    Hoogte: -5
+    Hoogte: vijf
+    Hoogte: 40
+    Hoogte: 24
+    Hoogte: 4
        #  #
       ##  ##
      ###  ###
