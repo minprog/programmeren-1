@@ -1,6 +1,6 @@
 # Coupons
 
-Er zijn in de supermarkt drie coupons te gebruiken:
+Er zijn in de supermarkt drie soorten coupons te gebruiken:
 
 1. Drie halen = twee betalen (met andere woorden: iedere derde is gratis)
 2. Tweede halve prijs (met andere woorden: 50% korting op iedere tweede)
@@ -10,6 +10,8 @@ Er zijn in de supermarkt drie coupons te gebruiken:
     - 20% korting bij drie producten
     - 30% korting bij vier of meer producten
 
+## Opdracht
+
 Schrijf een programma `coupons.c` dat eerst vraagt hoeveel producten je wilt kopen. Vervolgens vraagt het programma de prijs per stuk. Daarna print het programma de beste coupon en de totale prijs uit. Het programma moet werken als volgt:
 
     $ ./coupons
@@ -17,7 +19,9 @@ Schrijf een programma `coupons.c` dat eerst vraagt hoeveel producten je wilt kop
     Wat is de prijs per stuk? 5.90
     Met coupon 2 kost het: 8.85
 
-Schrijf voor iedere coupon een eigen functie:
+## Ontwerp
+
+Schrijf op z'n minst voor iedere coupon een eigen functie:
 
 * `float bereken_coupon1(int aantal_stuks, float prijs)`
 * `float bereken_coupon2(int aantal_stuks, float prijs)`

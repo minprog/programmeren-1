@@ -1,13 +1,21 @@
 # Acid test
 
-Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
+Schrijf een programma dat de pH-waarde van een stof opvraagt en dan bepaalt of de betreffende stof "zuur" is; de pH-waarde is dan kleiner dan 7,0.
+
+    $ ./acid
+    pH value: 8.0
+    That's not an acid
+
+## Ontwerp
+
+Maak een bestand genaamd `acid.c`. Neem onderstaande code over en maak het programma af.
 
     bool is_acidic(float value);
 
     int main(void)
     {
-        float input = get_float("Vul het PH level in: ");
-        
+        float input = get_float("pH value: ");
+
         // roep functie aan en print boodschap afhankelijk van het resultaat
     }
 
@@ -16,6 +24,4 @@ Maak een bestand genaamd `acid.c`. Maak daarin het volgende programma af.
         // beslis of dit zuur is (ofwel kleiner dan 7.0)
     }
 
-## Hint
-
-Het is noodzakelijk om zowel in `is_acidic` als in de `main` een if-else toe te voegen.
+Het is noodzakelijk om zowel in `is_acidic` als in de `main` een if-else toe te voegen!

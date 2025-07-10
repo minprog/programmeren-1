@@ -1,13 +1,11 @@
 # Mario
 
-Toward the end of World 1-1 in Nintendo's Super Mario Brothers, Mario must
-ascend right-aligned pyramid of blocks, a la the below.
+Aan het einde van de wereld 1-1 in Nintendo's Super Mario Brothers moet Mario
+een rechts uitgelijnde piramide van blokken beklimmen, zoals hieronder.
 
-![screenshot of Mario jumping up a right-aligned pyramid](pyramid.png)
+![screenshot van Mario die omhoog springt tegen een rechts uitgelijnde piramide](pyramid.png)
 
-Let's recreate that pyramid in C, albeit in text, using hashes (`#`) for
-bricks, a la the below. Each hash is a bit taller than it is wide, so the
-pyramid itself also becomes taller than it is wide.
+Laten we die piramide in C nabootsen, maar dan in tekst, gebruikmakend van hashes (`#`) om de stenen weer te geven, zoals hieronder. Elke hash is iets langer dan hij breed is, dus de piramide zelf wordt (visueel) ook langer dan hij breed is.
 
            #
           ##
@@ -18,12 +16,12 @@ pyramid itself also becomes taller than it is wide.
      #######
     ########
 
-The program we'll write will be called `mario`. And let's allow the user to decide just how tall the pyramid should be by first prompting them for a positive integer between, say, 1 and 8, inclusive.
+Het programma dat we gaan schrijven zal `mario.c` heten. De gebruiker mag beslissen hoe hoog de piramide moet zijn, dus vragen we die eerst om een positief geheel getal tussen, laten we zeggen, 1 en 8, *inclusief*.
 
-Here's how the program might work if the user inputs `8` when prompted:
+Het programma zou dus als volgt kunnen werken als de gebruiker `8` invoert:
 
     $ ./mario
-    Height: 8
+    Hoogte: 8
            #
           ##
          ###
@@ -33,93 +31,92 @@ Here's how the program might work if the user inputs `8` when prompted:
      #######
     ########
 
-Here's how the program might work if the user inputs `4` when prompted:
+En zo zou het programma kunnen werken als de gebruiker `4` invoert:
 
     $ ./mario
-    Height: 4
+    Hoogte: 4
        #
       ##
      ###
     ####
 
-Here's how the program might work if the user inputs `2` when prompted:
+Zo zou het programma kunnen werken als de gebruiker `2` invoert:
 
     $ ./mario
-    Height: 2
+    Hoogte: 2
      #
     ##
 
-And here's how the program might work if the user inputs `1` when prompted:
+En zo zou het programma kunnen werken als de gebruiker `1` invoert:
 
     $ ./mario
-    Height: 1
+    Hoogte: 1
     #
 
-If the user doesn't, in fact, input a positive integer between 1 and 8, inclusive, when prompted, the program should re-prompt the user until they cooperate:
+Als de gebruiker toch géén positief geheel getal tussen 1 en 8 invoert moet het programma de gebruiker opnieuw vragen totdat ze meewerken:
 
     $ ./mario
-    Height: -1
-    Height: 0
-    Height: 42
-    Height: 50
-    Height: 4
+    Hoogte: -1
+    Hoogte: 0
+    Hoogte: 42
+    Hoogte: 50
+    Hoogte: 4
        #
       ##
      ###
     ####
 
-How to begin? Let's approach this problem one step at a time.
+Hoe te beginnen? Laten we dit probleem stap voor stap aanpakken.
 
 <div markdown="1" class="extend">
 [![](mario.jpg)](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
 </div>
 
-[Open video on Youtube](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
+[Open video op Youtube](https://www.youtube.com/watch?v=NAs4FIWkJ4s)
 
 ## Pseudocode
 
-Create a new file called `mario_pseudocode.txt`. Write some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There's no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for finding Mike Smith! Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
+Maak een nieuw bestand genaamd `mario_pseudocode.txt`. Schrijf wat pseudocode die dit programma implementeert, ook al weet je (nog!) niet hoe je het in code moet schrijven. Er is geen enige juiste manier om pseudocode te schrijven, maar korte Engelse zinnen volstaan. Denk eraan hoe we pseudocode schreven voor het vinden van Mike Smith in het telefoonboek! Waarschijnlijk zal je pseudocode impliciet of expliciet gebruik maken van één of meer functies, condities, booleaanse expressies, loops en/of variabelen.
 
 <details markdown="1"><summary markdown="span">Spoiler</summary>
 
-There's more than one way to do this, so here's just one!
+Er zijn meer manieren om dit te doen, dus hier is er slechts één!
 
-1.  Prompt user for height
-2.  If height is less than 1 or greater than 8 (or not an integer at all), go back one step
-3.  Iterate from 1 through height:
-    1.  On iteration _i_, print _i_ hashes and then a newline
+1.  Vraag de gebruiker om een hoogte
+2.  Als de hoogte kleiner is dan 1 of groter dan 8 (of helemaal geen geheel getal), ga terug naar stap één
+3.  Itereer van 1 tot hoogte:
+    1.  Print in iteratie _i_ _i_ hashes en daarna een newline
 
-It's okay to edit your own after seeing this pseudocode here, but don't simply copy/paste ours into your own!
+Het is oké om je eigen pseudocode te bewerken na het zien van deze oplossing, maar simpelweg kopiëren/plakken is zeker niet de bedoeling!
 
 </details>
 
-## Prompting for Input
+## Vragen om input
 
-Whatever your pseudocode, let's first write only the C code that prompts (and re-prompts, as needed) the user for input. Create a new file called `mario.c`.
+Wat je pseudocode ook is, laten we eerst alleen de C-code schrijven die de gebruiker vraagt (en opnieuw vraagt, indien nodig) om invoer. Maak daarvoor een nieuw bestand genaamd `mario.c`.
 
-Now, modify `mario.c` in such a way that it prompts the user for the pyramid's height, storing their input in a variable, re-prompting the user again and again as needed if their input is not a positive integer between 1 and 8, inclusive. Then, simply print the value of that variable, thereby confirming (for yourself) that you've indeed stored the user's input successfully, a la the below.
+Bewerk dan `mario.c` zo dat het de gebruiker vraagt naar de hoogte van de piramide, hun invoer opslaat in een variabele, en de gebruiker herhaaldelijk opnieuw vraagt indien de invoer geen positief geheel getal tussen 1 en 8, inclusief, is. Print dan simpelweg de waarde van die variabele (dus nog geen piramide), en bevestig daarmee voor jezelf dat dit deel van het programma goed lijkt te werken.
 
     $ ./mario
-    Height: -1
-    Height: 0
-    Height: 42
-    Height: 50
-    Height: 4
-    Stored: 4
+    Hoogte: -1
+    Hoogte: 0
+    Hoogte: 42
+    Hoogte: 50
+    Hoogte: 4
+    Opgeslagen: 4
 
-### Hints
+### Tips voor dit onderdeel
 
-- Recall that you can compile your program with `make`.
-- Recall that you can print an `int` with `printf` using `%i`.
-- Recall that you can get an integer from the user with `get_int`.
-- Recall that `get_int` is declared in `cs50.h`.
-- Recall that we prompted the user for a positive integer in class via `positive.c`.
+- Bedenk dat je een `int` kunt printen met `printf` gebruikmakend van `%i`.
+- Bedenk dat je een geheel getal kunt krijgen van de gebruiker met `get_int`.
+- Bedenk dat `get_int` is gedeclareerd in `cs50.h`.
+- Bedenk dat we de gebruiker al een keer vroegen om een *positief* geheel getal in het programma `positive.c` tijdens het college.
 
-## Building the Opposite
+## Precies het tegenovergestelde
 
-Now that your program is (hopefully!) accepting input as prescribed, it's time for another step.
+Nu je programma (hopelijk!) invoer accepteert zoals voorgeschreven, is het tijd voor de volgende stap.
 
-It turns out it's a bit easier to build a left-aligned pyramid than right-, a la the below.
+Het blijkt dat het iets makkelijker is om een links uitgelijnde piramide te bouwen dan een rechts uitgelijnde. Als voorbeeld:
 
     #
     ##
@@ -130,17 +127,17 @@ It turns out it's a bit easier to build a left-aligned pyramid than right-, a la
     #######
     ########
 
-So let's build a left-aligned pyramid first and then, once that's working, right-align it instead!
+Laten we daarom eerst deze links uitgelijnde piramide bouwen en dan, zodra dat werkt, deze naar rechts uitlijnen.
 
-Modify `mario.c` at right such that it no longer simply prints the user's input but instead prints a left-aligned pyramid of that height.
+Bewerk `mario.c` zo dat het niet langer de invoer van de gebruiker (het getal) print, maar in plaats daarvan een links uitgelijnde piramide van die hoogte.
 
-### Hints
+### Tips voor dit onderdeel
 
-- Keep in mind that a hash is just a character like any other, so you can print it with `printf`.
+- Bedenk dat een "hash" gewoon een teken is zoals elk ander, dus je kunt het printen met `printf`.
 
-- Just as Scratch has a [Repeat](https://docs.google.com/presentation/d/17wRd8ksO6QkUq906SUgm17AqcI-Jan42jkY-EmufxnE/edit?usp=sharing) block, so does C have a [`for`](https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing) loop, via which you can iterate some number times. Perhaps on each iteration, _i_, you could print that many hashes?
+- Net zoals Scratch een Herhaal-blok heeft, heeft C een `for`-loop, waarmee je een aantal keren kunt itereren. Misschien kun je bij elke iteratie, dus in stap `i`, precies `i` hekjes printen?
 
-- You can actually "nest" loops, iterating with one variable (e.g., `i`) in the "outer" loop and another (e.g., `j`) in the "inner" loop. For instance, here's how you might print a square of height and width `n`, below. Of course, it's not a square that you want to print!
+- Je kunt loops "nesten", namelijk itereren met één variabele (bijv., `i`) in de "buitenste" loop en met een andere (bijv., `j`) in de "binnenste" loop. Hier is bijvoorbeeld hoe je een vierkant zou printen van hoogte en breedte `n`. Het is natuurlijk geen vierkant dat je wilt printen, maar op een bepaalde manier moet dit stukje code je wel kunnen helpen!
 
         for (int i = 0; i < n; i++)
         {
@@ -151,9 +148,9 @@ Modify `mario.c` at right such that it no longer simply prints the user's input 
             printf("\n");
         }
 
-## Right-Aligning with Dots
+## Rechts uitlijnen met puntjes
 
-Let's now right-align that pyramid by pushing its hashes to the right by prefixing them with dots (i.e., periods), a la the below.
+Laten we die piramide nu naar rechts uitlijnen. We gaan de hekjes naar rechts "duwen" door ze te prefixen met puntjes (`.`), zoals hieronder.
 
     .......#
     ......##
@@ -164,33 +161,27 @@ Let's now right-align that pyramid by pushing its hashes to the right by prefixi
     .#######
     ########
 
-Modify `mario.c` in such a way that it does exactly that!
+Bewerk `mario.c` zo dat het precies dat doet!
 
-### Hint
+### Tip voor dit onderdeel
 
-Notice how the number of dots needed on each line is the "opposite" of the number of that line's hashes. For a pyramid of height 8, like the above, the first line has but 1 hash and thus 7 dots. The bottom line, meanwhile, has 8 hashes and thus 0 dots. Via what formula (or arithmetic, really) could you print that many dots?
+Merk op hoe het *aantal* puntjes op elke regel het "tegenovergestelde" is van het aantal hekjes op die regel. Voor een piramide van hoogte 8, zoals hierboven, heeft de eerste regel maar 1 hash en dus 7 puntjes. De onderste regel, ondertussen, heeft 8 hashes en dus 0 puntjes. Via welke formule zou je op elke regel het juiste aantal puntjes kunnen printen?
 
-### How to Test Your Code
+### Testen
 
-Does your code work as prescribed when you input
+Werkt je code zoals voorgeschreven wanneer je invoert:
 
-- `-1` (or other negative numbers)?
+- `-1` (of andere negatieve getallen)?
 - `0`?
-- `1` through `8`?
-- `9` or other positive numbers?
-- letters or words?
-- no input at all, when you only hit Enter?
+- `1` tot en met `8`?
+- `9` of andere positieve getallen?
+- letters of woorden?
+- geen invoer, wanneer je alleen op Enter drukt?
 
-## Removing the Dots
+## Verwijderen van de puntjes
 
-All that remains now is a finishing flourish! Modify `mario.c` in such a way that it prints spaces instead of those dots!
+Nog één ding! Bewerk `mario.c` zo dat het spaties in plaats van die puntjes print. Hiermee zou het programma precies zo moeten werken als in de voorbeelden bovenaan deze opgave.
 
-### How to Test Your Code
+### Tip voor dit laatste onderdeel
 
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/checks/2022/mario/less
-
-### Hint
-
-A space is just a press of your space bar, just as a period is just a press of its key! Just remember that `printf` requires that you surround both with double quotes!
+Een spatie krijg je gewoon met een druk op je spatiebalk, net zoals je een punt krijgt door de toets met een punt erop in te drukken. Denk er alleen aan dat `printf` vereist dat je aanhalingstekens gebruikt als je zo'n teken wil printen.

@@ -1,14 +1,13 @@
 # Rechthoeken
 
-Schrijf een programma dat de afmetingen van twee rechthoeken opvraagt en dan de mogelijkheid geeft om enkele eigenschappen te berekenen. Het gaat om de volgende mogelijkheden:
+Schrijf een programma genaamd `rechthoeken.c` dat de afmetingen van twee rechthoeken opvraagt en dan de mogelijkheid geeft om enkele eigenschappen te berekenen. Het gaat om de volgende mogelijkheden:
 
 1. De opppervlakte van de eerste rechthoek (lengte x breedte)
-1. De opppervlakte van de tweede rechthoek (lengte x breedte)
-1. Het verschil van de oppervlakte van de eerste en tweede rechthoek (opp1 - opp2)
-1. De som van de oppervlakte van de eerste en tweede rechthoek (opp1 + opp2)
+2. De opppervlakte van de tweede rechthoek (lengte x breedte)
+3. Het verschil van de oppervlakte van de eerste en tweede rechthoek (opp1 - opp2)
+4. De som van de oppervlakte van de eerste en tweede rechthoek (opp1 + opp2)
 
-De lengtes en breedtes moeten ingevoerd worden als een geheel getal.
-Controle op (on)geldige invoer is alleen nodig voor de keuze 1, 2, V of S.
+De lengtes en breedtes moeten ingevoerd worden als een geheel getal. Je mag ervan uitgaan dat ze correct worden ingevoerd. Controle op (on)geldige invoer is wél nodig voor de keuze 1, 2, V of S.
 
     $ ./rechthoeken
     Lengte 1: 45
@@ -51,3 +50,7 @@ Controle op (on)geldige invoer is alleen nodig voor de keuze 1, 2, V of S.
     Dit is geen geldige keuze
 
 Als geen geldige keuze wordt gemaakt stopt het programma; er wordt niet opnieuw om invoer gevraagd.
+
+## Ontwerp
+
+Probeer de `main`-functie zoveel mogelijk te beperken tot invoer en uitvoer. Voor het nemen van beslissingen of het doen van berekeningen kun je extra functies maken.
