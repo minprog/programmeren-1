@@ -22,25 +22,24 @@ Module 2:
         Rechthoeken*: /problems/rechthoeken
         Coupons*: /problems/coupons
         #---
-        Calculator*: '/problems/calculator'
+        Calculator*: "/problems/calculator"
     Toetsje:
         Variabelen [boek]: /exercises/book/variables
-    Naslag:
+    Herhaling en naslag:
+        "Section: C": /video/section1
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
         "Short: Variables": /shorts/variables
         "Short: Functions": /shorts/functions
 
 Module 3:
-    Voorbereiding:
-        "Short: Conditionals": /shorts/conditionals
     Opdrachten:
         Acid Test: /problems/acid
         Orakel: /problems/orakel
         Rechthoeken: /problems/rechthoeken
         Coupons: /problems/coupons
         #---
-        Calculator*: '/problems/calculator'
+        Calculator*: "/problems/calculator"
         Repeat*: /problems/repeat
         Mario*: /problems/mario
         Mario, Part Deux*: /problems/mario-deux
@@ -48,12 +47,12 @@ Module 3:
         #---
         Cirkel*: /problems/cirkel
         Graph*: /problems/graph
+    Herhaling en naslag:
+        "Short: Conditionals": /shorts/conditionals
 
 #-------- week 2 --------
 
 Module 4:
-    Voorbereiding:
-        "Short: Loops": /shorts/loops
     Opdrachten:
         Repeat: /problems/repeat
         Mario: /problems/mario
@@ -69,6 +68,8 @@ Module 4:
         Credit*: /problems/credit
     Toetsje:
         Control Flow [boek]: /exercises/book/control-flow
+    Herhaling en naslag:
+        "Short: Loops": /shorts/loops
 
 Module 5:
     # Loops die iets uitrekenen
@@ -104,7 +105,8 @@ Module 6:
         Tideman**: /problems/tideman
     Toetsje:
         Strings en Arrays [boek]: /exercises/book/arrays
-    Naslag:
+    Herhaling en naslag:
+        "Section: Arrays": /video/section2
         "Short: Arrays": /shorts/arrays
         # "Short: command-line arguments": /shorts/argv
 
@@ -153,6 +155,8 @@ Module 10:
         #---
         Wordle*: /problems/wordle
         # Design challenge*: /problems/calendar/extra
+    Herhaling en naslag:
+        "Section: Algorithms": /video/section3
 
 #-------- deel 2 van cursus, voor punten --------
 
@@ -202,7 +206,6 @@ Module 14:
     Speller: /problems/speller
     Challenge:
         Speller challenge*: /problems/speller/challenge
-
 #-------- eerder geschrapt --------
 
 # Week 5:
