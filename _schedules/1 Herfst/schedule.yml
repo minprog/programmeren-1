@@ -4,100 +4,173 @@ Welkom:
 #-------- deel 1 van cursus, leidend naar tentamen --------
 
 Module 1:
-    "Videocollege: Computational Thinking": /lectures/computational-thinking
+    # "Videocollege: Computational Thinking": /lectures/computational-thinking
     Scratch: /problems/scratch
 
 Module 2:
-    Installatie: /extra/installatie
-
-Module 3:
-    "Videocollege: C": /lectures/c
-    Hello, you!: /problems/hello
-    Functies: /problems/functions
-    # Maths: /problems/maths
-    Binary: /problems/binary
-    Byte*: /problems/byte
-    Huiswerk:
+    Voorbereiding:
+        "Videocollege: C": /video/lecture1
+        Terra IDE: /extra/terra
+    Opdrachten:
+        Hello, you!: /problems/hello
+        Functies: /problems/functions
+        Binary: /problems/binary
+        #---
+        Byte*: /problems/byte
+        Acid Test*: /problems/acid
+        Orakel*: /problems/orakel
+        Rechthoeken*: /problems/rechthoeken
+        Coupons*: /problems/coupons
+        #---
+        Calculator*: "/problems/calculator"
+    Toetsje:
         Variabelen [boek]: /exercises/book/variables
-    Naslag:
+    Herhaling en naslag:
+        "Section: C": /video/section1
         "Short: Operators": /shorts/operators
         "Short: Types": /shorts/types
         "Short: Variables": /shorts/variables
         "Short: Functions": /shorts/functions
 
+Module 3:
+    Opdrachten:
+        Acid Test: /problems/acid
+        Orakel: /problems/orakel
+        Rechthoeken: /problems/rechthoeken
+        Coupons: /problems/coupons
+        #---
+        Calculator*: "/problems/calculator"
+        Repeat*: /problems/repeat
+        Mario*: /problems/mario
+        Mario, Part Deux*: /problems/mario-deux
+        Driehoek*: /problems/driehoek
+        #---
+        Cirkel*: /problems/cirkel
+        Graph*: /problems/graph
+    Herhaling en naslag:
+        "Short: Conditionals": /shorts/conditionals
+
+#-------- week 2 --------
+
 Module 4:
-    "Short: Conditionals": /shorts/conditionals
-    Acid Test: /problems/acid
-    Orakel: /problems/orakel
-    Rechthoeken: /problems/rechthoeken
-    Coupons: /problems/coupons
+    Opdrachten:
+        Repeat: /problems/repeat
+        Mario: /problems/mario
+        Mario, Part Deux: /problems/mario-deux
+        Driehoek: /problems/driehoek
+        Trapezium: /problems/trapezium
+        #---
+        Regen*: /problems/regen
+        Population*: /problems/population
+        Soda*: /problems/soda
+        #---
+        Goldbach*: /problems/goldbach
+        Credit*: /problems/credit
+    Toetsje:
+        Control Flow [boek]: /exercises/book/control-flow
+    Herhaling en naslag:
+        "Short: Loops": /shorts/loops
 
 Module 5:
-    "Short: Loops": /shorts/loops
-    Repeat: /problems/repeat
-    Mario: /problems/mario
-    Mario, Part Deux: /problems/mario-deux
-    Driehoek: /problems/driehoek
-    Trapeziumº: /problems/trapezium
-    Cirkel*: /problems/cirkel
-    Huiswerk:
-        Control Flow [boek]: /exercises/book/control-flow
+    # Loops die iets uitrekenen
+    Opdrachten:
+        # Calculator: '/problems/calculator'
+        Regen: /problems/regen
+        Population: /problems/population
+        Soda: /problems/soda
+        Caffeine: /problems/caffeine
+        Temperatuurconversie: /problems/conversion
+        #---
+        "Videocollege: Arrays & Strings*": /lectures/arrays
+        Tennis*: /problems/tennis
+        Morse*: /problems/morse
+        Hoofdletters*: /problems/hoofdletters
+        #---
+        Tideman**: /problems/tideman
 
 Module 6:
-    # Loops die iets uitrekenen
-    Regen: /problems/regen
-    Population: /problems/population
-    Soda: /problems/soda
-    Caffeine: /problems/caffeine
-    Temperatuurconversie: /problems/conversion
-    Goldbach*: /problems/goldbach
+    Voorbereiding:
+        "Videocollege: Arrays & Strings": /lectures/arrays
+    Opdrachten:
+        Strings: /problems/strings
+        Tennis: /problems/tennis
+        Morse: /problems/morse
+        Hoofdletters: /problems/hoofdletters
+        #---
+        Klinkers*: /problems/klinkers
+        RNA*: /problems/rna
+        Alfabet*: /problems/alfabet
+        Strings++*: /problems/strings_more
+        #---
+        Tideman**: /problems/tideman
+    Toetsje:
+        Strings en Arrays [boek]: /exercises/book/arrays
+    Herhaling en naslag:
+        "Section: Arrays": /video/section2
+        "Short: Arrays": /shorts/arrays
+        # "Short: command-line arguments": /shorts/argv
+
+#-------- week 3 --------
 
 Module 7:
-    "Videocollege: Arrays & Strings": /lectures/arrays
-    Strings: /problems/strings
-    Tennis: /problems/tennis
-    Morse: /problems/morse
-    Hoofdletters: /problems/hoofdletters
-    Klinkers: /problems/klinkers
-    RNA: /problems/rna
-    Strings++*: /problems/strings_more
-    Morse++*: /problems/morse_more
-    Huiswerk:
-        Strings en Arrays [boek]: /exercises/book/arrays
-    Naslag:
-        "Short: Arrays": /shorts/arrays
-        "Short: command-line arguments": /shorts/argv
+    # Meer algoritmische string/array-uitdagingen
+    Opdrachten:
+        Klinkers: /problems/klinkers
+        RNA: /problems/rna
+        Alfabet: /problems/alfabet
+        Wachtwoord: /problems/wachtwoord
+        Scrabble: /problems/scrabble
+        Satellite: /problems/satellite
+        Render: /problems/render
+        #---
+        Formule*: /problems/formule
+        Cypher*: /problems/cypher
+        #---
+        Satellite++*: /problems/satellite_more
+        Decryptor*: /problems/decryptor
+    Toetsje:
+        Functies [boek]: /exercises/book/functions
 
 Module 8:
-    # Meer algoritmische string/array-uitdagingen
-    Alfabet: /problems/alfabet
-    Scrabble: /problems/scrabble
-    Formule: /problems/formule
-    Cypher: /problems/cypher
-    Wachtwoordº: /problems/wachtwoord
-    Decryptor*: /problems/decryptor
-    Huiswerk:
-        Functies [boek]: /exercises/book/functions
+    Opdrachten:
+        Formule: /problems/formule
+        Cypher: /problems/cypher
+        Calendar (groot): /problems/calendar
+        #---
+        #---
+        Morse++*: /problems/morse_more
+
+Module 9:
+    Oefententamen: /tentamen/oefententamen
+
+#-------- week 4 --------
+
+Module 10:
+    Voorbereiding:
+        "Videocollege: Algorithms": /lectures/algorithms
+    Opdrachten:
+        Sort: /problems/sort_single
+        Find: /problems/find_single
+        Runoff: /problems/runoff
+        #---
+        Wordle*: /problems/wordle
+        # Design challenge*: /problems/calendar/extra
+    Herhaling en naslag:
+        "Section: Algorithms": /video/section3
 
 #-------- deel 2 van cursus, voor punten --------
 
-Module 9:
-    "Videocollege: Algorithms": /lectures/algorithms
-    Sort: /problems/sort
-    Find: /problems/find
-    Calendar: /problems/calendar
-    Design challenge*: /problems/calendar/extra
-
-Module 10:
-    # Dit gaat over 2D arrays
-    Tiles: /problems/tiles
-    Snowfall (kies één vd twee): /problems/snowfall
-    Game of Life (kies één vd twee): /problems/life
-    Resize*: /problems/resize/more
-
 Module 11:
+    # Dit gaat over 2D arrays
+    Tiles: /problems/tiles_single
+    Snowfall: /problems/snowfall
+    Game of Life: /problems/life
+    Challenge:
+        Resize*: /problems/resize/more
+
+Module 12:
     "Videocollege: Memory": /lectures/memory
-    "Short: Files": /shorts/files
+    "CS50 short: Files": /shorts/files
     "Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
@@ -107,12 +180,13 @@ Module 11:
     uniq: /problems/unix/uniq
     cut: /problems/unix/cut
     paste: /problems/unix/paste
-    strings*: /problems/unix/strings
-    tail*: /problems/unix/tail
-    recover*: /problems/recover
-    filetype*: /problems/filetype
+    Challenge:
+        strings*: /problems/unix/strings
+        tail*: /problems/unix/tail
+        recover*: /problems/recover
+        filetype*: /problems/filetype
 
-Module 12:
+Module 13:
     "Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
     strfry: /problems/string_functions/strfry
@@ -121,16 +195,17 @@ Module 12:
     strcat: /problems/string_functions/strcat
     strdup: /problems/string_functions/strdup
     strsep: /problems/string_functions/strsep
-    wave*: /problems/wave
+    Challenge:
+        wave*: /problems/wave
 
-Module 13:
+Module 14:
     "Videocollege: Data structures": /lectures/data-structures
     Beatles: /problems/beatles
     Linked List: /problems/linked
     Questions: /problems/speller/questions
     Speller: /problems/speller
-    Challenge*: /problems/speller/challenge
-
+    Challenge:
+        Speller challenge*: /problems/speller/challenge
 #-------- eerder geschrapt --------
 
 # Week 5:
