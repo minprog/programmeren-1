@@ -1,6 +1,6 @@
 # Programmeren 1
 
-## Studiewijzer<br><small>Herfst 2024</small>
+## Studiewijzer<br><small>Herfst 2025</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
@@ -10,9 +10,9 @@ Dit vak bestaat uit een heleboel verschillende elementen. Het kan even duren voo
 
 De docenten bij dit vak zijn Jelle van Assema, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-Daarnaast zijn er veel student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je werk nakijken en feedback geven.
+Daarnaast zijn er student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je werk nakijken en feedback geven.
 
-## Opdrachten en eindcijfer
+## Opdrachten en eindcijfer TODO
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
@@ -22,7 +22,7 @@ Deel 2: opdrachten voor punten (50%). Met modules 9 t/m 13 kun je steeds 0,7-0,9
 
 ### Minimumeisen
 
-Het nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mogelijk het vak maar half te doen. Jouw werk zichtbaar maken doe je onder andere op de volgende manieren:
+Het is nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mogelijk het vak maar half te doen. Jouw werk zichtbaar maken doe je onder andere op de volgende manieren:
 
 1. elke lesweek voldoende opdrachten netjes werkend inleveren
 1. aanwezig zijn in het lokaal en werken met medestudenten
@@ -34,7 +34,7 @@ Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en con
 
 ### Verwachtingen
 
-De intentie is dat bijna alle studenten hoger halen dan de 5,5 van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
+De intentie is dat bijna alle studenten hoger halen dan de voldoende van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
 
 ## Aanwezigheid
 
@@ -48,11 +48,11 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Assistentie:** direct contact met een assistent, voor hulp bij programmeren.
 
-- hulp op locatie (lokaal L0.09 en L0.10)
-- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+- hulp op locatie (lokaal L0.09)
+- je weet niet waar te beginnen, of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op dinsdag t/m donderdag tussen 16:00 en 18:00 uur
+- parttime-studenten op specifieke tijden
 
 **Spreekuur en e-mail:** contact met de docenten.
 
@@ -72,7 +72,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 - Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
-## Deadlines
+## Deadlines TODO
 
 In dit schema vind je een indicatie van een gemiddelde werklast met bijbehorende deadlines. Dit is een standaardschema en kan voor jou aangepast worden door een docent, zie onder.
 
@@ -104,7 +104,7 @@ Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de doce
 
 Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factoren is er vaak nog wel een mogelijkheid om het vak te halen, ook als er iets helemaal misloopt. Hoe eerder je contact opneemt, hoe beter.
 
-## Details over cijfers
+## Details over cijfers TODO
 
 Als je het tentamen of hertentamen haalt, ontvang je een 5,5 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
 
@@ -123,7 +123,7 @@ Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindci
 | Module 12 | alle basisopdrachten gedaan | 0,7    | 0,2              |
 | Module 13 | alle basisopdrachten gedaan | 0,7    | 0,2              |
 
-Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
+Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten gemarkeerd met een *. Deze zijn bedoeld voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
 
 ## Lesmaterialen
 
@@ -151,18 +151,18 @@ Wil je naast de videocolleges nog eens rustig lezen over de verschillende onderw
 
 <details markdown="1"><summary markdown="span">Voor mensen die nog nooit geprogrammeerd hebben</summary>
 
-C Programming Absolute Beginner's Guide, Third Edition  
-Greg Perry, Dean Miller  
-Pearson Education, 2014  
+C Programming Absolute Beginner's Guide, Third Edition
+Greg Perry, Dean Miller
+Pearson Education, 2014
 ISBN 9780789751980
 
 </details>
 
 <details markdown="1"><summary markdown="span">Voor studenten met iets meer ervaring</summary>
 
-Programming in C, Fourth Edition  
-Stephen G. Kochan  
-Pearson Education, 2015  
+Programming in C, Fourth Edition
+Stephen G. Kochan
+Pearson Education, 2015
 ISBN 9780321776419
 
 </details>
