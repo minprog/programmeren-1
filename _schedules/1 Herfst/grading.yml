@@ -41,27 +41,6 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-tentamenoefeningen:
-    show_overview: true
-    submits:
-        oefententamen: 1
-
-tentamen:
-    type: points
-    show_progress: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
-        tentamen: 1
-
-hertentamen:
-    type: points
-    show_progress: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
-        hertentamen: 1
-
 gesprekken:
     show_overview: true
     submits:
@@ -95,6 +74,7 @@ module_1:
 
 module_3:
     show_progress: true
+    small_block_overview: true
     submits:
         hello: 1
         functions: 1
@@ -103,6 +83,7 @@ module_3:
 
 module_4:
     show_progress: true
+    small_block_overview: true
     submits:
         acid: 1
         orakel: 1
@@ -111,6 +92,7 @@ module_4:
 
 module_5:
     show_progress: true
+    small_block_overview: true
     submits:
         repeat: 1
         mario: 1
@@ -121,6 +103,7 @@ module_5:
 
 module_6:
     show_progress: true
+    small_block_overview: true
     submits:
         regen: 1
         population: 1
@@ -131,6 +114,7 @@ module_6:
 
 module_7:
     show_progress: true
+    small_block_overview: true
     submits:
         strings: 1
         tennis: 1
@@ -143,6 +127,7 @@ module_7:
 
 module_8:
     show_progress: true
+    small_block_overview: true
     submits:
         alfabet: 1
         scrabble: 1
@@ -153,6 +138,7 @@ module_8:
 
 module_9:
     show_progress: true
+    small_block_overview: true
     submits:
         calendar: 7
         find: 7
@@ -161,6 +147,7 @@ module_9:
 
 module_10:
     show_progress: true
+    small_block_overview: true
     submits:
         tiles: 7
         snowfall: 7
@@ -169,6 +156,7 @@ module_10:
 
 module_11:
     show_progress: true
+    small_block_overview: true
     submits:
         unix_cat: 2
         unix_head: 2
@@ -184,6 +172,7 @@ module_11:
 
 module_12:
     show_progress: true
+    small_block_overview: true
     submits:
         c_strfry: 1
         c_strchr: 1
@@ -195,8 +184,30 @@ module_12:
 
 module_13:
     show_progress: true
+    small_block_overview: true
     submits:
         beatles: 7
         linked: 7
         speller: 7
         speller_challenge: 6
+
+tentamenoefeningen:
+    show_overview: true
+    submits:
+        oefententamen: 1
+
+tentamen:
+    type: points
+    show_progress: true
+    attempt_required: true
+    minimum: 5.5
+    submits:
+        tentamen: 1
+
+hertentamen:
+    type: points
+    show_progress: true
+    attempt_required: true
+    minimum: 5.5
+    submits:
+        hertentamen: 1
