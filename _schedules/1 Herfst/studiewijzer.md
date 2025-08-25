@@ -12,13 +12,13 @@ De docenten bij dit vak zijn Jelle van Assema, Edwin Steffens en Martijn Stegema
 
 Daarnaast zijn er student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je werk nakijken en feedback geven.
 
-## Opdrachten en eindcijfer TODO
+## Opdrachten en eindcijfer
 
 Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
 
-Deel 1: opdrachten en tentamen (50%). Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 5,5. Let op de minimumeisen hieronder.
+Deel 1: opdrachten en tentamen. Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 6,0. Let op de minimumeisen hieronder.
 
-Deel 2: opdrachten voor punten (50%). Met modules 9 t/m 13 kun je steeds 0,7-0,9 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
+Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5-1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
 
 ### Minimumeisen
 
@@ -34,13 +34,13 @@ Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en con
 
 ### Verwachtingen
 
-De intentie is dat bijna alle studenten hoger halen dan de voldoende van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
+De intentie is dat bijna alle studenten hoger halen dan de 6,0 van het tentamen. Afhankelijk van je voortgang en begrip van het programmeren gaan we je adviseren om bepaalde herhaalopdrachten te doen of juist de moeilijkere opdrachten aan te pakken. Of om wat meer of wat minder uren te maken. Dit is uiteindelijk allemaal van invloed op hoeveel je inlevert en hoe goed je het allemaal begrijpt.
 
 ## Aanwezigheid
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week je voortgangsgesprek hebben, en zo vaak langskomen als nodig is om verder te komen.
+Als je alleen Programmeren 1 volgt, dan moet je maandag en donderdag 13--16 uur aanwezig zijn, en minstens één keer per week een voortgangsgesprek hebben.
 
 ## Vragen stellen
 
@@ -72,25 +72,15 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 - Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
-## Deadlines TODO
+## Deadlines
 
-In dit schema vind je een indicatie van een gemiddelde werklast met bijbehorende deadlines. Dit is een standaardschema en kan voor jou aangepast worden door een docent, zie onder.
+De deadlines in het vak hangen af van de wekelijkse besprekingen die je met een docent hebt.
 
-| Week | Onderdeel    | Deadline           |
-|:----:|--------------|-------------------:|
-| 1    | Module 1-4   |  6 september 16:00 |
-| 2    | Module 5-6   | 13 september 16:00 |
-| 3    | Module 7-8   | 20 september 16:00 |
-| 4    | Module 8-9   | 27 september 16:00 |
-| 5    | Module 10    |  4 oktober   16:00 |
-| 6    | Module 11    | 11 oktober   16:00 |
-| 7    | Module 12-13 | **18 oktober   16:00** |
+Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
 
-De deadlines worden echter beïnvloed door jou persoonlijke voortgang. In verband met de grote niveauverschillen maken we persoonlijke afspraken zodat je uit het vak kan halen wat aansluit bij je voorkennis.
+De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
 
-Als je bovenstaande deadlines nou niet haalt dan is dat het signaal dat je even in gesprek moet met een docent om de strategie te bepalen. Je maakt dan een alternatief schema en duidelijke afspraken over inleveren en contact houden.
-
-Na **vrijdag 18 oktober 16:00** kan je geen opdrachten meer inleveren voor punten.
+Na **donderdag 16 oktober 16:00** kunt je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
@@ -104,24 +94,23 @@ Als je ziek bent, dan meld je het in ieder geval meteen via een mail aan de doce
 
 Wat er ook gebeurt, hou contact met de docenten. Afhankelijk van allerlei factoren is er vaak nog wel een mogelijkheid om het vak te halen, ook als er iets helemaal misloopt. Hoe eerder je contact opneemt, hoe beter.
 
-## Details over cijfers TODO
+## Details over cijfers
 
-Als je het tentamen of hertentamen haalt, ontvang je een 5,5 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
+Als je het tentamen of hertentamen haalt, ontvang je een 6,0 als eindcijfer. Het tentamen zelf wordt gewaardeerd op voldoende of onvoldoende. Bij de beoordeling van het tentamen kijken we naar:
 
-- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht exact werken zoals vermeld
-- er zijn zeker 3 van de 5 oplossingen die helemaal werken zoals in de opgaven (dit is afhankelijk van het uiteindelijke niveau van de opgaven)
+- alleen werkende code in functies wordt meegenomen in de beoordeling; hiermee wordt bedoeld dat de voorbeelden/testcases uit de opdracht *exact* werken zoals vermeld
+- zeker 3 van de 5 oplossingen moeten helemaal werken zoals in de opgaven (als je een opgave te simplistisch uitwerkt kan het zijn dat je er 4 goed moet hebben)
 - algoritmen in de werkende functies bestaan uit diverse combinaties van for, while, if, opgedeeld in functies
 - de programma's maken onder andere zinvol gebruik van strings en/of arrays (indexing), sommige opgaven zullen hier ook specifiek over gaan
 
-Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindcijfer van een 5,5 naar maximaal een 10.
+Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindcijfer van een 6,0 naar maximaal een 10.
 
-| Onderdeel | Minimum                     | Punten | More comfortable |
+| Onderdeel | Minimum                     | Punten | Plus * |
 |-----------|-----------------------------|--------|------------------|
-| Module 9  | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 10 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 11 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 12 | alle basisopdrachten gedaan | 0,7    | 0,2              |
-| Module 13 | alle basisopdrachten gedaan | 0,7    | 0,2              |
+| Module 11 | alle basisopdrachten gedaan | 0,5    | 0,5              |
+| Module 12 | alle basisopdrachten gedaan | 0,5    | 0,5              |
+| Module 13 | alle basisopdrachten gedaan | 0,5    | 0,5              |
+| Module 14 | alle basisopdrachten gedaan | 0,5    | 0,5              |
 
 Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten gemarkeerd met een *. Deze zijn bedoeld voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
 

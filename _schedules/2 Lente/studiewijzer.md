@@ -40,7 +40,7 @@ De intentie is dat bijna alle studenten hoger halen dan de voldoende van het ten
 
 Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
 
-Als je alleen Programmeren 1 volgt, dan moet je minstens één keer per week je voortgangsgesprek hebben, en zo vaak langskomen als nodig is om verder te komen.
+Als je alleen Programmeren 1 volgt, dan moet je maandag en donderdag 13-16 uur aanwezig zijn, en minstens één keer per week een voortgangsgesprek hebben.
 
 ## Vragen stellen
 
