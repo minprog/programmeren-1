@@ -80,11 +80,13 @@ De richtlijn is:
 - Let op dat je t/m module 10 goed moet begrijpen als het tentamen plaatsvindt in lesweek 5.
 - De deadlines in het vak hangen verder af van de wekelijkse besprekingen die je met een docent hebt.
 
-Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
+Voor aftekenen geldt:
 
-De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
+- Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen.
+- Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
+- De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
 
-Na **donderdag 16 oktober 16:00** kunt je geen opdrachten meer inleveren voor punten.
+Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren of aftekenen voor punten.
 
 ## Achterlopen
 
