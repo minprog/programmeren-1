@@ -7,7 +7,7 @@ Tijd voor een avontuur in programmeerland... wat ga jij maken?
 - [How to Make a Scratch Game in less than 10 MINUTES](https://www.youtube.com/watch?v=1D0r8HOaz-c)
 - [Oscartime](https://scratch.mit.edu/projects/887860894/)
 - [Holland's Hardest Game](https://scratch.mit.edu/projects/119975566/)
-- [Ideeëngenerator](https://shorturl.at/lMiw8)
+- [Ideeëngenerator](https://chatgpt.com/g/g-67a06f2a05188191ad646bbba86372cf-scratch-ideeengenerator-voor-volwassenen)
 
 ## Wat moet je doen
 
