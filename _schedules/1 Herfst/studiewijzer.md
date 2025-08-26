@@ -74,7 +74,11 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines
 
-De deadlines in het vak hangen af van de wekelijkse besprekingen die je met een docent hebt.
+De richtlijn is:
+
+- Probeer zoveel mogelijk de weekschema's in het lokaal te volgen, maar stem af op hoe makkelijk het je afgaat. Je moet wel tijd nemen om het goed te begrijpen.
+- Let op dat je t/m module 10 goed moet begrijpen als het tentamen plaatsvindt in lesweek 5.
+- De deadlines in het vak hangen verder af van de wekelijkse besprekingen die je met een docent hebt.
 
 Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen. Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
 
