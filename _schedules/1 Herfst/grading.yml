@@ -43,6 +43,7 @@ calculation:
 
 gesprekken:
     show_overview: true
+    small_block_overview: true
     submits:
         week_2: 0
         week_3: 0
@@ -56,7 +57,7 @@ module_1:
     submits:
         scratch: 1
 
-module_3:
+module_2:
     show_progress: true
     small_block_overview: true
     submits:
@@ -65,7 +66,7 @@ module_3:
         binary: 1
         byte: 1
 
-module_4:
+module_3:
     show_progress: true
     small_block_overview: true
     submits:
@@ -74,7 +75,7 @@ module_4:
         rechthoeken: 1
         coupons: 1
 
-module_5:
+module_4:
     show_progress: true
     small_block_overview: true
     submits:
@@ -83,9 +84,9 @@ module_5:
         mario_2: 1
         driehoek: 1
         trapezium: 1
-        cirkel: 1
+        # cirkel: 1 # waarom weg?
 
-module_6:
+module_5:
     show_progress: true
     small_block_overview: true
     submits:
@@ -94,9 +95,9 @@ module_6:
         soda: 1
         caffeine: 1
         conversion: 1
-        goldbach: 1
+        # goldbach: 1 #extra
 
-module_7:
+module_6:
     show_progress: true
     small_block_overview: true
     submits:
@@ -104,41 +105,54 @@ module_7:
         tennis: 1
         morse: 1
         hoofdletters: 1
+        # klinkers: 1
+        # rna: 1
+        # strings_more: 1
+        # morse_more: 1
+
+module_7:
+    show_progress: true
+    small_block_overview: true
+    submits:
         klinkers: 1
         rna: 1
-        strings_more: 1
-        morse_more: 1
+        alfabet: 1
+        wachtwoord: 1
+        scrabble: 1
+        sattelite: 1
+        render: 1
+        # formule: 1
+        # cypher: 1
+        # decryptor: 1
 
 module_8:
     show_progress: true
     small_block_overview: true
     submits:
-        alfabet: 1
-        scrabble: 1
         formule: 1
         cypher: 1
-        wachtwoord: 1
-        decryptor: 1
+        calendar: 7
 
 module_9:
     show_progress: true
-    small_block_overview: true
     submits:
-        calendar: 7
-        find: 7
-        sort: 7
-        design_challenge: 6
+        oefententamen: 1
 
 module_10:
     show_progress: true
-    small_block_overview: true
     submits:
-        tiles: 7
-        snowfall: 7
-        game_of_life: 7
-        resize: 4
+        sort_single: 1  # kan weer un-single??? TODO
+        find_single: 1
+        runoff: 1
 
 module_11:
+    show_progress: true
+    submits:
+        tiles_single: 1
+        snowfall: 1
+        game_of_life: 1
+
+module_12:
     show_progress: true
     small_block_overview: true
     submits:
@@ -154,7 +168,7 @@ module_11:
         recover: 1
         filetype: 1
 
-module_12:
+module_13:
     show_progress: true
     small_block_overview: true
     submits:
@@ -166,7 +180,7 @@ module_12:
         c_strsep: 1
         wave: 1
 
-module_13:
+module_14:
     show_progress: true
     small_block_overview: true
     submits:
@@ -179,6 +193,7 @@ punten:
     type: points
     fill_missing: true
     show_progress: true
+    small_block_overview: true
     submits:
         punten_module_9: 7
         punten_module_9_challenge: 2

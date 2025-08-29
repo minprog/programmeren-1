@@ -18,7 +18,7 @@ Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar 
 
 Deel 1: opdrachten en tentamen. Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 6,0. Let op de minimumeisen hieronder.
 
-Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5-1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan.
+Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5-1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan. Ook hiervoor gelden de minimumeisen.
 
 ### Minimumeisen
 
@@ -77,7 +77,7 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 De richtlijn is:
 
 - Probeer zoveel mogelijk de weekschema's in het lokaal te volgen, maar stem af op hoe makkelijk het je afgaat. Je moet wel tijd nemen om het goed te begrijpen.
-- Let op dat je t/m module 10 goed moet begrijpen als het tentamen plaatsvindt in lesweek 5.
+- Let op dat je t/m module 10 goed moet begrijpen voordat het tentamen plaatsvindt in lesweek 5.
 - De deadlines in het vak hangen verder af van de wekelijkse besprekingen die je met een docent hebt.
 
 Voor aftekenen geldt:
