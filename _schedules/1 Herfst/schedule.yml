@@ -11,10 +11,12 @@ Module 2:
     Voorbereiding:
         "Videocollege: C": /video/lecture1
         Terra IDE: /extra/terra
-    Opdrachten:
+    Opstarten:
         Hello, you!: /problems/hello
         Functies: /problems/functions
-        "Video: Binary": /video/binary
+    Video:
+        "Leer meer over binary": /video/binary
+    Opdrachten:
         Binary: /problems/binary
         #---
         Byte*: /problems/byte
