@@ -119,10 +119,9 @@ module_7:
         alfabet: 1
         wachtwoord: 1
         scrabble: 1
-        sattelite: 1
-        render: 1
-        # formule: 1
-        # cypher: 1
+        # sattelite: 1
+        # render: 1
+
         # decryptor: 1
 
 module_8:
