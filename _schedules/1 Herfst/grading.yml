@@ -1,3 +1,7 @@
+_settings:
+    start_date: 1/9/25
+    end_date: 24/10/25
+
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
 # choice of grades that are used for the calculation, for example calculating
