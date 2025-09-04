@@ -68,7 +68,6 @@ module_2:
         hello: 1
         functies: 1
         binary: 1
-        byte: 1
 
 module_3:
     show_progress: true
@@ -191,6 +190,30 @@ module_14:
         linked: 7
         speller: 7
         speller_challenge: 6
+
+ster:
+    show_overview: true
+    small_block_overview: true
+    submits:
+        # mod 2
+        byte: 1
+        calculator: 1
+        # mod 3
+        cirkel: 1
+        graph: 1
+        # mod 4
+        goldbach: 1
+        credit: 1
+        # mod 5/6
+        tideman: 1
+        # mod 6
+        strings_more: 1
+        # mod 7
+        decryptor: 1
+        # mod 8
+        morse_more: 1
+        # mod 10
+        wordle: 1
 
 punten:
     type: points
