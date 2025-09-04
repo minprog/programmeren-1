@@ -1,4 +1,4 @@
-name: functions
+name: functies
 files:
   required:
     - functions.c
