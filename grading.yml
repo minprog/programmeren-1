@@ -90,7 +90,7 @@ grades:
     scratch: *check
 
     hello: *automatic
-    functions: *automatic
+    functies: *automatic
     binary: *automatic
     byte: *automatic
 
