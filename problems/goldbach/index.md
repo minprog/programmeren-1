@@ -16,6 +16,9 @@ Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inder
     10 = 3 + 7
     ...
 
+
+**Let op**, je mag in deze opgave **geen arrays** gebruiken, maar alleen loops, ifs en allerlei variabelen.
+
 > Gebruik geen bestaande algoritmen en geen Google. Dit probleem is zeer goed op te lossen met weinig programmeerkennis maar het moeilijkste deel zit 'm in de analyse.
 
 ## Hints
@@ -23,7 +26,5 @@ Laat met een programma **goldbach.c** zien dat alle even getallen tot 1000 inder
 - Bepaal altijd met pen en papier je strategie en ga dus niet gelijk tikken. De 10 minuten die je hieraan besteedt verdien je dik terug tijdens het omzetten naar programmacode.
 
 - Priemgetallen kun je vinden door de getallen vanaf 2 na te lopen en te kijken of ze **geen** deler hebben (groter dan 1 en kleiner dan het getal zelf).
-
-- Je mag in deze opgave geen arrays gebruiken, maar alleen loops, ifs en allerlei variabelen.
 
 - Er wordt flink wat rekenwerk verricht. Je kunt op allerlei manieren je code optimaliseren door precies zoveel werk te doen als nodig is.
