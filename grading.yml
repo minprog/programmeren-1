@@ -194,6 +194,7 @@ grades:
     review_2: *manual
     review_3: *manual
 
+    pretest: *exam
     oefententamen: *exam
     tentamen: *exam
     hertentamen: *exam
