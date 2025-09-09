@@ -76,10 +76,3 @@ If your program behaves incorrectly on some inputs (or doesn't compile at all), 
 </div>
 
 [Open video on Youtube](https://www.youtube.com/watch?v=dF7wNjsRBjI)
-
-
-### How to test your code
-
-You can execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/cs50x/2020/credit

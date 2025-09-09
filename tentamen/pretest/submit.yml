@@ -1,0 +1,35 @@
+name: pretest
+exam: true
+files:
+    required:
+        'makelaar.c': |
+            #include <stdio.h>
+            #include <cs50.h>
+
+            float bereken_kosten_vegetarisch(int hoeveelheid);
+            float bereken_kosten_vis(int hoeveelheid);
+            float bereken_kosten_vlees(int hoeveelheid);
+
+            int main()
+            {
+                // TODO
+                return 0;
+            }
+
+            float bereken_kosten_vegetarisch(int hoeveelheid)
+            {
+                // TODO
+                return 0;
+            }
+
+            float bereken_kosten_vis(int hoeveelheid)
+            {
+                // TODO
+                return 0;
+            }
+
+            float bereken_kosten_vlees(int hoeveelheid)
+            {
+                // TODO
+                return 0;
+            }
