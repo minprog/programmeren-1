@@ -236,6 +236,7 @@ punten:
 tentamenoefeningen:
     show_overview: true
     submits:
+        pretest: 1
         oefententamen: 1
 
 tentamen:
