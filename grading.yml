@@ -133,6 +133,9 @@ grades:
     cypher: *automatic
     wachtwoord: *automatic
     decryptor: *automatic
+    satellite: *automatic
+    render: *automatic
+    satellite_more: *automatic
 
     calendar: *automatic
     find:

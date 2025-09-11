@@ -122,8 +122,8 @@ module_7:
         alfabet: 1
         wachtwoord: 1
         scrabble: 1
-        # sattelite: 1
-        # render: 1
+        sattelite: 1
+        render: 1
 
         # decryptor: 1
 
@@ -209,6 +209,7 @@ ster:
         # mod 6
         strings_more: 1
         # mod 7
+        satellite_more: 1
         decryptor: 1
         # mod 8
         morse_more: 1
