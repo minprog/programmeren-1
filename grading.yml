@@ -133,7 +133,7 @@ grades:
     cypher: *automatic
     wachtwoord: *automatic
     decryptor: *automatic
-    satellite: *automatic
+    satellite_less: *automatic
     render: *automatic
     satellite_more: *automatic
 
