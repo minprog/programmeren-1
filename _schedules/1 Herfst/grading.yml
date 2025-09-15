@@ -122,7 +122,7 @@ module_7:
         alfabet: 1
         wachtwoord: 1
         scrabble: 1
-        satellite: 1
+        satellite_less: 1
         render: 1
 
         # decryptor: 1
