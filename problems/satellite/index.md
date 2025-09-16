@@ -88,7 +88,9 @@ Want:
 
 Implementeer hiervoor de functie `void fix_missing_values(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
 
-> Je mag er bij deze opdracht van uitgaan dat er maar één waarde achter elkaar ontbreekt in de array **en** dat de eerste en laatste waarde in de array niet ontbreken.
+> Je mag er bij deze opdracht van uitgaan dat er maximaal één waarde achter elkaar ontbreekt in de array. Dat betekent dat een `-1` altijd omringt is door een bekende waarde links en rechts.
+
+> Je mag er ook van uitgaan dat de eerste en laatste waarde in de array niet ontbreken. Deze zullen niet `-1` zijn.
 
 ## Stap 3: compute_moving_average
 
