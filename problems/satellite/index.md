@@ -88,7 +88,7 @@ Want:
 
 Implementeer hiervoor de functie `void fix_missing_values(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
 
-> Je mag er bij deze opdracht van uitgaan dat er maximaal één waarde achter elkaar ontbreekt in de array. Dat betekent dat een `-1` altijd omringt is door een bekende waarde links en rechts.
+> Je mag er bij deze opdracht van uitgaan dat er maximaal één waarde achter elkaar ontbreekt in de array. Dat betekent dat een `-1` altijd omringd is door een bekende waarde links en rechts.
 
 > Je mag er ook van uitgaan dat de eerste en laatste waarde in de array niet ontbreken. Deze zullen niet `-1` zijn.
 
