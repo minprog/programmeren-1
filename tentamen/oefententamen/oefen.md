@@ -168,7 +168,7 @@ Schrijf de functie `afgebroken` die de gegeven tekst print zonder deze streepjes
 ## Leestijd (t/m module 8)
 {: style="page-break-before:always"}
 
-Laten we er vanuit gaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat.
+Laten we ervan uitgaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat.
 
 Schrijf de functie `leestijd` die het totaal aantal gelezen pagina's berekent en print, gegeven een array met daarin één of meer getallen die het aantal gelezen minuten voorstellen per leessessie. Rond af op hele pagina's. Voor het afronden kun je de `round`-functie gebruiken.
 
