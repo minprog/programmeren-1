@@ -199,6 +199,7 @@ grades:
 
     pretest: *exam
     oefententamen: *exam
+    oefententamen_thuis: *exam
     tentamen: *exam
     hertentamen: *exam
 
