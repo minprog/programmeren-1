@@ -62,6 +62,6 @@ And if generating a number of sequential values like that, but having the needle
 
 ## Debugging
 
-If your output is not as expected, remeber to add `printf` statements to check the value of variables at certain points in the program. This may help you pinpoint the cause of your troubles.
+If your output is not as expected, remember to add `printf` statements to check the value of variables at certain points in the program. This may help you pinpoint the cause of your troubles.
 
 Should you encounter crashes, i.e. your program just stops, you should certainly check if you aren't violating the boundaries of your array!
