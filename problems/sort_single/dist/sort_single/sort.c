@@ -1,5 +1,5 @@
 // Sorts n numbers and prints them out
-
+#define _XOPEN_SOURCE 500
 #include <cs50.h>
 #include <stdio.h>
 #include <stdlib.h>
