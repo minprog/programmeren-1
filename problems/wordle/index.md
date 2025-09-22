@@ -18,7 +18,7 @@ Hieronder staat een C array met 100 woorden voor het programma om uit te kiezen.
         "nerdy", "optic", "peace", "quirk", "roast", "stout", "trust", "ultra", "vocal", "waver",
         "xenon", "yearn", "zesty", "angry", "brisk", "charm", "dizzy", "eager", "fable", "grain",
         "haste", "ivory", "jumbo", "koala", "latch", "mourn", "nudge", "orbit", "plush", "quilt",
-        "risky", "shiny", "trick", "unzip", "vortex", "whale", "xylor", "yodel", "zebra", "amber",
+        "risky", "shiny", "trick", "unzip", "hello", "whale", "xylor", "yodel", "zebra", "amber",
         "beast", "chili", "dough", "ember", "flock", "glint", "hover", "inbox", "jazzy", "knack",
         "lobby", "marsh", "novel", "outdo", "prank", "quirk", "raven", "swoop", "tweak", "unite"
     };
