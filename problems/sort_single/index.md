@@ -11,7 +11,7 @@ Implement a program that sorts numbers, per the below.
 
 ## Download
 
-[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2025/problems/sort_single/dist/sort_single.zip)
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2025/problems/sort_single/dist/sort_single_dist.zip)
 
 ## Understanding
 
