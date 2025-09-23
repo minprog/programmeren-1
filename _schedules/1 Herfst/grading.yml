@@ -156,7 +156,7 @@ module_11:
         snowfall: 1
         game_of_life: 1
 
-module_11_ster:
+module_11*:
     show_progress: true
     small_block_overview: true
     submits:
@@ -174,7 +174,7 @@ module_12:
         unix_cut: 1
         unix_paste: 1
 
-module_12_ster:
+module_12*:
     show_progress: true
     small_block_overview: true
     submits:
@@ -194,7 +194,7 @@ module_13:
         c_strdup: 1
         c_strsep: 1
 
-module_13_ster:
+module_13*:
     show_progress: true
     small_block_overview: true
     submits:
@@ -208,7 +208,7 @@ module_14:
         linked: 1
         speller: 1
 
-module_14_ster:
+module_14*:
     show_progress: true
     small_block_overview: true
     submits:
