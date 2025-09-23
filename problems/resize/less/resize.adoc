@@ -104,21 +104,3 @@ Better yet, if you'd like to compare your outfile's headers against those from t
 ~cs50/2019/x/pset3/resize 4 small.bmp staff.bmp
 ~cs50/2019/x/pset3/peek student.bmp staff.bmp
 ----
-
-=== `check50`
-
-Here's how to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-[source]
-----
-check50 -l minprog/checks/2022/resize/less
-----
-
-=== `style50`
-
-Here's how to evaluate the style of your code using `style50`.
-
-[source]
-----
-style50 resize.c
-----

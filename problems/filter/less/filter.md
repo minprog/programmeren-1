@@ -234,11 +234,3 @@ Finally, the `blur` function should take an image and turn it into a box-blurred
 ## Hints
 
 The values of a pixel's `rgbtRed`, `rgbtGreen`, and `rgbtBlue` components are all integers, so be sure to **round** any floating-point numbers to the nearest integer when assigning them to a pixel value!
-
-## Testing
-
-Be sure to test all of your filters on the sample bitmap files provided!
-
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/checks/2022/filter/less

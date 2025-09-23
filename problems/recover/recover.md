@@ -69,14 +69,6 @@ Your program should behave per the examples below. Assumed that the underlined t
     $ echo $?
     0
 
-## Testing
-
-### `check50`
-
-Here's how to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/cs50x/2020/recover
-
 ## Hints
 
 Keep in mind that you can open `card.raw` programmatically with `fopen`, as with the below, provided `argv[1]` exists.
