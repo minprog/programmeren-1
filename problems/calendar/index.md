@@ -100,17 +100,9 @@ Don't forget that you need to write function **prototypes** above main to be abl
         // actual implementation of this function
     }
 
-## Testing
-
-You can use `check50` to find obvious mistakes, such as months starting on the wrong weekdate. But you should be able to easily test your program manually by `make`ing and running it.
-
-    check50 -l minprog/checks/2025/calendar
-
-Before you hand in your solution, also check for obvious style mistakes using `style50`. But don't overdo it. You'll be doing a code review again next week.
-
 ### What is &lt;padding&gt;?
 
-When `check50` reports the following:
+When submitting, the check might report the following:
 
     expected "<padding> 1"
 
