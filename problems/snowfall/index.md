@@ -1,5 +1,7 @@
 # Snowfall
 
+> Deze opdracht wordt niet automatisch nagekeken. Je moet daarom zelf goed nagaan of de opdracht af is.
+
 Implement an animated snowfall simulation in C using ANSI escape codes. The goal is to create a visually appealing animation with falling snowflakes that accumulate at the bottom of the screen.
 
 To make an animation, imagine a "scene" of 80 characters wide and 40 characters deep. Snowflakes (a `*` character on the screen) appear at the top of this scene every now and then. Every N milliseconds all snowflakes fall one step towards the bottom.
