@@ -1,5 +1,5 @@
 name: scratch
-url: true
+url: 'https://scratch.mit.edu/projects/\d+/?'
 files:
   required:
     - scratch_file.sb3
