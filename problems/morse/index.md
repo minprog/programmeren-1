@@ -4,10 +4,10 @@ Schrijf een programma `morse.c` dat een Morse-code vertaald naar tekst en deze u
 
 Voor deze opdracht definiëren we vier combinaties die staan voor de volgende letters:
 
-- ... = S
-- --- = O
-- -.. = D
-- .-. = R
+- `...` = S
+- `---` = O
+- `-..` = D
+- `.-.` = R
 
 Het programma moet als volgt werken:
 

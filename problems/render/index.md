@@ -158,10 +158,21 @@ Schrijf een functie `render` dat een afbeelding naar de terminal print. Maak hie
 
 Schrijf een functie `stretch` dat een afbeelding uitrekt met een gegeven factor. Test je eigen functie door deze aan te roepen in de `main` functie.
 
+**Let op!** De functie `stretch` moet niks printen, maar moet juist de meegegeven array aanpassen. Zo zou de volgende code in je main functie één plaatje moeten printen:
+
+    int img[] = {1, 2, 3};
+    int n = 3;
+    stretch(img, n, 2);
+    render(img, n);
+
 ### Stap 4: interlace
 
 Schrijf een functie `interlace` dat een afbeelding interlaced. Elke tweede rij wordt `0`. Test je eigen functie door deze aan te roepen in de `main` functie.
 
+**Let op!** De functie `interlace` moet niks printen, maar moet juist de meegegeven array aanpassen.
+
 ### Stap 5: combine
 
 Schrijf tot slot een functie `combine` dat twee afbeeldingen van gelijke hoogte samenvoegt tot één. De samengevoegde afbeelding wordt opgeslagen in de eerste afbeelding. De langste rij van iedere afbeelding komt in de samengevoegde afbeelding terecht. Test je eigen functie door deze aan te roepen in de `main` functie.
+
+**Let op!** De functie `combine` moet niks printen, maar moet juist de meegegeven array aanpassen.

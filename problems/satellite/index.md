@@ -88,6 +88,10 @@ Want:
 
 Implementeer hiervoor de functie `void fix_missing_values(int values[], int n)`. Wijzig de waardes in de array `values` in-place.
 
+> Je mag er bij deze opdracht van uitgaan dat er maximaal één waarde achter elkaar ontbreekt in de array. Dat betekent dat een `-1` altijd omringd is door een bekende waarde links en rechts.
+
+> Je mag er ook van uitgaan dat de eerste en laatste waarde in de array niet ontbreken. Deze zullen niet `-1` zijn.
+
 ## Stap 3: compute_moving_average
 
 Om de uitschieters in de metingen glad te strijken kan je een bewegend gemiddelde filter gebruiken. Dit vervangt elk element (behalve het eerste en laatste) door het gemiddelde van zichzelf en de directe buren (links en rechts). Zo wordt de volgende input:

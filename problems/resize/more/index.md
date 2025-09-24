@@ -97,10 +97,3 @@ Better yet, if you'd like to compare your outfile's headers against those genera
 ./peek student.bmp large-solution.bmp
 ~~~
 
-### `check50`
-
-Here's how to check the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-~~~sh
-check50 -l minprog/checks/2022/resize/more
-~~~

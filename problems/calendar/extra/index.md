@@ -42,9 +42,3 @@ Analyseer in ongeveer 500 woorden hoe je uiteindelijke programma is geworden, en
 - Welke principes zou je goed kunnen toepassen bij het schrijven van programma's en waarom? Welke voordelen en nadelen kun je bedenken?
 
 Schrijf je verslag in een bestand `analyse.pdf`.
-
-## Testen
-
-Zorg dat je uiteindelijke programma nog steeds correct werkt met de checks van Calendar:
-
-    check50 -l minprog/checks/2022/calendar

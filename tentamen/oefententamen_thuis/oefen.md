@@ -1,5 +1,7 @@
 # Oefentoets
 
+> Hier vind je de tentamenomgeving: <https://prog1.proglab.nl/exams>
+
 Regels voor het tentamen:
 
 - Je mag tot uiterlijk 30 minuten na de begintijd starten.

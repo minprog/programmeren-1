@@ -133,6 +133,9 @@ grades:
     cypher: *automatic
     wachtwoord: *automatic
     decryptor: *automatic
+    satellite_less: *automatic
+    render: *automatic
+    satellite_more: *automatic
 
     calendar: *automatic
     find:
@@ -196,19 +199,18 @@ grades:
 
     pretest: *exam
     oefententamen: *exam
+    oefententamen_thuis: *exam
     tentamen: *exam
     hertentamen: *exam
 
-    punten_module_9: *check
-    punten_module_9_challenge: *check
-    punten_module_10: *check
-    punten_module_10_challenge: *check
     punten_module_11: *check
     punten_module_11_challenge: *check
     punten_module_12: *check
     punten_module_12_challenge: *check
     punten_module_13: *check
     punten_module_13_challenge: *check
+    punten_module_14: *check
+    punten_module_14_challenge: *check
 
     week_2: *check
     week_3: *check

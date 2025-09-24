@@ -61,9 +61,3 @@ Provided to you are three already-compiled C programs, `sort1`, `sort2`, and `so
 [Open the solution walkthrough in the CS50 video player](https://video.cs50.io/uOYhrBs37j0)
 
 </details>
-
-## How to Check Your Answers
-
-Execute the below to evaluate the correctness of your answers using `check50`. But be sure to fill in your explanations as well, which `check50` won't check here!
-
-    check50 -l minprog/checks/2022/measurements

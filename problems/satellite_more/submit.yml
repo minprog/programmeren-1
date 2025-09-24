@@ -1,4 +1,4 @@
-name: satellite
+name: satellite_more
 files:
   required:
     - satellite.c

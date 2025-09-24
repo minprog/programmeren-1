@@ -240,20 +240,3 @@ L                                                               L
 
 that means your program (whose output is on the left) does not think that `Thelonious` or `MIA` is misspelled, even though the staff's output (on the right) does, as is implied by the absence of, say, `Thelonious` in the lefthand column and the presence of `Thelonious` in the righthand column.
 
-=== `check50`
-
-> If you are on a Mac, please run `check50` on https://code.cs50.io. Underneath the hood `check50` will run `valgrind` for you, but `valgrind` won't work correctly on a Mac.
-
-To test your code less manually (though still not exhaustively), you may also execute the below.
-
-[source]
-----
-check50 -l minprog/checks/2022/speller
-----
-
-Note that `check50` will also check for memory leaks, so be sure you've run `valgrind` as well.
-
-== Big Board
-
-If you'd like to put your code to the test against classmates' code (just for fun), upload your solution to our https://bigboard.quinner.nl/[Big Board] website before or after you submit!
-

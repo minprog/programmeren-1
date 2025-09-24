@@ -41,10 +41,3 @@ Now that you have defined the figure in terms of 1) what it looks like and 2) a 
 
 Create a file called `figure.c` and implement your program. Make sure that it, like `mario.c`, only accepts heights that are _reasonable_ for the figure that you implemented in code.
 
-## How to Test Your Code
-
-Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/checks/2022/figure
-
-Check50 cannot check that your figure is printed according to consistent rules, but it will warn you if you have errors or if you do not perform input validation. After submitting, your program will be checked visually for adherence to the requirements.

@@ -98,11 +98,3 @@ Je programma moet uiteindelijk werken zoals in de voorbeelden hieronder.
 ## Hoe testen
 
 Klaar? Geeft je code de juiste output voor de verschillende combinaties van invoer die mogelijk zijn? En hou je ook goed rekening met foutieve invoer? Als je denkt dat je klaar bent, dan zijn dat de eerste dingen om te checken.
-
-Je kunt ook het volgende commando geven in de Terminal om de correctheid van je programma na te gaan. Zorg dat je altijd zelf ook compileert, fouten oplost en handmatig test, want deze tool is bij volgende vakken niet beschikbaar!
-
-    check50 -l minprog/checks/2022/conversion
-
-En je kunt alvast de stijl van je programma laten controleren op een paar aspecten die vaak misgaan. Die kun je dan verbeteren, maar dit is niet verplicht voor het inleveren van de opdracht.
-
-    style50 conversion.c
