@@ -25,7 +25,8 @@ Schrijf een programma dat een keten van DNA aanneemt van willkeurige lengte en d
     UACG
 
     $ ./rna
-    DNA: UUCCAAGGUU
+    DNA: AAGGTTCCAA
+    UUCCAAGGUU
 
     $ ./rna
     DNA: GCUA
