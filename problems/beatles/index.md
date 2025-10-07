@@ -126,3 +126,5 @@ Add the information about the individual Beatles to the array. (This may be hard
 ### Step 3
 
 Now write a `for` loop that prints the name of all the Beatles using your `print_musician` function, feeding it each element of the array.
+
+> Er zijn geen automatische checks voor deze opdracht.
