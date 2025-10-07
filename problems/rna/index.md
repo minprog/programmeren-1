@@ -29,7 +29,8 @@ Schrijf een programma dat een keten van DNA aanneemt van willkeurige lengte en d
     UUCCAAGGUU
 
     $ ./rna
-    DNA: GCUA
+    DNA: CGaT
+    GCUA
 
 In het geval van gebruikersfouten, moet het programma als volgt reageren en afsluiten met exit code 1.
 
