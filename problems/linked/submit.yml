@@ -1,4 +1,4 @@
 name: linked
 files:
-  required:
-    - linked.c
+    required:
+        - linked.c
