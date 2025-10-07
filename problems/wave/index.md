@@ -32,3 +32,5 @@ Download enkele `.wav` bestanden:
     wget https://raw.githubusercontent.com/minprog/programmeren-1/2024/problems/wave/wave.zip
     unzip wave.zip
     rm wave.zip
+
+> Er zijn geen automatische checks bij deze opdracht. Luister zelf goed naar de bestanden! :)
