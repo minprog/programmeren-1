@@ -1,5 +1,5 @@
 name: beatles
 files:
-  required:
-    - answers.md
-    - beatles.c
+    required:
+        - answers.md
+        - beatles.c

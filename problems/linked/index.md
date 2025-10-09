@@ -38,3 +38,5 @@ It's now up to you to insert the numbers `2`, `3`, `4` and `5` in such a way tha
 To do this, implement an insertion method for a linked list in `insert`. Some basics are already there, such as the struct for `node` and a pointer to the head node.
 
 Note: it may be a good idea to first insert _any_ two numbers and test if your `print_list` function works as intended.
+
+> Er zijn geen automatische checks voor deze opdracht.

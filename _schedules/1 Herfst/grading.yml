@@ -139,6 +139,7 @@ module_9:
     show_progress: true
     submits:
         oefententamen: 1
+        oefententamen_thuis: 1
 
 module_10:
     show_progress: true
