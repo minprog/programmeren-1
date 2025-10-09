@@ -84,7 +84,7 @@ Voor aftekenen geldt:
 - Tijdens de voortgangsbesprekingen houden we bij waar je bent en of het goed gaat. We tekenen hier nog niet definitief de opdrachten af voor punten.
 - Na de laatste deadline (zie direct hieronder) plannen we individuele eindgesprekken in. Hier krijg je vragen over jouw uitwerkingen en als je ze voldoende kunt uitleggen krijg je punten.
 
-Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren of aftekenen voor punten.
+Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
