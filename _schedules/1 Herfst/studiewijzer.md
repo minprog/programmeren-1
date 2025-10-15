@@ -72,21 +72,19 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 - Of ga oefenen in het basisboek, want dit staat helemaal los van de opdrachten.
 </details>
 
-## Deadlines
+## Deadlines en aftekenen
 
 De richtlijn is:
 
 - Probeer zoveel mogelijk de weekschema's in het lokaal te volgen, maar stem af op hoe makkelijk het je afgaat. Je moet wel tijd nemen om het goed te begrijpen.
-- Let op dat je t/m module 10 goed moet begrijpen voordat het tentamen plaatsvindt in lesweek 5.
-- De deadlines in het vak hangen verder af van de wekelijkse besprekingen die je met een docent hebt.
+- Let op dat je t/m module 10 goed moet begrijpen voordat het tentamen plaatsvindt in lesweek 5. Check even met de docenten als je dit niet gaat halen; zij hebben goede adviezen.
 
 Voor aftekenen geldt:
 
-- Alleen tijdens de voortgangsbesprekingen kunnen modules worden afgetekend. In de tweede helft van het vak is dit belangrijk in verband met de punten die je ervoor kunt krijgen.
-- Je kunt maximaal twee modules per week aftekenen, dus niet op het laatst nog een hele hoop.
-- De laatste voorgangsbespreking valt in de 7e lesweek van het vak.
+- Tijdens de voortgangsbesprekingen houden we bij waar je bent en of het goed gaat. We tekenen hier nog niet definitief de opdrachten af voor punten.
+- Na de laatste deadline (zie direct hieronder) plannen we individuele eindgesprekken in. Hier krijg je vragen over jouw uitwerkingen en als je ze voldoende kunt uitleggen krijg je punten.
 
-Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren of aftekenen voor punten.
+Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
