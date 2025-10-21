@@ -4,18 +4,18 @@ Welkom:
 #-------- deel 1 van cursus, leidend naar tentamen --------
 
 Module 1:
-    "Videocollege: Computational Thinking": /lectures/computational-thinking
+    "[icon:person-video] Videocollege: Computational Thinking": /lectures/computational-thinking
     Scratch: /problems/scratch
 
 Module 2:
     Voorbereiding:
-        "Videocollege: C": /video/lecture1
+        "[icon:person-video] Videocollege: C": /video/lecture1
         Terra IDE: /extra/terra
     Opstarten:
         Hello, you!: /problems/hello
         Functies: /problems/functions
     Video:
-        "Leer meer over binary": /video/binary
+        "[icon:person-video] Leer meer over binary": /video/binary
     Opdrachten:
         Binary: /problems/binary
         #---
@@ -27,13 +27,13 @@ Module 2:
         #---
         Calculator*: "/problems/calculator"
     Toetsje:
-        Variabelen [boek]: /exercises/book/variables
+        '[icon:journal-code] Variabelen': /exercises/book/variables
     Herhaling en naslag:
-        "Section: C": /video/section1
-        "Short: Operators": /shorts/operators
-        "Short: Types": /shorts/types
-        "Short: Variables": /shorts/variables
-        "Short: Functions": /shorts/functions
+        "[icon:person-video] Section: C": /video/section1
+        "[icon:person-video] Short: Operators": /shorts/operators
+        "[icon:person-video] Short: Types": /shorts/types
+        "[icon:person-video] Short: Variables": /shorts/variables
+        "[icon:person-video] Short: Functions": /shorts/functions
 
 Module 3:
     Opdrachten:
@@ -51,7 +51,7 @@ Module 3:
         Cirkel*: /problems/cirkel
         Graph*: /problems/graph
     Herhaling en naslag:
-        "Short: Conditionals": /shorts/conditionals
+        "[icon:person-video] Short: Conditionals": /shorts/conditionals
 
 #-------- week 2 --------
 
@@ -70,9 +70,9 @@ Module 4:
         Goldbach*: /problems/goldbach
         Credit*: /problems/credit
     Toetsje:
-        Control Flow [boek]: /exercises/book/control-flow
+        '[icon:journal-code] Control Flow': /exercises/book/control-flow
     Herhaling en naslag:
-        "Short: Loops": /shorts/loops
+        "[icon:person-video] Short: Loops": /shorts/loops
 
 Module 5:
     # Loops die iets uitrekenen
@@ -93,7 +93,7 @@ Module 5:
 
 Module 6:
     Voorbereiding:
-        "Videocollege: Arrays & Strings": /lectures/arrays
+        "[icon:person-video] Videocollege: Arrays & Strings": /lectures/arrays
     Opdrachten:
         Strings: /problems/strings
         Tennis: /problems/tennis
@@ -107,11 +107,11 @@ Module 6:
         #---
         Tideman**: /problems/tideman
     Toetsje:
-        Strings en Arrays [boek]: /exercises/book/arrays
+        '[icon:journal-code] Strings en Arrays': /exercises/book/arrays
     Herhaling en naslag:
-        "Section: Arrays": /video/section2
-        "Short: Arrays": /shorts/arrays
-        # "Short: command-line arguments": /shorts/argv
+        "[icon:person-video] Section: Arrays": /video/section2
+        "[icon:person-video] Short: Arrays": /shorts/arrays
+        # "[icon:person-video] Short: command-line arguments": /shorts/argv
 
 #-------- week 3 --------
 
@@ -132,7 +132,7 @@ Module 7:
         Satellite++*: /problems/satellite_more
         Decryptor*: /problems/decryptor
     Toetsje:
-        Functies [boek]: /exercises/book/functions
+        '[icon:journal-code] Functies': /exercises/book/functions
 
 Module 8:
     Opdrachten:
@@ -150,7 +150,7 @@ Module 9:
 
 Module 10:
     Voorbereiding:
-        "Videocollege: Algorithms": /lectures/algorithms
+        "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
         Sort: /problems/sort_single
         Find: /problems/find_single
@@ -159,8 +159,8 @@ Module 10:
         Wordle*: /problems/wordle
         # Design challenge*: /problems/calendar/extra
     Herhaling en naslag:
-        "Section: Algorithms": /video/section3
-        "Short: Command Line Arguments": /shorts/cla
+        "[icon:person-video] Section: Algorithms": /video/section3
+        "[icon:person-video] Short: Command Line Arguments": /shorts/cla
 
 #-------- deel 2 van cursus, voor punten --------
 
@@ -173,9 +173,9 @@ Module 11:
         Resize*: /problems/resize/more
 
 Module 12:
-    "Videocollege: Memory": /lectures/memory
-    "CS50 short: Files": /shorts/files
-    "Short: Command Line Arguments": /shorts/cla
+    "[icon:person-video] Videocollege: Memory": /lectures/memory
+    "[icon:person-video] CS50 short: Files": /shorts/files
+    "[icon:person-video] Short: Command Line Arguments": /shorts/cla
     # Implementeer zelf unix-tools
     cat: /problems/unix/cat
     head: /problems/unix/head
@@ -191,7 +191,7 @@ Module 12:
         filetype*: /problems/filetype
 
 Module 13:
-    "Short: Dynamic Memory Allocation": /shorts/dma
+    "[icon:person-video] Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
     strfry: /problems/string_functions/strfry
     strchr: /problems/string_functions/strchr
@@ -203,7 +203,7 @@ Module 13:
         wave*: /problems/wave
 
 Module 14:
-    "Videocollege: Data structures": /lectures/data-structures
+    "[icon:person-video] Videocollege: Data structures": /lectures/data-structures
     Beatles: /problems/beatles
     Linked List: /problems/linked
     Questions: /problems/speller/questions
