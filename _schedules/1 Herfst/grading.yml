@@ -20,11 +20,11 @@ _settings:
 
 calculation:
     eindcijfer:
-        tentamen: 1
-        punten: 1
+        tentamen: 5
+        punten: 4
     eindcijfer_herkansing:
-        hertentamen: 1
-        punten: 1
+        hertentamen: 5
+        punten: 4
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
