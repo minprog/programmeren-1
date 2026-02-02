@@ -24,7 +24,7 @@ Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5-1,0 punt
 
 Het is nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet mogelijk het vak maar half te doen. Jouw werk zichtbaar maken doe je onder andere op de volgende manieren:
 
-1. elke lesweek voldoende opdrachten netjes werkend inleveren
+1. elke week voldoende opdrachten netjes werkend inleveren
 1. aanwezig zijn in het lokaal en werken met medestudenten
 1. meerdere keren per week contact met assistenten over je opdrachten
 1. één keer per week een voortgangsgesprek met een docent
