@@ -28,12 +28,6 @@ Module 2:
         Calculator*: "/problems/calculator"
     Toetsje:
         '[icon:journal-code] Variabelen': /exercises/book/variables
-    Herhaling en naslag:
-        "[icon:person-video] Section: C": /video/section1
-        "[icon:person-video] Short: Operators": /shorts/operators
-        "[icon:person-video] Short: Types": /shorts/types
-        "[icon:person-video] Short: Variables": /shorts/variables
-        "[icon:person-video] Short: Functions": /shorts/functions
 
 Module 3:
     Opdrachten:
@@ -50,8 +44,6 @@ Module 3:
         #---
         Cirkel*: /problems/cirkel
         Graph*: /problems/graph
-    Herhaling en naslag:
-        "[icon:person-video] Short: Conditionals": /shorts/conditionals
 
 #-------- week 2 --------
 
@@ -71,8 +63,6 @@ Module 4:
         Credit*: /problems/credit
     Toetsje:
         '[icon:journal-code] Control Flow': /exercises/book/control-flow
-    Herhaling en naslag:
-        "[icon:person-video] Short: Loops": /shorts/loops
 
 Module 5:
     # Loops die iets uitrekenen
@@ -108,10 +98,6 @@ Module 6:
         Tideman**: /problems/tideman
     Toetsje:
         '[icon:journal-code] Strings en Arrays': /exercises/book/arrays
-    Herhaling en naslag:
-        "[icon:person-video] Section: Arrays": /video/section2
-        "[icon:person-video] Short: Arrays": /shorts/arrays
-        # "[icon:person-video] Short: command-line arguments": /shorts/argv
 
 #-------- week 3 --------
 
@@ -158,9 +144,6 @@ Module 10:
         #---
         Wordle*: /problems/wordle
         # Design challenge*: /problems/calendar/extra
-    Herhaling en naslag:
-        "[icon:person-video] Section: Algorithms": /video/section3
-        "[icon:person-video] Short: Command Line Arguments": /shorts/cla
 
 #-------- deel 2 van cursus, voor punten --------
 
