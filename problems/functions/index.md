@@ -2,7 +2,7 @@
 
 Maak een nieuw bestand genaamd `functions.c`.
 
-Copy the following code into the file:
+Kopieer de volgende code in het bestand:
 
     #include <stdio.h>
 
