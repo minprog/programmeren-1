@@ -1,8 +1,6 @@
 # Functions
 
-> Als je even totaal niet weet hoe te beginnen, kijk dan het filmpje [Short: Functions](/shorts/functions) om goed te begrijpen waar functies voor zijn. Het kan even duren voordat je het goed begint te begrijpen, maar je zou dan wel een begin moeten kunnen maken met deze oefeningen. Vergeet niet dat je ook om hulp en uitleg kan vragen!
-
-Create a new file called `functions.c`.
+Maak een nieuw bestand genaamd `functions.c`.
 
 Copy the following code into the file:
 
@@ -29,42 +27,54 @@ Copy the following code into the file:
         printf("Value = %i\n", a);
     }
 
-## Exercise 1
+## Tip
 
-Create a function called `half` that takes an integer as input and returns that input divided by two. (You can just use integer division for this exercise. Don't worry about rounding correctly.)
+> Als je even totaal niet weet hoe te beginnen, kijk dan het filmpje [Short: Functions](/shorts/functions) om goed te begrijpen waar functies voor zijn. Vergeet niet dat je ook om hulp en uitleg kan vragen!
 
-Remember that defining a function consists of two parts:
+## Stap 1
 
-- Define the prototype at the top of the file.
-- Define the implementation somewhere below the `main` function.
+Maak een functie genaamd `half` die een integer aanneemt en dan die integer, gedeeld door twee, teruggeeft (met `return`!). Je mag gewoon door twee delen en je hoeft niet na te denken over afronden enzo.
 
-Take a look at how this is done for `times_two` and `print_int`.
+Hoe?
 
-**Test** the function by changing the line `int y = times_two(x);` into `int y = half(x);`.
+Bedenkt dat het maken van een functie uit twee delen bestaat.
 
-## Exercise 2
+- Je schrijft een "prototype" bovenaan `functions.c`.
+- En meer naar beneden, tussen de andere functies, schrijf je de "implementatie".
 
-Create a function called `print_float` that takes a float as input and prints the value with a precision of two decimals in the following format: `Value = X.XX`. (The [manual](https://manual.cs50.io/3/printf) for `printf` explains about precision.)
+Volg hierbij het voorbeeld van `times_two`. Maar hou `times_two` wel intact, schrijf je eigen functie erbij!
 
-**Test** the function by calling `print_float(2.7444)` from `main` and verify that that it prints:
+**Test** de functie door in de `main` de regel `int y = times_two(x);` te wijzigen in `int y = half(x);`. Run het programma en begrijp hoe het werkt!
+
+## Stap 2
+
+Maak een functie genaamd `print_float` die een float aanneemt en deze waarde dan uitprint, maar met precies 2 decimalen max. Het moet er zo uitzien: `Value = X.XX`.
+
+> Zoals je hebt gezien kun je met `%`-codes (placeholders) getallen printen. `%i` of `%d` voor integers en `%f` voor floats. Hierbij kun je ook de *precisie* opgeven. Wil je een float met maximaal 1 decimaal printen, dan gebruik je `%.2f`. Je ziet de punt staan, dat is dus het decimaalteken, en het getal erachter geeft "hoeveel cijfers achter de komma".
+
+**Test** de functie door in de main een `print_float(2.7444)` toe te voegen. Run het programma om te checken dat dit eruit komt:
 
     Value = 2.74
 
-## Exercise 3
+## Stap 3
 
-Create a function called `average` that takes two _integers_ and returns the average of these two integers as a _float_.
+Maak een functie genaamd `average` die twee _integers_ neemt en het gemiddelde van de twee integers geeft (en dat moet een _float_ zijn, dus een kommagetal).
 
-What should the protoype look like? What are the types of the parameters? What is the type of the return value?
+Denk eerst even goed na hoe het prototype eruit moet zien: wat zijn de types van de parameters? Wat is het type van de returnwaarde?
 
-Think of a use case. E.g., the average of 4 and 7 is 5.5. Does your function do this correctly?
+Bedenk een voorbeeld van twee integers en welk getal de functie dan als resultaat moet geven.
 
-**Test** your result by calling the function `avarage` from `main` and print the result using your `print_float`.
+**Test** je functie door `average` aan te roepen in je `main` en print het resultaat met hulp van de bestaande functie `print_float`.
 
-## Exercise 4
+## Stap 4
 
-Create a function called `max` that takes two _floats_ and returns the maximum value as a _float_.
+Maak een functie genaamd `max` die twee _floats_ aanneemt en de grootste van de twee geeft, ook gewoon als _float_.
 
-**Test** your function by adding code to `main`.
+**Test** je functie door code aan de `main` toe te voegen.
+
+## Klaar?
+
+Inleveren op de Submit-tab!
 
 <!--
 

@@ -1,6 +1,6 @@
 # Hello, you!
 
-Here's your first C program:
+OK, hier is je eerste programma in C:
 
     #include <stdio.h>
 
@@ -9,18 +9,20 @@ Here's your first C program:
         printf("hello, world\n");
     }
 
-Following these steps:
+Doe nu stap voor stap:
 
-- In your editor, create a file called `hello.c`.
-- To the document, add the code from above and save again.
-- Now *compile and run* your program.
-- Does the program print the message correctly? Nice.
-- Any errors? Also nice! We'll solve these together.
+- Maak een nieuw bestand `hello.c` in je editor.
+- Open het bestand en neem bovenstaande code over.
+- Compileer en *run* je programma.
+- Je weet welk bericht in het scherm moet verschijnen. Gelukt? Mooi.
+- Hmm, errors? Ook mooi! Want dan is er wat te leren. Roep iemand erbij om samen te kijken.
 
-## Adding functionality
+## Opdracht
 
-No matter how you compile or execute the program, it only ever prints `hello, world`. Let's personalize it a bit, just as we did in lecture.
+Je kunt nog zo vaak runnen, maar het programma gaat op deze manier niets anders doen dan `hello, world` printen. Laten we er een *interactief* programma van maken.
 
-Modify this program in such a way that it first prompts the user for their name and then prints `hello, so-and-so`, where `so-and-so` is their actual name.
+Pas het programma zo aan (liefst zonder college terug te kijken) dat het om een naam vraagt, en dan `hello, dinges` print; waar `dinges` dus die ingevoerde naam moet zijn.
 
-When you're done, try it out! And then submit your solution on the **Submit** tab of this webpage.
+Als je klaar bent met aanpassen, meteen runnen! Ook als je bang bent dat het nog niet goed is. Altijd runnen. En als je een fout hebt goed kijken wat er gebeurt en of de foutmelding met moeite toch te ontcijferen is.
+
+Ben je echt klaar? Stuur je opdracht in op de **Submit**-tab van deze pagina.
