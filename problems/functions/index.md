@@ -50,7 +50,7 @@ Volg hierbij het voorbeeld van `times_two`. Maar hou `times_two` wel intact, sch
 
 Maak een functie genaamd `print_float` die een float aanneemt en deze waarde dan uitprint, maar met precies 2 decimalen max. Het moet er zo uitzien: `Value = X.XX`.
 
-> Zoals je hebt gezien kun je met `%`-codes (placeholders) getallen printen. `%i` of `%d` voor integers en `%f` voor floats. Hierbij kun je ook de *precisie* opgeven. Wil je een float met maximaal 1 decimaal printen, dan gebruik je `%.2f`. Je ziet de punt staan, dat is dus het decimaalteken, en het getal erachter geeft "hoeveel cijfers achter de komma".
+> Zoals je hebt gezien kun je met `%`-codes (placeholders) getallen printen. `%i` of `%d` voor integers en `%f` voor floats. Hierbij kun je ook de *precisie* opgeven. Wil je een float met maximaal 1 decimaal printen, dan gebruik je `%.1f`. Je ziet de punt staan, dat is dus het decimaalteken, en het getal erachter geeft "hoeveel cijfers achter de komma".
 
 **Test** de functie door in de main een `print_float(2.7444)` toe te voegen. Run het programma om te checken dat dit eruit komt:
 
