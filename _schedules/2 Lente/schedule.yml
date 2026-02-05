@@ -34,78 +34,38 @@ Week 1:
         Cirkel*: /problems/cirkel
         Graph*: /problems/graph
 
-# Module 2:
-#     Voorbereiding:
-#         "[icon:person-video] Videocollege: C": /video/lecture1
-#         Terra IDE: /extra/terra
-#     Opstarten:
-#         Hello, you!: /problems/hello
-#         Functies: /problems/functions
-#     Video:
-#         "[icon:person-video] Leer meer over binary": /video/binary
-#     Opdrachten:
-#         Binary: /problems/binary
-#         #---
-#         Byte*: /problems/byte
-#         Acid Test*: /problems/acid
-#         Orakel*: /problems/orakel
-#         Rechthoeken*: /problems/rechthoeken
-#         Coupons*: /problems/coupons
-#         #---
-#         Calculator*: "/problems/calculator"
-#     Toetsje:
-#         '[icon:journal-code] Variabelen': /exercises/book/variables
-
-# Module 3:
-#     Opdrachten:
-#         Acid Test: /problems/acid
-#         Orakel: /problems/orakel
-#         Rechthoeken: /problems/rechthoeken
-#         Coupons: /problems/coupons
-#         #---
-#         Calculator*: "/problems/calculator"
-#         Repeat*: /problems/repeat
-#         Mario*: /problems/mario
-#         Mario, Part Deux*: /problems/mario-deux
-#         Driehoek*: /problems/driehoek
-#         #---
-#         Cirkel*: /problems/cirkel
-#         Graph*: /problems/graph
-
 #-------- week 2 --------
 
-Module 4:
-    Opdrachten:
+Week 2:
+    Loops met patronen:
         Repeat: /problems/repeat
         Mario: /problems/mario
         Mario, Part Deux: /problems/mario-deux
         Driehoek: /problems/driehoek
         Trapezium: /problems/trapezium
-        #---
-        Regen*: /problems/regen
-        Population*: /problems/population
-        Soda*: /problems/soda
-        #---
-        Goldbach*: /problems/goldbach
-        Credit*: /problems/credit
-    Toetsje:
-        '[icon:journal-code] Control Flow': /exercises/book/control-flow
-
-Module 5:
-    # Loops die iets uitrekenen
-    Opdrachten:
-        # Calculator: '/problems/calculator'
+    Loops die iets uitrekenen:
         Regen: /problems/regen
         Population: /problems/population
         Soda: /problems/soda
         Caffeine: /problems/caffeine
         Temperatuurconversie: /problems/conversion
+    Toetsje:
+        '[icon:journal-code] Control Flow': /exercises/book/control-flow
+    Rustig vooruitwerken:
+        Regen*: /problems/regen
+        Population*: /problems/population
+        Soda*: /problems/soda
+    Goeie uitdagende opdrachten:
+        Goldbach*: /problems/goldbach
+        Credit*: /problems/credit
+    Rustig vooruitwerken:
+        # Calculator: '/problems/calculator'
         #---
         "Videocollege: Arrays & Strings*": /lectures/arrays
         Tennis*: /problems/tennis
         Morse*: /problems/morse
         Hoofdletters*: /problems/hoofdletters
-        #---
+    Extra opdracht from hell:
         Tideman**: /problems/tideman
 
 Module 6:
