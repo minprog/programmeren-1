@@ -78,8 +78,7 @@ week_1:
         coupons: 1
 
 week_2:
-    # show_progress: true
-    show_overview: true
+    show_progress: true
     submits:
         repeat: 1
         mario: 1
