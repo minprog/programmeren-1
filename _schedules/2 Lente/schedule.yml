@@ -64,7 +64,7 @@ Week 2:
     Extra opdracht from hell:
         Tideman**: /problems/tideman
 
-Module 6:
+Week 3:
     Voorbereiding:
         "[icon:person-video] Videocollege: Arrays & Strings": /lectures/arrays
     Opdrachten:
@@ -73,20 +73,11 @@ Module 6:
         Morse: /problems/morse
         Hoofdletters: /problems/hoofdletters
         #---
-        Klinkers*: /problems/klinkers
-        RNA*: /problems/rna
-        Alfabet*: /problems/alfabet
-        Strings++*: /problems/strings_more
-        #---
-        Tideman**: /problems/tideman
     Toetsje:
         '[icon:journal-code] Strings en Arrays': /exercises/book/arrays
-
-#-------- week 3 --------
-
-Module 7:
-    # Meer algoritmische string/array-uitdagingen
-    Opdrachten:
+    Uitdagende opdracht:
+        Strings++*: /problems/strings_more
+    Algoritmische opdrachten:
         Klinkers: /problems/klinkers
         RNA: /problems/rna
         Alfabet: /problems/alfabet
@@ -94,16 +85,16 @@ Module 7:
         Scrabble: /problems/scrabble
         Satellite: /problems/satellite
         Render: /problems/render
-        #---
+    Vooruitwerken:
         Formule*: /problems/formule
         Cypher*: /problems/cypher
-        #---
+    Extra uitdaging:
         Satellite++*: /problems/satellite_more
         Decryptor*: /problems/decryptor
-    Toetsje:
-        '[icon:journal-code] Functies': /exercises/book/functions
 
 Module 8:
+    Toetsje:
+        '[icon:journal-code] Functies': /exercises/book/functions
     Opdrachten:
         Formule: /problems/formule
         Cypher: /problems/cypher
