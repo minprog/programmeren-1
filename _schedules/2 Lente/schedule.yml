@@ -82,10 +82,10 @@ Week 3:
         RNA: /problems/rna
         Alfabet: /problems/alfabet
         Wachtwoord: /problems/wachtwoord
-        Scrabble: /problems/scrabble
-        Satellite: /problems/satellite
-        Render: /problems/render
     Vooruitwerken:
+        Scrabble*: /problems/scrabble
+        Satellite*: /problems/satellite
+        Render*: /problems/render
         Formule*: /problems/formule
         Cypher*: /problems/cypher
     Extra uitdaging:
