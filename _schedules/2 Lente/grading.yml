@@ -91,6 +91,21 @@ week_2:
         caffeine: 1
         conversion: 1
 
+week_3:
+    show_progress: true
+    submits:
+        strings: 1
+        tennis: 1
+        morse: 1
+        hoofdletters: 1
+        klinkers: 1
+        rna: 1
+        alfabet: 1
+        wachtwoord: 1
+        scrabble: 1
+        satellite_less: 1
+        render: 1
+
 # module_6:
 #     show_progress: true
 #     submits:
