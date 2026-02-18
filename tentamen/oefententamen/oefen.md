@@ -23,17 +23,17 @@ Op het moment van het tentamen zou je alle opdrachten goed moeten kunnen maken z
 
 Ook voor de oefentoets is het essentieel dat je deze maakt zonder gebruik van internet of hulp van anderen. Alleen zo begrijp je waar je zelf nog vastloopt.
 
-Bij de oefentoets krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet. De eerste opgaven kun je maken als je modules 4, 5 en 6 af hebt, voor de latere opgaven moet je module 7 en 8 bijna helemaal gedaan hebben.
+Bij de oefentoets krijg je een selectie opgaven die afgestemd is op wat je op dit moment weet. De eerste opgaven kun je maken als je de eerste twee weken af hebt, voor de latere opgaven moet je de derde week bijna helemaal gedaan hebben.
 
-**Heb je tot en met module 6 af of bijna af?** 
+**Heb je tot en met week 2 af of bijna af?** 
 
-* Maak dan de **eerste drie opdrachten** van deze oefentoets. 
+* Maak dan nu alleen de **eerste drie opdrachten** van deze oefentoets. 
 
-**Heb je tot en met module 8 af of bijna af?** 
+**Heb je tot en met week 3 af of bijna af?** 
 
-* Maak dan de **laatste drie opdrachten** van deze oefentoets.
+* Maak dan nu alleen de **laatste drie opdrachten** van deze oefentoets.
 
-Dat is een andere opzet dan het echte tentamen, waar de opdrachten allemaal van ongeveer hetzelfde niveau zijn. Voor die opgaven moet je echt de stof tot en met module 7/8 beheersen. Het oefententamen is dus **niet** representatief voor het tentamen qua "moeilijkheidsgraad".
+Dat is een andere opzet dan het echte tentamen, waar de opdrachten allemaal van ongeveer hetzelfde niveau zijn. Voor die opgaven moet je echt de stof tot en met week 4 beheersen. Het oefententamen is dus **niet** representatief voor het tentamen qua "moeilijkheidsgraad".
 
 "Falen" bestaat niet bij deze oefentoets, ook niet als je geen enkele opdracht oplost binnen de tijd. Mocht het niet lukken, dan kun je naderhand hulp vragen of extra tijd nemen om het af te maken. Soms ligt het aan de manier van naar de opgaven kijken, soms is het een kwestie van wennen.
 
@@ -45,7 +45,7 @@ Je kunt in je uitwerking laten zien dat je:
 - Kleine programmeerproblemen in beperkte tijd kunt oplossen
 - De basisconstructies if, else, for, while en dergelijke beheerst
 - Begrijpt hoe je variabelen kunt inzetten om antwoorden te verzamelen, uit te rekenen
-- Kunt werken met strings en characters, en met arrays (module 7 & 8)
+- Kunt werken met strings en characters, en met arrays (week 3)
 - Zorgvuldig output kunt construeren met print statements
 - Functies kunt implementeren die iets printen of iets returnen
 
@@ -53,7 +53,7 @@ In je uitwerking mag je alleen gebruik maken van de library-functies die behande
 
 Je krijgt bij het tentamen geen toegang tot je eigen eerder geschreven code of externe hulpbronnen.
 
-## Makelaar (t/m module 4)
+## Makelaar (t/m week 1)
 {: style="page-break-before:always"}
 
 De waarde van een huis in een bepaalde wijk is afhankelijk van het aantal vierkante meters. Bovendien maken het aantal badkamers en slaapkamers ook uit voor de prijs.
@@ -75,7 +75,7 @@ Schrijf de functie `verkoopprijs` die de prijs van een woning berekent.
 
 Het bedrag moet precies zo geprint worden als hierboven: een getal bestaande uit een aantal cijfers en dan een komma en een streepje er direct achter.
 
-## Header (t/m module 5)
+## Header (t/m week 2)
 {: style="page-break-before:always"}
 
 Schrijf de functie `header` die een header comment genereert voor de gebruiker. Het programma moet als volgt werken:
@@ -97,7 +97,7 @@ De geprinte header is altijd precies 80 karakters breed. Zorg dat je exact de vo
 
 **Let op**, je hoeft geen rekening te houden met extreem lange namen en descriptions. Je mag er vanuit gaan dat alles, inclusief de sterretjes op één regel van 80 breed passen.
 
-## Collatz (t/m module 6)
+## Collatz (t/m week 2)
 {: style="page-break-before:always"}
 
 Schrijf de functie `collatz` dat een collatz-reeks uitprint. De collatz-reeks van een bepaald getal telt uiteindelijk altijd terug tot het getal 1.
@@ -129,7 +129,7 @@ Het programma moet als volgt werken:
 
 Tip: een **even** getal is deelbaar door 2. Dus getal % 2 is gelijk aan 0.
 
-## Spam (t/m module 7)
+## Spam (t/m week 3)
 {: style="page-break-before:always"}
 
 Omdat je mailbox vol stroomt met spam ga je zelf een spamfilter schrijven. Je ontdekt dat spammers vaak woorden als "lottery", "cash" of "money" vervangen voor "lo\|\|ery", "Ca$h" of M0n3y. Tijd om dit op te lossen! Door de verhouding tussen het aantal spaties, hoofdletters, kleine letters overige karakters te meten kan je inschatten of een email wel of geen spam is (nou ja, min of meer).
@@ -148,7 +148,7 @@ Schrijf de functie `spam_check` die een email als spam of als normale mail class
     -> ""
     Deze mail heeft geen subject.
 
-## Afgebroken (t/m module 7)
+## Afgebroken (t/m week 3)
 {: style="page-break-before:always"}
 
 Je hebt een tekst uit de krant gekopiëerd. Alleen er staan nog verdwaalde afbreekstreepjes in de tekst van woorden die niet meer op de regel pasten in het oorspronkelijke bericht. Elk onterecht afbreekstreepje in de originele tekst wordt gevolgd door een spatie.
@@ -165,7 +165,7 @@ Schrijf de functie `afgebroken` die de gegeven tekst print zonder deze streepjes
     Origineel: Een 36-jarige Geldropse heeft deze week een in- breker in haar ...
     Een 36-jarige Geldropse heeft deze week een inbreker in haar ...
 
-## Leestijd (t/m module 8)
+## Leestijd (t/m week 3)
 {: style="page-break-before:always"}
 
 Laten we ervan uitgaan dat je 250 woorden per minuut leest en dat een pagina van een boek gemiddeld 300 woorden bevat.
