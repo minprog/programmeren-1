@@ -64,6 +64,7 @@ Week 2:
     Extra opdracht from hell:
         Tideman**: /problems/tideman
 
+# was een beetje groot, 3 opdrachten naar vooruitwerken gezet
 Week 3:
     Voorbereiding:
         "[icon:person-video] Videocollege: Arrays & Strings": /lectures/arrays
@@ -92,36 +93,40 @@ Week 3:
         Satellite++*: /problems/satellite_more
         Decryptor*: /problems/decryptor
 
-Module 8:
-    Toetsje:
-        '[icon:journal-code] Functies': /exercises/book/functions
+Week 4:
+    Oefenopdrachten tentamen: /tentamen/oefententamen_thuis
     Opdrachten:
+        Scrabble: /problems/scrabble
+        Satellite: /problems/satellite
+        Render: /problems/render
         Formule: /problems/formule
         Cypher: /problems/cypher
-        Calendar (groot): /problems/calendar
-        #---
-        #---
+    Project:
+        Calendar: /problems/calendar
+    Toetsje:
+        '[icon:journal-code] Functies': /exercises/book/functions
+    Extra uitdaging:
         Morse++*: /problems/morse_more
+    Vooruit werken:
+        "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
+        Sort: /problems/sort_single
+        Find: /problems/find_single
 
-Module 9:
-    Oefententamen: /tentamen/oefententamen_thuis
-
-#-------- week 4 --------
-
-Module 10:
+# week 5 en de rest gaan samen open
+Week 5:
     Voorbereiding:
         "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
         Sort: /problems/sort_single
         Find: /problems/find_single
         Runoff: /problems/runoff
-        #---
+    Extra uitdaging:
         Wordle*: /problems/wordle
         # Design challenge*: /problems/calendar/extra
 
 #-------- deel 2 van cursus, voor punten --------
 
-Module 11:
+Arrays 2D:
     # Dit gaat over 2D arrays
     Tiles: /problems/tiles_single
     Snowfall: /problems/snowfall
@@ -129,7 +134,7 @@ Module 11:
     Challenge:
         Resize*: /problems/resize/more
 
-Module 12:
+Unix tools:
     "[icon:person-video] Videocollege: Memory": /lectures/memory
     "[icon:person-video] CS50 short: Files": /shorts/files
     "[icon:person-video] Short: Command Line Arguments": /shorts/cla
@@ -147,7 +152,7 @@ Module 12:
         recover*: /problems/recover
         filetype*: /problems/filetype
 
-Module 13:
+String functions:
     "[icon:person-video] Short: Dynamic Memory Allocation": /shorts/dma
     # String-manipulatie inclusief \0-terminator en wat malloc
     strfry: /problems/string_functions/strfry
@@ -159,7 +164,7 @@ Module 13:
     Challenge:
         wave*: /problems/wave
 
-Module 14:
+Speller:
     "[icon:person-video] Videocollege: Data structures": /lectures/data-structures
     Beatles: /problems/beatles
     Linked List: /problems/linked
