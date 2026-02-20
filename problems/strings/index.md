@@ -45,6 +45,8 @@ Create a function `bob` that takes a string and prints that string into the alte
 
     kNoW YoUr mEmE
 
+The function bob should not change / modify the string it is passed as argument. Instead leave it as is and just print out the Spongebobbified text.
+
 ## Main?
 
 There is no `main` for this assigment. However, you can use `main` to contain some testing code that calls the functions that you're writing.
