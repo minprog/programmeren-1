@@ -241,10 +241,10 @@ punten:
         punten_module_14: 5
         punten_module_14_ster: 5
 
-# tentamenoefeningen:
-#     show_overview: true
-#     submits:
-#         oefententamen: 1
+tentamenoefeningen:
+    show_overview: true
+    submits:
+        oefententamen: 1
 
 tentamen:
     type: points
