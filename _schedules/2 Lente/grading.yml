@@ -102,40 +102,18 @@ week_3:
         rna: 1
         alfabet: 1
         wachtwoord: 1
+
+week_4:
+    show_progress: true
+    submits:
         scrabble: 1
         satellite_less: 1
         render: 1
+        formule: 1
+        cypher: 1
+        calendar: 1
 
-# module_6:
-#     show_progress: true
-#     submits:
-#         strings: 1
-#         tennis: 1
-#         morse: 1
-#         hoofdletters: 1
-
-# module_7:
-#     show_progress: true
-#     submits:
-#         klinkers: 1
-#         rna: 1
-#         alfabet: 1
-#         wachtwoord: 1
-#         scrabble: 1
-
-# module_8:
-#     show_progress: true
-#     submits:
-#         formule: 1
-#         cypher: 1
-#         calendar: 7
-
-# module_9:
-#     show_progress: true
-#     submits:
-#         oefententamen: 1
-
-# module_10:
+# week_5:
 #     show_progress: true
 #     submits:
 #         sort_single: 1
@@ -177,7 +155,7 @@ week_3:
 #         linked: 1
 #         speller: 1
 
-ster:
+extra_uitdaging:
     show_progress: true
     submits:
         # mod 2
