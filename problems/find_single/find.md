@@ -50,7 +50,7 @@ When using the `-r` argument, the program should generate the amount of hay spec
     $ ./find 42 -r 10
     Didn't find needle in haystack.
 
-When using the `-r` argument, the numbers that fill the haystack should be sequential, counting from 0, which means that all numbers between 0 and `h-1` will be in the haystack. This is useful for testing, because it should always be able to find the needle.
+When using the `-s` argument, the numbers that fill the haystack should be sequential, counting from 0, which means that all numbers between 0 and `h-1` will be in the haystack. This is useful for testing, because it should always be able to find the needle.
 
     $ ./find 42 -s 50
     Found needle in haystack!
