@@ -128,49 +128,56 @@ Week 5:
 
 Arrays 2D:
     # Dit gaat over 2D arrays
-    Tiles: /problems/tiles_single
-    Snowfall: /problems/snowfall
-    Game of Life: /problems/life
-    Challenge:
+    Opdrachten:
+        Tiles: /problems/tiles_single
+        Snowfall: /problems/snowfall
+        Game of Life: /problems/life
+    Steropdracht:
         Resize*: /problems/resize/more
 
 Unix tools:
-    "[icon:person-video] Videocollege: Memory": /lectures/memory
-    "[icon:person-video] CS50 short: Files": /shorts/files
-    "[icon:person-video] Short: Command Line Arguments": /shorts/cla
-    # Implementeer zelf unix-tools
-    cat: /problems/unix/cat
-    head: /problems/unix/head
-    nl: /problems/unix/nl
-    wc: /problems/unix/wc
-    uniq: /problems/unix/uniq
-    cut: /problems/unix/cut
-    paste: /problems/unix/paste
-    Challenge:
+    Voorbereiding:
+        "[icon:person-video] Videocollege: Memory": /lectures/memory
+        "[icon:person-video] CS50 short: Files": /shorts/files
+        "[icon:person-video] Short: Command Line Arguments": /shorts/cla
+    Opdrachten:
+        # Implementeer zelf unix-tools
+        cat: /problems/unix/cat
+        head: /problems/unix/head
+        nl: /problems/unix/nl
+        wc: /problems/unix/wc
+        uniq: /problems/unix/uniq
+        cut: /problems/unix/cut
+        paste: /problems/unix/paste
+    Steropdrachten:
         strings*: /problems/unix/strings
         tail*: /problems/unix/tail
         recover*: /problems/recover
         filetype*: /problems/filetype
 
 String functions:
-    "[icon:person-video] Short: Dynamic Memory Allocation": /shorts/dma
-    # String-manipulatie inclusief \0-terminator en wat malloc
-    strfry: /problems/string_functions/strfry
-    strchr: /problems/string_functions/strchr
-    strrchr: /problems/string_functions/strrchr
-    strcat: /problems/string_functions/strcat
-    strdup: /problems/string_functions/strdup
-    strsep: /problems/string_functions/strsep
-    Challenge:
+    Voorbereiding:
+        "[icon:person-video] Short: Dynamic Memory Allocation": /shorts/dma
+    Opdrachten:
+        # String-manipulatie inclusief \0-terminator en wat malloc
+        strfry: /problems/string_functions/strfry
+        strchr: /problems/string_functions/strchr
+        strrchr: /problems/string_functions/strrchr
+        strcat: /problems/string_functions/strcat
+        strdup: /problems/string_functions/strdup
+        strsep: /problems/string_functions/strsep
+    Steropdracht:
         wave*: /problems/wave
 
 Speller:
-    "[icon:person-video] Videocollege: Data structures": /lectures/data-structures
-    Beatles: /problems/beatles
-    Linked List: /problems/linked
-    Questions: /problems/speller/questions
-    Speller: /problems/speller
-    Challenge:
+    Voorbereiding:
+        "[icon:person-video] Videocollege: Data structures": /lectures/data-structures
+    Opdrachten:
+        Beatles: /problems/beatles
+        Linked List: /problems/linked
+        Questions: /problems/speller/questions
+        Speller: /problems/speller
+    Steropdracht:
         Speller challenge*: /problems/speller/challenge
 #-------- eerder geschrapt --------
 
