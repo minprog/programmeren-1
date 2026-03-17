@@ -178,28 +178,28 @@ extra_uitdaging:
         # mod 10
         wordle: 1
 
-# ster_module_11:
-#     show_progress: true
-#     submits:
-#         resize: 1
+ster_arrays2d:
+    show_progress: true
+    submits:
+        resize: 1
 
-# ster_module_12:
-#     show_progress: true
-#     submits:
-#         unix_strings: 1
-#         unix_tail: 1
-#         recover: 1
-#         filetype: 1
+ster_unix_tools:
+    show_progress: true
+    submits:
+        unix_strings: 1
+        unix_tail: 1
+        recover: 1
+        filetype: 1
 
-# ster_module_13:
-#     show_progress: true
-#     submits:
-#         wave: 1
+ster_string_functions:
+    show_progress: true
+    submits:
+        wave: 1
 
-# ster_module_14:
-#     show_progress: true
-#     submits:
-#         speller_challenge: 1
+ster_speller:
+    show_progress: true
+    submits:
+        speller_challenge: 1
 
 punten:
     type: points
