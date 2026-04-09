@@ -36,11 +36,9 @@ grades:
 
 calculation:
     eindcijfer:
-        # tentamen: 1
         berekening_1: 1
     eindcijfer_herkansing:
-        hertentamen: 0.555555
-        punten: 0.444444
+        berekening_2: 1
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -248,6 +246,21 @@ berekening_1:
     show_overview: false
     submits:
         tentamen: 5
+        punten_module_11: 0.5
+        punten_module_11_ster: 0.5
+        punten_module_12: 0.5
+        punten_module_12_ster: 0.5
+        punten_module_13: 0.5
+        punten_module_13_ster: 0.5
+        punten_module_14: 0.5
+        punten_module_14_ster: 0.5
+
+berekening_2:
+    type: points
+    fill_missing: true
+    show_overview: false
+    submits:
+        hertentamen: 5
         punten_module_11: 0.5
         punten_module_11_ster: 0.5
         punten_module_12: 0.5
