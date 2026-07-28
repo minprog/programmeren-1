@@ -201,7 +201,6 @@ ster_speller:
 
 punten:
     type: points
-    fill_missing: true
     show_overview: true
     submits:
         # punten_module_9: 7
@@ -242,7 +241,6 @@ hertentamen:
 
 berekening_1:
     type: points
-    fill_missing: true
     show_overview: false
     submits:
         tentamen: 5
@@ -257,7 +255,6 @@ berekening_1:
 
 berekening_2:
     type: points
-    fill_missing: true
     show_overview: false
     submits:
         hertentamen: 5
