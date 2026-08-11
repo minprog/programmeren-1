@@ -1,6 +1,6 @@
 # Programmeren 1
 
-## Studiewijzer<br><small>Herfst 2025</small>
+## Studiewijzer<br><small>Lente 2026</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
@@ -10,15 +10,13 @@ Dit vak bestaat uit een heleboel verschillende elementen. Het kan even duren voo
 
 De docenten bij dit vak zijn Jelle van Assema, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>.
 
-Daarnaast zijn er student-assistenten, die de cursus goed kennen omdat ze 'm zelf gedaan hebben, en jou gaan helpen op de momenten dat het nodig is. Eén van de assistenten zal daarnaast je werk nakijken en feedback geven.
-
 ## Opdrachten en eindcijfer
 
-Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen.
+Bij dit vak werk je aan je programmeerskills. Je pikt een hoop theorie op, maar dat doe je vooral door zelf programma's te schrijven en kleine oefeningen te doen. Het vak is daar op ingericht, je gaat veel programma's schrijven, problemen oplossen, bugs creëeren en deze vervolgens weer opsporen en oplossen.
 
-Deel 1: opdrachten en tentamen. Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 6,0. Let op de minimumeisen hieronder.
+Deel 1: opdrachten en tentamen. Als je het tentamen voldoende maakt krijg je daar de volle punten voor en heb je het vak in principe al gehaald met een 6,0. Let op de minimumeisen hieronder. Op deze manier laat je zien dat je zelfstandig kleine programma's kan implementeren.
 
-Deel 2: opdrachten voor punten. Met modules 11 t/m 14 kun je steeds 0,5-1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan. Ook hiervoor gelden de minimumeisen.
+Deel 2: opdrachten voor punten. Met de laatste 4 modules kun je steeds 0,5-1,0 punt halen, afhankelijk van hoeveel van de moeilijkere opdrachten je hebt gedaan. Ook hiervoor gelden de minimumeisen. Met deze modules duik je dieper in de stof, zo schrijf je grotere programma's in meerdere bestanden, en ga je aan de slag met geheugenbeheer en het implementeren van eigen datastructuren.
 
 ### Minimumeisen
 
@@ -26,11 +24,11 @@ Het is nodig dat je _zichtbaar_ actief meedoet en leert van het vak. Het is niet
 
 1. elke week voldoende opdrachten netjes werkend inleveren
 1. aanwezig zijn in het lokaal en werken met medestudenten
-1. meerdere keren per week contact met assistenten over je opdrachten
+1. meerdere keren per week contact met docenten over je opdrachten
 1. één keer per week een voortgangsgesprek met een docent
 1. laag scoren op de ["plagiaatschaal"](#plagiaat)
 
-Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee! Let op dat een assistent geen uitzonderingen kan verlenen.
+Op die manier kunnen de docenten een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Gaat er iets mis? Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen. We denken graag mee!
 
 ### Verwachtingen
 
@@ -44,9 +42,9 @@ Als je alleen Programmeren 1 volgt, dan moet je maandag en donderdag 13--16 uur 
 
 ## Vragen stellen
 
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Assistentie:** direct contact met een assistent, voor hulp bij programmeren.
+**Assistentie:** direct contact met een docent voor hulp bij programmeren.
 
 - hulp op locatie (lokaal L0.09)
 - je weet niet waar te beginnen, of een onvindbare bug, of alles loopt vast
@@ -54,13 +52,13 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - dagelijks beschikbaar, zet jezelf in de rij
 - parttime-studenten op specifieke tijden
 
-**Spreekuur en e-mail:** contact met de docenten.
+**Persoonlijk en e-mail:** contact met de docenten over praktische zaken.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
-- mail <help@mprog.nl> of kom langs tijdens het spreekuur
+- mail <help@mprog.nl> of spreek ons aan in de collegezaal
 
 <details markdown="1"><summary markdown="span">Kom je helemaal niet verder en heb je even geen hulp?</summary>
 Juist even niet aan de opdracht werken kan je verder helpen!
@@ -74,17 +72,19 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines en aftekenen
 
+In het lokaal hangt iedere week een weekschema aan de muur. Hou je dat schema bij, dan ben je op weg om het vak met een goed resultaat af te ronden. Maar één planning past niet voor iedereen, je kan sneller gaan, maar ook langzamer. Het belangrijkste is dat jij grip krijgt op de stof.
+
 De richtlijn is:
 
 - Probeer zoveel mogelijk de weekschema's in het lokaal te volgen, maar stem af op hoe makkelijk het je afgaat. Je moet wel tijd nemen om het goed te begrijpen.
-- Let op dat je t/m module 10 goed moet begrijpen voordat het tentamen plaatsvindt in lesweek 5. Check even met de docenten als je dit niet gaat halen; zij hebben goede adviezen.
+- Let op dat je t/m week 5 goed moet begrijpen voordat het tentamen plaatsvindt in week 5. Check even met de docenten als je dit niet gaat halen; zij hebben goede adviezen.
 
 Voor aftekenen geldt:
 
 - Tijdens de voortgangsbesprekingen houden we bij waar je bent en of het goed gaat. We tekenen hier nog niet definitief de opdrachten af voor punten.
 - Na de laatste deadline (zie direct hieronder) plannen we individuele eindgesprekken in. Hier krijg je vragen over jouw uitwerkingen en als je ze voldoende kunt uitleggen krijg je punten.
 
-Na **donderdag 16 oktober 16:00** kun je geen opdrachten meer inleveren voor punten.
+Na **woensdag 21 oktober 16:59** kun je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
@@ -120,7 +120,7 @@ Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende
 
 ## Lesmaterialen
 
-### Inhoud per week
+### Inhoud per week (ongeveer)
 
 1. **Basics.** Aan de slag met Scratch om te begrijpen welke mogelijkheden programmeertalen hebben. Dan start je gauw met C, en je oefent met variabelen en control flow.
 2. **Programmeerproblemen.** Aan de slag met vier kleine programmeeropdrachten waar je een oplossing schrijft voor een probleem uit de "echte wereld". Je maakt meteen kennis met een greedy-algoritme.
@@ -160,7 +160,7 @@ ISBN 9780321776419
 
 </details>
 
-## Zelfstandig werken
+## Verwachting van zelfstandig werken
 
 De basis van alles wat je inlevert moet jouw eigen intellectuele werk zijn, behalve waar het gaat om de samenwerkopdrachten.
 
