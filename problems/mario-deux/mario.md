@@ -19,9 +19,9 @@ Aan het begin van de wereld 1-1 in Nintendo's Super Mario Brothers moet Mario ov
 
 * Schrijf, in een bestand genaamd `mario.c`, een programma dat deze half-piramides op het scherm tovert met behulp van hekjes (`#`).
 
-* Maak het interessanter door eerst de gebruiker om de hoogte van de half-piramides te vragen, een niet-negatief geheel getal dat niet groter is dan `8`. (De hoogte van de half-piramides op de bovenstaande afbeelding is toevallig `4`, en daarom is de breedte van elke half-piramide `4`, met een tussenruimte van `2` ertussen.)
+* Maak het interessanter door eerst de gebruiker om de hoogte van de half-piramides te vragen, een positief geheel getal dat niet groter is dan `8`. (De hoogte van de half-piramides op de bovenstaande afbeelding is toevallig `4`, en daarom is de breedte van elke half-piramide `4`, met een tussenruimte van `2` ertussen.)
 
-* Als de gebruiker er niet in slaagt een niet-negatief geheel getal niet groter dan `8` op te geven, moet je opnieuw om de hoogte vragen.
+* Als de gebruiker er niet in slaagt een positief geheel getal niet groter dan `8` op te geven, moet je opnieuw om de hoogte vragen. Net als bij Mario is `0` dus géén geldige hoogte.
 
 * Genereer vervolgens (met behulp van `printf` en een of meer loops) de gewenste half-piramides.
 
@@ -48,6 +48,8 @@ Je programma moet zich gedragen zoals in de onderstaande voorbeelden.
 
     $ ./mario
     Hoogte: 0
+    Hoogte: 1
+    #  #
 
     $ ./mario
     Hoogte: -5
