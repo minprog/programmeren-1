@@ -1,7 +1,6 @@
 name: tiles_single
 files:
     required:
-        - questions.txt
         - tiles.c
 check:
     tool: check50

@@ -2,7 +2,7 @@
 
 > Deze opdracht wordt niet automatisch nagekeken. Je moet daarom zelf goed nagaan of de opdracht af is.
 
-Implement an animated snowfall simulation in C using ANSI escape codes. The goal is to create a visually appealing animation with falling snowflakes that accumulate at the bottom of the screen.
+Implement, in a file called `snowfall.c`, an animated snowfall simulation in C using ANSI escape codes. The goal is to create a visually appealing animation with falling snowflakes that accumulate at the bottom of the screen.
 
 To make an animation, imagine a "scene" of 80 characters wide and 40 characters deep. Snowflakes (a `*` character on the screen) appear at the top of this scene every now and then. Every N milliseconds all snowflakes fall one step towards the bottom.
 
@@ -21,6 +21,6 @@ Updating the scene has several aspects:
 
 As you might imagine, the screen should slowly fill with snow as the animation progresses!
 
-To represent the scene internally, use a 2-dimensional array, like the board in [Tiles](/problems/tiles).
+To represent the scene internally, use a 2-dimensional array, like the board in [Tiles](/problems/tiles_single).
 
 Feel free to make the animation more realistic as you see fit.
