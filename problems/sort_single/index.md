@@ -11,7 +11,7 @@ Implement a program that sorts numbers, per the below.
 
 ## Download
 
-[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2025/problems/sort_single/dist/sort_single_dist.zip)
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/sort_single/dist/sort_single_dist.zip)
 
 ## Understanding
 
@@ -39,7 +39,7 @@ Now run the program you just compiled by executing the command below.
 
 You should be informed of the program's proper usage, per the below.
 
-    Usage: sort n
+    Usage: ./sort <n>
 
 As this output suggests, this program expects a command-line argument. It indicates how many pseudorandom numbers you'd like to generate.
 

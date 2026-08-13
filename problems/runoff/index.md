@@ -28,7 +28,7 @@ If no candidate has more than 50% of the vote, then an “instant runoff” occu
 
 The process repeats: if no candidate has a majority of the votes, the last place candidate is eliminated, and anyone who voted for them will instead vote for their next preference (who hasn’t themselves already been eliminated). Once a candidate has a majority, that candidate is declared the winner.
 
-Sounds a bit more complicated than a plurality vote, doesn’t it? But it arguably has the benefit of being an election system where the winner of the election more accurately represents the preferences of the voters. In a file called runoff.c in a folder called runoff, create a program to simulate a runoff election.
+Sounds a bit more complicated than a plurality vote, doesn’t it? But it arguably has the benefit of being an election system where the winner of the election more accurately represents the preferences of the voters. In a file called `runoff.c`, create a program to simulate a runoff election.
 
 ### Demo
 
@@ -36,7 +36,7 @@ Sounds a bit more complicated than a plurality vote, doesn’t it? But it arguab
 
 ### Distribution Code
 
-Download the [starter code](https://github.com/minprog/programmeren-1/raw/2024/problems/runoff/runoff.c)
+Download the [starter code](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/runoff/runoff.c)
 
 ### Understanding
 
@@ -99,7 +99,7 @@ Complete the `vote` function.
 As you write your code, consider these hints:
 
 * Recall that `candidate_count` stores the number of candidates in the election.
-* Recall that you can use `strcmp` to compare two strings.
+* Recall that you can use `strcmp` to compare two strings. Note that `runoff.c` does not include `string.h` yet, so you'll have to add that include yourself.
 * Recall that `preferences[i][j]` stores the index of the candidate who is the `j`th ranked preference for the `i`th voter.
 </details>
 

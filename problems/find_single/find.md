@@ -10,11 +10,11 @@ Implement a program that finds a number among numbers, per the below.
 
 ## Download
 
-[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2025/problems/find_single/dist/find_single_dist.zip)
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/find_single/dist/find_single_dist.zip)
 
 ## Specification
 
-Complete the implementation of `find` by completing the implementation of `generate_sequential_numbers`, `search` and `sort` in `helpers.c`.
+Complete the implementation of `find` by completing the implementation of `generate_sequential_numbers`, `search` and `sort` in `find.c`.
 
 - Function `generate_sequential_numbers` must fill the array with sequential numbers counting from 0 until the array is filled.
 
