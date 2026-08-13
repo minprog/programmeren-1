@@ -1,6 +1,6 @@
 name: alfabet
 files:
-    optional:
+    required:
         - alfabet.c
 check:
     tool: check50

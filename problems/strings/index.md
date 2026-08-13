@@ -33,9 +33,9 @@ Write a function `skip` that takes a string and prints each even character of th
 
 ## Eek
 
-Write a function `eek` that takes a string and tells you how many e's that string contains. For instance, `eek("Eek a mouse!")` should print:
+Write a function `eek` that takes a string and tells you how many e's that string contains. For instance, `eek("Eek, a mouse!")` should print:
 
-    The text "Eek a mouse!" contains 3 e's.
+    The text "Eek, a mouse!" contains 3 e's.
 
 ## tHe CaSe Of BoB
 
@@ -49,4 +49,6 @@ The function bob should not change / modify the string it is passed as argument.
 
 ## Main?
 
-There is no `main` for this assigment. However, you can use `main` to contain some testing code that calls the functions that you're writing.
+This assignment is only about the four functions above; each one is tested on its own. So your program does not have to ask the user for any input.
+
+Do write a `main` that calls your functions with a few test values, so you can see whether they do what you expect. That `main` can simply stay in `strings.c` when you submit.
