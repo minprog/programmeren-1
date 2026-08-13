@@ -4,4 +4,4 @@ files:
         - snowfall.c
 check:
     tool: check50
-    slug: minprog/checks/2025/snowfall
+    slug: minprog/checks/2026/snowfall
