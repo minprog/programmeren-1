@@ -13,7 +13,7 @@ And, this video discusses a number of sorting algorithms and their complexity:
 
 ## Getting Started
 
-First, download the answer template [here](https://github.com/minprog/programmeren-1/raw/2022/problems/big-o/distro/answers.txt). The instructions for answering the questions live inside the template file, but be sure to pay special attention to the requested format of your answers. Once you're finished with the assignment, you can check your answers with check50. For instructions on how to do so, see the bottom of this page.
+First, download the answer template [here](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/big-o/distro/answers.txt). The instructions for answering the questions live inside the template file, but be sure to pay special attention to the requested format of your answers. Once you're finished with the assignment, you can check your answers with check50. For instructions on how to do so, see the bottom of this page.
 
 
 ## Printing

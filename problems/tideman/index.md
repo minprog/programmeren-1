@@ -34,7 +34,7 @@ The Tideman voting method (also known as “ranked pairs”) is a ranked-choice 
 
 ## Starter Code
 
-<https://github.com/minprog/programmeren-1/raw/2024/problems/tideman/tideman.c>
+<https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/tideman/tideman.c>
 
 ## Background
 

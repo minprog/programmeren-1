@@ -27,7 +27,7 @@ Although other configurations are possible, we shall assume that this game begin
 
 ## Downloading
 
-Download the [starter code](https://github.com/minprog/programmeren-1/raw/2024/problems/tiles_single/tiles.c)
+Download the [starter code](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/tiles_single/tiles.c)
 
 ## Understanding
 

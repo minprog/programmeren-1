@@ -32,7 +32,7 @@ When that index is loaded into memory, it allows us to quickly search the text w
 
 `cd` into your `problems` directory and then download the distro:
 
-    curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/indexer/dist/indexer.zip
+    curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/indexer/dist/indexer.zip
 
 Then unzip:
 

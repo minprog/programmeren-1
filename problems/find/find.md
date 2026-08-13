@@ -9,7 +9,7 @@ Implement a program that finds a number among numbers, per the below.
 
 ## Distribution
 
-    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/find/dist/find.zip
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/find/dist/find.zip
     $ unzip find.zip
     $ rm find.zip
     $ cd find

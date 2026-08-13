@@ -23,7 +23,7 @@ To complete this problem, open [CS50's Visual Studio Code](https://cs50.dev). Si
 Here's how to download this problem's "distribution code" (i.e., starter code). In a terminal window, execute each of the below.
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
-4. Execute `curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2024/problems/resize/more/dist/resize-more.zip` to download a (compressed) ZIP file with this problem's distribution.
+4. Execute `curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/resize/more/dist/resize-more.zip` to download a (compressed) ZIP file with this problem's distribution.
 5. Execute `unzip resize-more.zip` to uncompress that file.
 6. Execute `rm resize-more.zip` followed by `yes` or `y` to delete that ZIP file.
 7. Execute `ls`. You should see a directory called `resize-more`, which was inside of that ZIP file.

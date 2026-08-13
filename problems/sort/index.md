@@ -11,7 +11,7 @@ Implement a program that sorts numbers, per the below.
 
 ## Distribution
 
-    $ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/sort/dist/sort.zip
+    $ curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/sort/dist/sort.zip
     $ unzip sort.zip
     $ rm sort.zip
     $ cd sort

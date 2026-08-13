@@ -18,9 +18,9 @@ Recall from lecture that we saw a few algorithms for sorting a sequence of numbe
 
 - `cd` to your Programming directory
 - In your terminal window, run a command to download a Zip file of the lab distribution code.
-     - For Ubuntu: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements.zip`
-     - For Macs with a M1 chip: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements-mac.zip`
-     - For older Macs: `curl -OL https://github.com/minprog/programmeren-1/raw/2022/problems/measurements/dist/measurements-mac-old.zip`
+     - For Ubuntu: `curl -OL https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/measurements/dist/measurements.zip`
+     - For Macs with a M1 chip: `curl -OL https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/measurements/dist/measurements-mac.zip`
+     - For older Macs: `curl -OL https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/measurements/dist/measurements-mac-old.zip`
 - In your terminal window, run `unzip measurements.zip` to unzip (i.e., decompress) that Zip file.
 
 _Note: if you're working on a Mac, unzip `measurements-mac.zip` or `measurements-mac-old.zip`_

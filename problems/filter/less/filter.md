@@ -92,7 +92,7 @@ For a pixel along the edge or corner, like pixel 15, we would still look for all
 
 Download this problem's "distribution code" (i.e., starter code):
 
-    curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/filter/less/dist/filter.zip
+    curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/filter/less/dist/filter.zip
 
 ## Understanding
 

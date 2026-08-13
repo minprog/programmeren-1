@@ -41,7 +41,7 @@ TIME IN TOTAL:
 
 [source,subs="macros"]
 ----
-$ curl -LO https://github.com/minprog/programmeren-1/raw/2022/problems/speller/speller.zip
+$ curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/speller/speller.zip
 $ unzip speller.zip
 $ rm speller.zip
 $ cd speller
