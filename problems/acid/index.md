@@ -6,6 +6,10 @@ Schrijf een programma dat de pH-waarde van een stof opvraagt en dan bepaalt of d
     pH value: 8.0
     That's not an acid
 
+    $ ./acid
+    pH value: 3.5
+    That's an acid
+
 ## Ontwerp
 
 Maak een bestand genaamd `acid.c`. Neem onderstaande code over en maak het programma af.
