@@ -27,13 +27,13 @@ But more importantly, what we're going to do in this assignment is **decompose**
 
 ## Decomposition
 
-Let us take you on a tour through the program just as we break it up in smaller pieces. As with any program, we start in the `main` function. This programs's goal of _displaying calendars_ can be broken up into two main tasks: retrieving the month and year from the command-line arguments, and displaying the calendar for that month.
+Let us take you on a tour through the program just as we break it up in smaller pieces. As with any program, we start in the `main` function. This programs's goal of _displaying calendars_ can be broken up into two main tasks: asking the user for the month and year, and displaying the calendar for that month.
 
     main
      |---- get year, month
      \---- display calendar (f)
 
-_Getting the year and month_ from the command-line arguments can be done in one line each. Just call `atoi` to convert the numbers from a string into an integer (remember how?). _Displaying the calendar_, that's quite a huge task. Let's decompose further. We can distinghuish two parts of the calendar in the sample output: displaying the header, and displaying the actual grid with day numbers.
+_Getting the year and month_ can be done in one line each. Just call `get_int` to ask the user for a number (remember how?). _Displaying the calendar_, that's quite a huge task. Let's decompose further. We can distinghuish two parts of the calendar in the sample output: displaying the header, and displaying the actual grid with day numbers.
 
     display calendar
      |---- display header (f)

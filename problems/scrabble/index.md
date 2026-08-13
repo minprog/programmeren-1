@@ -2,6 +2,8 @@
 
 In a file called `scrabble.c` implement a program to determine which of two Scrabble words is worth more.
 
+> You don't have to start from scratch: a `scrabble.c` is provided that already asks both players for a word and scores them. It contains two `TODO`s for you to fill in.
+
     $ ./scrabble
     Player 1: COMPUTER
     Player 2: science
@@ -26,7 +28,7 @@ For example, if we wanted to score the word `Code`, we would note that in genera
 
 ### Hints
 
-- Use this array at the top of your file (below the includes!) to look up letter values:
+- This array at the top of the file (below the includes!) is used to look up letter values:
 
         int POINTS[] = {1, 3, 3, 2, 1, 4, 2, 4, 1, 8, 5, 1, 3, 1, 
                         1, 3, 10, 1, 1, 1, 1, 4, 4, 8, 4, 10};
@@ -58,7 +60,3 @@ Your program should behave per the examples below.
     Player 1: Scrabble
     Player 2: wiNNeR
     Player 1 wins!
-
-<!-- Execute the below to evaluate the correctness of your code using `check50`. But be sure to compile and test it yourself as well!
-
-    check50 -l minprog/checks/2022/scrabble -->

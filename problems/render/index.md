@@ -105,7 +105,7 @@ Render "5, 3, 1, 3, 5":
 
 ## Transformaties
 
-Dit systeem maakt verschillende transformaties makkelijk mogen. In deze opdracht ga je er drie implementeren: stretch, interlace en combine.
+Dit systeem maakt verschillende transformaties makkelijk mogelijk. In deze opdracht ga je er drie implementeren: stretch, interlace en combine.
 
 * `stretch` rekt de afbeelding op met een meegegeven factor. Zo wordt de afbeelding `1, 3, 5` met een factor `2` uitgerekt tot `2, 6, 10`.
 
