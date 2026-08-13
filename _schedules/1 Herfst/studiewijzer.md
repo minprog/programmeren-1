@@ -1,6 +1,6 @@
 # Programmeren 1
 
-## Studiewijzer<br><small>Lente 2026</small>
+## Studiewijzer<br><small>Herfst 2026</small>
 
 > "Introduction to the intellectual enterprises of computer science and the art of programming. This course teaches you how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include Scratch, C and Python. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. Designed for concentrators and non-concentrators alike, with or without prior programming experience." --- CS50 at Harvard.
 
@@ -84,7 +84,7 @@ Voor aftekenen geldt:
 - Tijdens de voortgangsbesprekingen houden we bij waar je bent en of het goed gaat. We tekenen hier nog niet definitief de opdrachten af voor punten.
 - Na de laatste deadline (zie direct hieronder) plannen we individuele eindgesprekken in. Hier krijg je vragen over jouw uitwerkingen en als je ze voldoende kunt uitleggen krijg je punten.
 
-Na **woensdag 21 oktober 16:59** kun je geen opdrachten meer inleveren voor punten.
+Na **vrijdag 16 oktober 16:59** kun je geen opdrachten meer inleveren voor punten.
 
 ## Achterlopen
 
