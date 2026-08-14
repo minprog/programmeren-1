@@ -46,7 +46,7 @@ $ unzip speller.zip
 $ rm speller.zip
 $ cd speller
 $ ls
-dictionaries/  dictionary.c  dictionary.h  keys/  Makefile  README.md  speller.c  texts/
+answers.md  dictionaries/  dictionary.c  dictionary.h  keys/  Makefile  speller.c  texts/
 ----
 
 === Understanding
@@ -155,7 +155,7 @@ Incidentally, to be clear, by "misspelled" we simply mean that some word is not 
 
 == Questions
 
-Open up `README.md` and answer each of the questions therein.
+Open up `answers.md` and answer each of the questions therein.
 
 == Specification
 
