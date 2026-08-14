@@ -161,6 +161,10 @@ Open up `answers.md` and answer each of the questions therein.
 
 Alright, the challenge now before you is to implement `load`, `check`, `size`, and `unload` as efficiently as possible, in such a way that `TIME IN load`, `TIME IN check`, `TIME IN size`, and `TIME IN unload` are all minimized. To be sure, it's not obvious what it even means to be minimized, inasmuch as these benchmarks will certainly vary as you feed `speller` different values for `dictionary` and for `text`. But therein lies the challenge, if not the fun, of this problem. This problem is your chance to design. Although we invite you to minimize space, your ultimate enemy is time. But before you dive in, some specifications from us.
 
+> Store the dictionary in a *hash table*: an array of buckets, where a hash function decides which bucket a word belongs in, and each bucket holds the words that hashed to it. Designing a good hash function and picking a sensible number of buckets is exactly the part you get to think about.
+>
+> Would you rather use a *trie*? That is the star assignment link:challenge[Speller Challenge], where you build a trie version next to this one and compare how fast the two are. Do the hash table first.
+
 * You may not alter `speller.c`.
 * You may alter `dictionary.c` (and, in fact, must in order to complete the implementations of `load`, `check`, `size`, and `unload`), but you may not alter the declarations of `load`, `check`, `size`, or `unload`.
 * You may alter `dictionary.h`, but you may not alter the declarations of `load`, `check`, `size`, or `unload`.
