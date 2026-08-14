@@ -4,4 +4,4 @@ files:
         - strsep.c
 check:
     tool: check50
-    slug: minprog/checks/2025/string_functions/strsep
+    slug: minprog/checks/2026/string_functions/strsep

@@ -4,4 +4,4 @@ files:
         - hoofdletters.c
 check:
     tool: check50
-    slug: minprog/checks/2023/hoofdletters
+    slug: minprog/checks/2026/hoofdletters

@@ -4,4 +4,4 @@ files:
     - answers.txt
 check:
   tool: check50
-  slug: minprog/checks/2022/measurements
+  slug: minprog/checks/2026/measurements

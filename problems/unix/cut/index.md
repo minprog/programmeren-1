@@ -1,5 +1,7 @@
 # UNIX: cut
 
+> Maak de opdrachten uit deze module in [CS50's Visual Studio Code](https://cs50.dev)
+
 Schrijf een tool die van een tekstbestand een gekozen kolom kan uitknippen. Elke regel bevat 1 of meer stukjes data, gescheiden door een komma.
 
     Rory,+31655551938,rory@hotmail.za

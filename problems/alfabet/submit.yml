@@ -4,4 +4,4 @@ files:
         - alfabet.c
 check:
     tool: check50
-    slug: minprog/checks/2023/alfabet
+    slug: minprog/checks/2026/alfabet
