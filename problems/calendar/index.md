@@ -116,7 +116,7 @@ Note that `argv[1]` and `argv[2]` are **strings**, not numbers: `"2021"` is a se
 
 ### Running with arguments in the Terra IDE
 
-The **Run** button always runs your program without any arguments, which would make `argv[1]` and `argv[2]` not exist at all. To pass arguments, use the **Run as** button instead, which sits next to the Run button in the toolbar above the terminal. It only appears when a C file is open and your program is not already running.
+The **Run** button always runs your program without any arguments, which would make `argv[1]` and `argv[2]` not exist at all. To pass arguments, use the **Run as** button instead.
 
 1. Make sure `calendar.c` is the file you have open in the editor.
 2. Click **Run as**. A window appears with three fields.
@@ -128,7 +128,7 @@ The **Run** button always runs your program without any arguments, which would m
 
 6. Click **Run**.
 
-Terra remembers what you filled in, so to run the same command again you can simply click **Run as** and then **Run**. When you want to test another month, click **Run as** and change the Arguments field.
+Terra remembers what you filled in, so to run the same command again you can simply click **Run as** and then hit **Run**. When you want to test another month, click **Run as** and change the Arguments field.
 
 ### What is &lt;padding&gt;?
 
