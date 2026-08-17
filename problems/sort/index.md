@@ -182,9 +182,3 @@ Your program should behave per the examples below. (`^d` represents the ctrl-d c
     50
 
 It's up to you to test using different test cases, i.e. different numbers and different _amounts_ of numbers.
-
-### Automated tests
-
-When you're completely satisfied that your program works as expected using manual testing, you can run `check50` to check for corner cases that may have escaped your attention.
-
-    check50 -l minprog/checks/2022/sort

@@ -1,7 +1,5 @@
 # Find
 
-> **LET OP. Van een andere versie van deze opdracht zijn talloze oplossingen beschikbaar op internet. Gebruik deze absoluut niet als bron, want dit gaat tot plagiaatmeldingen leiden. (Zelfs al kopieer je daarmee nog het verkeerde algoritme ook, want deze opdracht vraagt om specifieke algoritmen.)**
-
 Implement a program that finds a number among numbers, per the below.
 
     $ ./generate 1000 | ./find 42
@@ -121,9 +119,3 @@ you should see `0`, since `127` is, again, among the 1,000 numbers outputted by 
     echo $?
 
 you should see `1`, since `128` is, again, not among the 1,000 numbers outputted by `generate` when seeded with `50`, and so `search` (written by you) should return `false`, in which case `main` (written by us) should return (i.e., exit with) `1`. Make sense?
-
-### Automated tests
-
-When you're completely satisfied that your program works as expected using manual testing, you can run `check50` to check for corner cases that may have escaped your attention.
-
-    check50 -l minprog/checks/2022/find
