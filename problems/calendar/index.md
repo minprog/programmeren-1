@@ -5,9 +5,7 @@
 
 Implement a month calendar display, per the below:
 
-    $ ./calendar
-    Year: 2021
-    Month: 11
+    $ ./calendar 2021 11
               Nov 2021
     ---------------------------
     Sun Mon Tue Wed Thu Fri Sat
@@ -27,13 +25,13 @@ But more importantly, what we're going to do in this assignment is **decompose**
 
 ## Decomposition
 
-Let us take you on a tour through the program just as we break it up in smaller pieces. As with any program, we start in the `main` function. This programs's goal of _displaying calendars_ can be broken up into two main tasks: asking the user for the month and year, and displaying the calendar for that month.
+Let us take you on a tour through the program just as we break it up in smaller pieces. As with any program, we start in the `main` function. This programs's goal of _displaying calendars_ can be broken up into two main tasks: getting the month and year that the user asked for, and displaying the calendar for that month.
 
     main
      |---- get year, month
      \---- display calendar (f)
 
-_Getting the year and month_ can be done in one line each. Just call `get_int` to ask the user for a number (remember how?). _Displaying the calendar_, that's quite a huge task. Let's decompose further. We can distinghuish two parts of the calendar in the sample output: displaying the header, and displaying the actual grid with day numbers.
+_Getting the year and month_ can be done in one line each: they are the two **command-line arguments** that the user typed after `./calendar`. The section _Command-line arguments_ below explains exactly how to read those. _Displaying the calendar_, that's quite a huge task. Let's decompose further. We can distinghuish two parts of the calendar in the sample output: displaying the header, and displaying the actual grid with day numbers.
 
     display calendar
      |---- display header (f)
@@ -76,11 +74,9 @@ Incidentally, did you notice that **decomposition** is more or less the same as 
 
 Implement the calendar program, using _at least_ the functions that are implied in the diagrams in the Decomposition section, above (marked with `(f)`). You may decompose problems further to your liking.
 
-The program should ask for year and month when run:
+The program takes the year and the month as command-line arguments, in that order:
 
-    $ ./calendar
-    Year: 2021
-    Month: 11
+    $ ./calendar 2021 11
 
 To get started, create a file called `calendar.c` and write a `main` function according to the specification. Then write the `display_calendar()` function that's used in `main`. And so on, until everything works. One or two functions will be a bit more of an algorithmical challenge, the rest of the functions will remain quite small.
 
@@ -89,7 +85,7 @@ Don't forget that you need to write function **prototypes** above main to be abl
     // prototype
     void display_calendar(...);
 
-    int main(void)
+    int main(int argc, string argv[])
     {
         // use the function
         display_calendar(...);
@@ -99,6 +95,40 @@ Don't forget that you need to write function **prototypes** above main to be abl
     {
         // actual implementation of this function
     }
+
+## Command-line arguments
+
+Up until now your programs asked the user for input while running, using `get_int`. This program gets its input in a different way: the user types the year and the month directly after the program name, and your program reads them from there.
+
+To be able to do that, `main` needs two parameters:
+
+    int main(int argc, string argv[])
+
+- `argc` ("argument count") is the number of words that the user typed, **including** the program name itself. So for `./calendar 2021 11`, `argc` is `3`.
+- `argv` ("argument vector") is an array containing those words as strings: `argv[0]` is `"./calendar"`, `argv[1]` is `"2021"` and `argv[2]` is `"11"`.
+
+Note that `argv[1]` and `argv[2]` are **strings**, not numbers: `"2021"` is a sequence of four characters, and you cannot calculate with it. To convert a string to an `int`, use the function `atoi`, which lives in `stdlib.h`:
+
+    #include <stdlib.h>
+
+    int year = atoi(argv[1]);
+    int month = atoi(argv[2]);
+
+### Running with arguments in the Terra IDE
+
+The **Run** button always runs your program without any arguments, which would make `argv[1]` and `argv[2]` not exist at all. To pass arguments, use the **Run as** button instead, which sits next to the Run button in the toolbar above the terminal. It only appears when a C file is open and your program is not already running.
+
+1. Make sure `calendar.c` is the file you have open in the editor.
+2. Click **Run as**. A window appears with three fields.
+3. Fill in the **Arguments** field: `2021 11` (just the arguments, separated by spaces --- not `./calendar` itself).
+4. Leave **Source files** and **Target** empty; the defaults are exactly what you need for this assignment.
+5. The **Preview** at the bottom shows the command that will be executed. Check that its last line reads:
+
+        ./calendar 2021 11
+
+6. Click **Run**.
+
+Terra remembers what you filled in, so to run the same command again you can simply click **Run as** and then **Run**. When you want to test another month, click **Run as** and change the Arguments field.
 
 ### What is &lt;padding&gt;?
 
