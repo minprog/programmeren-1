@@ -1,43 +1,62 @@
 // Searches for a needle in a haystack
+#ifndef _XOPEN_SOURCE
+    #define _XOPEN_SOURCE 500
+#endif
 
 #include <cs50.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+#include <time.h>
 
 #include "helpers.h"
 
-// Maximum amount of hay
-const int MAX = 65536;
+// maximum value of random numbers
+#define LIMIT 65536
+
+// maximum array size
+#define MAX 65536
+
+// Fills array of size n with random numbers
+void generate_random_numbers(int arr[], int n);
 
 int main(int argc, string argv[])
 {
     // Ensure proper usage
-    if (argc != 2)
+    if (argc != 4)
     {
-        printf("Usage: ./find needle\n");
+        printf("Usage: ./find n [-r|-s] h\n");
         return -1;
+    }
+
+    int size = atoi(argv[3]);
+    if (size <= 1 || size > MAX)
+    {
+        printf("Please enter a valid amount between 1 and %d\n", MAX);
+        return 1;
     }
 
     // Remember needle
     int needle = atoi(argv[1]);
 
-    // Fill haystack
-    int size;
-    int haystack[MAX];
-    for (size = 0; size < MAX; size++)
-    {
-        // Wait for hay until EOF
-        printf("\nhaystack[%i] = ", size);
-        int straw = get_int("");
-        if (straw == INT_MAX)
-        {
-            break;
-        }
+    // Seed the random number generator
+    srand48((long int) time(NULL));
 
-        // Add hay to stack
-        haystack[size] = straw;
+    // generate random or sequential numbers
+    int haystack[size];
+    if (strcmp(argv[2], "-r") == 0)
+    {
+        generate_random_numbers(haystack, size);
     }
-    printf("\n");
+    else if (strcmp(argv[2], "-s") == 0)
+    {
+        generate_sequential_numbers(haystack, size);
+    }
+    else
+    {
+        printf("Please use -r or -s for generating numbers\n");
+        return 1;
+    }
 
     // Sort the haystack
     sort(haystack, size);
@@ -45,12 +64,22 @@ int main(int argc, string argv[])
     // Try to find needle in haystack
     if (search(needle, haystack, size))
     {
-        printf("\nFound needle in haystack!\n\n");
+        printf("Found needle in haystack!\n\n");
         return 0;
     }
     else
     {
-        printf("\nDidn't find needle in haystack.\n\n");
+        printf("Didn't find needle in haystack.\n\n");
         return 1;
+    }
+}
+
+// Fills array of size n with random numbers
+void generate_random_numbers(int arr[], int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        // random number between 0 and LIMIT
+        arr[i] = (int) (drand48() * LIMIT);
     }
 }

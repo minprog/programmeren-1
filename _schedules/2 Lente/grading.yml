@@ -114,8 +114,8 @@ week_4:
 week_5:
     show_progress: true
     submits:
-        sort_single: 1
-        find_single: 1
+        sort: 1
+        find: 1
         runoff: 1
 
 arrays2d:
