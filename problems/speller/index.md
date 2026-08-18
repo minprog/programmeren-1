@@ -1,6 +1,6 @@
 # Speller
 
-> For this assignment you will need to use a tool called valgrind. **Sad to say, `valgrind` does not work consistently on Macs**. So in case you are using a Mac, we recommend you to sign up for a GitHub account over at: <https://github.com/signup>. Then use that GitHub account to login over at <https://code.cs50.io/>. This will give you an online editor (Visual Studio Code) and a Linux terminal. From there, whenever you want to run valgrind upload your code to <https://code.cs50.io/> and run `valgrind` there instead. Alternatively, for this one assignment, you can choose to work in <https://code.cs50.io/> altogether.
+> For this assignment you will need to use a tool called valgrind. **Sad to say, `valgrind` does not work on Terra IDE**. As such we recommend you to sign up for a GitHub account over at: <https://github.com/signup>. Then use that GitHub account to login over at <https://cs50.dev/>. This will give you an online editor (Visual Studio Code) and a Linux terminal. The environment should look rather familiar, just note the lack of a run button. From now on, you do need to run `make speller` yourself!
 
 ## tl;dr
 
@@ -31,6 +31,8 @@ Implement a program that spell-checks a file, per the below.
 ## Distribution
 
 ### Downloading
+
+In `cs50.dev` you can also download the distribution code directly from the terminal:
 
     $ curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/speller/speller.zip
     $ unzip speller.zip

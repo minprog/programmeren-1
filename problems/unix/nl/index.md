@@ -1,7 +1,5 @@
 # UNIX: nl
 
-> Maak de opdrachten uit deze module in [CS50's Visual Studio Code](https://cs50.dev)
-
 Schrijf een tool genaamd `nl` die de inhoud van een file naar de terminal print, met regelnummers vóór elke regel (tel vanaf 1). Lege regels krijgen geen nummer! De naam van de file wordt opgegeven als command-line argument.
 
     $ ./nl index.md

@@ -1,7 +1,5 @@
 # UNIX: paste
 
-> Maak de opdrachten uit deze module in [CS50's Visual Studio Code](https://cs50.dev)
-
 Schrijf een tool die de inhoud van twee files per regel samenvoegt. Eerst een regel van de ene file, dan een komma, en dan dezelfde regel van de andere file. De namen van beide files worden opgegeven als command-line arguments.
 
     $ ./paste getallen.txt woorden.txt
