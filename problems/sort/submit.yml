@@ -1,7 +1,6 @@
 name: sort
 files:
   required:
-    - generate.c
     - helpers.c
 check:
   tool: check50

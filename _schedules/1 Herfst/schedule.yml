@@ -109,7 +109,7 @@ Week 4:
         Morse++*: /problems/morse_more
     Vooruit werken:
         "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
-        Sort: /problems/sort_single
+        Sort: /problems/sort
         Find: /problems/find_single
 
 # week 5 en de rest gaan samen open
@@ -117,7 +117,7 @@ Week 5:
     Voorbereiding:
         "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
-        Sort: /problems/sort_single
+        Sort: /problems/sort
         Find: /problems/find_single
         Runoff: /problems/runoff
     Extra uitdaging:

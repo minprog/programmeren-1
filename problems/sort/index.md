@@ -2,138 +2,54 @@
 
 Implement a program that sorts numbers, per the below.
 
-    $ ./generate 5 | ./sort
+    $ ./sort 5
     1122
     51316
     58314
     60815
     64289
 
-## Distribution
+## Download
 
-    $ curl -LO https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/sort/dist/sort.zip
-    $ unzip sort.zip
-    $ rm sort.zip
-    $ cd sort
-    $ ls
-    Makefile    sort.c      generate.c  helpers.c   helpers.h
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/sort/dist/sort.zip)
 
-### Understanding
+The template contains three files:
 
-Implemented in `generate.c` is a program that uses a "pseudorandom-number generator" (via a function called `drand48`) to generate a whole bunch of random (well, pseudorandom, since computers can't actually generate truly random) numbers, one per line, each of which is in [0, `LIMIT`), where `LIMIT` is a constant defined within the file, so to speak. That is, each is greater than or equal to 0 and less than `LIMIT`.
+    sort.c      helpers.c   helpers.h
 
-Go ahead and compile this program by executing the command below.
+This is the first assignment where your program consists of **more than one file**. The section _Compiling multiple files_ below explains how to compile and run such a program.
 
-    make generate
+## Understanding
 
-Now run the program you just compiled by executing the command below.
+### `sort.c`
 
-    ./generate
+This file contains the `main` function of the program you are going to complete. It does the following:
 
-You should be informed of the program's proper usage, per the below.
+- Validate the command-line argument: the number of values to sort
 
-    Usage: generate n [s]
+- Create an array of appropriate size and fill it with random numbers
 
-As this output suggests, this program expects one or two command-line arguments. The first, `n`, is required; it indicates how many pseudorandom numbers you'd like to generate. The second, `s`, is optional, as square brackets imply; if supplied, it represents the value that the pseudorandom-number generator should use as its "seed." A seed is simply an input to a pseudorandom-number generator that influences its outputs. For instance, if you seed `drand48` by first calling `srand48` (another function whose purpose is to "seed" `drand48`) with an argument of, say, `0`, and then call `drand48` itself three times, `drand48` might return `0.170828`, then `0.749902`, then `0.096372`. But if you instead seed `drand48` by first calling `srand48` with an argument of, say, `1`, and then call `drand48` itself three times, `drand48` might instead return `0.041630`, then `0.454492`, then `0.834817`. But if you re-seed `drand48` by calling `srand48` again with an argument of `0`, the next three times you call `drand48`, you'll again get `0.170828`, then `0.749902`, then `0.096372`! See, not so random.
+- Call the `sort` function (TODO!) to get the numbers in order
 
-Go ahead and run this program again, this time with a value of, say, `10` for `n`, as in the below; you should see a list of 10 pseudorandom numbers.
+- Print all numbers in the array
 
-    ./generate 10
+Compile and run the program (see _Compiling multiple files_, below) with an argument of, say, `10`. You should see a list of 10 numbers, in the order they were generated: the sorting does not work yet. That's where you come in.
 
-Run the program a third time using that same value for `n`; you should see a different list of 10 numbers. Now try running the program with a value for `s` too (e.g., `0`), as in the below.
+If you run the program without any argument at all, you should be informed of its proper usage, per the below.
 
-    ./generate 10 0
+    Usage: ./sort <n>
 
-Now run that same command again:
+### `helpers.c` and `helpers.h`
 
-    ./generate 10 0
-
-Bet you saw the same "random" sequence of ten numbers again? Yup, that's what happens if you don't vary a pseudorandom number generator's initial seed.
-
-Now take a look at `generate.c` itself. (Remember how?) Comments atop that file explain the program's overall functionality. But it looks like we forgot to comment the code itself. Read over the code carefully until you understand each line and then comment our code for us, replacing each `TODO` with a phrase that describes the purpose or functionality of the corresponding line(s) of code. (Know that an `unsigned int` is just an `int` that cannot be negative.) And for more details on `drand48` and `srand48`, recall that you can execute:
-
-    man drand48
-
-and:
-
-    man srand48
-
-Once done commenting `generate.c`, re-compile the program to be sure you didn't break anything by re-executing the command below.
-
-    make generate
-
-If `generate` no longer compiles properly, take a moment to fix what you broke!
-
-Now, recall that `make` automates compilation of your code so that you don't have to execute `clang` manually along with a whole bunch of switches. Notice, in fact, how `make` just executed a pretty long command for you, per the tool's output. However, as your programs grow in size, `make` won't be able to infer from context anymore how to compile your code; you'll need to start telling `make` how to compile your program, particularly when they involve multiple source (i.e., `.c`) files. And so we'll start relying on "Makefiles," configuration files that tell `make` exactly what to do.
-
-How did `make` know how to compile `generate` in this case? It actually used a configuration file that we wrote. Go ahead and look at the file called `Makefile` that's in the same directory as `generate.c`. This `Makefile` is essentially a list of rules that we wrote for you that tells make how to build generate from `generate.c` for you. The relevant lines appear below.
-
-    generate: generate.c
-        clang -ggdb3 -O0 -std=c11 -Wall -Werror -o generate generate.c
-
-The first line tells `make` that the "target" called `generate` should be built by invoking the second line's command. Know that the leading whitespace on that second line is not a sequence of spaces but, rather, a tab. Unfortunately, `make` requires that commands be preceded by tabs, so be careful not to change them to spaces, else you may encounter strange errors! The `-Werror` flag, recall, tells `clang` to treat warnings (bad) as though they're errors (worse) so that you're forced (in a good, instructive way!) to fix them.
-
-Now take a look at `sort.c`. Notice that this program expects a single command-line argument: a "needle" to search for in a "haystack" of values. Once done looking over the code, go ahead and compile the program by executing the command below.
-
-    make sort
-
-Notice, per that command's output, that `make` actually executed the below for you.
-
-    clang -ggdb3 -O0 -std=c11 -Wall -Werror -o sort sort.c helpers.c -lcs50 -lm
-
-Notice further that you just compiled a program comprising not one but two `.c` files: `helpers.c` and `sort.c`. How did `make` know what to do? Well, again, open up `Makefile` to see the man behind the curtain. The relevant lines appear below.
-
-    sort: sort.c helpers.c helpers.h
-        clang -ggdb3 -O0 -std=c11 -Wall -Werror -o sort sort.c helpers.c -lcs50 -lm
-
-Per the dependencies implied above (after the colon), any changes to `sort.c`, `helpers.c`, or `helpers.h` will compel `make` to rebuild `sort` the next time it's invoked for this target.
-
-Go ahead and run this program by executing, say, the below.
-
-    ./sort
-
-You'll be prompted to provide some integers. As soon as you tire of providing integers, hit **ctrl-d** to send the program an `EOF` (end-of-file) character. That character will compel `get_int` from the CS50 Library to return `INT_MAX`, a constant that, per `sort.c`, will compel `sort` to stop prompting for integers. And then it goes about sorting the integers and printing them, in order. At least, it should, but it won't sort anything yet! That's where you come in. More on your role in a bit.
-
-It turns out you can automate this process of providing integers, though, by "piping" the output of `generate` into `sort` as input. For instance, the command below passes 1,000 pseudorandom numbers to `sort`, which then searches those values for `42`.
-
-    ./generate 1000 | ./sort
-
-Note that, when piping output from `generate` into `sort` in this manner, you won't actually see `generate`'s numbers, but you will see `sort`'s prompts.
-
-Alternatively, you can "redirect" `generate`'s output to a file with a command like the below.
-
-    ./generate 1000 > numbers.txt
-
-You can then redirect that file's contents as input to `sort` with the command below.
-
-    ./sort < numbers.txt
-
-Let's finish looking at that `Makefile`. Notice the line below.
-
-    all: sort generate
-
-This target implies that you can build both `generate` and `sort` simply by executing the below.
-
-    make all
-
-Even better, the below is equivalent (because `make` builds a `Makefile`'s first target by default).
-
-    make
-
-If only you could whittle this whole problem set down to a single command! Finally, notice these last lines in `Makefile`:
-
-    clean:
-        rm -f *.o a.out core sort generate
-
-This target allows you to delete all files ending in `.o` or called `core` (more on that soon!), `sort`, or `generate` simply by executing the command below.
-
-    make clean
-
-Be careful not to add, say, `*.c` to that last line in `Makefile`! (Why?)
-
-Notice now that, in `sort.c`, `main` calls `sort`, a function declared in `helpers.h`. Unfortunately, we forgot to implement that function fully in `helpers.c`! Indeed, take a peek at `helpers.c`, and you'll see that `sort` always returns without doing anything else.
+Notice that, in `sort.c`, `main` calls `sort`, a function that is **not** defined in `sort.c` itself. It is declared in `helpers.h` and it is supposed to be implemented in `helpers.c`. Unfortunately, we forgot to implement that function fully! Indeed, take a peek at `helpers.c`, and you'll see that `sort` always returns without doing anything else.
 
 To be sure, we could have put the contents of `helpers.h` and `helpers.c` in `sort.c` itself. But it's sometimes better to organize programs into multiple files, especially when some functions are essentially "utility functions" that might later prove useful to other programs as well, much like those in the CS50 Library.
+
+A `.h` file (a "header file") contains only **prototypes**: it tells any file that includes it which functions exist and what their arguments are. The actual implementations live in the corresponding `.c` file. That is why both `sort.c` and `helpers.c` start with:
+
+    #include "helpers.h"
+
+Note the quotes instead of angle brackets: those say "this header is one of my own files, not one of the system's".
 
 Notice too, per `helpers.h`, that the prototype for `sort` is:
 
@@ -141,13 +57,45 @@ Notice too, per `helpers.h`, that the prototype for `sort` is:
 
 The function takes an array, `values`, as one of the arguments, as well as an integer, `n`, the size of that array. That's because, when passing an array to a function, you have to pass in its size separately; you can't infer an array's size from the array itself.
 
+### Generating random numbers
+
+Implemented in `sort.c` is a function `generate_random_numbers` that uses a "pseudorandom-number generator" (via a function called `drand48`) to fill the array with a whole bunch of random (well, pseudorandom, since computers can't actually generate truly random) numbers, each of which is in [0, `LIMIT`), where `LIMIT` is a constant defined within the file, so to speak. That is, each is greater than or equal to 0 and less than `LIMIT`.
+
+Before generating any numbers, `main` calls `srand48`, whose purpose is to "seed" `drand48`. A seed is simply an input to a pseudorandom-number generator that influences its outputs: seed it with the same value twice, and you get the exact same "random" sequence twice. That is why `sort.c` seeds with the current time --- so that you get a different list of numbers on every run. Run the program a few times with the same `n` to see that for yourself. For more details on `drand48` and `srand48`, you can look them up in the CS50 Manual.
+
+## Compiling multiple files
+
+Until now, every program you wrote was a single `.c` file, and the **Run** button could simply compile and run it. This program is different: `sort` is built from **two** source files, `sort.c` and `helpers.c`. You have to tell the IDE about that, using the **Run as** button.
+
+1. Make sure `sort.c` is the file you have open in the editor, then click **Run as** in the toolbar at the top (right next to **Run**, as you used it for Calendar). A window appears with three fields.
+2. Leave **Arguments** empty for now, or fill in the amount of numbers to sort, e.g. `10`.
+3. In **Source files**, list both files that make up the program, separated by a space:
+
+        sort.c helpers.c
+
+   Do **not** list `helpers.h` here: only `.c` files are compiled. The header is found automatically because `sort.c` and `helpers.c` include it themselves.
+4. In **Target**, fill in the name of the program you are building:
+
+        sort
+
+5. The **Preview** at the bottom shows the commands that will be executed. Check that the last two read:
+
+        clang ... -o sort sort.c helpers.c ...
+        ./sort 10
+
+   The first one compiles both source files into a single program called `sort`, the second one runs it.
+
+6. Click **Run**.
+
+The IDE remembers these settings, so from now on you can just click **Run as** and then **Run** to rebuild and run your program. Do note that the plain **Run** button still compiles only the file you have open, which will fail for `sort.c`. So use **Run as** from here on.
+
 ## Specification
 
 Complete the implementation of the program `sort` by completing the implementation of the function `sort` in `helpers.c`.
 
-Sort must be implemented using the following algorithm, which is **not** any of the algorithms discussed in earlier assignments. However, many of the sorting algorithms do indeed look quite alike.
+> Do not attempt do this assignment before studying the other sorting algorithms very well.
 
-**Do not attempt do this assignment before studying the other sorting algorithms very well.**
+Sort must be implemented using the following algorithm, which is **not** any of the algorithms discussed in earlier assignments. However, many of the sorting algorithms do indeed look quite alike.
 
 - The algorithm must consider each position in the array from left to right, and progressively sort the numbers.
   - This means that, in each step, more numbers get sorted from left to right, unless they're already sorted, of course.
@@ -165,20 +113,18 @@ Be sure to translate this description of the algorithm's properties to some form
 
 ## Usage
 
-Your program should behave per the examples below. (`^d` represents the ctrl-d character described above)
+Your program should behave per the examples below.
 
-    $ ./sort
-    2
-    1
-    ^d
-    1
-    2
+    $ ./sort 2
+    1122
+    51316
 
-    $ ./sort
-    50
-    42
-    ^d
-    42
-    50
+    $ ./sort 6
+    1122
+    9245
+    51316
+    58314
+    60815
+    64289
 
-It's up to you to test using different test cases, i.e. different numbers and different _amounts_ of numbers.
+It's up to you to test using different test cases, i.e. different _amounts_ of numbers.
