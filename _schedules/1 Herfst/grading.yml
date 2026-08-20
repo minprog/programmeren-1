@@ -2,26 +2,6 @@ _settings:
     start_date: 31/08/26
     end_date: 23/10/26
 
-templates:
-    3: &check
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_calculated: true
-
-
-grades:
-    punten_module_11: *check
-    punten_module_11_ster: *check
-    punten_module_12: *check
-    punten_module_12_ster: *check
-    punten_module_13: *check
-    punten_module_13_ster: *check
-    punten_module_14: *check
-    punten_module_14_ster: *check
-
-
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
 # choice of grades that are used for the calculation, for example calculating
@@ -41,8 +21,10 @@ grades:
 calculation:
     eindcijfer:
         berekening_1: 1
+        tentamen_gate: 0
     eindcijfer_herkansing:
         berekening_2: 1
+        hertentamen_gate: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -62,6 +44,46 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
+
+berekening_1:
+    type: points
+    show_overview: false
+    submits:
+        tentamen: 50
+        punten_module_11: 5
+        punten_module_11_ster: 5
+        punten_module_12: 5
+        punten_module_12_ster: 5
+        punten_module_13: 5
+        punten_module_13_ster: 5
+        punten_module_14: 5
+        punten_module_14_ster: 5
+
+berekening_2:
+    type: points
+    show_overview: false
+    submits:
+        hertentamen: 50
+        punten_module_11: 5
+        punten_module_11_ster: 5
+        punten_module_12: 5
+        punten_module_12_ster: 5
+        punten_module_13: 5
+        punten_module_13_ster: 5
+        punten_module_14: 5
+        punten_module_14_ster: 5
+
+tentamen_gate:
+    type: pass_all
+    submits:
+        - tentamen
+
+hertentamen_gate:
+    type: pass_all
+    submits:
+        - hertentamen
+
+# MODULES - just to keep track of everything
 
 scratch:
     show_progress: true
@@ -157,28 +179,28 @@ speller:
         linked: 1
         speller: 1
 
-extra_uitdaging:
-    show_progress: true
-    submits:
-        # mod 2
-        byte: 1
-        calculator: 1
-        # mod 3
-        cirkel: 1
-        graph: 1
-        # mod 4
-        goldbach: 1
-        credit: 1
-        # mod 5/6
-        tideman: 1
-        # mod 6
-        strings_more: 1
-        # mod 7
-        decryptor: 1
-        # mod 8
-        morse_more: 1
-        # mod 10
-        wordle: 1
+# extra_uitdaging:
+#     show_progress: true
+#     submits:
+#         # mod 2
+#         byte: 1
+#         calculator: 1
+#         # mod 3
+#         cirkel: 1
+#         graph: 1
+#         # mod 4
+#         goldbach: 1
+#         credit: 1
+#         # mod 5/6
+#         tideman: 1
+#         # mod 6
+#         strings_more: 1
+#         # mod 7
+#         decryptor: 1
+#         # mod 8
+#         morse_more: 1
+#         # mod 10
+#         wordle: 1
 
 ster_arrays2d:
     show_progress: true
@@ -203,70 +225,9 @@ ster_speller:
     submits:
         speller_challenge: 1
 
-punten:
-    type: points
-    show_overview: true
-    submits:
-        # punten_module_9: 7
-        # punten_module_9_challenge: 2
-        # punten_module_10: 7
-        # punten_module_10_challenge: 2
-        punten_module_11: 5
-        punten_module_11_ster: 5
-        punten_module_12: 5
-        punten_module_12_ster: 5
-        punten_module_13: 5
-        punten_module_13_ster: 5
-        punten_module_14: 5
-        punten_module_14_ster: 5
-
-tentamenoefeningen:
-    show_overview: true
+tentamens:
+    show_progress: true
     submits:
         oefententamen: 1
-
-tentamen:
-    type: points
-    show_overview: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
         tentamen: 1
-
-hertentamen:
-    type: points
-    show_overview: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
         hertentamen: 1
-
-#         design_challenge: 6
-
-berekening_1:
-    type: points
-    show_overview: false
-    submits:
-        tentamen: 5
-        punten_module_11: 0.5
-        punten_module_11_ster: 0.5
-        punten_module_12: 0.5
-        punten_module_12_ster: 0.5
-        punten_module_13: 0.5
-        punten_module_13_ster: 0.5
-        punten_module_14: 0.5
-        punten_module_14_ster: 0.5
-
-berekening_2:
-    type: points
-    show_overview: false
-    submits:
-        hertentamen: 5
-        punten_module_11: 0.5
-        punten_module_11_ster: 0.5
-        punten_module_12: 0.5
-        punten_module_12_ster: 0.5
-        punten_module_13: 0.5
-        punten_module_13_ster: 0.5
-        punten_module_14: 0.5
-        punten_module_14_ster: 0.5

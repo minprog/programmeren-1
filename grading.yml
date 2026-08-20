@@ -204,13 +204,13 @@ grades:
     hertentamen: *exam
 
     punten_module_11: *check
-    punten_module_11_challenge: *check
+    punten_module_11_ster: *check
     punten_module_12: *check
-    punten_module_12_challenge: *check
+    punten_module_12_ster: *check
     punten_module_13: *check
-    punten_module_13_challenge: *check
+    punten_module_13_ster: *check
     punten_module_14: *check
-    punten_module_14_challenge: *check
+    punten_module_14_ster: *check
 
     week_2: *check
     week_3: *check
