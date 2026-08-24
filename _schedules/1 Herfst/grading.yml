@@ -50,28 +50,28 @@ berekening_1:
     show_overview: false
     submits:
         tentamen: 50
-        punten_module_11: 5
-        punten_module_11_ster: 5
-        punten_module_12: 5
-        punten_module_12_ster: 5
-        punten_module_13: 5
-        punten_module_13_ster: 5
-        punten_module_14: 5
-        punten_module_14_ster: 5
+        check_module_arrays: 5
+        check_module_arrays_ster: 5
+        check_module_unix: 5
+        check_module_unix_ster: 5
+        check_module_strings: 5
+        check_module_strings_ster: 5
+        check_module_speller: 5
+        check_module_speller_ster: 5
 
 berekening_2:
     type: points
     show_overview: false
     submits:
         hertentamen: 50
-        punten_module_11: 5
-        punten_module_11_ster: 5
-        punten_module_12: 5
-        punten_module_12_ster: 5
-        punten_module_13: 5
-        punten_module_13_ster: 5
-        punten_module_14: 5
-        punten_module_14_ster: 5
+        check_module_arrays: 5
+        check_module_arrays_ster: 5
+        check_module_unix: 5
+        check_module_unix_ster: 5
+        check_module_strings: 5
+        check_module_strings_ster: 5
+        check_module_speller: 5
+        check_module_speller_ster: 5
 
 tentamen_gate:
     type: pass_all
@@ -146,6 +146,7 @@ week_5:
 
 arrays2d:
     show_progress: true
+    requirement: [ sort, find, runoff ]
     submits:
         tiles_single: 1
         snowfall: 1
@@ -153,6 +154,7 @@ arrays2d:
 
 unix_tools:
     show_progress: true
+    requirement: check_module_arrays
     submits:
         unix_cat: 1
         unix_head: 1
@@ -164,6 +166,7 @@ unix_tools:
 
 string_functions:
     show_progress: true
+    requirement: check_module_unix
     submits:
         c_strfry: 1
         c_strchr: 1
@@ -174,6 +177,7 @@ string_functions:
 
 speller:
     show_progress: true
+    requirement: check_module_speller
     submits:
         beatles: 1
         linked: 1
