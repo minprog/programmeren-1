@@ -152,6 +152,9 @@ arrays2d:
         snowfall: 1
         game_of_life: 1
 
+        check_module_arrays: 5
+        check_module_arrays_ster: 5
+
 unix_tools:
     show_progress: true
     requirement: check_module_arrays
@@ -164,6 +167,9 @@ unix_tools:
         unix_cut: 1
         unix_paste: 1
 
+        check_module_unix: 5
+        check_module_unix_ster: 5
+
 string_functions:
     show_progress: true
     requirement: check_module_unix
@@ -175,6 +181,9 @@ string_functions:
         c_strdup: 1
         c_strsep: 1
 
+        check_module_strings: 5
+        check_module_strings_ster: 5
+
 speller:
     show_progress: true
     requirement: check_module_speller
@@ -182,6 +191,9 @@ speller:
         beatles: 1
         linked: 1
         speller: 1
+
+        check_module_speller: 5
+        check_module_speller_ster: 5
 
 # extra_uitdaging:
 #     show_progress: true
