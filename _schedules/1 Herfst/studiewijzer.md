@@ -50,7 +50,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. E
 - je weet niet waar te beginnen, of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op specifieke tijden
+- parttime-studenten op specifieke tijden (dinsdag 13–16 & donderdag 10–13)
 
 **Persoonlijk en e-mail:** contact met de docenten over praktische zaken.
 
@@ -72,17 +72,21 @@ Juist even niet aan de opdracht werken kan je verder helpen!
 
 ## Deadlines en aftekenen
 
-In het lokaal hangt iedere week een weekschema aan de muur. Hou je dat schema bij, dan ben je op weg om het vak met een goed resultaat af te ronden. Maar één planning past niet voor iedereen, je kan sneller gaan, maar ook langzamer. Het belangrijkste is dat jij grip krijgt op de stof.
+In het lokaal hangt iedere week een weekschema aan de muur. Hou je dat schema bij, dan ben je op weg om het vak met een goed resultaat af te ronden. Maar één planning past niet voor iedereen, je kan langzamer gaan, maar ook sneller. Bij de wekelijkse modules is er dan ook de optie om vooruit te werken en extra uitdagende opdrachten op te pakken. Het belangrijkste is dat jij grip krijgt op de stof.
 
 De richtlijn is:
 
 - Probeer zoveel mogelijk de weekschema's in het lokaal te volgen, maar stem af op hoe makkelijk het je afgaat. Je moet wel tijd nemen om het goed te begrijpen.
-- Let op dat je t/m week 5 goed moet begrijpen voordat het tentamen plaatsvindt in week 5. Check even met de docenten als je dit niet gaat halen; zij hebben goede adviezen.
+- Let op dat je t/m week 5 goed moet maken en begrijpen voordat het tentamen plaatsvindt in week 5. Check even met de docenten als je dit niet gaat halen; zij hebben goede adviezen.
 
-Voor aftekenen geldt:
+Voor het aftekenen van opdrachten geldt:
 
-- Tijdens de voortgangsbesprekingen houden we bij waar je bent en of het goed gaat. We tekenen hier nog niet definitief de opdrachten af voor punten.
-- Na de laatste deadline (zie direct hieronder) plannen we individuele eindgesprekken in. Hier krijg je vragen over jouw uitwerkingen en als je ze voldoende kunt uitleggen krijg je punten.
+- Vanaf week 5 kan je bij de assistenten en docenten je opdrachten laten aftekenen. Dit doe je door jezelf in de "Hands" te zetten.
+- Je tekent alleen de laatste vier modules en hun ster-opdrachten af, want alleen deze tellen mee voor punten.
+- Je kunt één module per keer aftekenen.
+- Je kunt geen nieuwe opdrachten inleveren totdat de vorige module is afgetekend, wel kan je alvast beginnen aan de opdrachten.
+    - Het is daarom extra belangrijk om tijdig je vorige module af te tekenen.
+- Na de laatste deadline is er nog één moment om een laatste module af te tekenen. Dit gaat dan op afspraak.
 
 Na **vrijdag 16 oktober 16:59** kun je geen opdrachten meer inleveren voor punten.
 
@@ -116,7 +120,7 @@ Daarnaast haal je punten voor de modules na het tentamen. Hiermee gaat je eindci
 | Module 13 | alle basisopdrachten gedaan | 0,5    | 0,5              |
 | Module 14 | alle basisopdrachten gedaan | 0,5    | 0,5              |
 
-Om de basispunten te halen moet je de basisopdrachten hebben gedaan en voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten gemarkeerd met een *. Deze zijn bedoeld voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
+Om de basispunten te halen moet je de basisopdrachten hebben gedaan en laten aftekenen. Bij het aftekenen moet je voldoende van de implementatie-details kunnen uitleggen. Je kunt daarnaast nog punten halen door de opdrachten gemarkeerd met een *. Deze zijn bedoeld voor studenten die "more comfortable" zijn met programmeren (die al ervaring hebben, waarschijnlijk).
 
 ## Lesmaterialen
 
