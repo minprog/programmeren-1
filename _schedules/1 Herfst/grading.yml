@@ -50,28 +50,28 @@ berekening_1:
     show_overview: false
     submits:
         tentamen: 50
-        check_module_arrays: 5
-        check_module_arrays_ster: 5
-        check_module_unix: 5
-        check_module_unix_ster: 5
-        check_module_strings: 5
-        check_module_strings_ster: 5
-        check_module_speller: 5
-        check_module_speller_ster: 5
+        aftekenen_module_arrays: 5
+        aftekenen_module_arrays_ster: 5
+        aftekenen_module_unix: 5
+        aftekenen_module_unix_ster: 5
+        aftekenen_module_strings: 5
+        aftekenen_module_strings_ster: 5
+        aftekenen_module_speller: 5
+        aftekenen_module_speller_ster: 5
 
 berekening_2:
     type: points
     show_overview: false
     submits:
         hertentamen: 50
-        check_module_arrays: 5
-        check_module_arrays_ster: 5
-        check_module_unix: 5
-        check_module_unix_ster: 5
-        check_module_strings: 5
-        check_module_strings_ster: 5
-        check_module_speller: 5
-        check_module_speller_ster: 5
+        aftekenen_module_arrays: 5
+        aftekenen_module_arrays_ster: 5
+        aftekenen_module_unix: 5
+        aftekenen_module_unix_ster: 5
+        aftekenen_module_strings: 5
+        aftekenen_module_strings_ster: 5
+        aftekenen_module_speller: 5
+        aftekenen_module_speller_ster: 5
 
 tentamen_gate:
     type: pass_all
@@ -144,57 +144,6 @@ week_5:
         find: 1
         runoff: 1
 
-arrays2d:
-    show_progress: true
-    requirement: [ sort, find, runoff ]
-    submits:
-        tiles_single: 1
-        snowfall: 1
-        game_of_life: 1
-
-        check_module_arrays: 5
-        check_module_arrays_ster: 5
-
-unix_tools:
-    show_progress: true
-    requirement: check_module_arrays
-    submits:
-        unix_cat: 1
-        unix_head: 1
-        unix_nl: 1
-        unix_wc: 1
-        unix_uniq: 1
-        unix_cut: 1
-        unix_paste: 1
-
-        check_module_unix: 5
-        check_module_unix_ster: 5
-
-string_functions:
-    show_progress: true
-    requirement: check_module_unix
-    submits:
-        c_strfry: 1
-        c_strchr: 1
-        c_strrchr: 1
-        c_strcat: 1
-        c_strdup: 1
-        c_strsep: 1
-
-        check_module_strings: 5
-        check_module_strings_ster: 5
-
-speller:
-    show_progress: true
-    requirement: check_module_speller
-    submits:
-        beatles: 1
-        linked: 1
-        speller: 1
-
-        check_module_speller: 5
-        check_module_speller_ster: 5
-
 # extra_uitdaging:
 #     show_progress: true
 #     submits:
@@ -218,28 +167,79 @@ speller:
 #         # mod 10
 #         wordle: 1
 
-ster_arrays2d:
+arrays2d:
     show_progress: true
+    requirement: [ sort, find, runoff ]
+    submits:
+        tiles_single: 1
+        snowfall: 1
+        game_of_life: 1
+        aftekenen_module_arrays: 5
+
+arrays2d_ster:
+    show_progress: true
+    requirement: aftekenen_module_arrays
     submits:
         resize: 1
+        aftekenen_module_arrays_ster: 5
 
-ster_unix_tools:
+unix_tools:
     show_progress: true
+    requirement: aftekenen_module_arrays
+    submits:
+        unix_cat: 1
+        unix_head: 1
+        unix_nl: 1
+        unix_wc: 1
+        unix_uniq: 1
+        unix_cut: 1
+        unix_paste: 1
+        aftekenen_module_unix: 5
+
+unix_tools_ster:
+    show_progress: true
+    requirement: aftekenen_module_unix
     submits:
         unix_strings: 1
         unix_tail: 1
         recover: 1
         filetype: 1
+        aftekenen_module_unix_ster: 5
+
+string_functions:
+    show_progress: true
+    requirement: aftekenen_module_unix
+    submits:
+        c_strfry: 1
+        c_strchr: 1
+        c_strrchr: 1
+        c_strcat: 1
+        c_strdup: 1
+        c_strsep: 1
+        aftekenen_module_strings: 5
 
 ster_string_functions:
     show_progress: true
+    requirement: aftekenen_module_strings
     submits:
         wave: 1
+        aftekenen_module_strings_ster: 5
+
+speller:
+    show_progress: true
+    requirement: aftekenen_module_strings
+    submits:
+        beatles: 1
+        linked: 1
+        speller: 1
+        aftekenen_module_speller: 5
 
 ster_speller:
     show_progress: true
+    requirement: aftekenen_module_speller
     submits:
         speller_challenge: 1
+        aftekenen_module_speller_ster: 5
 
 tentamens:
     show_progress: true
