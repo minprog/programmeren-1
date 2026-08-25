@@ -2,26 +2,6 @@ _settings:
     start_date: 31/08/26
     end_date: 23/10/26
 
-templates:
-    3: &check
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        hide_calculated: true
-
-
-grades:
-    punten_module_11: *check
-    punten_module_11_ster: *check
-    punten_module_12: *check
-    punten_module_12_ster: *check
-    punten_module_13: *check
-    punten_module_13_ster: *check
-    punten_module_14: *check
-    punten_module_14_ster: *check
-
-
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
 # choice of grades that are used for the calculation, for example calculating
@@ -41,8 +21,10 @@ grades:
 calculation:
     eindcijfer:
         berekening_1: 1
+        tentamen_gate: 0
     eindcijfer_herkansing:
         berekening_2: 1
+        hertentamen_gate: 0
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -62,6 +44,46 @@ calculation:
 # is at least the specified minimum
 #
 # You can leave these out if unused in the `calculation` section.
+
+berekening_1:
+    type: points
+    show_overview: false
+    submits:
+        tentamen: 50
+        aftekenen_module_arrays: 5
+        aftekenen_module_arrays_ster: 5
+        aftekenen_module_unix: 5
+        aftekenen_module_unix_ster: 5
+        aftekenen_module_strings: 5
+        aftekenen_module_strings_ster: 5
+        aftekenen_module_speller: 5
+        aftekenen_module_speller_ster: 5
+
+berekening_2:
+    type: points
+    show_overview: false
+    submits:
+        hertentamen: 50
+        aftekenen_module_arrays: 5
+        aftekenen_module_arrays_ster: 5
+        aftekenen_module_unix: 5
+        aftekenen_module_unix_ster: 5
+        aftekenen_module_strings: 5
+        aftekenen_module_strings_ster: 5
+        aftekenen_module_speller: 5
+        aftekenen_module_speller_ster: 5
+
+tentamen_gate:
+    type: pass_all
+    submits:
+        - tentamen
+
+hertentamen_gate:
+    type: pass_all
+    submits:
+        - hertentamen
+
+# MODULES - just to keep track of everything
 
 scratch:
     show_progress: true
@@ -122,15 +144,48 @@ week_5:
         find: 1
         runoff: 1
 
+# extra_uitdaging:
+#     show_progress: true
+#     submits:
+#         # mod 2
+#         byte: 1
+#         calculator: 1
+#         # mod 3
+#         cirkel: 1
+#         graph: 1
+#         # mod 4
+#         goldbach: 1
+#         credit: 1
+#         # mod 5/6
+#         tideman: 1
+#         # mod 6
+#         strings_more: 1
+#         # mod 7
+#         decryptor: 1
+#         # mod 8
+#         morse_more: 1
+#         # mod 10
+#         wordle: 1
+
 arrays2d:
     show_progress: true
+    requirement: [ sort, find, runoff ]
     submits:
         tiles_single: 1
         snowfall: 1
         game_of_life: 1
+        aftekenen_module_arrays: 5
+
+arrays2d_ster:
+    show_progress: true
+    requirement: aftekenen_module_arrays
+    submits:
+        resize: 1
+        aftekenen_module_arrays_ster: 5
 
 unix_tools:
     show_progress: true
+    requirement: aftekenen_module_arrays
     submits:
         unix_cat: 1
         unix_head: 1
@@ -139,9 +194,21 @@ unix_tools:
         unix_uniq: 1
         unix_cut: 1
         unix_paste: 1
+        aftekenen_module_unix: 5
+
+unix_tools_ster:
+    show_progress: true
+    requirement: aftekenen_module_unix
+    submits:
+        unix_strings: 1
+        unix_tail: 1
+        recover: 1
+        filetype: 1
+        aftekenen_module_unix_ster: 5
 
 string_functions:
     show_progress: true
+    requirement: aftekenen_module_unix
     submits:
         c_strfry: 1
         c_strchr: 1
@@ -149,124 +216,34 @@ string_functions:
         c_strcat: 1
         c_strdup: 1
         c_strsep: 1
+        aftekenen_module_strings: 5
+
+ster_string_functions:
+    show_progress: true
+    requirement: aftekenen_module_strings
+    submits:
+        wave: 1
+        aftekenen_module_strings_ster: 5
 
 speller:
     show_progress: true
+    requirement: aftekenen_module_strings
     submits:
         beatles: 1
         linked: 1
         speller: 1
-
-extra_uitdaging:
-    show_progress: true
-    submits:
-        # mod 2
-        byte: 1
-        calculator: 1
-        # mod 3
-        cirkel: 1
-        graph: 1
-        # mod 4
-        goldbach: 1
-        credit: 1
-        # mod 5/6
-        tideman: 1
-        # mod 6
-        strings_more: 1
-        # mod 7
-        decryptor: 1
-        # mod 8
-        morse_more: 1
-        # mod 10
-        wordle: 1
-
-ster_arrays2d:
-    show_progress: true
-    submits:
-        resize: 1
-
-ster_unix_tools:
-    show_progress: true
-    submits:
-        unix_strings: 1
-        unix_tail: 1
-        recover: 1
-        filetype: 1
-
-ster_string_functions:
-    show_progress: true
-    submits:
-        wave: 1
+        aftekenen_module_speller: 5
 
 ster_speller:
     show_progress: true
+    requirement: aftekenen_module_speller
     submits:
         speller_challenge: 1
+        aftekenen_module_speller_ster: 5
 
-punten:
-    type: points
-    show_overview: true
-    submits:
-        # punten_module_9: 7
-        # punten_module_9_challenge: 2
-        # punten_module_10: 7
-        # punten_module_10_challenge: 2
-        punten_module_11: 5
-        punten_module_11_ster: 5
-        punten_module_12: 5
-        punten_module_12_ster: 5
-        punten_module_13: 5
-        punten_module_13_ster: 5
-        punten_module_14: 5
-        punten_module_14_ster: 5
-
-tentamenoefeningen:
-    show_overview: true
+tentamens:
+    show_progress: true
     submits:
         oefententamen: 1
-
-tentamen:
-    type: points
-    show_overview: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
         tentamen: 1
-
-hertentamen:
-    type: points
-    show_overview: true
-    attempt_required: true
-    minimum: 5.5
-    submits:
         hertentamen: 1
-
-#         design_challenge: 6
-
-berekening_1:
-    type: points
-    show_overview: false
-    submits:
-        tentamen: 5
-        punten_module_11: 0.5
-        punten_module_11_ster: 0.5
-        punten_module_12: 0.5
-        punten_module_12_ster: 0.5
-        punten_module_13: 0.5
-        punten_module_13_ster: 0.5
-        punten_module_14: 0.5
-        punten_module_14_ster: 0.5
-
-berekening_2:
-    type: points
-    show_overview: false
-    submits:
-        hertentamen: 5
-        punten_module_11: 0.5
-        punten_module_11_ster: 0.5
-        punten_module_12: 0.5
-        punten_module_12_ster: 0.5
-        punten_module_13: 0.5
-        punten_module_13_ster: 0.5
-        punten_module_14: 0.5
-        punten_module_14_ster: 0.5

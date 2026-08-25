@@ -203,14 +203,14 @@ grades:
     tentamen: *exam
     hertentamen: *exam
 
-    punten_module_11: *check
-    punten_module_11_challenge: *check
-    punten_module_12: *check
-    punten_module_12_challenge: *check
-    punten_module_13: *check
-    punten_module_13_challenge: *check
-    punten_module_14: *check
-    punten_module_14_challenge: *check
+    aftekenen_module_arrays: *check
+    aftekenen_module_arrays_ster: *check
+    aftekenen_module_unix: *check
+    aftekenen_module_unix_ster: *check
+    aftekenen_module_strings: *check
+    aftekenen_module_strings_ster: *check
+    aftekenen_module_speller: *check
+    aftekenen_module_speller_ster: *check
 
     week_2: *check
     week_3: *check
