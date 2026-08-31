@@ -36,7 +36,12 @@ De intentie is dat bijna alle studenten hoger halen dan de 6,0 van het tentamen.
 
 ## Aanwezigheid
 
-Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
+Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt:
+
+-  maandag 10--16 uur
+-  dinsdag 10--16 uur
+-  donderdag 10--16 uur
+-  vrijdag 10--16 uur
 
 Als je alleen Programmeren 1 volgt, dan moet je de volgende dagdelen aanwezig zijn, en minstens één keer per week een voortgangsgesprek hebben:
 
