@@ -92,6 +92,7 @@ scratch:
 
 week_1:
     show_progress: true
+    requirement: scratch
     submits:
         hello: 1
         functies: 1
@@ -103,6 +104,7 @@ week_1:
 
 week_2:
     show_progress: true
+    requirement: [ hello, functies, binary, acid, orakel, rechthoeken, coupons ]
     submits:
         repeat: 1
         mario: 1
@@ -117,6 +119,7 @@ week_2:
 
 week_3:
     show_progress: true
+    requirement: [ repeat, mario, mario_2, driehoek, trapezium, regen, population, soda, caffeine, conversion ]
     submits:
         strings: 1
         tennis: 1
@@ -129,6 +132,7 @@ week_3:
 
 week_4:
     show_progress: true
+    requirement: [ strings, tennis, morse, hoofdletters, klinkers, rna, alfabet, wachtwoord ]
     submits:
         scrabble: 1
         satellite_less: 1
@@ -139,6 +143,7 @@ week_4:
 
 week_5:
     show_progress: true
+    requirement: [ scrabble, satellite_less, render, formule, cypher, calendar ]
     submits:
         sort: 1
         find: 1
