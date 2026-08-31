@@ -50,7 +50,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. E
 - je weet niet waar te beginnen, of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op specifieke tijden (dinsdag 13–16 & donderdag 10–13)
+- parttime-studenten op specifieke tijden (dinsdag 13–16 & donderdag 13–16)
 
 **Persoonlijk en e-mail:** contact met de docenten over praktische zaken.
 
