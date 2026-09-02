@@ -1,0 +1,16 @@
+name: pretest2
+exam: true
+files:
+    required:
+        'record.c': |
+            #include <stdio.h>
+            #include <cs50.h>
+
+            int main()
+            {
+                // TODO
+                return 0;
+            }
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/pretests/pretest2
