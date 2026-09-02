@@ -33,3 +33,6 @@ files:
                 // TODO
                 return 0;
             }
+check:
+    tool: check50
+    slug: minprog/tentamen-checks/2021/pretests/pretest1
