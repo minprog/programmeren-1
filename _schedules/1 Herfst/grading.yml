@@ -103,7 +103,7 @@ week_1:
         coupons: 1
 
 week_2:
-    show_progress: true
+    show_overview: true
     requirement: [ hello, functies, binary, acid, orakel, rechthoeken, coupons ]
     submits:
         repeat: 1
@@ -118,7 +118,7 @@ week_2:
         conversion: 1
 
 week_3:
-    show_progress: true
+    show_overview: true
     requirement: [ repeat, mario, mario_2, driehoek, trapezium, regen, population, soda, caffeine, conversion ]
     submits:
         strings: 1
@@ -131,7 +131,7 @@ week_3:
         wachtwoord: 1
 
 week_4:
-    show_progress: true
+    show_overview: true
     requirement: [ strings, tennis, morse, hoofdletters, klinkers, rna, alfabet, wachtwoord ]
     submits:
         scrabble: 1
@@ -142,38 +142,38 @@ week_4:
         calendar: 1
 
 week_5:
-    show_progress: true
+    show_overview: true
     requirement: [ scrabble, satellite_less, render, formule, cypher, calendar ]
     submits:
         sort: 1
         find: 1
         runoff: 1
 
-# extra_uitdaging:
-#     show_progress: true
-#     submits:
-#         # mod 2
-#         byte: 1
-#         calculator: 1
-#         # mod 3
-#         cirkel: 1
-#         graph: 1
-#         # mod 4
-#         goldbach: 1
-#         credit: 1
-#         # mod 5/6
-#         tideman: 1
-#         # mod 6
-#         strings_more: 1
-#         # mod 7
-#         decryptor: 1
-#         # mod 8
-#         morse_more: 1
-#         # mod 10
-#         wordle: 1
+extra_uitdaging:
+    show_progress: true
+    submits:
+        # mod 2
+        byte: 1
+        calculator: 1
+        # mod 3
+        cirkel: 1
+        graph: 1
+        # mod 4
+        goldbach: 1
+        credit: 1
+        # mod 5/6
+        tideman: 1
+        # mod 6
+        strings_more: 1
+        # mod 7
+        decryptor: 1
+        # mod 8
+        morse_more: 1
+        # mod 10
+        wordle: 1
 
 arrays2d:
-    show_progress: true
+    show_overview: true
     requirement: [ sort, find, runoff ]
     submits:
         tiles_single: 1
@@ -182,14 +182,14 @@ arrays2d:
         aftekenen_module_arrays: 5
 
 arrays2d_ster:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_arrays
     submits:
         resize: 1
         aftekenen_module_arrays_ster: 5
 
 unix_tools:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_arrays
     submits:
         unix_cat: 1
@@ -202,7 +202,7 @@ unix_tools:
         aftekenen_module_unix: 5
 
 unix_tools_ster:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_unix
     submits:
         unix_strings: 1
@@ -212,7 +212,7 @@ unix_tools_ster:
         aftekenen_module_unix_ster: 5
 
 string_functions:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_unix
     submits:
         c_strfry: 1
@@ -224,14 +224,14 @@ string_functions:
         aftekenen_module_strings: 5
 
 ster_string_functions:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_strings
     submits:
         wave: 1
         aftekenen_module_strings_ster: 5
 
 speller:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_strings
     submits:
         beatles: 1
@@ -240,15 +240,16 @@ speller:
         aftekenen_module_speller: 5
 
 ster_speller:
-    show_progress: true
+    show_overview: true
     requirement: aftekenen_module_speller
     submits:
         speller_challenge: 1
         aftekenen_module_speller_ster: 5
 
 tentamens:
-    show_progress: true
+    show_overview: true
     submits:
+        pretest1: 0
         oefententamen: 1
         tentamen: 1
         hertentamen: 1
