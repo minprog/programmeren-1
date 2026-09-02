@@ -4,8 +4,12 @@ Welkom:
 #-------- deel 1 van cursus, leidend naar tentamen --------
 
 Scratch:
-    "[icon:person-video] Videocollege: Computational Thinking": /lectures/computational-thinking
-    Scratch: /problems/scratch
+    Welkom:
+        Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
+    Als je niet bij de intro was:
+        "[icon:person-video] Videocollege: Computational Thinking": /lectures/computational-thinking
+    Opdracht:
+        Scratch: /problems/scratch
 
 Week 1:
     Voorbereiding:

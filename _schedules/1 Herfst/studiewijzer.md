@@ -36,9 +36,17 @@ De intentie is dat bijna alle studenten hoger halen dan de 6,0 van het tentamen.
 
 ## Aanwezigheid
 
-Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt.
+Studenten die de Minor Programmeren in één semester volgen hebben een aanwezigheidsplicht zoals eerder bekend gemaakt:
 
-Als je alleen Programmeren 1 volgt, dan moet je maandag en donderdag 13--16 uur aanwezig zijn, en minstens één keer per week een voortgangsgesprek hebben.
+-  maandag 10--16 uur
+-  dinsdag 10--16 uur
+-  donderdag 10--16 uur
+-  vrijdag 10--16 uur
+
+Als je alleen Programmeren 1 volgt, dan moet je de volgende dagdelen aanwezig zijn, en minstens één keer per week een voortgangsgesprek hebben:
+
+-  dinsdag 13--16 uur
+-  donderdag 10--13 uur *of* 13--16 uur
 
 ## Vragen stellen
 
@@ -50,7 +58,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de docenten en medestudenten. E
 - je weet niet waar te beginnen, of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen oplossing
 - dagelijks beschikbaar, zet jezelf in de rij
-- parttime-studenten op specifieke tijden (dinsdag 13–16 & donderdag 10–13)
+- parttime-studenten op specifieke tijden (zie boven)
 
 **Persoonlijk en e-mail:** contact met de docenten over praktische zaken.
 
