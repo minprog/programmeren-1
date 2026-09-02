@@ -2,7 +2,7 @@ name: pretest
 exam: true
 files:
     required:
-        'makelaar.c': |
+        'tapas.c': |
             #include <stdio.h>
             #include <cs50.h>
 
