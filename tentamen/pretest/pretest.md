@@ -1,4 +1,4 @@
-# Pretest programmeren 1 (mod 3)
+# Pretest 1
 
 Bij het lokale tapas restaurant bestel je een aantal gerechten in bulk. Ieder gerecht kost standaard 5 euro. De prijs verandert afhankelijk van het type gerecht en hoeveel je bestelt:
 
