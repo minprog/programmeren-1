@@ -103,7 +103,7 @@ week_1:
         coupons: 1
 
 week_2:
-    show_overview: true
+    show_progress: true
     requirement: [ hello, functies, binary, acid, orakel, rechthoeken, coupons ]
     submits:
         repeat: 1
