@@ -42,17 +42,21 @@ So, validating credit card numbers isn't hard, but it does get a bit tedious by 
 
 ## Implementation details
 
-In a file called `credit.c` and write a program that prompts the user for a credit card number and then reports (via `printf`) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each's format herein. So that we can automate some tests of your code, we ask that your program's last line of output be `AMEX\n` or `MASTERCARD\n` or `VISA\n` or `INVALID\n`, nothing more, nothing less. For simplicity, you may assume that the user's input will be entirely numeric (i.e., devoid of hyphens, as might be printed on an actual card). But do not assume that the user's input will fit in an `int`! Best to use `get_long_long` from [CS50's library](https://manual.cs50.io/3/get_long_long) to get users' input.
+In a file called `credit.c` write a program that prompts the user for a credit card number and then reports (via `printf`) whether it is a valid American Express, MasterCard, or Visa card number, per the definitions of each's format herein. So that we can automate some tests of your code, we ask that your program's last line of output be `AMEX\n` or `MASTERCARD\n` or `VISA\n` or `INVALID\n`, nothing more, nothing less. For simplicity, you may assume that the user's input will be entirely numeric (i.e., devoid of hyphens, as might be printed on an actual card). But do not assume that the user's input will fit in an `int`! Best to use `get_long_long` from [CS50's library](https://manual.cs50.io/3/get_long_long) to get users' input.
 
-<details markdown="1"><summary markdown="span">short, int, long, long long?</summary>
+<details markdown="1"><summary markdown="span">`short`, `int`, `long`, `long long`?</summary>
 In C these integer data types only have a guaranteed minimum size:
 
-Type      | Size
---------- | --------
-short     | 2 bytes
-int       | 2 bytes
-long      | 4 bytes
-long long | 2 bytes
+| Type      | Size    |
+|-----------|---------|
+| short     | 2 bytes |
+| int       | 2 bytes |
+| long      | 4 bytes |
+| long long | 8 bytes |
+
+Depending on your compiler and your platform these data types can be larger than this size. For instance, in Terra an `int` and a `long` are both the same size: 4 bytes. If you need a guarantee of a minimal size it is best to pick a data type that has that size guaranteed. For `credit` the user can enter numbers up to 16 digits long, which just so happens to fit in an 8 byte integer!
+
+If you need a specific size, for instance always 2 bytes, you can use the `stdint.h` header file that specifies exact-size integers. See <https://en.wikibooks.org/wiki/C_programming/stdint.h> for more info.
 </details>
 
 
