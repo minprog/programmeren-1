@@ -87,7 +87,7 @@ Week 3:
         RNA: /problems/rna
         Alfabet: /problems/alfabet
         Wachtwoord: /problems/wachtwoord
-    Vooruitwerken:
+    Rustig vooruitwerken:
         Scrabble*: /problems/scrabble
         Satellite*: /problems/satellite
         Render*: /problems/render
@@ -111,10 +111,10 @@ Week 4:
         '[icon:journal-code] Functies': /exercises/book/functions
     Extra uitdaging:
         Morse++*: /problems/morse_more
-    Vooruit werken:
-        "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
-        Sort: /problems/sort
-        Find: /problems/find
+    Rustig vooruitwerken:
+        "[icon:person-video] Videocollege: Algorithms*": /lectures/algorithms
+        Sort*: /problems/sort
+        Find*: /problems/find
 
 # week 5 en de rest gaan samen open
 Week 5:
