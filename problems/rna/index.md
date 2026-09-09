@@ -12,28 +12,33 @@ Schrijf een programma dat een keten van DNA aanneemt van willkeurige lengte en d
 
 ## Implementation Details
 
-- Het programma moet vragen voor een enkele DNA-keten, dit is een `string` van letters.
+- De DNA-keten wordt niet ingelezen met `get_string`, maar meegegeven als command-line argument. Hiervoor zul je de volgende `main` functie moeten gebruiken:
+
+      int main(int argc, string argv[])
+
+- Het programma moet zelf controleren of de gebruiker precies één argument meegeeft: een `string` van letters. Zo niet, dan print het programma `Usage: ./rna <DNA>` en returnt het de waarde `1` uit `main`.
 
 - Het programma moet niet hoofdlettergevoelig zijn: hoofdletters moeten op dezelfde manier behandeld worden als kleine letters. De output, de RNA-keten, moet in hoofdletters zijn.
 
 - Als een karakter van de DNA keten niet valide is, moet het programma het volgende printen: `Invalid DNA` en de waarde `1` returnen uit `main`.
 
+> In Terra IDE kan je niet door middel van de run-knop command-line argumenten meegeven. Je moet het commando typen in de terminal.
+
 ## Examples
 
-    $ ./rna 
-    DNA: ATGC
+    $ ./rna ATGC
     UACG
 
-    $ ./rna
-    DNA: AAGGTTCCAA
+    $ ./rna AAGGTTCCAA
     UUCCAAGGUU
 
-    $ ./rna
-    DNA: CGaT
+    $ ./rna CGaT
     GCUA
 
 In het geval van gebruikersfouten, moet het programma als volgt reageren en afsluiten met exit code 1.
 
-    $ ./rna
-    DNA: AAF
+    $ ./rna AAF
     Invalid DNA
+
+    $ ./rna
+    Usage: ./rna <DNA>
