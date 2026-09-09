@@ -9,14 +9,16 @@ Voor deze opdracht definiëren we vier combinaties die staan voor de volgende le
 - `-..` = D
 - `.-.` = R
 
+De morse-code wordt niet ingelezen met `get_string`, maar meegegeven als command-line argument. Hiervoor zul je de volgende `main` functie moeten gebruiken:
+
+    int main(int argc, string argv[])
+
 Het programma moet als volgt werken:
 
-    $ ./morse
-    Geef een morse code: ...---...
+    $ ./morse ...---...
     SOS
 
-    $ ./morse
-    Geef een morse code: -..------.-.
+    $ ./morse -..------.-.
     DOOR
 
-Let op, je mag aannemen dat er altijd een morse-code door de gebruiker wordt ingevoerd die deelbaar is door 3. Ook mag je aannemen dat de gebruiker enkel streepjes en punten invoert.
+Let op, je mag aannemen dat de gebruiker altijd precies één argument meegeeft: een morse-code waarvan de lengte deelbaar is door 3. Ook mag je aannemen dat de gebruiker enkel streepjes en punten invoert.
