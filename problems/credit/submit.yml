@@ -4,4 +4,4 @@ files:
         - credit.c
 check:
     tool: check50
-    slug: minprog/cs50x/2020/credit
+    slug: minprog/checks/2026/credit
