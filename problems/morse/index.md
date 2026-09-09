@@ -21,4 +21,6 @@ Het programma moet als volgt werken:
     $ ./morse -..------.-.
     DOOR
 
+> In Terra IDE kan je niet door middel van de run-knop command-line argumenten meegeven. Je zult het commando moeten typen in de terminal.
+
 Let op, je mag aannemen dat de gebruiker altijd precies één argument meegeeft: een morse-code waarvan de lengte deelbaar is door 3. Ook mag je aannemen dat de gebruiker enkel streepjes en punten invoert.

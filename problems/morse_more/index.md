@@ -47,12 +47,10 @@ Een combinatie van `dit`s en `dah`s vormen letters uit het alfabet. Een `dit` re
 
 Schrijf een programma `morse_more.c` dat als volgt werkt:
 
-    $ ./morse 
-    Code: ===,===,,,===,===,===,,,=,===,=,,,=,=,=,,,=,,,,,,,===,=,===,=,,,===,===,===,,,===,=,=,,,=
+    $ ./morse_more ===,===,,,===,===,===,,,=,===,=,,,=,=,=,,,=,,,,,,,===,=,===,=,,,===,===,===,,,===,=,=,,,=
     morse code
 
-    $ ./morse 
-    Code: =,=,=,=,,,=,,,=,===,=,=,,,=,===,=,=,,,===,===,===,,,,,,,=,===,===,,,===,===,===,,,=,===,=,,,=,===,=,=,,,===,=,=
+    $ ./morse_more =,=,=,=,,,=,,,=,===,=,=,,,=,===,=,=,,,===,===,===,,,,,,,=,===,===,,,===,===,===,,,=,===,=,,,=,===,=,=,,,===,=,=
     hello world
 
-Je mag aannemen dat de gebruiker altijd een valide morse code invoert. `TOF` hoeft niet 😄
+Je mag aannemen dat de gebruiker altijd precies één argument meegeeft: een valide morse code. `TOF` hoeft niet 😄
