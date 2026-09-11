@@ -80,7 +80,7 @@ But it's up to you to catch inputs that are not credit card numbers (e.g., a pho
     Number: 6176292929
     INVALID
 
-Test out your program with a whole bunch of inputs, both valid and invalid. (We certainly will!) Here are a [few card numbers](https://developer.paypal.com/docs/classic/payflow/payflow-pro/payflow-pro-testing/#credit-card-numbers-for-testing) that PayPal recommends for testing.
+Test out your program with a whole bunch of inputs, both valid and invalid. (We certainly will!) Here are a [few card numbers](https://developer.paypal.com/api/nvp-soap/payflow/payflow-pro/payflow-pro-testing) that PayPal recommends for testing.
 
 If your program behaves incorrectly on some inputs (or doesn't compile at all), time to debug!
 
