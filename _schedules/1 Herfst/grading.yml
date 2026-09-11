@@ -250,6 +250,7 @@ tentamens:
     show_overview: true
     submits:
         pretest1: 0
+        pretest2: 0
         oefententamen: 1
         tentamen: 1
         hertentamen: 1
