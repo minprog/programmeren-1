@@ -1,6 +1,11 @@
 # Scrabble
 
-In a file called `scrabble.c` implement a program to determine which of two Scrabble words is worth more.
+In a file called `scrabble.c` implement a program to determine which of two Scrabble words is 
+worth more.
+
+## Download
+
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/scrabble/scrabble.c)
 
 > You don't have to start from scratch: a `scrabble.c` is provided that already asks both players for a word and scores them. It contains two `TODO`s for you to fill in.
 
