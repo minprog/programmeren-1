@@ -118,7 +118,7 @@ week_2:
         conversion: 1
 
 week_3:
-    show_overview: true
+    show_progress: true
     requirement: [ repeat, mario, mario_2, driehoek, trapezium, regen, population, soda, caffeine, conversion ]
     submits:
         strings: 1
