@@ -126,6 +126,7 @@ grades:
     strings_more: *automatic
     morse_more: *automatic
     tideman: *automatic
+    biggest_square: *automatic
 
     alfabet: *automatic
     scrabble: *automatic
