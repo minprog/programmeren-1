@@ -166,8 +166,8 @@ extra_uitdaging:
         # mod 6
         strings_more: 1
         # mod 7
-        decryptor: 1
         satellite_more: 1
+        decryptor: 1
         biggest_square: 1
         # mod 8
         morse_more: 1
