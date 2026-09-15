@@ -199,6 +199,7 @@ grades:
     review_3: *manual
 
     pretest1: *exam
+    pretest2: *exam
     oefententamen: *exam
     oefententamen_thuis: *exam
     tentamen: *exam
