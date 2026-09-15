@@ -19,6 +19,6 @@ Het programma moet als volgt werken:
 
 ### Hints
 
-* Het tennisspel is misschien wat ingewikkelder dan het lijkt. Probeer eerst het spel uit te werken in pseudocode.
+* Het tennisspel is misschien wat ingewikkelder dan het lijkt. Probeer eerst rustig het spel uit te werken in pseudocode.
 * Let goed op de details! Kan speler 1 met haar eerste gok verliezen?
 * Zodra een speler een verkeerd woord geeft, ligt de winnaar vast. Je kunt dan met `return` meteen uit `main` stappen, nadat je de winnaar hebt geprint.
