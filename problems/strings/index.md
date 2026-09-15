@@ -37,6 +37,15 @@ Write a function `eek` that takes a string and tells you how many e's that strin
 
     The text "Eek, a mouse!" contains 3 e's.
 
+## First and last
+
+Write a function `first_last` that takes a string and prints its first and last character. For instance, `first_last("tokyo hotel")` should print:
+
+    First: t
+    Last: l
+
+You don't need a loop for this one!
+
 ## tHe CaSe Of BoB
 
 sPoNgEbOb TaLkS fUnNy, LiKe ThIs.
@@ -49,6 +58,6 @@ The function bob should not change / modify the string it is passed as argument.
 
 ## Main?
 
-This assignment is only about the four functions above; each one is tested on its own. So your program does not have to ask the user for any input.
+This assignment is only about the five functions above; each one is tested on its own. So your program does not have to ask the user for any input.
 
 Do write a `main` that calls your functions with a few test values, so you can see whether they do what you expect. That `main` can simply stay in `strings.c` when you submit.
