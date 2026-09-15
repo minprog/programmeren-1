@@ -11,3 +11,7 @@ Write a function `is_palindrome` that takes a string and returns true if it is a
 Using the word 'cat' is taboo. Write a function `taboo` that takes in a string and prints that string with each occurance of the word 'cat' replaced with 'dog'. Even better, 'Cat' becomes 'Dog', with casing left intact! For instance, `taboo("The Cheshire Cat is the cat of the Duchess.")` should print:
 
     The Cheshire Dog is the dog of the Duchess.
+
+And `taboo("cat cat cat or the cats of the Duchess.")` should print:
+
+    dog dog dog or the dogs of the Duchess.
