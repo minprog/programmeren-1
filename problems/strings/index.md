@@ -56,8 +56,24 @@ Create a function `bob` that takes a string and prints that string into the alte
 
 The function bob should not change / modify the string it is passed as argument. Instead leave it as is and just print out the Spongebobbified text.
 
+## Duplicates
+
+Write a function `has_duplicate` that takes a string and returns `true` if any character appears more than once in that string, and `false` otherwise. For instance:
+
+- `has_duplicate("tokyo")` returns `true`, because the `o` appears twice
+- `has_duplicate("hotel")` returns `false`, because every character appears only once
+
+This function doesn't print anything, it returns its answer. To test it, you could write something like this in your `main`:
+
+    if (has_duplicate("tokyo"))
+    {
+        printf("tokyo has a duplicate\n");
+    }
+
+As soon as you have found one character that appears twice, do you still need to look at the rest of the string? `return` doesn't have to be on the last line of a function, you can return right away.
+
 ## Main?
 
-This assignment is only about the five functions above; each one is tested on its own. So your program does not have to ask the user for any input.
+This assignment is only about the six functions above; each one is tested on its own. So your program does not have to ask the user for any input.
 
 Do write a `main` that calls your functions with a few test values, so you can see whether they do what you expect. That `main` can simply stay in `strings.c` when you submit.
