@@ -145,8 +145,8 @@ week_5:
     show_progress: true
     requirement: [ scrabble, satellite_less, render, formule, cypher, calendar ]
     submits:
-        sort: 1
-        find: 1
+        sort_single: 1
+        find_single: 1
         runoff: 1
 
 extra_uitdaging:
@@ -176,7 +176,7 @@ extra_uitdaging:
 
 arrays2d:
     show_overview: true
-    requirement: [ sort, find, runoff ]
+    requirement: [ sort_single, find_single, runoff ]
     submits:
         tiles_single: 1
         snowfall: 1
