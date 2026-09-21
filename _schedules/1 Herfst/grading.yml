@@ -131,7 +131,7 @@ week_3:
         wachtwoord: 1
 
 week_4:
-    show_overview: true
+    show_progress: true
     requirement: [ strings, tennis, morse, hoofdletters, klinkers, rna, alfabet, wachtwoord ]
     submits:
         scrabble: 1
@@ -142,7 +142,7 @@ week_4:
         calendar: 1
 
 week_5:
-    show_overview: true
+    show_progress: true
     requirement: [ scrabble, satellite_less, render, formule, cypher, calendar ]
     submits:
         sort: 1
