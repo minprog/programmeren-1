@@ -114,22 +114,6 @@ Note that `argv[1]` and `argv[2]` are **strings**, not numbers: `"2021"` is a se
     int year = atoi(argv[1]);
     int month = atoi(argv[2]);
 
-### Running with arguments in the Terra IDE
-
-The **Run** button always runs your program without any arguments, which would make `argv[1]` and `argv[2]` not exist at all. To pass arguments, use the **Run as** button instead, which sits right next to it in the toolbar at the top.
-
-1. Make sure `calendar.c` is the file you have open in the editor.
-2. Click **Run as**. A window appears with three fields.
-3. Fill in the **Arguments** field: `2021 11` (just the arguments, separated by spaces --- not `./calendar` itself).
-4. Leave **Source files** and **Target** empty; the defaults are exactly what you need for this assignment.
-5. The **Preview** at the bottom shows the command that will be executed. Check that its last line reads:
-
-        ./calendar 2021 11
-
-6. Click **Run**.
-
-Terra remembers what you filled in, so to run the same command again you can simply click **Run as** and then hit **Run**. When you want to test another month, click **Run as** and change the Arguments field.
-
 ### What is &lt;padding&gt;?
 
 When submitting, the check might report the following:
