@@ -67,7 +67,7 @@ Before generating any numbers, `main` calls `srand48`, whose purpose is to "seed
 
 Until now, every program you wrote was a single `.c` file, and the **Run** button could simply compile and run it. This program is different: `sort` is built from **two** source files, `sort.c` and `helpers.c`. You have to tell the IDE about that, using the **Run as** button.
 
-1. Make sure `sort.c` is the file you have open in the editor, then click **Run as** in the toolbar at the top (right next to **Run**, as you used it for Calendar). A window appears with three fields.
+1. Make sure `sort.c` is the file you have open in the editor, then click **Run as** in the toolbar at the top (right next to **Run**). A window appears with three fields.
 2. Leave **Arguments** empty for now, or fill in the amount of numbers to sort, e.g. `10`.
 3. In **Source files**, list both files that make up the program, separated by a space:
 
