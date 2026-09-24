@@ -100,6 +100,7 @@ Week 3:
         Biggest Square**: /problems/biggest_square
 
 Week 4:
+    Oefenopdrachten tentamen: /tentamen/oefententamen_thuis
     Opdrachten:
         Scrabble: /problems/scrabble
         Satellite: /problems/satellite
@@ -114,8 +115,8 @@ Week 4:
         Morse++*: /problems/morse_more
     Rustig vooruitwerken:
         "[icon:person-video] Videocollege: Algorithms*": /lectures/algorithms
-        Sort*: /problems/sort_single
-        Find*: /problems/find_single
+        Sort*: /problems/sort
+        Find*: /problems/find
         Runoff*: /problems/runoff
     Extra leuke uitdaging:
         Wordle*: /problems/wordle
@@ -125,8 +126,8 @@ Week 5:
     Voorbereiding:
         "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
-        Sort: /problems/sort_single
-        Find: /problems/find_single
+        Sort: /problems/sort
+        Find: /problems/find
         Runoff: /problems/runoff
     Extra uitdaging:
         Wordle*: /problems/wordle
