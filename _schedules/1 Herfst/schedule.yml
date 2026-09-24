@@ -115,8 +115,8 @@ Week 4:
         Morse++*: /problems/morse_more
     Rustig vooruitwerken:
         "[icon:person-video] Videocollege: Algorithms*": /lectures/algorithms
-        Sort*: /problems/sort
-        Find*: /problems/find
+        Sort*: /problems/sort_single
+        Find*: /problems/find_single
         Runoff*: /problems/runoff
     Extra leuke uitdaging:
         Wordle*: /problems/wordle
