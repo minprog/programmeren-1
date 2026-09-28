@@ -44,7 +44,12 @@ Write at least these three functions, so that each part of a timestep is its own
 
 - `draw_scene` prints the whole scene, using a `*` for a snowflake and a space for an empty spot.
 
-Clear the screen by printing the ANSI escape code `\033[2J`, like `clear_screen` does in [Tiles](/problems/tiles_single). Don't use `system("clear")`.
+Clear the screen by printing the ANSI escape codes `\033[2J` and `\033[H`, like `clear_screen` does in [Tiles](/problems/tiles_single), and follow that with a call to `fflush(stdout);`:
+
+    printf("\033[2J\033[H");
+    fflush(stdout);
+
+The `fflush` is needed because `printf` collects its output in a buffer and only really sends it to the screen once it prints a newline. The escape codes don't end in a newline, so without `fflush` the screen may not be cleared when you expect it. Don't use `system("clear")`.
 
 Beyond these three functions you are completely free: write as many other functions as you like, keep extra information in extra arrays, and decorate the animation however you want.
 
