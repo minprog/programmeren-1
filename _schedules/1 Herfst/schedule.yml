@@ -126,8 +126,8 @@ Week 5:
     Voorbereiding:
         "[icon:person-video] Videocollege: Algorithms": /lectures/algorithms
     Opdrachten:
-        Sort: /problems/sort
-        Find: /problems/find
+        Sort: /problems/sort_single
+        Find: /problems/find_single
         Runoff: /problems/runoff
     Extra uitdaging:
         Wordle*: /problems/wordle
