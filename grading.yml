@@ -160,8 +160,8 @@ grades:
 
     tiles: *automatic
     tiles_single: *automatic
-    snowfall: *check
-    game_of_life: *check
+    snowfall: *automatic
+    game_of_life: *automatic
     resize: *automatic
 
     unix_cat: *automatic
