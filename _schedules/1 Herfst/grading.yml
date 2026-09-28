@@ -175,7 +175,7 @@ extra_uitdaging:
         wordle: 1
 
 arrays2d:
-    show_overview: true
+    show_progress: true
     requirement: [ sort_single, find_single, runoff ]
     submits:
         tiles_single: 1
@@ -184,14 +184,14 @@ arrays2d:
         aftekenen_module_arrays: 5
 
 arrays2d_ster:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_arrays
     submits:
         resize: 1
         aftekenen_module_arrays_ster: 5
 
 unix_tools:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_arrays
     submits:
         unix_cat: 1
@@ -204,7 +204,7 @@ unix_tools:
         aftekenen_module_unix: 5
 
 unix_tools_ster:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_unix
     submits:
         unix_strings: 1
@@ -214,7 +214,7 @@ unix_tools_ster:
         aftekenen_module_unix_ster: 5
 
 string_functions:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_unix
     submits:
         c_strfry: 1
@@ -226,14 +226,14 @@ string_functions:
         aftekenen_module_strings: 5
 
 ster_string_functions:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_strings
     submits:
         wave: 1
         aftekenen_module_strings_ster: 5
 
 speller:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_strings
     submits:
         beatles: 1
@@ -242,7 +242,7 @@ speller:
         aftekenen_module_speller: 5
 
 ster_speller:
-    show_overview: true
+    show_progress: true
     requirement: aftekenen_module_speller
     submits:
         speller_challenge: 1
