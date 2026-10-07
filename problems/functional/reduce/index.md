@@ -57,7 +57,7 @@ En hetzelfde `reduce` voor een array van strings (`char *`). Let op dat `item` h
         // best is nu "aardbei"
     }
 
-`reduce` kun je in maar een paar regels implementeren. Het moeilijke zit in de pointers, niet in de lengte. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
+`reduce` kun je in maar een paar regels implementeren. Het moeilijke zit in de pointers. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
 
 ## Uitdaging
 

@@ -63,8 +63,6 @@ Een voorbeeld van hoe de functie gebruikt kan worden:
 
 Je mag in `map_filter.c` een `main` zetten om je functies zelf te testen. De checks halen die `main` er voor het testen weer uit en gebruiken hun eigen `main`, met allerlei verschillende functies.
 
-Zorg ervoor dat `map` goed werkt voor een lege array (`n == 0`) en voor functies die geen kwadraat of verdubbeling zijn, bijvoorbeeld `abs` of een functie die de waarde negeert.
-
 ### Filter
 
 In `map` gaf je een functie mee die elk element **verandert**. Bij `filter` geef je een functie mee die voor elk element **beslist**: blijft het erin, of gaat het eruit? Zo'n functie die `true` of `false` teruggeeft heet een *predicate*.
@@ -93,7 +91,3 @@ Een voorbeeld:
 Je mag **geen** extra array of `malloc` gebruiken: het filteren gebeurt *in place*.
 
 Vergeet `#include <stdbool.h>` niet.
-
-## Combineren
-
-Schrijf als test een paar predicates (`is_even`, `is_positive`, `is_prime`) en combineer `map` en `filter`: kwadrateer alle getallen, en houd daarna alleen de getallen over die groter zijn dan 10. Merk op hoe weinig code dat is, omdat de "wat" (de functie) en het "hoe" (de loop) gescheiden zijn.
