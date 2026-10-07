@@ -60,7 +60,3 @@ Een voorbeeld van hoe de functie gebruikt kan worden:
 Je mag in `map.c` een `main` zetten om je functie zelf te testen. De checks halen die `main` er voor het testen weer uit en gebruiken hun eigen `main`, met allerlei verschillende functies.
 
 Zorg ervoor dat `map` goed werkt voor een lege array (`n == 0`) en voor functies die geen kwadraat of verdubbeling zijn, bijvoorbeeld `abs` of een functie die de waarde negeert.
-
-## Uitdaging
-
-Wat als je `f` wilt laten werken met een extra getal, zoals "tel 5 op bij elk element"? Met alleen een `int (*)(int)` heb je dan een andere functie nodig voor elke waarde (`add_5`, `add_6`, ...). In C los je dat op door extra gegevens als `void *` mee te geven. Daar komen we bij `reduce` en `qsort` op terug.
