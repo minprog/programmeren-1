@@ -188,6 +188,14 @@ Speller:
         Speller: /problems/speller
     Steropdracht:
         Speller challenge*: /problems/speller/challenge
+    Bonus, functioneel programmeren**:
+        Heads up: /problems/functional
+        Map en filter**: /problems/functional/map_filter
+        Generic map en filter**: /problems/functional/generic
+        Reduce**: /problems/functional/reduce
+        Runoff zonder loops**: /problems/functional/runoff
+        Qsort**: /problems/functional/qsort
+
 #-------- eerder geschrapt --------
 
 # Week 5:

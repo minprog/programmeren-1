@@ -188,6 +188,11 @@ grades:
     linked: *manual
     speller: *automatic
     speller_challenge: *automatic
+    fp_map_filter: *automatic
+    fp_generic: *automatic
+    fp_reduce: *automatic
+    qsort: *automatic
+    fp_runoff: *automatic
 
     basics_variables: *check
     basics_control_flow: *check
@@ -213,6 +218,7 @@ grades:
     aftekenen_module_strings_ster: *check
     aftekenen_module_speller: *check
     aftekenen_module_speller_ster: *check
+    aftekenen_module_functional: *check
 
     week_2: *check
     week_3: *check

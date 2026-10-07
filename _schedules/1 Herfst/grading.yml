@@ -248,6 +248,17 @@ ster_speller:
         speller_challenge: 1
         aftekenen_module_speller_ster: 5
 
+functional:
+    show_progress: true
+    requirement: aftekenen_module_speller
+    submits:
+        fp_map_filter: 1
+        fp_generic: 1
+        fp_reduce: 1
+        qsort: 1
+        fp_runoff: 1
+        aftekenen_module_functional: 5
+
 tentamens:
     show_overview: true
     submits:
