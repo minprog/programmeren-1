@@ -1,0 +1,7 @@
+name: fp_runoff
+files:
+    required:
+        - runoff.c
+check:
+    tool: check50
+    slug: minprog/checks/2026/functional/runoff

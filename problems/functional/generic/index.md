@@ -1,8 +1,8 @@
 # Generic map en filter
 
-In de vorige opdracht werkten `map` en `filter` alleen voor arrays van `int`. Wil je hetzelfde voor `double`s, of voor strings, dan moet je alles opnieuw schrijven. Dat is zonde, want de loop is precies hetzelfde. Alleen het type verschilt.
+In de vorige opdracht werkten `map_int` en `filter_int` alleen voor arrays van `int`. Wil je hetzelfde voor `double`s, of voor strings, dan moet je alles opnieuw schrijven. Dat is zonde, want de loop is precies hetzelfde. Alleen het type verschilt.
 
-In deze opdracht schrijf je `map` en `filter` nog een keer, maar dan voor **elk type**. Daarvoor heb je een **void pointer** nodig.
+In deze opdracht schrijf je `map` en `filter` nog een keer, maar dan voor **elk type**. Daarvoor heb je een **void pointer** nodig. De versies uit de vorige opdracht heten `map_int` en `filter_int`; de versies uit deze opdracht krijgen de gewone namen `map` en `filter`.
 
 ## Void pointers
 
@@ -37,9 +37,9 @@ Schrijf in **één bestand**, `generic.c`, twee functies.
 
 ### Generic map
 
-    void map_generic(void *array, size_t n, size_t size, void (*f)(void *item));
+    void map(void *array, size_t n, size_t size, void (*f)(void *item));
 
-Deze functie roept `f` aan voor **elk element** van `array`, van voor naar achter, met een pointer naar dat element. De functie `f` past het element via die pointer zelf aan. Je hoeft in `map_generic` zelf niets over het type te weten, dat doet `f`.
+Deze functie roept `f` aan voor **elk element** van `array`, van voor naar achter, met een pointer naar dat element. De functie `f` past het element via die pointer zelf aan. Je hoeft in `map` zelf niets over het type te weten, dat doet `f`.
 
 Een voorbeeld met `double`:
 
@@ -52,15 +52,15 @@ Een voorbeeld met `double`:
     int main(void)
     {
         double values[] = {1.0, 5.0, 3.0};
-        map_generic(values, 3, sizeof(double), halve);
+        map(values, 3, sizeof(double), halve);
         // values is nu {0.5, 2.5, 1.5}
     }
 
 ### Generic filter
 
-    size_t filter_generic(void *array, size_t n, size_t size, bool (*keep)(const void *item));
+    size_t filter(void *array, size_t n, size_t size, bool (*keep)(const void *item));
 
-Deze functie werkt zoals `filter` in de vorige opdracht: alle elementen waarvoor `keep` `true` teruggeeft komen **vooraan in de array** te staan, in dezelfde volgorde als waarin ze oorspronkelijk stonden. De functie geeft terug hoeveel elementen er overblijven. Je filtert weer *in place*, zonder extra array of `malloc`.
+Deze functie werkt zoals `filter_int` in de vorige opdracht: alle elementen waarvoor `keep` `true` teruggeeft komen **vooraan in de array** te staan, in dezelfde volgorde als waarin ze oorspronkelijk stonden. De functie geeft terug hoeveel elementen er overblijven. Je filtert weer *in place*, zonder extra array of `malloc`.
 
 Een voorbeeld met strings (`char *`). Let op: `item` wijst hier naar een element van de array, en dat element is zelf een `char *`. Het is dus een `char **`:
 
@@ -73,7 +73,7 @@ Een voorbeeld met strings (`char *`). Let op: `item` wijst hier naar een element
     int main(void)
     {
         char *words[] = {"appel", "peer", "aardbei", "kers", "banaan"};
-        size_t m = filter_generic(words, 5, sizeof(char *), is_long);
+        size_t m = filter(words, 5, sizeof(char *), is_long);
         // m is 3, en de eerste drie elementen van words zijn {"appel", "aardbei", "banaan"}
     }
 
@@ -81,4 +81,4 @@ Je mag in `generic.c` een `main` zetten om je functies zelf te testen. De checks
 
 ## Combineren
 
-Maak een array van `struct`s, bijvoorbeeld `struct { char name[20]; int age; }`. Gebruik `map_generic` om iedereen een jaar ouder te maken, en `filter_generic` om alleen de volwassenen over te houden. Je functies hoeven daarvoor niet te veranderen.
+Maak een array van `struct`s, bijvoorbeeld `struct { char name[20]; int age; }`. Gebruik `map` om iedereen een jaar ouder te maken, en `filter` om alleen de volwassenen over te houden. Je functies hoeven daarvoor niet te veranderen.

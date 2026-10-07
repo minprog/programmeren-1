@@ -37,13 +37,13 @@ Met `apply_twice(double_it, 5)` krijg je `20`. Let op dat je bij het meegeven va
 
 ## Opdracht
 
-In deze opdracht schrijf je in **één bestand**, `map_filter.c`, twee functies. Begin met `map`:
+In deze opdracht schrijf je in **één bestand**, `map_filter.c`, twee functies. Begin met `map_int`:
 
 ### Map
 
 Schrijf de functie
 
-    void map(int array[], int n, int (*f)(int));
+    void map_int(int array[], int n, int (*f)(int));
 
 die `f` toepast op **elk element** van `array` (met lengte `n`), en het resultaat terugschrijft op dezelfde plek in de array. Na afloop geldt dus voor elke `i` dat `array[i]` gelijk is aan `f(oude array[i])`.
 
@@ -57,7 +57,7 @@ Een voorbeeld van hoe de functie gebruikt kan worden:
     int main(void)
     {
         int numbers[] = {1, 2, 3, 4};
-        map(numbers, 4, square);
+        map_int(numbers, 4, square);
         // numbers is nu {1, 4, 9, 16}
     }
 
@@ -65,11 +65,11 @@ Je mag in `map_filter.c` een `main` zetten om je functies zelf te testen. De che
 
 ### Filter
 
-In `map` gaf je een functie mee die elk element **verandert**. Bij `filter` geef je een functie mee die voor elk element **beslist**: blijft het erin, of gaat het eruit? Zo'n functie die `true` of `false` teruggeeft heet een *predicate*.
+In `map_int` gaf je een functie mee die elk element **verandert**. Bij `filter_int` geef je een functie mee die voor elk element **beslist**: blijft het erin, of gaat het eruit? Zo'n functie die `true` of `false` teruggeeft heet een *predicate*.
 
 Schrijf de functie
 
-    int filter(int array[], int n, bool (*keep)(int));
+    int filter_int(int array[], int n, bool (*keep)(int));
 
 
 die alle elementen van `array` (met lengte `n`) waarvoor `keep` `true` teruggeeft **vooraan in de array bij elkaar zet**, in dezelfde volgorde als waarin ze oorspronkelijk stonden. De functie geeft terug hoeveel elementen er overblijven. Wat er na die elementen in de array staat maakt niet uit.
@@ -84,7 +84,7 @@ Een voorbeeld:
     int main(void)
     {
         int numbers[] = {5, 2, 8, 3, 6, 1};
-        int m = filter(numbers, 6, is_even);
+        int m = filter_int(numbers, 6, is_even);
         // m is 3, en de eerste drie elementen van numbers zijn {2, 8, 6}
     }
 
