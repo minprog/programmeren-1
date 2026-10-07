@@ -8,31 +8,28 @@ Ook in C kan dat, met een **function pointer**. Die gebruik je in deze opdracht 
 
 Net als variabelen staan functies ergens in het geheugen, en dus heeft elke functie een adres. Dat adres kun je opslaan in een pointer. Bekijk dit voorbeeld:
 
-```c
-#include <stdio.h>
+    #include <stdio.h>
 
-int double_it(int x)
-{
-    return 2 * x;
-}
+    int double_it(int x)
+    {
+        return 2 * x;
+    }
 
-int main(void)
-{
-    int (*f)(int) = double_it;
-    printf("%i\n", f(21));
-}
-```
+    int main(void)
+    {
+        int (*f)(int) = double_it;
+        printf("%i\n", f(21));
+    }
+
 
 Dit print `42`. Lees de declaratie `int (*f)(int)` van binnen naar buiten: `f` is een pointer (`*f`) naar een functie die één `int` neemt en een `int` teruggeeft. De haakjes rond `*f` zijn nodig: zonder haakjes is `int *f(int)` een functie die een `int *` teruggeeft!
 
 Een function pointer kun je ook als parameter gebruiken:
 
-```c
-int apply_twice(int (*f)(int), int x)
-{
-    return f(f(x));
-}
-```
+    int apply_twice(int (*f)(int), int x)
+    {
+        return f(f(x));
+    }
 
 Met `apply_twice(double_it, 5)` krijg je `20`. Let op dat je bij het meegeven van `double_it` **geen** haakjes schrijft: `double_it()` zou de functie aanroepen, `double_it` is de functie zelf.
 
@@ -42,27 +39,23 @@ Met `apply_twice(double_it, 5)` krijg je `20`. Let op dat je bij het meegeven va
 
 Schrijf in `map.c` de functie
 
-```c
-void map(int array[], int n, int (*f)(int));
-```
+    void map(int array[], int n, int (*f)(int));
 
 die `f` toepast op **elk element** van `array` (met lengte `n`), en het resultaat terugschrijft op dezelfde plek in de array. Na afloop geldt dus voor elke `i` dat `array[i]` gelijk is aan `f(oude array[i])`.
 
 Een voorbeeld van hoe de functie gebruikt kan worden:
 
-```c
-int square(int x)
-{
-    return x * x;
-}
+    int square(int x)
+    {
+        return x * x;
+    }
 
-int main(void)
-{
-    int numbers[] = {1, 2, 3, 4};
-    map(numbers, 4, square);
-    // numbers is nu {1, 4, 9, 16}
-}
-```
+    int main(void)
+    {
+        int numbers[] = {1, 2, 3, 4};
+        map(numbers, 4, square);
+        // numbers is nu {1, 4, 9, 16}
+    }
 
 Je mag in `map.c` een `main` zetten om je functie zelf te testen. De checks halen die `main` er voor het testen weer uit en gebruiken hun eigen `main`, met allerlei verschillende functies.
 

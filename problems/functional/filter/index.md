@@ -6,27 +6,24 @@ In de vorige opdracht gaf je een functie mee die elk element **verandert**. Nu g
 
 Schrijf in `filter.c` de functie
 
-```c
-int filter(int array[], int n, bool (*keep)(int));
-```
+    int filter(int array[], int n, bool (*keep)(int));
+
 
 die alle elementen van `array` (met lengte `n`) waarvoor `keep` `true` teruggeeft **vooraan in de array bij elkaar zet**, in dezelfde volgorde als waarin ze oorspronkelijk stonden. De functie geeft terug hoeveel elementen er overblijven. Wat er na die elementen in de array staat maakt niet uit.
 
 Een voorbeeld:
 
-```c
-bool is_even(int x)
-{
-    return x % 2 == 0;
-}
+    bool is_even(int x)
+    {
+        return x % 2 == 0;
+    }
 
-int main(void)
-{
-    int numbers[] = {5, 2, 8, 3, 6, 1};
-    int m = filter(numbers, 6, is_even);
-    // m is 3, en de eerste drie elementen van numbers zijn {2, 8, 6}
-}
-```
+    int main(void)
+    {
+        int numbers[] = {5, 2, 8, 3, 6, 1};
+        int m = filter(numbers, 6, is_even);
+        // m is 3, en de eerste drie elementen van numbers zijn {2, 8, 6}
+    }
 
 Je mag **geen** extra array of `malloc` gebruiken: het filteren gebeurt *in place*.
 

@@ -8,12 +8,11 @@ Tot nu toe werkten we met `int`. Maar `reduce` zou ook moeten werken voor `doubl
 
 Een `void *` is een pointer naar "iets", zonder dat C weet wat. Je kunt er alleen niet veel mee: je kunt hem niet dereferencen (`*p`) en je kunt er geen rekenwerk mee doen (`p + 1`), want C weet niet hoe groot het ding is waar hij naar wijst. Wel kun je elke pointer naar een `void *` omzetten en terug:
 
-```c
-int x = 42;
-void *p = &x;            // kan zonder cast
-int *q = (int *) p;      // terug, met cast
-printf("%i\n", *q);      // 42
-```
+
+    int x = 42;
+    void *p = &x;            // kan zonder cast
+    int *q = (int *) p;      // terug, met cast
+    printf("%i\n", *q);      // 42
 
 Dat is hoe functies als `memcpy` en `qsort` met alle types kunnen werken. De verantwoordelijkheid verschuift naar jou: **jij** moet weten wat er in de `void *` zit.
 
@@ -21,9 +20,8 @@ Dat is hoe functies als `memcpy` en `qsort` met alle types kunnen werken. De ver
 
 Stel je hebt een array `items` van `n` elementen, elk `size` bytes groot, maar je hebt alleen een `void *`. Hoe kom je bij element `i`? Je telt in bytes. Een `char` is per definitie precies 1 byte groot, dus een `char *` is de manier om met losse bytes te rekenen:
 
-```c
-const void *item = (const char *) items + i * size;
-```
+    const void *item = (const char *) items + i * size;
+
 
 Dit verschuift je `i * size` bytes op, vanaf het begin van de array. Neem even de tijd om te begrijpen waarom dit werkt.
 
@@ -31,10 +29,8 @@ Dit verschuift je `i * size` bytes op, vanaf het begin van de array. Neem even d
 
 Schrijf in `reduce.c` de functie
 
-```c
-void reduce(const void *items, size_t n, size_t size,
-            void *acc, void (*f)(void *acc, const void *item));
-```
+    void reduce(const void *items, size_t n, size_t size,
+                void *acc, void (*f)(void *acc, const void *item));
 
 met de volgende parameters:
 
@@ -46,42 +42,39 @@ met de volgende parameters:
 
 Je hoeft in `reduce` zelf **niets** te weten over de types, dat doet `f`. Een voorbeeld met `int`:
 
-```c
-void add_int(void *acc, const void *item)
-{
-    *(int *) acc += *(const int *) item;
-}
 
-int main(void)
-{
-    int numbers[] = {3, 1, 4, 1, 5};
-    int sum = 0;
-    reduce(numbers, 5, sizeof(int), &sum, add_int);
-    // sum is nu 14
-}
-```
+    void add_int(void *acc, const void *item)
+    {
+        *(int *) acc += *(const int *) item;
+    }
+
+    int main(void)
+    {
+        int numbers[] = {3, 1, 4, 1, 5};
+        int sum = 0;
+        reduce(numbers, 5, sizeof(int), &sum, add_int);
+        // sum is nu 14
+    }
 
 En hetzelfde `reduce` voor een array van strings (`char *`). Let op dat `item` hier wijst naar een `char *`, dus het is een `char **`:
 
-```c
-void longest(void *acc, const void *item)
-{
-    const char *current = *(char **) acc;
-    const char *candidate = *(char * const *) item;
-    if (strlen(candidate) > strlen(current))
+    void longest(void *acc, const void *item)
     {
-        *(const char **) acc = candidate;
+        const char *current = *(char **) acc;
+        const char *candidate = *(char * const *) item;
+        if (strlen(candidate) > strlen(current))
+        {
+            *(const char **) acc = candidate;
+        }
     }
-}
 
-int main(void)
-{
-    char *words[] = {"appel", "peer", "aardbei", "kers"};
-    char *best = "";
-    reduce(words, 4, sizeof(char *), &best, longest);
-    // best is nu "aardbei"
-}
-```
+    int main(void)
+    {
+        char *words[] = {"appel", "peer", "aardbei", "kers"};
+        char *best = "";
+        reduce(words, 4, sizeof(char *), &best, longest);
+        // best is nu "aardbei"
+    }
 
 De functie heeft `reduce` kan je implementeren in maar een paar regels. Het moeilijke zit in de pointers, niet in de lengte. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
 

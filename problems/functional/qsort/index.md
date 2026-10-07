@@ -37,10 +37,8 @@ Na het sorteren print het programma de gesorteerde data en controleert het daarn
 
 De signatuur van `qsort_` is identiek aan die van `qsort` uit de standaardbibliotheek:
 
-```c
-void qsort_(void *base, size_t nmemb, size_t size,
-            int (*compare)(const void *, const void *));
-```
+    void qsort_(void *base, size_t nmemb, size_t size,
+                int (*compare)(const void *, const void *));
 
 * `base` wijst naar het eerste element van de array.
 * `nmemb` is het aantal elementen.
@@ -59,9 +57,7 @@ Voor `compare_int` ligt de volgende oplossing voor de hand, maar werkt niet alti
 
 Je sorteeralgoritme heeft een manier nodig om twee elementen te verwisselen, terwijl je niet weet hoe groot ze zijn of wat erin zit. Implementeer in `qsort.c` de functie
 
-```c
-void swap(void *a, void *b, size_t size);
-```
+    void swap(void *a, void *b, size_t size);
 
 die `size` bytes op adres `a` verwisselt met `size` bytes op adres `b`. Dit kan zonder `malloc` en zonder dat je het type kent: je ruilt gewoon byte voor byte. Zie de opdracht `reduce` voor hoe je met bytes werkt via een `char *`.
 
@@ -123,4 +119,4 @@ Met `./sorter bench <n>` sorteert het programma `n` willekeurige getallen met zo
     qsort:  0.109 s
     Results match.
 
-Je hoeft niet sneller te zijn dan de standaardbibliotheek. Wel kun je jezelf afvragen waarom die zo veel sneller is. Zorg dat `n = 1000000` binnen enkele seconden klaar is. De tijden in Terra kunnen hoger liggen dan hierboven, dat is niet erg. Als dat niet lukt, is je pivot waarschijnlijk niet goed gekozen of je swapt te veel.
+Je hoeft niet sneller te zijn dan de standaardbibliotheek. Wel kun je jezelf afvragen waarom die zo veel sneller is. Zorg dat `n = 1000000` binnen enkele seconden klaar is.
