@@ -1,0 +1,7 @@
+name: fp_map
+files:
+    required:
+        - map.c
+check:
+    tool: check50
+    slug: minprog/checks/2026/functional/map
