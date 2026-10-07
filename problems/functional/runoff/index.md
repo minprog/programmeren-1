@@ -2,7 +2,7 @@
 
 Je hebt nu drie functies: `map`, `filter` en `reduce`. Tijd om te kijken wat je ermee kunt. In deze opdracht herschrijf je een eerdere opdracht, [Runoff](/problems/runoff), zónder één loop.
 
-Runoff is hier geknipt voor. Je oplossing bestond uit zes kleine functies, en in elk van die functies liep je met een `for` over de kandidaten of de kiezers. Dat "lopen" is precies wat jouw functies nu van je overnemen. Wat overblijft is alleen nog het *wat*: wat gebeurt er met één kandidaat, met één kiezer?
+Runoff is hier geknipt voor. Je oplossing bestond uit zes kleine functies, en in elk van die functies liep je met een `for` over de kandidaten of de kiezers. Dat "loopen" is precies wat jouw functies nu van je overnemen. Wat overblijft is alleen nog het *wat*: wat gebeurt er met één kandidaat, met één kiezer?
 
 > Je kunt je eigen uitwerking van Runoff als naslag gebruiken, maar je hoeft er niets van over te nemen. De opdracht, het gedrag en het inleesgedeelte van het programma zijn precies hetzelfde.
 
