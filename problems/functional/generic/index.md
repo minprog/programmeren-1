@@ -29,7 +29,7 @@ Om een element te kopiëren heb je het type niet nodig, je kopieert gewoon `size
 
     memcpy(destination, source, size);
 
-Let op: `memcpy` mag de geheugengebieden van `destination` en `source` niet laten overlappen. Dat zal in deze opdracht ook niet gebeuren, zolang je nooit een element naar zichzelf kopieert!
+Let op: voor `memcpy` mag de geheugengebieden van `destination` en `source` niet laten overlappen. Dat zal in deze opdracht ook niet gebeuren, zolang je nooit een element naar zichzelf kopieert!
 
 ## Opdracht
 

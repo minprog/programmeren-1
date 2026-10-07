@@ -59,10 +59,23 @@ En hetzelfde `reduce` voor een array van strings (`char *`). Let op dat `item` h
 
 `reduce` kun je in maar een paar regels implementeren. Het moeilijke zit in de pointers. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
 
-## Uitdaging
+## Reduce gebruiken
 
-Schrijf met `reduce` (en dus zonder zelf te loopen) functies die:
+Schrijf in `reduce.c`, naast `reduce` zelf, nog drie functies die gebruikmaken van `reduce`. In deze functies schrijf je **zelf geen loop** (`for`, `while`): het lopen over de array is het werk van `reduce`. Alle drie de functies krijgen eerst de array en daarna het aantal elementen.
 
-* het maximum van een array `double`s bepalen;
-* tellen hoeveel strings in een array met een `a` beginnen;
-* het gemiddelde van een array `int`s uitrekenen. Wat moet je daarvoor in je accumulator opslaan? Een `struct` met een som en een teller is een voor de hand liggende keuze.
+* `max_double` geeft het grootste getal uit een array `double`s. Je mag ervan uitgaan dat de array minstens één element heeft. Pas op voor arrays met alleen negatieve getallen!
+* `count_a` geeft terug hoeveel strings in een array strings (`char *`) beginnen met een kleine letter `a`. Bij een lege array is dat 0.
+* `average` geeft het gemiddelde van een array `int`s, als `double`. Bij een lege array is dat 0.0. Het gemiddelde moet ook kloppen als de som van alle getallen niet meer in een `int` past.
+
+Zo worden ze gebruikt:
+
+    double values[] = {2.5, 9.0, 4.0};
+    max_double(values, 3);   // 9.0
+
+    char *words[] = {"appel", "peer", "aardbei", "Aap"};
+    count_a(words, 4);       // 2
+
+    int ages[] = {4, 8, 15, 16, 23, 42};
+    average(ages, 6);        // 18.0
+
+Welke accumulator je nodig hebt en wat voor functie je aan `reduce` meegeeft, bepaal je zelf. Voor het gemiddelde is één getal als accumulator bijvoorbeeld niet genoeg: wat moet je onderweg bijhouden? Je mag in `reduce.c` zoveel hulpfuncties en eigen types toevoegen als je nodig hebt.
