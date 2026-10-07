@@ -184,10 +184,10 @@ grades:
     c_strsep: *automatic
     wave: *manual
 
-    beatles: *check
+    beatles: *manual
     linked: *manual
     speller: *automatic
-    speller_challenge: *manual
+    speller_challenge: *automatic
 
     basics_variables: *check
     basics_control_flow: *check
