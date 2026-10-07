@@ -2,28 +2,9 @@
 
 `map` verandert elk element, `filter` selecteert elementen, en `reduce` **combineert alle elementen tot één waarde**: de som van een rij getallen, het grootste element, de langste string, ...
 
-Tot nu toe werkten we met `int`. Maar `reduce` zou ook moeten werken voor `double`, voor strings, of voor structs. Hoe schrijf je één functie die met elk type werkt? Met een **void pointer**.
+In de vorige opdracht heb je `map` en `filter` voor elk type geschreven met `void *`. Dat gebruik je hier weer: je rekent met `size` en een `char *` om bij element `i` te komen, en `f` weet zelf welk type er in het geheugen staat.
 
-## Void pointers
-
-Een `void *` is een pointer naar "iets", zonder dat C weet wat. Je kunt er alleen niet veel mee: je kunt hem niet dereferencen (`*p`) en je kunt er geen rekenwerk mee doen (`p + 1`), want C weet niet hoe groot het ding is waar hij naar wijst. Wel kun je elke pointer naar een `void *` omzetten en terug:
-
-
-    int x = 42;
-    void *p = &x;            // kan zonder cast
-    int *q = (int *) p;      // terug, met cast
-    printf("%i\n", *q);      // 42
-
-Dat is hoe functies als `memcpy` en `qsort` met alle types kunnen werken. De verantwoordelijkheid verschuift naar jou: **jij** moet weten wat er in de `void *` zit.
-
-### Rekenen met bytes
-
-Stel je hebt een array `items` van `n` elementen, elk `size` bytes groot, maar je hebt alleen een `void *`. Hoe kom je bij element `i`? Je telt in bytes. Een `char` is per definitie precies 1 byte groot, dus een `char *` is de manier om met losse bytes te rekenen:
-
-    const void *item = (const char *) items + i * size;
-
-
-Dit verschuift je `i * size` bytes op, vanaf het begin van de array. Neem even de tijd om te begrijpen waarom dit werkt.
+Het verschil met `map` en `filter` is dat `reduce` een **resultaat** teruggeeft dat niet een array is. Het resultaat wordt gaandeweg opgebouwd in een zogenaamde *accumulator*, en die moet ook weer van elk type kunnen zijn. Ook die geef je daarom door als `void *`.
 
 ## Opdracht
 
@@ -76,7 +57,7 @@ En hetzelfde `reduce` voor een array van strings (`char *`). Let op dat `item` h
         // best is nu "aardbei"
     }
 
-De functie heeft `reduce` kan je implementeren in maar een paar regels. Het moeilijke zit in de pointers, niet in de lengte. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
+`reduce` kun je in maar een paar regels implementeren. Het moeilijke zit in de pointers, niet in de lengte. Je mag in `reduce.c` een `main` zetten om te testen (de checks halen die er weer uit). Probeer ten minste drie verschillende typen: `int`, `double`, en `char *`.
 
 ## Uitdaging
 

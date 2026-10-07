@@ -1,0 +1,7 @@
+name: fp_generic
+files:
+    required:
+        - generic.c
+check:
+    tool: check50
+    slug: minprog/checks/2026/functional/generic

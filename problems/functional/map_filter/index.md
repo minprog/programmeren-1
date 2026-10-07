@@ -1,8 +1,8 @@
-# Map
+# Map en filter
 
 In dit bonusonderdeel maak je kennis met een stijl van programmeren die je in veel andere talen tegenkomt (Python, JavaScript, Haskell): **functioneel programmeren**. Het kernidee: een functie is ook maar een waarde. Je kunt een functie in een variabele stoppen, meegeven aan een andere functie, of in een array zetten.
 
-Ook in C kan dat, met een **function pointer**. Die gebruik je in deze opdracht en de twee die volgen (`filter` en `reduce`), en daarna in de grote opdracht `qsort`.
+Ook in C kan dat, met een **function pointer**. Die gebruik je in deze opdracht en in de twee die volgen, en daarna in de grote opdracht `qsort`.
 
 ## Function pointers
 
@@ -37,7 +37,11 @@ Met `apply_twice(double_it, 5)` krijg je `20`. Let op dat je bij het meegeven va
 
 ## Opdracht
 
-Schrijf in `map.c` de functie
+In deze opdracht schrijf je in **één bestand**, `map_filter.c`, twee functies. Begin met `map`:
+
+### Map
+
+Schrijf de functie
 
     void map(int array[], int n, int (*f)(int));
 
@@ -57,6 +61,39 @@ Een voorbeeld van hoe de functie gebruikt kan worden:
         // numbers is nu {1, 4, 9, 16}
     }
 
-Je mag in `map.c` een `main` zetten om je functie zelf te testen. De checks halen die `main` er voor het testen weer uit en gebruiken hun eigen `main`, met allerlei verschillende functies.
+Je mag in `map_filter.c` een `main` zetten om je functies zelf te testen. De checks halen die `main` er voor het testen weer uit en gebruiken hun eigen `main`, met allerlei verschillende functies.
 
 Zorg ervoor dat `map` goed werkt voor een lege array (`n == 0`) en voor functies die geen kwadraat of verdubbeling zijn, bijvoorbeeld `abs` of een functie die de waarde negeert.
+
+### Filter
+
+In `map` gaf je een functie mee die elk element **verandert**. Bij `filter` geef je een functie mee die voor elk element **beslist**: blijft het erin, of gaat het eruit? Zo'n functie die `true` of `false` teruggeeft heet een *predicate*.
+
+Schrijf de functie
+
+    int filter(int array[], int n, bool (*keep)(int));
+
+
+die alle elementen van `array` (met lengte `n`) waarvoor `keep` `true` teruggeeft **vooraan in de array bij elkaar zet**, in dezelfde volgorde als waarin ze oorspronkelijk stonden. De functie geeft terug hoeveel elementen er overblijven. Wat er na die elementen in de array staat maakt niet uit.
+
+Een voorbeeld:
+
+    bool is_even(int x)
+    {
+        return x % 2 == 0;
+    }
+
+    int main(void)
+    {
+        int numbers[] = {5, 2, 8, 3, 6, 1};
+        int m = filter(numbers, 6, is_even);
+        // m is 3, en de eerste drie elementen van numbers zijn {2, 8, 6}
+    }
+
+Je mag **geen** extra array of `malloc` gebruiken: het filteren gebeurt *in place*.
+
+Vergeet `#include <stdbool.h>` niet.
+
+## Combineren
+
+Schrijf als test een paar predicates (`is_even`, `is_positive`, `is_prime`) en combineer `map` en `filter`: kwadrateer alle getallen, en houd daarna alleen de getallen over die groter zijn dan 10. Merk op hoe weinig code dat is, omdat de "wat" (de functie) en het "hoe" (de loop) gescheiden zijn.

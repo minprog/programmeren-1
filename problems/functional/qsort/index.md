@@ -8,7 +8,7 @@ Met precies de twee dingen uit de voorgaande opdrachten: een **function pointer*
 
 ## Download
 
-[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/qsort/dist/qsort.zip)
+[Get the program template](https://github.com/minprog/programmeren-1/raw/refs/heads/2026/problems/functional/qsort/dist/qsort.zip)
 
 ## Het programma
 
@@ -59,7 +59,7 @@ Je sorteeralgoritme heeft een manier nodig om twee elementen te verwisselen, ter
 
     void swap(void *a, void *b, size_t size);
 
-die `size` bytes op adres `a` verwisselt met `size` bytes op adres `b`. Dit kan zonder `malloc` en zonder dat je het type kent: je ruilt gewoon byte voor byte. Zie de opdracht `reduce` voor hoe je met bytes werkt via een `char *`.
+die `size` bytes op adres `a` verwisselt met `size` bytes op adres `b`. Dit kan zonder `malloc` en zonder dat je het type kent: je ruilt gewoon byte voor byte. Zie de opdracht `generic` voor hoe je met bytes werkt via een `char *`, en voor `memcpy`.
 
 ### Deel 3: `qsort_`
 

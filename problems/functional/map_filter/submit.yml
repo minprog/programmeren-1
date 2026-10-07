@@ -1,0 +1,7 @@
+name: fp_map_filter
+files:
+    required:
+        - map_filter.c
+check:
+    tool: check50
+    slug: minprog/checks/2026/functional/map_filter
