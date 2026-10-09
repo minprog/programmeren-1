@@ -34,3 +34,5 @@ Download enkele `.wav` bestanden:
     rm wave.zip
 
 > Er zijn geen automatische checks bij deze opdracht. Luister zelf goed naar de bestanden! :)
+
+> Let op, bij het echo effect moet je ook rekening houden met de "channels". Deze kun je uit de header lezen en zijn bij de demo bestanden `2`. De samples zijn alternerend per channel, dus bijvoorbeeld eerst een sample van 2 bytes voor de eerste channel en direct daarna 2 bytes voor de tweede channel.  
