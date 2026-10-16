@@ -176,6 +176,7 @@ extra_uitdaging:
 
 arrays2d:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: [ sort_single, find_single, runoff ]
     submits:
         tiles_single: 1
@@ -185,6 +186,7 @@ arrays2d:
 
 arrays2d_ster:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_arrays
     submits:
         resize: 1
@@ -192,6 +194,7 @@ arrays2d_ster:
 
 unix_tools:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_arrays
     submits:
         unix_cat: 1
@@ -205,6 +208,7 @@ unix_tools:
 
 unix_tools_ster:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_unix
     submits:
         unix_strings: 1
@@ -215,6 +219,7 @@ unix_tools_ster:
 
 string_functions:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_unix
     submits:
         c_strfry: 1
@@ -227,6 +232,7 @@ string_functions:
 
 ster_string_functions:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_strings
     submits:
         wave: 1
@@ -234,6 +240,7 @@ ster_string_functions:
 
 speller:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_strings
     submits:
         beatles: 1
@@ -243,6 +250,7 @@ speller:
 
 ster_speller:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_speller
     submits:
         speller_challenge: 1
@@ -250,6 +258,7 @@ ster_speller:
 
 functional:
     show_progress: true
+    deadline: 16/10/26 17:00
     requirement: aftekenen_module_speller
     submits:
         fp_map_filter: 1
